@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1720D/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lime diamantée, grain D126",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "160",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230100036"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lime diamantée, grain D126",
+            "StandardisedArticleDescription": "Lime diamantée, grain D126",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1720D_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1720D_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017200112"
+    ],
+    "URL": []
+}

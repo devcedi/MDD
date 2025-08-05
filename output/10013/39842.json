@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3984/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé extracteur pour roues libres Shimano",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "22,8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "26",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "24",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882741"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé extracteur pour roues libres Shimano",
+            "StandardisedArticleDescription": "Clé extracteur pour roues libres Shimano",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3984_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3984_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039840020"
+    ],
+    "URL": []
+}

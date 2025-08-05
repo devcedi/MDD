@@ -1,0 +1,52 @@
+{
+    "ArtNo": "351P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout pour 350",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "14",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230001142"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout pour 350",
+            "StandardisedArticleDescription": "Embout pour 350",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "351P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/351P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003510107"
+    ],
+    "URL": []
+}

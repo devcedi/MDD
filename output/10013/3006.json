@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3006",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": " Élévateur hydraulique pour le montage/démontage des roues de tracteurs et engins de chantier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230888460"
+    ],
+    "GenArts": [
+        {
+            "Description": " Élévateur hydraulique pour le montage/démontage des roues de tracteurs et engins de chantier",
+            "StandardisedArticleDescription": " Élévateur hydraulique pour le montage/démontage des roues de tracteurs et engins de chantier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3006.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3006.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030060000"
+    ],
+    "URL": []
+}

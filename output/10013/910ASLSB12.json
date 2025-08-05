@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910ASL/SB12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 12 douilles 12 pans série longue (art. 910AS/L) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230539263"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 12 douilles 12 pans série longue (art. 910AS/L) sur support",
+            "StandardisedArticleDescription": "Jeu de 12 douilles 12 pans série longue (art. 910AS/L) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910ASL_slash_SB12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910ASL_slash_SB12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100365"
+    ],
+    "URL": []
+}

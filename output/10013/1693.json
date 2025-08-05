@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1693",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Appareil de mesure de distance laser, 20 mètres",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "36",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "23",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809128276"
+    ],
+    "GenArts": [
+        {
+            "Description": "Appareil de mesure de distance laser, 20 mètres",
+            "StandardisedArticleDescription": "Appareil de mesure de distance laser, 20 mètres",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1693.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1693.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016930020"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1758R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Récipient pour liquides",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "5",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230804750"
+    ],
+    "GenArts": [
+        {
+            "Description": "Récipient pour liquides",
+            "StandardisedArticleDescription": "Récipient pour liquides",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1758R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1758R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017580205"
+    ],
+    "URL": []
+}

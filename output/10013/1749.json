@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1749",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pistolet à silicone modèle standard, tôle laquée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L min \nmm",
+            "Value": "340",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230100081"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pistolet à silicone modèle standard, tôle laquée",
+            "StandardisedArticleDescription": "Pistolet à silicone modèle standard, tôle laquée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1749.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1749.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017490001"
+    ],
+    "URL": []
+}

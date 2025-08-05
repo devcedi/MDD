@@ -1,0 +1,47 @@
+{
+    "ArtNo": "419/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret de 7 forets SDS-plus",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809516813"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret de 7 forets SDS-plus",
+            "StandardisedArticleDescription": "Coffret de 7 forets SDS-plus",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "419_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/419_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004190507"
+    ],
+    "URL": []
+}

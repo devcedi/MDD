@@ -1,0 +1,47 @@
+{
+    "ArtNo": "96N/G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 clés mâles 6 pans coudées (art. 96N)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230025445"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 clés mâles 6 pans coudées (art. 96N)",
+            "StandardisedArticleDescription": "Jeu de 7 clés mâles 6 pans coudées (art. 96N)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96N_slash_G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96N_slash_G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000960645"
+    ],
+    "URL": []
+}

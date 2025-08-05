@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498/4A-8A CP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Câble avec pinces pour 1498/4A et 8A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230795355"
+    ],
+    "GenArts": [
+        {
+            "Description": "Câble avec pinces pour 1498/4A et 8A",
+            "StandardisedArticleDescription": "Câble avec pinces pour 1498/4A et 8A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498_slash_4A-8ACP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498_slash_4A-8ACP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980118"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1345",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau à planer tête ronde bombée et panne coudée, manche en bois",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230761091"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau à planer tête ronde bombée et panne coudée, manche en bois",
+            "StandardisedArticleDescription": "Marteau à planer tête ronde bombée et panne coudée, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1345.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1345.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013450010"
+    ],
+    "URL": []
+}

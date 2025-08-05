@@ -1,0 +1,43 @@
+{
+    "ArtNo": "PBEP0282",
+    "Attributs": [
+        {
+            "Attribute": "Comprend les vis de réparation",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Kit charnière support roulette avec vis de réparation",
+            "StandardisedArticleDescription": "Kit charnière support roulette avec vis de réparation",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PBEP0282",
+            "Extension": "",
+            "Path": "/img/10001/PBEP0282"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "PBEP0282",
+            "Extension": "",
+            "Path": "/img/10001/PBEP0282",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

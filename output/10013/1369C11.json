@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1369/C11",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 11 outils",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230761176"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 11 outils",
+            "StandardisedArticleDescription": "Composition de 11 outils",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1369_slash_C11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1369_slash_C11.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013690033"
+    ],
+    "URL": []
+}

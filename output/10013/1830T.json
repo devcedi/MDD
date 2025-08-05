@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1830T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pompe à dessouder avec embout antistatique en matière plastique ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "190",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230601502"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pompe à dessouder avec embout antistatique en matière plastique ",
+            "StandardisedArticleDescription": "Pompe à dessouder avec embout antistatique en matière plastique ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1830T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1830T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018300021"
+    ],
+    "URL": []
+}

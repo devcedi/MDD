@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1763",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour selliers automobiles",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm\n",
+            "Value": "170",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230839561"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour selliers automobiles",
+            "StandardisedArticleDescription": "Pince pour selliers automobiles",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1763.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1763.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017630001"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1595",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-joints à vis zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A  \n~",
+            "Value": "1000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A max \nmm",
+            "Value": "1030",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "125",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230088266"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-joints à vis zingué",
+            "StandardisedArticleDescription": "Serre-joints à vis zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1595.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1595.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015950100"
+    ],
+    "URL": []
+}

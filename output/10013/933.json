@@ -1,0 +1,77 @@
+{
+    "ArtNo": "933",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à pipe débouchée chromée polie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "32x32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "45,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "364",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "24,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "32,0",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "70,0",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230081915"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à pipe débouchée chromée polie",
+            "StandardisedArticleDescription": "Clé à pipe débouchée chromée polie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "933.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/933.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009330032"
+    ],
+    "URL": []
+}

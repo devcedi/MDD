@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8383P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plaque pour étriers filetés carrés galvanisé à chaud",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "170",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "41",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "6,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3,7",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230615615"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plaque pour étriers filetés carrés galvanisé à chaud",
+            "StandardisedArticleDescription": "Plaque pour étriers filetés carrés galvanisé à chaud",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8383P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8383P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "083830217"
+    ],
+    "URL": []
+}

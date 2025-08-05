@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8166",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gaine anti-abrasion pour élingues de levage, en polyester haute ténacité (PES) avec substrat élastomère",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "235",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "150",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "4",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230841656"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gaine anti-abrasion pour élingues de levage, en polyester haute ténacité (PES) avec substrat élastomère",
+            "StandardisedArticleDescription": "Gaine anti-abrasion pour élingues de levage, en polyester haute ténacité (PES) avec substrat élastomère",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8166.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8166.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081660235"
+    ],
+    "URL": []
+}

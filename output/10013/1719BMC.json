@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1719BMC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Limes demi-rondes et plates d'entrée manche en matériau plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \n\"",
+            "Value": "12",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230541112"
+    ],
+    "GenArts": [
+        {
+            "Description": "Limes demi-rondes et plates d'entrée manche en matériau plastique",
+            "StandardisedArticleDescription": "Limes demi-rondes et plates d'entrée manche en matériau plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1719BMC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1719BMC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017190263"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C62M/WW",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mannequin de taille réaliste avec socle en métal",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809529004"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mannequin de taille réaliste avec socle en métal",
+            "StandardisedArticleDescription": "Mannequin de taille réaliste avec socle en métal",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "89.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/89.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C62M_slash_WW.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C62M_slash_WW.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "062000362"
+    ],
+    "URL": []
+}

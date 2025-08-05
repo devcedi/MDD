@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1984 20V/1200BMC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à chocs Brushless réversible, 20V avec entraînement 1/2\" - 1200 Nm (corps de la machine fourni sans batterie)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809451688"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à chocs Brushless réversible, 20V avec entraînement 1/2\" - 1200 Nm (corps de la machine fourni sans batterie)",
+            "StandardisedArticleDescription": "Clé à chocs Brushless réversible, 20V avec entraînement 1/2\" - 1200 Nm (corps de la machine fourni sans batterie)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "198420V_slash_1200BMC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/198420V_slash_1200BMC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019840911"
+    ],
+    "URL": []
+}

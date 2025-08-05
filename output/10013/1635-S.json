@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1635-S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Borne terminale pour connexions volants",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm² ",
+            "Value": "35\n25\n16",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "mm²",
+            "Value": "35",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "43.5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "26.1",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "49.4",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629499614"
+    ],
+    "GenArts": [
+        {
+            "Description": "Borne terminale pour connexions volants",
+            "StandardisedArticleDescription": "Borne terminale pour connexions volants",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1635-S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1635-S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BM9961"
+    ],
+    "URL": []
+}

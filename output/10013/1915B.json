@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1915B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tuyau spiralé en polyuréthane 95 Shore, extensible sur 9 m",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D1xD \nmm",
+            "Value": "8x12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø GAS \nBSP",
+            "Value": "1/4\"",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230348728"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tuyau spiralé en polyuréthane 95 Shore, extensible sur 9 m",
+            "StandardisedArticleDescription": "Tuyau spiralé en polyuréthane 95 Shore, extensible sur 9 m",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1915B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1915B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019150012"
+    ],
+    "URL": []
+}

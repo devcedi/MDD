@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920MC/C14",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "14 douilles colorées et 5 accessoires en coffret métallique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809153490"
+    ],
+    "GenArts": [
+        {
+            "Description": "14 douilles colorées et 5 accessoires en coffret métallique",
+            "StandardisedArticleDescription": "14 douilles colorées et 5 accessoires en coffret métallique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920MC_slash_C14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920MC_slash_C14.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009202964"
+    ],
+    "URL": []
+}

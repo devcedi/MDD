@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1995MQ/T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tapis isolant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "LxS \nmm",
+            "Value": "1000x1000",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230181042"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tapis isolant",
+            "StandardisedArticleDescription": "Tapis isolant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1995MQ_slash_T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1995MQ_slash_T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019950030"
+    ],
+    "URL": []
+}

@@ -1,0 +1,34 @@
+{
+    "ArtNo": "631120AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694026931"
+    ],
+    "GenArts": [
+        {
+            "Description": "V-stay -  / Volvo Truck",
+            "StandardisedArticleDescription": "V-stay -  / Volvo Truck",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C44",
+            "Extension": "",
+            "Path": "/img/10021/=C44"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A44"
+    ],
+    "URL": []
+}

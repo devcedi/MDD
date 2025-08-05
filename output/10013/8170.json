@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8170",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Élingue ronde, 1t, violet, en polyester haute ténacité (PES)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "45",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230898339"
+    ],
+    "GenArts": [
+        {
+            "Description": "Élingue ronde, 1t, violet, en polyester haute ténacité (PES)",
+            "StandardisedArticleDescription": "Élingue ronde, 1t, violet, en polyester haute ténacité (PES)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8170.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8170.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081700100"
+    ],
+    "URL": []
+}

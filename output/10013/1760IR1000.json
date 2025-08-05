@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1760/IR1000",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Thermomètre digital à infrarouge avec système de pointage laser double",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230897967"
+    ],
+    "GenArts": [
+        {
+            "Description": "Thermomètre digital à infrarouge avec système de pointage laser double",
+            "StandardisedArticleDescription": "Thermomètre digital à infrarouge avec système de pointage laser double",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760_slash_IR1000.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760_slash_IR1000.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600400"
+    ],
+    "URL": []
+}

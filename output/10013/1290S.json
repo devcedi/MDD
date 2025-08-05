@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1290/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de tournevis",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230734194"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de tournevis",
+            "StandardisedArticleDescription": "Jeu de tournevis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1290_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1290_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012900319"
+    ],
+    "URL": []
+}

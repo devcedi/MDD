@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1984/K1200",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à chocs réversible à percussion 20V brushless avec coupler 1/2\" - 1200 Nm",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809544397"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à chocs réversible à percussion 20V brushless avec coupler 1/2\" - 1200 Nm",
+            "StandardisedArticleDescription": "Clé à chocs réversible à percussion 20V brushless avec coupler 1/2\" - 1200 Nm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1984_slash_K1200.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1984_slash_K1200.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019840120"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "600",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé de serrage angulaire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230027500"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé de serrage angulaire",
+            "StandardisedArticleDescription": "Clé de serrage angulaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "600.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/600.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006000002"
+    ],
+    "URL": []
+}

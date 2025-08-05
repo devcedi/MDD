@@ -1,0 +1,57 @@
+{
+    "ArtNo": "141",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte droite à cliquet",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "19x19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230942858"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte droite à cliquet",
+            "StandardisedArticleDescription": "Clé mixte droite à cliquet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "141.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/141.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001410019"
+    ],
+    "URL": []
+}

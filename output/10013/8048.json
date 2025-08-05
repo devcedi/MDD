@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8048",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chape mâle filetage à droite, noire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M12x70",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "1020",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "​E \nmm",
+            "Value": "53",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230343358"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chape mâle filetage à droite, noire",
+            "StandardisedArticleDescription": "Chape mâle filetage à droite, noire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8048.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8048.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080480212"
+    ],
+    "URL": []
+}

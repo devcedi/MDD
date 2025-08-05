@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920/R50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mécanisme rotatif pour cliquets, pour 614/50, 667/20, 667/30, 920/50",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230035499"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mécanisme rotatif pour cliquets, pour 614/50, 667/20, 667/30, 920/50",
+            "StandardisedArticleDescription": "Mécanisme rotatif pour cliquets, pour 614/50, 667/20, 667/30, 920/50",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_R50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_R50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200866"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "920AN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge angulaire carrés mâle et femelle 1/2\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "375",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230087610"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge angulaire carrés mâle et femelle 1/2\"",
+            "StandardisedArticleDescription": "Rallonge angulaire carrés mâle et femelle 1/2\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920AN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920AN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200836"
+    ],
+    "URL": []
+}

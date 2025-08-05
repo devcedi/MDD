@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8416",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-câble",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø F\nmm",
+            "Value": "20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\"",
+            "Value": "3/4",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "T",
+            "Value": "370",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "N",
+            "Value": "5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230904504"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-câble",
+            "StandardisedArticleDescription": "Serre-câble",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8416.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8416.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "084160220"
+    ],
+    "URL": []
+}

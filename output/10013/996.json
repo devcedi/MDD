@@ -1,0 +1,52 @@
+{
+    "ArtNo": "996",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Brucelles à becs spatulés pointes droites lisses finition polie en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230039169"
+    ],
+    "GenArts": [
+        {
+            "Description": "Brucelles à becs spatulés pointes droites lisses finition polie en acier inoxydable",
+            "StandardisedArticleDescription": "Brucelles à becs spatulés pointes droites lisses finition polie en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "996.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/996.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009960001"
+    ],
+    "URL": []
+}

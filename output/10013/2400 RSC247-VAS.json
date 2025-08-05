@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2400 RSC24/7-VAS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cabine mobile à roulettes avec 7 tiroirs et un assortiment de 223 outils",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809551821"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cabine mobile à roulettes avec 7 tiroirs et un assortiment de 223 outils",
+            "StandardisedArticleDescription": "Cabine mobile à roulettes avec 7 tiroirs et un assortiment de 223 outils",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2400RSC24_slash_7-VAS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2400RSC24_slash_7-VAS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024004048"
+    ],
+    "URL": []
+}

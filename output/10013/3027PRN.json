@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3027PR/N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support universel de presse permettant l'extraction ou l'introduction de moyeux, roulements et silent bloc",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P \nmm",
+            "Value": "200",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809594606"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support universel de presse permettant l'extraction ou l'introduction de moyeux, roulements et silent bloc",
+            "StandardisedArticleDescription": "Support universel de presse permettant l'extraction ou l'introduction de moyeux, roulements et silent bloc",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3027PR_slash_N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3027PR_slash_N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030270410"
+    ],
+    "URL": []
+}

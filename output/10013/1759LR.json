@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1759LR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil de lavage des systèmes de refroidissement grâce à l'air comprimé, le système de haute pression de l'eau permet un lavage efficace du système de refroidissement",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "402",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809368788"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil de lavage des systèmes de refroidissement grâce à l'air comprimé, le système de haute pression de l'eau permet un lavage efficace du système de refroidissement",
+            "StandardisedArticleDescription": "Outil de lavage des systèmes de refroidissement grâce à l'air comprimé, le système de haute pression de l'eau permet un lavage efficace du système de refroidissement",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1759LR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1759LR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017590070"
+    ],
+    "URL": []
+}

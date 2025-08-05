@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9562T3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tapis d’atelier Dimensions : 300x160 cm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\ncm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\ncm",
+            "Value": "160",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230948652"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tapis d’atelier Dimensions : 300x160 cm",
+            "StandardisedArticleDescription": "Tapis d’atelier Dimensions : 300x160 cm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9562T3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9562T3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095620300"
+    ],
+    "URL": []
+}

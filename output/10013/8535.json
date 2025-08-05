@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8535",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet type pêche zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "​Rmm",
+            "Value": "30",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Fmm",
+            "Value": " \n40",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "​Lmm",
+            "Value": " \n185",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "​WFLKg",
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230379630"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet type pêche zingué",
+            "StandardisedArticleDescription": "Crochet type pêche zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8535.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8535.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085350007"
+    ],
+    "URL": []
+}

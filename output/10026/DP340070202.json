@@ -1,0 +1,72 @@
+{
+    "ArtNo": "DP34007/0202",
+    "Attributs": [
+        {
+            "Attribute": "W01 M58 8667",
+            "Value": "C292 - 292.2.532",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1R 14-712",
+            "Value": "1R 14-748",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1DK 32-2",
+            "Value": "1TC 360-45 / 205171",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "1TC 360-45 / 206357",
+            "Value": 750496,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 751549,
+            "Value": "FAG 041-0118",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D14B41",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006022"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |3042 Voir aussi /0101 et /0302 piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |3042 Voir aussi /0101 et /0302 piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A133,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A133,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34007/0202"
+    ],
+    "URL": []
+}

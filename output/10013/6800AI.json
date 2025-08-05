@@ -1,0 +1,47 @@
+{
+    "ArtNo": "6800AI",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Accessoires pour C68",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230461953"
+    ],
+    "GenArts": [
+        {
+            "Description": "Accessoires pour C68",
+            "StandardisedArticleDescription": "Accessoires pour C68",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "94.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/94.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "6800AI.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/6800AI.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "068000140"
+    ],
+    "URL": []
+}

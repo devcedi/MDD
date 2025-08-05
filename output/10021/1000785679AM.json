@@ -1,0 +1,34 @@
+{
+    "ArtNo": "1000785679AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694024982"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servo d'embrayage Scania",
+            "StandardisedArticleDescription": "Servo d'embrayage Scania",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C25",
+            "Extension": "",
+            "Path": "/img/10021/=C25"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A25"
+    ],
+    "URL": []
+}

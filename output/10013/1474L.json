@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1474L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour connecteurs de bougies à becs long coudés à 15°",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø min \nmm",
+            "Value": "14",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø  E \nmm",
+            "Value": "20",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230099521"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour connecteurs de bougies à becs long coudés à 15°",
+            "StandardisedArticleDescription": "Pince pour connecteurs de bougies à becs long coudés à 15°",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1474L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1474L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014740010"
+    ],
+    "URL": []
+}

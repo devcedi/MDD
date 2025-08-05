@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1497BS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à becs droits et fins pour extraction relais et fusibles",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "230",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "45",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "14",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809403908"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à becs droits et fins pour extraction relais et fusibles",
+            "StandardisedArticleDescription": "Pince à becs droits et fins pour extraction relais et fusibles",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1497BS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1497BS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014970190"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": 10942001012,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "bidon métallique ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Pouvoir accentué grâce à l’action des microbilles non agressives pour la peau",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Respectueux de la peau",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Testé et approuvé sous contrôle dermatologique",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Application ",
+            "Value": "Savon gel à microbilles, sans solvant, pour salissures industrielles moyennes comme l’huile, la graisse, le bitume et le caoutchouc. Particulièrement approprié aux garages, aux ateliers et à l’industrie métallurgique.",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Appliquer un peu de produit sur les mains sèches, puis se frictionner vigoureusement en insistant sous les ongles. Lorsque la saleté est totalement dissoute, rincer et essuyer. Conserver l’emballage bien fermé et au frais.",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602002611"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Classic 4x4,5L",
+            "StandardisedArticleDescription": "Dreumex Classic 4x4,5L",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Classic01",
+            "Extension": "",
+            "Path": "/img/10006/Classic01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "10942001012"
+    ],
+    "URL": []
+}

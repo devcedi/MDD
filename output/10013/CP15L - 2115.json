@@ -1,0 +1,47 @@
+{
+    "ArtNo": "CP15L - 2115",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Boîte à outils longue en matière plastique avec plateau et bacs de rangement",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809164458"
+    ],
+    "GenArts": [
+        {
+            "Description": "Boîte à outils longue en matière plastique avec plateau et bacs de rangement",
+            "StandardisedArticleDescription": "Boîte à outils longue en matière plastique avec plateau et bacs de rangement",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "CP15L-2115.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/CP15L-2115.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021151245"
+    ],
+    "URL": []
+}

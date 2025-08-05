@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1758RD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Entonnoir avec raccords rapides",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "248",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "172",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809524030"
+    ],
+    "GenArts": [
+        {
+            "Description": "Entonnoir avec raccords rapides",
+            "StandardisedArticleDescription": "Entonnoir avec raccords rapides",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1758RD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1758RD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017580070"
+    ],
+    "URL": []
+}

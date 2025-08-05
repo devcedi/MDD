@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9547",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Calculatrice de bureau",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230671642"
+    ],
+    "GenArts": [
+        {
+            "Description": "Calculatrice de bureau",
+            "StandardisedArticleDescription": "Calculatrice de bureau",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9547.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9547.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095470000"
+    ],
+    "URL": []
+}

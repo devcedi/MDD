@@ -1,0 +1,40 @@
+{
+    "ArtNo": "1715B/R5L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de 5 lampes pour 1715FL/B",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230505312"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de 5 lampes pour 1715FL/B",
+            "StandardisedArticleDescription": "Kit de 5 lampes pour 1715FL/B",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017150152"
+    ],
+    "URL": []
+}

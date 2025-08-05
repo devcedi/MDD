@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR010012SC",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "REMPLACE PAR FR010014SC",
+            "StandardisedArticleDescription": "REMPLACE PAR FR010014SC",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR010012SC"
+    ],
+    "URL": []
+}

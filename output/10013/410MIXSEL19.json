@@ -1,0 +1,47 @@
+{
+    "ArtNo": "410MIX/SEL19",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 forets 410 et 6 forets avec mise rapportée en métal dur",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230163680"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 forets 410 et 6 forets avec mise rapportée en métal dur",
+            "StandardisedArticleDescription": "Jeu de 13 forets 410 et 6 forets avec mise rapportée en métal dur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "410MIX_slash_SEL19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/410MIX_slash_SEL19.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004100417"
+    ],
+    "URL": []
+}

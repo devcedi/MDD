@@ -1,0 +1,47 @@
+{
+    "ArtNo": "928.../C12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 12 douilles et 4 accessoires 3/4\"",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230667713"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 12 douilles et 4 accessoires 3/4\"",
+            "StandardisedArticleDescription": "Composition de 12 douilles et 4 accessoires 3/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "928_dot__dot__dot__slash_C12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/928_dot__dot__dot__slash_C12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009280955"
+    ],
+    "URL": []
+}

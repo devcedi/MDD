@@ -1,0 +1,47 @@
+{
+    "ArtNo": "187/B5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de clés ouvrables articulées en trousse. Idéal pour raccords de tuyauterie",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230740041"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de clés ouvrables articulées en trousse. Idéal pour raccords de tuyauterie",
+            "StandardisedArticleDescription": "Jeu de clés ouvrables articulées en trousse. Idéal pour raccords de tuyauterie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "187_slash_B5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/187_slash_B5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001870050"
+    ],
+    "URL": []
+}

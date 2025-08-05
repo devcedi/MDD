@@ -1,0 +1,57 @@
+{
+    "ArtNo": "355",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé étagée pour radiateurs à cinq graduations",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \n\"",
+            "Value": "3/8\"-1/2\" \n3/4\"-1\"",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "90",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230160337"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé étagée pour radiateurs à cinq graduations",
+            "StandardisedArticleDescription": "Clé étagée pour radiateurs à cinq graduations",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "355.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/355.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003550001"
+    ],
+    "URL": []
+}

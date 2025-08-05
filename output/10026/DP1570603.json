@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DP157/0603",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006695"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | Kit de fixation DAKIT010 | piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble | Kit de fixation DAKIT010 | piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A318,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A318,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP157/0603"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "33LT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de lettres à frapper",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "70",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "12,7",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809510934"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de lettres à frapper",
+            "StandardisedArticleDescription": "Kit de lettres à frapper",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "33LT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/33LT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000330028"
+    ],
+    "URL": []
+}

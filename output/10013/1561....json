@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1561/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chasse-rotules",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "75",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "63",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "40",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230084947"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chasse-rotules",
+            "StandardisedArticleDescription": "Chasse-rotules",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1561_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1561_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015610004"
+    ],
+    "URL": []
+}

@@ -1,0 +1,77 @@
+{
+    "ArtNo": "DP156/0104",
+    "Attributs": [
+        {
+            "Attribute": "05.429.42.17.1",
+            "Value": "05.429.42.19.1",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "05.429.43.21.0",
+            "Value": "30 K Complet Acier",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "940MB+pist",
+            "Value": "940MBP30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "W01 M58 8585",
+            "Value": "1R 11-712",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "1R 11-763",
+            "Value": "1DK 21 K-2",
+            "SortNo": 5
+        },
+        {
+            "Attribute": 17331,
+            "Value": 751084,
+            "SortNo": 6
+        },
+        {
+            "Attribute": "D11B31",
+            "Value": "D11B39",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006749"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier renforcé ",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier renforcé ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A98,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A98,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP156/0104"
+    ],
+    "URL": []
+}

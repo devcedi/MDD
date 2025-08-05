@@ -1,0 +1,67 @@
+{
+    "ArtNo": "36",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bédane",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "6",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "53",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "12",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020358"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bédane",
+            "StandardisedArticleDescription": "Bédane",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "36.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/36.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000360002"
+    ],
+    "URL": []
+}

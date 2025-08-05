@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1773S/RL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "3 lames rondes Ø 28 mm pour cutter de sécurité 1773S",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809509228"
+    ],
+    "GenArts": [
+        {
+            "Description": "3 lames rondes Ø 28 mm pour cutter de sécurité 1773S",
+            "StandardisedArticleDescription": "3 lames rondes Ø 28 mm pour cutter de sécurité 1773S",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1773S_slash_RL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1773S_slash_RL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017730110"
+    ],
+    "URL": []
+}

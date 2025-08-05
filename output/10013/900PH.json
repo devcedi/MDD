@@ -1,0 +1,67 @@
+{
+    "ArtNo": "900PH",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille tournevis pour vis Phillips®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PH",
+            "Value": "4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "28",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "11",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230032115"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille tournevis pour vis Phillips®",
+            "StandardisedArticleDescription": "Douille tournevis pour vis Phillips®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900PH.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900PH.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000704"
+    ],
+    "URL": []
+}

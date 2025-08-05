@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1676",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rapporteur d'angles simple en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \n~",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "310",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "200",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "G \nmm",
+            "Value": "1°",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230085760"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rapporteur d'angles simple en acier inoxydable",
+            "StandardisedArticleDescription": "Rapporteur d'angles simple en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1676.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1676.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016760030"
+    ],
+    "URL": []
+}

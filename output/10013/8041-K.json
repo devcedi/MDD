@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8041-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage mâle en acier allié, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "1,75",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "E \nmm",
+            "Value": "20,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "1300",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230815886"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage mâle en acier allié, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Anneau de levage mâle en acier allié, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8041-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8041-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080419212"
+    ],
+    "URL": []
+}

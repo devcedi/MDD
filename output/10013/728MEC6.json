@@ -1,0 +1,47 @@
+{
+    "ArtNo": "728ME/C6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique comprenant 6 douilles à chocs pour vis à six pans creux",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809508993"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique comprenant 6 douilles à chocs pour vis à six pans creux",
+            "StandardisedArticleDescription": "Coffret métallique comprenant 6 douilles à chocs pour vis à six pans creux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "728ME_slash_C6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/728ME_slash_C6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007280906"
+    ],
+    "URL": []
+}

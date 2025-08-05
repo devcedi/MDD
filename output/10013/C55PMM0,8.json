@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55PM/M0,8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Meuble haut de 0,8 mètres pour ameublement atelier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230833156"
+    ],
+    "GenArts": [
+        {
+            "Description": "Meuble haut de 0,8 mètres pour ameublement atelier",
+            "StandardisedArticleDescription": "Meuble haut de 0,8 mètres pour ameublement atelier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55PM_slash_M08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55PM_slash_M08.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000312"
+    ],
+    "URL": []
+}

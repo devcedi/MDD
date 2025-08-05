@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920U/SB13",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de douilles multidents 6 pans, carré femelle 1/2\", chromées",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809152356"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de douilles multidents 6 pans, carré femelle 1/2\", chromées",
+            "StandardisedArticleDescription": "Jeu de douilles multidents 6 pans, carré femelle 1/2\", chromées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920U_slash_SB13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920U_slash_SB13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009201740"
+    ],
+    "URL": []
+}

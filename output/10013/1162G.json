@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1162G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à becs plats longs striés, branches gainées avec double couche de PVC antidérapant, finition industrielle",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "86",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1,6",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "22,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "5,0",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "",
+            "Value": "5,0",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230963648"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à becs plats longs striés, branches gainées avec double couche de PVC antidérapant, finition industrielle",
+            "StandardisedArticleDescription": "Pince à becs plats longs striés, branches gainées avec double couche de PVC antidérapant, finition industrielle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1162G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1162G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011620070"
+    ],
+    "URL": []
+}

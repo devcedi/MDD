@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1082BM-HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince coupante diagonale branches gainées confort bi-matières H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "160",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "1,6",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A  \nmm",
+            "Value": "28,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "12,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230860152"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince coupante diagonale branches gainées confort bi-matières H-SAFE",
+            "StandardisedArticleDescription": "Pince coupante diagonale branches gainées confort bi-matières H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1082BM-HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1082BM-HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010824036"
+    ],
+    "URL": []
+}

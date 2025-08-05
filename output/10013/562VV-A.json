@@ -1,0 +1,47 @@
+{
+    "ArtNo": "562VV-A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Valise pour multiplicateurs, en polypropylène à haute résistance, avec éponge",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809177397"
+    ],
+    "GenArts": [
+        {
+            "Description": "Valise pour multiplicateurs, en polypropylène à haute résistance, avec éponge",
+            "StandardisedArticleDescription": "Valise pour multiplicateurs, en polypropylène à haute résistance, avec éponge",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "562VV-A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/562VV-A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005620501"
+    ],
+    "URL": []
+}

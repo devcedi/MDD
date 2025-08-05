@@ -1,0 +1,47 @@
+{
+    "ArtNo": "950/D6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 clés six pans creux avec poignée en T",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809598871"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 clés six pans creux avec poignée en T",
+            "StandardisedArticleDescription": "Jeu de 6 clés six pans creux avec poignée en T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "950_slash_D6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/950_slash_D6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009500096"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1930LH",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à chocs réversible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\n”",
+            "Value": "1",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "7,1",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230888637"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à chocs réversible",
+            "StandardisedArticleDescription": "Clé à chocs réversible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1930LH.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1930LH.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019300030"
+    ],
+    "URL": []
+}

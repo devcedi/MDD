@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1696D",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Niveau corps en aluminium moulé sous pression, avec 4 bases rectifiées et 3 fioles incassables, précision 1 mm/m",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "47",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "25",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230617718"
+    ],
+    "GenArts": [
+        {
+            "Description": "Niveau corps en aluminium moulé sous pression, avec 4 bases rectifiées et 3 fioles incassables, précision 1 mm/m",
+            "StandardisedArticleDescription": "Niveau corps en aluminium moulé sous pression, avec 4 bases rectifiées et 3 fioles incassables, précision 1 mm/m",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1696D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1696D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016960356"
+    ],
+    "URL": []
+}

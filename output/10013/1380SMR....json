@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1380S/MR...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manche pour 1380S",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230479712"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manche pour 1380S",
+            "StandardisedArticleDescription": "Manche pour 1380S",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1380S_slash_MR_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1380S_slash_MR_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013800419"
+    ],
+    "URL": []
+}

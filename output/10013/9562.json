@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9562",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tente 3m x 3m avec 4 cloisons",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \ncm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \ncm",
+            "Value": "348",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \ncm",
+            "Value": "300",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809604541"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tente 3m x 3m avec 4 cloisons",
+            "StandardisedArticleDescription": "Tente 3m x 3m avec 4 cloisons",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9562.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9562.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095620020"
+    ],
+    "URL": []
+}

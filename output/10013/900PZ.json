@@ -1,0 +1,62 @@
+{
+    "ArtNo": "900PZ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille tournevis pour vis Pozidriv®-Supadriv®, chromée - embouts brunis",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PZ",
+            "Value": "3",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "12",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "28",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230032146"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille tournevis pour vis Pozidriv®-Supadriv®, chromée - embouts brunis",
+            "StandardisedArticleDescription": "Douille tournevis pour vis Pozidriv®-Supadriv®, chromée - embouts brunis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900PZ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900PZ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000713"
+    ],
+    "URL": []
+}

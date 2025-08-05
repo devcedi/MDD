@@ -1,0 +1,47 @@
+{
+    "ArtNo": "8600 R/114",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 1045 accessoires pour câbles, avec crochets sans panneau",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230931296"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 1045 accessoires pour câbles, avec crochets sans panneau",
+            "StandardisedArticleDescription": "Composition de 1045 accessoires pour câbles, avec crochets sans panneau",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8600R_slash_114.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8600R_slash_114.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "086000114"
+    ],
+    "URL": []
+}

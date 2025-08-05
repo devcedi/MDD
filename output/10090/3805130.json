@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3805130",
+    "Attributs": [
+        {
+            "Attribute": "Longeur",
+            "Value": 344,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Largeur",
+            "Value": 231,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Matière",
+            "Value": "Composite ",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte-documents rectangulaire en composite gris",
+            "StandardisedArticleDescription": "Porte-documents rectangulaire en composite gris",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "38_05130.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/38_05130.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "3805130"
+    ],
+    "URL": []
+}

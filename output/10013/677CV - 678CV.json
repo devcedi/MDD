@@ -1,0 +1,47 @@
+{
+    "ArtNo": "677/CV - 678/CV",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret vide pour clé dynamométrique 677 et 678",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230779720"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret vide pour clé dynamométrique 677 et 678",
+            "StandardisedArticleDescription": "Coffret vide pour clé dynamométrique 677 et 678",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "677_slash_CV-678_slash_CV.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/677_slash_CV-678_slash_CV.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006780500"
+    ],
+    "URL": []
+}

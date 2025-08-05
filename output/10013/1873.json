@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1873",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Aspirateur 30 litres eau et poussières pour usage professionnel en acier INOX",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774466"
+    ],
+    "GenArts": [
+        {
+            "Description": "Aspirateur 30 litres eau et poussières pour usage professionnel en acier INOX",
+            "StandardisedArticleDescription": "Aspirateur 30 litres eau et poussières pour usage professionnel en acier INOX",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1873.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1873.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018730030"
+    ],
+    "URL": []
+}

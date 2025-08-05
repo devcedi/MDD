@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3026/SAM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support amortisseurs pour vérins de fosse",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809116563"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support amortisseurs pour vérins de fosse",
+            "StandardisedArticleDescription": "Support amortisseurs pour vérins de fosse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3026_slash_SAM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3026_slash_SAM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030260515"
+    ],
+    "URL": []
+}

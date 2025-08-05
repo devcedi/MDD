@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C41H/CE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret porte-outils avec séparateurs amovibles pour accessoires, en matière plastique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230564074"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret porte-outils avec séparateurs amovibles pour accessoires, en matière plastique",
+            "StandardisedArticleDescription": "Coffret porte-outils avec séparateurs amovibles pour accessoires, en matière plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C41H_slash_CE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C41H_slash_CE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "041000916"
+    ],
+    "URL": []
+}

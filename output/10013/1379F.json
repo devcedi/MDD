@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1379F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau d'électricien tête rivoir, manche en bois",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "16",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "260",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "142",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "1379F/MR20",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230469782"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau d'électricien tête rivoir, manche en bois",
+            "StandardisedArticleDescription": "Marteau d'électricien tête rivoir, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1379F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1379F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013790420"
+    ],
+    "URL": []
+}

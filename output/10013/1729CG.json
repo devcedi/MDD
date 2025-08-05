@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1729CG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Monture de scie pour placoplâtre",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "310",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "160",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230699127"
+    ],
+    "GenArts": [
+        {
+            "Description": "Monture de scie pour placoplâtre",
+            "StandardisedArticleDescription": "Monture de scie pour placoplâtre",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1729CG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1729CG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017290200"
+    ],
+    "URL": []
+}

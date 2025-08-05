@@ -1,0 +1,52 @@
+{
+    "ArtNo": "993G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Brucelles à becs coudés avec guide pointes arrondies striées finition polie en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "160",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230087627"
+    ],
+    "GenArts": [
+        {
+            "Description": "Brucelles à becs coudés avec guide pointes arrondies striées finition polie en acier inoxydable",
+            "StandardisedArticleDescription": "Brucelles à becs coudés avec guide pointes arrondies striées finition polie en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "993G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/993G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009930030"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "900BG/30C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée emmanchée carré mâle 1/4” ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L  \nmm",
+            "Value": "128",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "20",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230616605"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée emmanchée carré mâle 1/4” ",
+            "StandardisedArticleDescription": "Poignée emmanchée carré mâle 1/4” ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900BG_slash_30C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900BG_slash_30C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000833"
+    ],
+    "URL": []
+}

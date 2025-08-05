@@ -1,0 +1,47 @@
+{
+    "ArtNo": "960PI/C19",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 19 outils pour le nettoyage des sièges des injecteurs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873664"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 19 outils pour le nettoyage des sièges des injecteurs",
+            "StandardisedArticleDescription": "Composition de 19 outils pour le nettoyage des sièges des injecteurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960PI_slash_C19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960PI_slash_C19.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600217"
+    ],
+    "URL": []
+}

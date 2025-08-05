@@ -1,0 +1,47 @@
+{
+    "ArtNo": "415CO/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret taillé, en acier HSS-CO 5 %, rectifié poli",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230362977"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret taillé, en acier HSS-CO 5 %, rectifié poli",
+            "StandardisedArticleDescription": "Foret taillé, en acier HSS-CO 5 %, rectifié poli",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "415CO_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/415CO_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004150421"
+    ],
+    "URL": []
+}

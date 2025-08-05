@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1055",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau à becs arrondis",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "270",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "67,50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "75",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "14,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230935423"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau à becs arrondis",
+            "StandardisedArticleDescription": "Pince-étau à becs arrondis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1055.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1055.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010550027"
+    ],
+    "URL": []
+}

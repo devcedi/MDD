@@ -1,0 +1,62 @@
+{
+    "ArtNo": "330BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-tubes antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmax",
+            "Value": "50 mm \n2\"",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "375",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "2,2",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230666679"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-tubes antidéflagrant",
+            "StandardisedArticleDescription": "Coupe-tubes antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "330BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/330BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003300802"
+    ],
+    "URL": []
+}

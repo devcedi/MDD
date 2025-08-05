@@ -1,0 +1,67 @@
+{
+    "ArtNo": "928/55",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible carré mâle 3/4''",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "504",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "58",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "59",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809543208"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible carré mâle 3/4''",
+            "StandardisedArticleDescription": "Cliquet réversible carré mâle 3/4''",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "928_slash_55N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/928_slash_55N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009281155"
+    ],
+    "URL": []
+}

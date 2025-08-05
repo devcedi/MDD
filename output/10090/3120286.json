@@ -1,0 +1,52 @@
+{
+    "ArtNo": "3120286",
+    "Attributs": [
+        {
+            "Attribute": "Matière",
+            "Value": "Plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Compatibilité sut tuyau d'achappement",
+            "Value": "3120276\n3120277\n3120278\n3120282\n3120280AN\n3120281AN\n3120282AN\n3120284AN",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout arrière pour profil ECE 104, plastique noir.",
+            "StandardisedArticleDescription": "Embout arrière pour profil ECE 104, plastique noir.",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3120286_V2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/3120286_V2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "3120286"
+    ],
+    "URL": []
+}

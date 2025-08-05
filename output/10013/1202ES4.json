@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1202E/S4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 tournevis Evox pour vis Phillips®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaEVOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809133669"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 tournevis Evox pour vis Phillips®",
+            "StandardisedArticleDescription": "Jeu de 4 tournevis Evox pour vis Phillips®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1202E_slash_S4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1202E_slash_S4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012021204"
+    ],
+    "URL": []
+}

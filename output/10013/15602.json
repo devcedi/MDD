@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1560/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur de rotules, modèle professionnel",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmin÷Max\nmm",
+            "Value": "60÷85",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "20",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230046259"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur de rotules, modèle professionnel",
+            "StandardisedArticleDescription": "Extracteur de rotules, modèle professionnel",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1560_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1560_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015600002"
+    ],
+    "URL": []
+}

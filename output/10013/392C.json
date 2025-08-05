@@ -1,0 +1,57 @@
+{
+    "ArtNo": "392C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince réglable pour siphons",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "25÷65",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "260",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230731131"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince réglable pour siphons",
+            "StandardisedArticleDescription": "Pince réglable pour siphons",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "392C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/392C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003920100"
+    ],
+    "URL": []
+}

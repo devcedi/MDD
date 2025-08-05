@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1692",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mètre à ruban boîtier ABS antichoc bi-matières ruban en acier classe de précision: II",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nm",
+            "Value": "8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230619736"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mètre à ruban boîtier ABS antichoc bi-matières ruban en acier classe de précision: II",
+            "StandardisedArticleDescription": "Mètre à ruban boîtier ABS antichoc bi-matières ruban en acier classe de précision: II",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1692.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1692.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016920058"
+    ],
+    "URL": []
+}

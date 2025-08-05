@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1272MQ/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 tournevis pour vis Phillips® (art. 1272MQ)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230645759"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 tournevis pour vis Phillips® (art. 1272MQ)",
+            "StandardisedArticleDescription": "Jeu de 5 tournevis pour vis Phillips® (art. 1272MQ)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1272MQ_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1272MQ_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012720751"
+    ],
+    "URL": []
+}

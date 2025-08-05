@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720FTX/SB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 douilles à chocs pour écrous Torx® (art. 720FTX) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230081601"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 douilles à chocs pour écrous Torx® (art. 720FTX) sur support",
+            "StandardisedArticleDescription": "Jeu de 6 douilles à chocs pour écrous Torx® (art. 720FTX) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720FTX_slash_SB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720FTX_slash_SB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200450"
+    ],
+    "URL": []
+}

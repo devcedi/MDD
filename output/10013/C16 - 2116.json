@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C16 - 2116",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Boîte à outils en matière plastique avec bac plastique interne",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809164472"
+    ],
+    "GenArts": [
+        {
+            "Description": "Boîte à outils en matière plastique avec bac plastique interne",
+            "StandardisedArticleDescription": "Boîte à outils en matière plastique avec bac plastique interne",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C16-2116.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C16-2116.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021161105"
+    ],
+    "URL": []
+}

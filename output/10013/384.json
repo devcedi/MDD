@@ -1,0 +1,67 @@
+{
+    "ArtNo": "384",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes réversible à chaîne levier en acier forgé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmax \"",
+            "Value": "4\" gas",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmax mm",
+            "Value": "115",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "8",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230026961"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes réversible à chaîne levier en acier forgé",
+            "StandardisedArticleDescription": "Clé serre-tubes réversible à chaîne levier en acier forgé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "384.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/384.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003840032"
+    ],
+    "URL": []
+}

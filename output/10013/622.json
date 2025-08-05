@@ -1,0 +1,62 @@
+{
+    "ArtNo": "622",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquets réversibles pour clé dynamométrique série 674 avec entraînement rond de Ø 22 mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "110",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "LA\nmm",
+            "Value": "56",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809149639"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquets réversibles pour clé dynamométrique série 674 avec entraînement rond de Ø 22 mm",
+            "StandardisedArticleDescription": "Cliquets réversibles pour clé dynamométrique série 674 avec entraînement rond de Ø 22 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "622.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/622.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006220024"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "11116",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Meule forme ogive sur tige au corindon rose avec liant céramique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "h \nmm",
+            "Value": "50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "max. rpm\nLo=13 mm",
+            "Value": "22.500",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "AR36/46P5V",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230944944"
+    ],
+    "GenArts": [
+        {
+            "Description": "Meule forme ogive sur tige au corindon rose avec liant céramique",
+            "StandardisedArticleDescription": "Meule forme ogive sur tige au corindon rose avec liant céramique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11116.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11116.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "111160020"
+    ],
+    "URL": []
+}

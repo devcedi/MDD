@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1535/C...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition d'extracteurs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809173979"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition d'extracteurs",
+            "StandardisedArticleDescription": "Composition d'extracteurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1535_slash_C_dot__dot__dot__2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1535_slash_C_dot__dot__dot__2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015350006"
+    ],
+    "URL": []
+}

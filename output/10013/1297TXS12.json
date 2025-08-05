@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1297TX/S12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 12 tournevis pour vis Torx® (art. 1297TX)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230436005"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 12 tournevis pour vis Torx® (art. 1297TX)",
+            "StandardisedArticleDescription": "Jeu de 12 tournevis pour vis Torx® (art. 1297TX)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1297TX_slash_S12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1297TX_slash_S12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012970312"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C58BC-X2,1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etabli simple d'une longueur de 2,1m avec plan de travail en MDF revêtu d'acier inoxydable",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809600284"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etabli simple d'une longueur de 2,1m avec plan de travail en MDF revêtu d'acier inoxydable",
+            "StandardisedArticleDescription": "Etabli simple d'une longueur de 2,1m avec plan de travail en MDF revêtu d'acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C58BC-X21.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C58BC-X21.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "058000626"
+    ],
+    "URL": []
+}

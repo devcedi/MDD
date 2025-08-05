@@ -1,0 +1,45 @@
+{
+    "ArtNo": "RKAS085/01",
+    "Attributs": [
+        {
+            "Attribute": 500042583,
+            "Value": "1E 19-1",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1TS 270-23 / 206686",
+            "Value": "",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966013545"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de renfort de suspension arrière Ford Transit 100/125 T350 - 2014 ",
+            "StandardisedArticleDescription": "Kit de renfort de suspension arrière Ford Transit 100/125 T350 - 2014 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKAS085/01"
+    ],
+    "URL": []
+}

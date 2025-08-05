@@ -1,0 +1,47 @@
+{
+    "ArtNo": "RSC50 2.0 PS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paroi porte-outils avec volet roulant pour combinaison d'ameublement d'atelier RSC50 2.0",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC50",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809428659"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paroi porte-outils avec volet roulant pour combinaison d'ameublement d'atelier RSC50 2.0",
+            "StandardisedArticleDescription": "Paroi porte-outils avec volet roulant pour combinaison d'ameublement d'atelier RSC50 2.0",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "RSC502_dot_0PS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/RSC502_dot_0PS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "050001360"
+    ],
+    "URL": []
+}

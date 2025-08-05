@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9822M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Joint liquide-Moyenne résistance",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Confezione",
+            "Value": "tubo",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Formato \nmL",
+            "Value": "250",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331768"
+    ],
+    "GenArts": [
+        {
+            "Description": "Joint liquide-Moyenne résistance",
+            "StandardisedArticleDescription": "Joint liquide-Moyenne résistance",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9822M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9822M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098222525"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8064S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet à touret, en acier au carbone, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "10000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "96",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "58",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230570051"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet à touret, en acier au carbone, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Crochet à touret, en acier au carbone, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8064S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8064S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080640199"
+    ],
+    "URL": []
+}

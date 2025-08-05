@@ -1,0 +1,67 @@
+{
+    "ArtNo": "78",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale à frapper",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "230",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "740",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "325,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "76,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230023397"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale à frapper",
+            "StandardisedArticleDescription": "Clé polygonale à frapper",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "78.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/78.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000780230"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "441",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Filière ronde, pas fin, en acier au chrome",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "9x1",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø x S\nmm",
+            "Value": "25,4 x 9",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230098043"
+    ],
+    "GenArts": [
+        {
+            "Description": "Filière ronde, pas fin, en acier au chrome",
+            "StandardisedArticleDescription": "Filière ronde, pas fin, en acier au chrome",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "441.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/441.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004410009"
+    ],
+    "URL": []
+}

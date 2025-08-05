@@ -1,0 +1,47 @@
+{
+    "ArtNo": "5908VI/2T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 232 outils pour la maintenance industrielle en plateaux thermoformés rigides en ABS",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809163536"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 232 outils pour la maintenance industrielle en plateaux thermoformés rigides en ABS",
+            "StandardisedArticleDescription": "Composition de 232 outils pour la maintenance industrielle en plateaux thermoformés rigides en ABS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "5908VI_slash_2T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/5908VI_slash_2T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "059081105"
+    ],
+    "URL": []
+}

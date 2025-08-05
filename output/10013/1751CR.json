@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1751CR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Burettes métalliques sous pression avec embouts rigides",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "cc",
+            "Value": "1000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "100",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "140",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809532059"
+    ],
+    "GenArts": [
+        {
+            "Description": "Burettes métalliques sous pression avec embouts rigides",
+            "StandardisedArticleDescription": "Burettes métalliques sous pression avec embouts rigides",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1751CR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1751CR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017510210"
+    ],
+    "URL": []
+}

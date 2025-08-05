@@ -1,0 +1,40 @@
+{
+    "ArtNo": "959R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Capsule en caoutchouc et ressort de rechange pour 956C - 956E - 957 - 959",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230110943"
+    ],
+    "GenArts": [
+        {
+            "Description": "Capsule en caoutchouc et ressort de rechange pour 956C - 956E - 957 - 959",
+            "StandardisedArticleDescription": "Capsule en caoutchouc et ressort de rechange pour 956C - 956E - 957 - 959",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009590226"
+    ],
+    "URL": []
+}

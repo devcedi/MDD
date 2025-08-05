@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1838POCKET",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Spot de poche articulé à LED, orientable, à double faisceau lumineux, rechargeable avec chargeur sans fil",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "98",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "l \nmm",
+            "Value": "82",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "39",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809378008"
+    ],
+    "GenArts": [
+        {
+            "Description": "Spot de poche articulé à LED, orientable, à double faisceau lumineux, rechargeable avec chargeur sans fil",
+            "StandardisedArticleDescription": "Spot de poche articulé à LED, orientable, à double faisceau lumineux, rechargeable avec chargeur sans fil",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1838POCKET.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1838POCKET.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018380080"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "431/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret vide pour 431/SP21",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230097800"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret vide pour 431/SP21",
+            "StandardisedArticleDescription": "Coffret vide pour 431/SP21",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "431_slash_SP_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/431_slash_SP_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004310202"
+    ],
+    "URL": []
+}

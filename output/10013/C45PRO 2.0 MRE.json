@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C45PRO 2.0 MRE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Module fixe permettant le chargement des outils électroportatifs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaC45PRO",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809624938"
+    ],
+    "GenArts": [
+        {
+            "Description": "Module fixe permettant le chargement des outils électroportatifs",
+            "StandardisedArticleDescription": "Module fixe permettant le chargement des outils électroportatifs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_C45PRO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_C45PRO.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C45PRO2_dot_0MRE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C45PRO2_dot_0MRE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "045000242"
+    ],
+    "URL": []
+}

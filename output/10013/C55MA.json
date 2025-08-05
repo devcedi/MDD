@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55MA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Module fixe à 2 portes opur ameublement atelier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230773483"
+    ],
+    "GenArts": [
+        {
+            "Description": "Module fixe à 2 portes opur ameublement atelier",
+            "StandardisedArticleDescription": "Module fixe à 2 portes opur ameublement atelier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55MA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55MA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000205"
+    ],
+    "URL": []
+}

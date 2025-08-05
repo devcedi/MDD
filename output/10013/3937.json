@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3937",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour fausse maille",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "170",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "59",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "29",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882512"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour fausse maille",
+            "StandardisedArticleDescription": "Pince pour fausse maille",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3937.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3937.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039370010"
+    ],
+    "URL": []
+}

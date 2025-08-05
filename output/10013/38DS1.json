@@ -1,0 +1,47 @@
+{
+    "ArtNo": "38/DS1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir mural (art. 38/DS1), vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230466408"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir mural (art. 38/DS1), vide",
+            "StandardisedArticleDescription": "Présentoir mural (art. 38/DS1), vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "38_slash_DS1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/38_slash_DS1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000380751"
+    ],
+    "URL": []
+}

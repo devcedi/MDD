@@ -1,0 +1,52 @@
+{
+    "ArtNo": "37PMR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Protecteur pour bédane",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020396"
+    ],
+    "GenArts": [
+        {
+            "Description": "Protecteur pour bédane",
+            "StandardisedArticleDescription": "Protecteur pour bédane",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "37PMR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/37PMR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000370022"
+    ],
+    "URL": []
+}

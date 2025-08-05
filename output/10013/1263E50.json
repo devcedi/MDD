@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1263/E50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir vide 1263/E50",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230626895"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir vide 1263/E50",
+            "StandardisedArticleDescription": "Présentoir vide 1263/E50",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1263_slash_E50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1263_slash_E50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012630571"
+    ],
+    "URL": []
+}

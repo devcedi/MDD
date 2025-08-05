@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1367/K10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit d'emporte-pièces pour la pose des capteurs de stationnement",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809115962"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit d'emporte-pièces pour la pose des capteurs de stationnement",
+            "StandardisedArticleDescription": "Kit d'emporte-pièces pour la pose des capteurs de stationnement",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1367_slash_K10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1367_slash_K10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013670200"
+    ],
+    "URL": []
+}

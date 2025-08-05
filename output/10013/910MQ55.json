@@ -1,0 +1,62 @@
+{
+    "ArtNo": "910MQ/55",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible carré mâle 3/8”",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "203",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "41",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "67",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230103457"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible carré mâle 3/8”",
+            "StandardisedArticleDescription": "Cliquet réversible carré mâle 3/8”",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910MQ_slash_55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910MQ_slash_55.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100808"
+    ],
+    "URL": []
+}

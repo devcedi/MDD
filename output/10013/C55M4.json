@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55M4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Module fixe à 4 tiroirs pour ameublement atelier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230866284"
+    ],
+    "GenArts": [
+        {
+            "Description": "Module fixe à 4 tiroirs pour ameublement atelier",
+            "StandardisedArticleDescription": "Module fixe à 4 tiroirs pour ameublement atelier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55M4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55M4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000212"
+    ],
+    "URL": []
+}

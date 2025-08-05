@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8042EZ-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage femelle, DIN 582:1971 zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M10",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230849058"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage femelle, DIN 582:1971 zingué",
+            "StandardisedArticleDescription": "Anneau de levage femelle, DIN 582:1971 zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8042EZ-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8042EZ-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080429610"
+    ],
+    "URL": []
+}

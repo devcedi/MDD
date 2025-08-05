@@ -1,0 +1,57 @@
+{
+    "ArtNo": "866PZ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout pour visseuses pour vis Pozidriv® -Supadriv®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PZ",
+            "Value": "4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "38",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230031354"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout pour visseuses pour vis Pozidriv® -Supadriv®",
+            "StandardisedArticleDescription": "Embout pour visseuses pour vis Pozidriv® -Supadriv®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "866PZ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/866PZ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008660315"
+    ],
+    "URL": []
+}

@@ -1,0 +1,37 @@
+{
+    "ArtNo": "PBTA0291",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Profilé support de joint bas aluminium",
+            "StandardisedArticleDescription": "Profilé support de joint bas aluminium",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PBTA0291",
+            "Extension": "",
+            "Path": "/img/10001/PBTA0291"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "PBTA0291",
+            "Extension": "",
+            "Path": "/img/10001/PBTA0291",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

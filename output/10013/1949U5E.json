@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1949U5/E",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Buse \"Turbo\" en nylon renforcé avec fibres de verre avec embout de sécurité",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230953199"
+    ],
+    "GenArts": [
+        {
+            "Description": "Buse \"Turbo\" en nylon renforcé avec fibres de verre avec embout de sécurité",
+            "StandardisedArticleDescription": "Buse \"Turbo\" en nylon renforcé avec fibres de verre avec embout de sécurité",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1949U5_slash_E.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1949U5_slash_E.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019490135"
+    ],
+    "URL": []
+}

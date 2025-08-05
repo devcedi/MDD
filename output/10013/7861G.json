@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7861G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bermuda de travail léger Nouveau design - Confort amélioré",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "5XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "62",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809525075"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bermuda de travail léger Nouveau design - Confort amélioré",
+            "StandardisedArticleDescription": "Bermuda de travail léger Nouveau design - Confort amélioré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7861G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7861G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078610808"
+    ],
+    "URL": []
+}

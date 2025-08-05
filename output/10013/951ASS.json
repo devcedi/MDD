@@ -1,0 +1,47 @@
+{
+    "ArtNo": "951AS/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 clés mâles 6 pans en T (art. 951AS)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230847603"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 clés mâles 6 pans en T (art. 951AS)",
+            "StandardisedArticleDescription": "Jeu de 6 clés mâles 6 pans en T (art. 951AS)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "951AS_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/951AS_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009510771"
+    ],
+    "URL": []
+}

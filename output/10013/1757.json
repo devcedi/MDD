@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1757",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Flacon de remplissage pour batterie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "cc",
+            "Value": "1000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "90",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230077338"
+    ],
+    "GenArts": [
+        {
+            "Description": "Flacon de remplissage pour batterie",
+            "StandardisedArticleDescription": "Flacon de remplissage pour batterie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1757.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1757.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017570006"
+    ],
+    "URL": []
+}

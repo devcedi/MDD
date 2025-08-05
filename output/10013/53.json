@@ -1,0 +1,67 @@
+{
+    "ArtNo": "53",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourche gros effort DIN 894",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "135",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "1000",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "225",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "28,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230055190"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourche gros effort DIN 894",
+            "StandardisedArticleDescription": "Clé à fourche gros effort DIN 894",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "53.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/53.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000530135"
+    ],
+    "URL": []
+}

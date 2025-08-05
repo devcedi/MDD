@@ -1,0 +1,72 @@
+{
+    "ArtNo": "653",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale pour clés dynamométriques avec entraînement rectangulaire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "41",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "14x18",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "90",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "LA \nmm",
+            "Value": "49,8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "61",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230592992"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale pour clés dynamométriques avec entraînement rectangulaire",
+            "StandardisedArticleDescription": "Clé polygonale pour clés dynamométriques avec entraînement rectangulaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "653.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/653.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006530141"
+    ],
+    "URL": []
+}

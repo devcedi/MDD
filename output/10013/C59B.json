@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C59B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Établi \"Endurance\" avec 2 servantes à six tiroirs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809425092"
+    ],
+    "GenArts": [
+        {
+            "Description": "Établi \"Endurance\" avec 2 servantes à six tiroirs",
+            "StandardisedArticleDescription": "Établi \"Endurance\" avec 2 servantes à six tiroirs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C59B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C59B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "059000052"
+    ],
+    "URL": []
+}

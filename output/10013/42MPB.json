@@ -1,0 +1,47 @@
+{
+    "ArtNo": "42MP/B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 clés mixtes, chromées brillantes (art. 42MP)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809612621"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 clés mixtes, chromées brillantes (art. 42MP)",
+            "StandardisedArticleDescription": "Jeu de 9 clés mixtes, chromées brillantes (art. 42MP)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42MP_slash_B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42MP_slash_B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000421661"
+    ],
+    "URL": []
+}

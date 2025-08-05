@@ -1,0 +1,72 @@
+{
+    "ArtNo": "194",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à cliquet réversible porte-embouts",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4x5/16",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "128",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "18,2",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "21,5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "7,4",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230544502"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à cliquet réversible porte-embouts",
+            "StandardisedArticleDescription": "Clé à cliquet réversible porte-embouts",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "194.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/194.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001940006"
+    ],
+    "URL": []
+}

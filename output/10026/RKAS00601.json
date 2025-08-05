@@ -1,0 +1,60 @@
+{
+    "ArtNo": "RKAS006/01",
+    "Attributs": [
+        {
+            "Attribute": "W01 S05 6314",
+            "Value": "W01 S05 7309",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D306 - 306.2.320",
+            "Value": "1R 11-826",
+            "SortNo": 2
+        },
+        {
+            "Attribute": 15619,
+            "Value": 1314903,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 1394997,
+            "Value": 1402423,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 1865759,
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966012869"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de renfort Isuzu Dmax ",
+            "StandardisedArticleDescription": "Kit de renfort Isuzu Dmax ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKAS006/01"
+    ],
+    "URL": []
+}

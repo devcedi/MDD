@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8381SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étrier avec 2 écrous et 2 rondelles, série lourde zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "408",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "16\"",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "M24",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230846736"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étrier avec 2 écrous et 2 rondelles, série lourde zingué",
+            "StandardisedArticleDescription": "Étrier avec 2 écrous et 2 rondelles, série lourde zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8381SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8381SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "083810508"
+    ],
+    "URL": []
+}

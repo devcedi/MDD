@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1949U5/F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Buse à éventail plate, en nylon renforcé avec fibres de verre, pour 1949U5 et 1949P",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809151434"
+    ],
+    "GenArts": [
+        {
+            "Description": "Buse à éventail plate, en nylon renforcé avec fibres de verre, pour 1949U5 et 1949P",
+            "StandardisedArticleDescription": "Buse à éventail plate, en nylon renforcé avec fibres de verre, pour 1949U5 et 1949P",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1949U5_slash_F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1949U5_slash_F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019490136"
+    ],
+    "URL": []
+}

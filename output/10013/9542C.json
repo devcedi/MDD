@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9542C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Salopette in lycra, elastico siliconato fondo gamba, fondello antibatterico ad alta traspirabilità",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230851389"
+    ],
+    "GenArts": [
+        {
+            "Description": "Salopette in lycra, elastico siliconato fondo gamba, fondello antibatterico ad alta traspirabilità",
+            "StandardisedArticleDescription": "Salopette in lycra, elastico siliconato fondo gamba, fondello antibatterico ad alta traspirabilità",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9542C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9542C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095420066"
+    ],
+    "URL": []
+}

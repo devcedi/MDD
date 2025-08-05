@@ -1,0 +1,57 @@
+{
+    "ArtNo": "949",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à béquille simple avec douille profonde 6 pans",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "17",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "264",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230759784"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à béquille simple avec douille profonde 6 pans",
+            "StandardisedArticleDescription": "Clé à béquille simple avec douille profonde 6 pans",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "949.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/949.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009490017"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1472AU/RP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Câble pour pince 1472AU/P",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230749860"
+    ],
+    "GenArts": [
+        {
+            "Description": "Câble pour pince 1472AU/P",
+            "StandardisedArticleDescription": "Câble pour pince 1472AU/P",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1472AU_slash_RP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1472AU_slash_RP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014720106"
+    ],
+    "URL": []
+}

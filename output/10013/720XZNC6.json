@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720XZN/C6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique comprenant 6 douilles à chocs phosphaté pour vis XZN®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809501932"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique comprenant 6 douilles à chocs phosphaté pour vis XZN®",
+            "StandardisedArticleDescription": "Coffret métallique comprenant 6 douilles à chocs phosphaté pour vis XZN®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720XZN_slash_C6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720XZN_slash_C6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007201530"
+    ],
+    "URL": []
+}

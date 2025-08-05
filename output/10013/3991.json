@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3991",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Levier pour écarter les pastilles des freins à disque, chromé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "222",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "36",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "α",
+            "Value": "7°",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882796"
+    ],
+    "GenArts": [
+        {
+            "Description": "Levier pour écarter les pastilles des freins à disque, chromé",
+            "StandardisedArticleDescription": "Levier pour écarter les pastilles des freins à disque, chromé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3991.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3991.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039910010"
+    ],
+    "URL": []
+}

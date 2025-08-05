@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8008N-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur à deux tiges à souder, noir",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M6",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230848709"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur à deux tiges à souder, noir",
+            "StandardisedArticleDescription": "Tendeur à deux tiges à souder, noir",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8008N-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8008N-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080089306"
+    ],
+    "URL": []
+}

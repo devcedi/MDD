@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9595T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Porte-clés en métal chromé, dans étui de velours",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820873"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte-clés en métal chromé, dans étui de velours",
+            "StandardisedArticleDescription": "Porte-clés en métal chromé, dans étui de velours",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9595T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9595T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095950021"
+    ],
+    "URL": []
+}

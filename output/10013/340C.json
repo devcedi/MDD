@@ -1,0 +1,57 @@
+{
+    "ArtNo": "340C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pinces de coupe de tuyaux ondulés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "14-45",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "134",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809330044"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pinces de coupe de tuyaux ondulés",
+            "StandardisedArticleDescription": "Pinces de coupe de tuyaux ondulés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "340C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/340C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003400050"
+    ],
+    "URL": []
+}

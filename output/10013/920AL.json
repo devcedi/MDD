@@ -1,0 +1,72 @@
+{
+    "ArtNo": "920AL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 6 pans série longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "48,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "77",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "41",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "34",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230538976"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 6 pans série longue",
+            "StandardisedArticleDescription": "Douille 6 pans série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920AL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920AL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200642"
+    ],
+    "URL": []
+}

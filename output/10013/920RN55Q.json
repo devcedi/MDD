@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920/RN55Q",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mécanisme rotatif pour cliquet 920/55Q NOUVEAU",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809542904"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mécanisme rotatif pour cliquet 920/55Q NOUVEAU",
+            "StandardisedArticleDescription": "Mécanisme rotatif pour cliquet 920/55Q NOUVEAU",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_RN55Q.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_RN55Q.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009201126"
+    ],
+    "URL": []
+}

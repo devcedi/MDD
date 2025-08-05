@@ -1,0 +1,57 @@
+{
+    "ArtNo": "436L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Porte-outils à cliquet réversible long",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "4,6÷8 \nM5÷M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "295",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230090610"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte-outils à cliquet réversible long",
+            "StandardisedArticleDescription": "Porte-outils à cliquet réversible long",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "436L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/436L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004360014"
+    ],
+    "URL": []
+}

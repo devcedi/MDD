@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1010MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à becs ronds long",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "160",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "51,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "17",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "9",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230469430"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à becs ronds long",
+            "StandardisedArticleDescription": "Pince à becs ronds long",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1010MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1010MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010100096"
+    ],
+    "URL": []
+}

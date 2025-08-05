@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3952/S7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 clés coniques simples",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230883755"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 clés coniques simples",
+            "StandardisedArticleDescription": "Jeu de 7 clés coniques simples",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3952_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3952_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039520211"
+    ],
+    "URL": []
+}

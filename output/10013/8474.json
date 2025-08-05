@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8474",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mousqueton",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "øD x L\nmm",
+            "Value": "13X160",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230905075"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mousqueton",
+            "StandardisedArticleDescription": "Mousqueton",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8474.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8474.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "084740213"
+    ],
+    "URL": []
+}

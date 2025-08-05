@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8149CM/RA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau soudé pour palans manuels à chaîne 8143",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nm",
+            "Value": "6",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809372426"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau soudé pour palans manuels à chaîne 8143",
+            "StandardisedArticleDescription": "Anneau soudé pour palans manuels à chaîne 8143",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8149CM_slash_RA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8149CM_slash_RA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081490906"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7653G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Veste de travail en tissu stretch pour garantir le plus grand confort et la plus grande liberté de mouvement en toute situation.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809368030"
+    ],
+    "GenArts": [
+        {
+            "Description": "Veste de travail en tissu stretch pour garantir le plus grand confort et la plus grande liberté de mouvement en toute situation.",
+            "StandardisedArticleDescription": "Veste de travail en tissu stretch pour garantir le plus grand confort et la plus grande liberté de mouvement en toute situation.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7653G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7653G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076530006"
+    ],
+    "URL": []
+}

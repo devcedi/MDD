@@ -1,0 +1,52 @@
+{
+    "ArtNo": "izr5",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Nettoyant decontaminant ferreux pour  jante PH neutre 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Excellent en pré-nettoyant. PH neutre. Brillance après traitement.",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101017363"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "IZR5.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/IZR5.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "izr5"
+    ],
+    "URL": []
+}

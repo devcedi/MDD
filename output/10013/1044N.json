@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1044N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince multiprise en traitement phosphatée à crémaillère, avec branches munies d'une protection PVC antidérapante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "46",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "48",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "8,5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "330",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809445861"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince multiprise en traitement phosphatée à crémaillère, avec branches munies d'une protection PVC antidérapante",
+            "StandardisedArticleDescription": "Pince multiprise en traitement phosphatée à crémaillère, avec branches munies d'une protection PVC antidérapante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1044N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1044N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010440025"
+    ],
+    "URL": []
+}

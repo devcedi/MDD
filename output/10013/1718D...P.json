@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1718D...P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lime plate grossière, sans manche",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \n\"",
+            "Value": "10",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230180144"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lime plate grossière, sans manche",
+            "StandardisedArticleDescription": "Lime plate grossière, sans manche",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1718D_dot__dot__dot_P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1718D_dot__dot__dot_P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017180145"
+    ],
+    "URL": []
+}

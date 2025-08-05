@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1737B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de nettoyeurs de cosses et bornes de batterie fils en acier Ø fil 0,3 mm",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230577289"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de nettoyeurs de cosses et bornes de batterie fils en acier Ø fil 0,3 mm",
+            "StandardisedArticleDescription": "Paire de nettoyeurs de cosses et bornes de batterie fils en acier Ø fil 0,3 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1737B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1737B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017370050"
+    ],
+    "URL": []
+}

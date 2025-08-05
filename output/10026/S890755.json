@@ -1,0 +1,67 @@
+{
+    "ArtNo": "S890755",
+    "Attributs": [
+        {
+            "Attribute": "1R 13-805",
+            "Value": "1D 28C-12",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1D 28H-13",
+            "Value": 21221349,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "3 229 0024 00",
+            "Value": "H 25 000 361",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D13B03",
+            "Value": "D13B21",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "US 07380 F",
+            "Value": "YP 07380F",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966012029"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coussin de cabine ",
+            "StandardisedArticleDescription": "Coussin de cabine ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A271,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A271,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "S890755"
+    ],
+    "URL": []
+}

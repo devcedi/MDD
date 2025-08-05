@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1748-BV",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Collier velcro, réouverture par arrachage couleur blanche",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "229",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø MAX\nmm",
+            "Value": "55",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "F MAX\n N",
+            "Value": "220",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629251953"
+    ],
+    "GenArts": [
+        {
+            "Description": "Collier velcro, réouverture par arrachage couleur blanche",
+            "StandardisedArticleDescription": "Collier velcro, réouverture par arrachage couleur blanche",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1748-BV.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1748-BV.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BMBV2319"
+    ],
+    "URL": []
+}

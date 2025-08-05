@@ -1,0 +1,72 @@
+{
+    "ArtNo": "142C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte à cliquet - série courte droite",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "19x19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "138",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "40,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "34,8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "8,5",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230387543"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte à cliquet - série courte droite",
+            "StandardisedArticleDescription": "Clé mixte à cliquet - série courte droite",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "142C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/142C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001420119"
+    ],
+    "URL": []
+}

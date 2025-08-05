@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1742N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à inserts filetés comprenant 4 embouts et mandrins interchangeables (M3;M4;M5;M6)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "80",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "265",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809519562"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à inserts filetés comprenant 4 embouts et mandrins interchangeables (M3;M4;M5;M6)",
+            "StandardisedArticleDescription": "Pince à inserts filetés comprenant 4 embouts et mandrins interchangeables (M3;M4;M5;M6)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1742N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1742N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017420002"
+    ],
+    "URL": []
+}

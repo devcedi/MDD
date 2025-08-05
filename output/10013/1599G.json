@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1599G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de protège-mâchoires en aluminium ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "180",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230699776"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de protège-mâchoires en aluminium ",
+            "StandardisedArticleDescription": "Paire de protège-mâchoires en aluminium ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1599G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1599G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015990917"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3067/70-13T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cric hydropneumatique 70-43-23-13 t",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774626"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cric hydropneumatique 70-43-23-13 t",
+            "StandardisedArticleDescription": "Cric hydropneumatique 70-43-23-13 t",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3067_slash_70-13T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3067_slash_70-13T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030670130"
+    ],
+    "URL": []
+}

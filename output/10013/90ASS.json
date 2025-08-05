@@ -1,0 +1,47 @@
+{
+    "ArtNo": "90AS/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 10 clés polygonales contre-coudées (art. 90AS)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230024318"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 10 clés polygonales contre-coudées (art. 90AS)",
+            "StandardisedArticleDescription": "Jeu de 10 clés polygonales contre-coudées (art. 90AS)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "90AS_slash_S_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90AS_slash_S_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000900300"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9549MPC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Base de recharge multiprise, 6 ports USB pour une charge multiple.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "110",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "72",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "35",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809419305"
+    ],
+    "GenArts": [
+        {
+            "Description": "Base de recharge multiprise, 6 ports USB pour une charge multiple.",
+            "StandardisedArticleDescription": "Base de recharge multiprise, 6 ports USB pour une charge multiple.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9549MPC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9549MPC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095490082"
+    ],
+    "URL": []
+}

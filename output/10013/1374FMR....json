@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1374F/MR...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manche pour 1374F",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230480015"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manche pour 1374F",
+            "StandardisedArticleDescription": "Manche pour 1374F",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1374F_slash_MR_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1374F_slash_MR_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013740470"
+    ],
+    "URL": []
+}

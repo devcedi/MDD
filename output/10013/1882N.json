@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1882N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pistolet à huile avec tête flexible et récupérateur de gouttes automatique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809504735"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pistolet à huile avec tête flexible et récupérateur de gouttes automatique",
+            "StandardisedArticleDescription": "Pistolet à huile avec tête flexible et récupérateur de gouttes automatique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1882N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1882N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018820110"
+    ],
+    "URL": []
+}

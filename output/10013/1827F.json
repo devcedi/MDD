@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1827F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mini lampe à souder à gaz butane rechargeable",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230870847"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mini lampe à souder à gaz butane rechargeable",
+            "StandardisedArticleDescription": "Mini lampe à souder à gaz butane rechargeable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1827F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1827F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018270200"
+    ],
+    "URL": []
+}

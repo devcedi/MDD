@@ -1,0 +1,87 @@
+{
+    "ArtNo": "DP34007/0101",
+    "Attributs": [
+        {
+            "Attribute": "05.429.40.39.1",
+            "Value": "05.429.40.50.1",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "05.429.40.61.1",
+            "Value": "05.429.41.36.1",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "05.429.41.42.1",
+            "Value": "05.429.41.47.1",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "36 Complet",
+            "Value": "881MB+pist",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "1T66 D-10.8",
+            "Value": "1T66 F-10.8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "W01 M58 8966",
+            "Value": "C292 - 292.2.530",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "1R 14-702",
+            "Value": "1R 14-703",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "1DK 32-1",
+            "Value": "1TC 360-45 / 205800",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "D14B36",
+            "Value": "KR 836-01/03/04",
+            "SortNo": 9
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006039"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |3042 Voir aussi /0202 et /0302 piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |3042 Voir aussi /0202 et /0302 piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A132,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A132,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34007/0101"
+    ],
+    "URL": []
+}

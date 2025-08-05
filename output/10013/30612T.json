@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3061/2T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cric pneumatique 2 boudins - 2 tonnes",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774596"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cric pneumatique 2 boudins - 2 tonnes",
+            "StandardisedArticleDescription": "Cric pneumatique 2 boudins - 2 tonnes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3061_slash_2T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3061_slash_2T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030610020"
+    ],
+    "URL": []
+}

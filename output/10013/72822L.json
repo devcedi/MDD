@@ -1,0 +1,67 @@
+{
+    "ArtNo": "728/22L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge à chocs carrés mâle et femelle 3/4\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "330",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "44",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230727691"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge à chocs carrés mâle et femelle 3/4\"",
+            "StandardisedArticleDescription": "Rallonge à chocs carrés mâle et femelle 3/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "728_slash_22L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/728_slash_22L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007280826"
+    ],
+    "URL": []
+}

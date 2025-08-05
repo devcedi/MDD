@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7214G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse en Nubuck Action hydrofuge avec insert anti-abrasion sur l'embout",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809347271"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse en Nubuck Action hydrofuge avec insert anti-abrasion sur l'embout",
+            "StandardisedArticleDescription": "Chaussure basse en Nubuck Action hydrofuge avec insert anti-abrasion sur l'embout",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7214G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7214G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072140248"
+    ],
+    "URL": []
+}

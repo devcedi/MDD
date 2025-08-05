@@ -1,0 +1,34 @@
+{
+    "ArtNo": 90112016,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694015737"
+    ],
+    "GenArts": [
+        {
+            "Description": "ABC New Line union mâle M16X1,5 - T 12X1,5",
+            "StandardisedArticleDescription": "ABC New Line union mâle M16X1,5 - T 12X1,5",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "90112016"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8010Z-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur oeillet et chape, zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M14",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230814926"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur oeillet et chape, zingué",
+            "StandardisedArticleDescription": "Tendeur oeillet et chape, zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8010Z-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8010Z-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080109014"
+    ],
+    "URL": []
+}

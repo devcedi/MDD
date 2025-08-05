@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C7 - 2107",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sacoche porte-outils en tissu technique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809164274"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sacoche porte-outils en tissu technique",
+            "StandardisedArticleDescription": "Sacoche porte-outils en tissu technique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C7-2107.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C7-2107.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021071114"
+    ],
+    "URL": []
+}

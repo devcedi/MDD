@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1884N/C8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 8 adaptateurs pour 1884",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809212746"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 8 adaptateurs pour 1884",
+            "StandardisedArticleDescription": "Jeu de 8 adaptateurs pour 1884",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1884N_slash_C8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1884N_slash_C8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018840200"
+    ],
+    "URL": []
+}

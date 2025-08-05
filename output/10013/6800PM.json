@@ -1,0 +1,47 @@
+{
+    "ArtNo": "6800PM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Accessoires pour C68",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230462011"
+    ],
+    "GenArts": [
+        {
+            "Description": "Accessoires pour C68",
+            "StandardisedArticleDescription": "Accessoires pour C68",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "95.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/95.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "6800PM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/6800PM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "068000172"
+    ],
+    "URL": []
+}

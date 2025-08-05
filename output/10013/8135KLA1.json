@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8135/KLA1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de leviers de commande pour pinces de levage 8135",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "8135\nt",
+            "Value": "5,00",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809411002"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de leviers de commande pour pinces de levage 8135",
+            "StandardisedArticleDescription": "Kit de leviers de commande pour pinces de levage 8135",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8135_slash_KLA1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8135_slash_KLA1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081350625"
+    ],
+    "URL": []
+}

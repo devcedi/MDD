@@ -1,0 +1,47 @@
+{
+    "ArtNo": "960PI/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de nettoyage des sièges injecteurs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230804651"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de nettoyage des sièges injecteurs",
+            "StandardisedArticleDescription": "Kit de nettoyage des sièges injecteurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960PI_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960PI_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600214"
+    ],
+    "URL": []
+}

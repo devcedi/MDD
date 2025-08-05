@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1476/RC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaîne pour 1476",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230935546"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaîne pour 1476",
+            "StandardisedArticleDescription": "Chaîne pour 1476",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1476_slash_RC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1476_slash_RC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014760012"
+    ],
+    "URL": []
+}

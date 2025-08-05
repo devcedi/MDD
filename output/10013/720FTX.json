@@ -1,0 +1,72 @@
+{
+    "ArtNo": "720FTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à chocs pour ecrous Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "E24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "30,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "40",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "30",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "13,5",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230953243"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à chocs pour ecrous Torx®",
+            "StandardisedArticleDescription": "Douille à chocs pour ecrous Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720FTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720FTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200424"
+    ],
+    "URL": []
+}

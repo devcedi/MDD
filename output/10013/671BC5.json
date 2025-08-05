@@ -1,0 +1,47 @@
+{
+    "ArtNo": "671B/C5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique 604B/5 avec 1 cliquet réversible, 8 douilles 6 pans et 4 clés à fourche",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230732053"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique 604B/5 avec 1 cliquet réversible, 8 douilles 6 pans et 4 clés à fourche",
+            "StandardisedArticleDescription": "Clé dynamométrique 604B/5 avec 1 cliquet réversible, 8 douilles 6 pans et 4 clés à fourche",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "671B_slash_C5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/671B_slash_C5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006710001"
+    ],
+    "URL": []
+}

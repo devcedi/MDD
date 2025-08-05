@@ -1,0 +1,57 @@
+{
+    "ArtNo": "962C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Leviers de pneus, paire, pour les motos cross et enduro, les mini-motos et les mini motos sales",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "420",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "30",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809239064"
+    ],
+    "GenArts": [
+        {
+            "Description": "Leviers de pneus, paire, pour les motos cross et enduro, les mini-motos et les mini motos sales",
+            "StandardisedArticleDescription": "Leviers de pneus, paire, pour les motos cross et enduro, les mini-motos et les mini motos sales",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "962C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/962C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009620020"
+    ],
+    "URL": []
+}

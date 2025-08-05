@@ -1,0 +1,34 @@
+{
+    "ArtNo": "628259AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694012804"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servo d'embrayage DAF",
+            "StandardisedArticleDescription": "Servo d'embrayage DAF",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C39",
+            "Extension": "",
+            "Path": "/img/10021/=C39"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A39"
+    ],
+    "URL": []
+}

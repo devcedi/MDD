@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1123",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cisaille chantourneuse coupe droite «Type Aviation»",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \n~",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "40",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Inox \nS mm",
+            "Value": "1",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "24",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "23",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230536019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cisaille chantourneuse coupe droite «Type Aviation»",
+            "StandardisedArticleDescription": "Cisaille chantourneuse coupe droite «Type Aviation»",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1123.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1123.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011230020"
+    ],
+    "URL": []
+}

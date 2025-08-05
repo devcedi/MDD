@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1951",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pistolet de lavage",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\ng",
+            "Value": "650",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230804804"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pistolet de lavage",
+            "StandardisedArticleDescription": "Pistolet de lavage",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1951.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1951.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019510051"
+    ],
+    "URL": []
+}

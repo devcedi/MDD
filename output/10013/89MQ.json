@@ -1,0 +1,72 @@
+{
+    "ArtNo": "89MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale contre-coudée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "340",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "48",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "29",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "19",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230954073"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale contre-coudée",
+            "StandardisedArticleDescription": "Clé polygonale contre-coudée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "89MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/89MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000890132"
+    ],
+    "URL": []
+}

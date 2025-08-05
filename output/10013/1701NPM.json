@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1701N/PM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ciseau de maçon avec protecteur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "23",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "16",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230389578"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ciseau de maçon avec protecteur",
+            "StandardisedArticleDescription": "Ciseau de maçon avec protecteur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1701N_slash_PM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1701N_slash_PM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017010103"
+    ],
+    "URL": []
+}

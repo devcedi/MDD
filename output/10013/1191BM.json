@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1191BM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince coupante frontale de précision tête inclinée à 70°, coupe à ras branches gainées confort bi-matières",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "130",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "12",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Cu \nmm",
+            "Value": "0,8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "8",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230513409"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince coupante frontale de précision tête inclinée à 70°, coupe à ras branches gainées confort bi-matières",
+            "StandardisedArticleDescription": "Pince coupante frontale de précision tête inclinée à 70°, coupe à ras branches gainées confort bi-matières",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1191BM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1191BM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011910101"
+    ],
+    "URL": []
+}

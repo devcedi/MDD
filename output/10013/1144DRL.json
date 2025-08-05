@@ -1,0 +1,40 @@
+{
+    "ArtNo": "1144D/RL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lames pour 1144D",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230486895"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lames pour 1144D",
+            "StandardisedArticleDescription": "Lames pour 1144D",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011440011"
+    ],
+    "URL": []
+}

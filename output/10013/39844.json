@@ -1,0 +1,72 @@
+{
+    "ArtNo": "3984/4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé extracteur pour roues libres Campagnolo avec embout de guide, phosphatée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "23",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "51",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "13",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L2\nmm",
+            "Value": "8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "24",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882765"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé extracteur pour roues libres Campagnolo avec embout de guide, phosphatée",
+            "StandardisedArticleDescription": "Clé extracteur pour roues libres Campagnolo avec embout de guide, phosphatée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3984_slash_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3984_slash_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039840040"
+    ],
+    "URL": []
+}

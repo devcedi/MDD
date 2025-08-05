@@ -1,0 +1,67 @@
+{
+    "ArtNo": "720MRC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à chocs avec embout polymère pour vis roue avec profil Mercedes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "17",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "27",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "85",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230791609"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à chocs avec embout polymère pour vis roue avec profil Mercedes",
+            "StandardisedArticleDescription": "Douille à chocs avec embout polymère pour vis roue avec profil Mercedes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720MRC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720MRC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200631"
+    ],
+    "URL": []
+}

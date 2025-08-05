@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1881",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pompe pneumatique pour fûts rapport 3:1",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "18",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230588704"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pompe pneumatique pour fûts rapport 3:1",
+            "StandardisedArticleDescription": "Pompe pneumatique pour fûts rapport 3:1",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1881.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1881.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018810001"
+    ],
+    "URL": []
+}

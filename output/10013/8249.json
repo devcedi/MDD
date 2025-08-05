@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8249",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Vis à œil pour chevilles AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "690",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "120",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230636474"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vis à œil pour chevilles AISI 316",
+            "StandardisedArticleDescription": "Vis à œil pour chevilles AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8249.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8249.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082490212"
+    ],
+    "URL": []
+}

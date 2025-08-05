@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DP36247/0103",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005445"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Monté sur FL6 Arrière piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble |Monté sur FL6 Arrière piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A170,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A170,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP36247/0103"
+    ],
+    "URL": []
+}

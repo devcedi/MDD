@@ -1,0 +1,47 @@
+{
+    "ArtNo": "DP34183/0101",
+    "Attributs": [
+        {
+            "Attribute": "1DK 32K-1",
+            "Value": "D14B37",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005933"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Existe avec 2 EA = DP34183/0201 piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |Existe avec 2 EA = DP34183/0201 piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A136,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A136,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34183/0101"
+    ],
+    "URL": []
+}

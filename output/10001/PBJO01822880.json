@@ -1,0 +1,37 @@
+{
+    "ArtNo": "PBJO01822880",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Joint latéral bois 2880 mm",
+            "StandardisedArticleDescription": "Joint latéral bois 2880 mm",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PBJO01822880",
+            "Extension": "",
+            "Path": "/img/10001/PBJO01822880"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "PBJO01822880",
+            "Extension": "",
+            "Path": "/img/10001/PBJO01822880",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "666",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à déclenchement ZERO-RESET",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809362182"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à déclenchement ZERO-RESET",
+            "StandardisedArticleDescription": "Clé dynamométrique à déclenchement ZERO-RESET",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "666.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/666.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006660730"
+    ],
+    "URL": []
+}

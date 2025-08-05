@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR080001",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "TAMBOUR DE FREIN DENNIS",
+            "StandardisedArticleDescription": "TAMBOUR DE FREIN DENNIS",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR080001"
+    ],
+    "URL": []
+}

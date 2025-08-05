@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7664N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sweatshirt avec fermeture éclair longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809229607"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sweatshirt avec fermeture éclair longue",
+            "StandardisedArticleDescription": "Sweatshirt avec fermeture éclair longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7664N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7664N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076640006"
+    ],
+    "URL": []
+}

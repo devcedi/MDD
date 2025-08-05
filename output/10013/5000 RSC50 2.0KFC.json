@@ -1,0 +1,47 @@
+{
+    "ArtNo": "5000 RSC50 2.0/KFC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit comprenant 10 façades de tiroirs de couleurs pour combinaison d'ameublement d'atelier RSC50 2.0",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC50",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809527390"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit comprenant 10 façades de tiroirs de couleurs pour combinaison d'ameublement d'atelier RSC50 2.0",
+            "StandardisedArticleDescription": "Kit comprenant 10 façades de tiroirs de couleurs pour combinaison d'ameublement d'atelier RSC50 2.0",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "5000RSC502_dot_0_slash_KFC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/5000RSC502_dot_0_slash_KFC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "050001737"
+    ],
+    "URL": []
+}

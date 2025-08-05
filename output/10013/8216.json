@@ -1,0 +1,82 @@
+{
+    "ArtNo": "8216",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-câble AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "22",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "7/8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "595",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "7",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "M12",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "",
+            "Value": "63",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "",
+            "Value": "86",
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230784953"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-câble AISI 316",
+            "StandardisedArticleDescription": "Serre-câble AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8216.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8216.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082160222"
+    ],
+    "URL": []
+}

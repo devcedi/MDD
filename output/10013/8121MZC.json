@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8121MZC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaînes génoises galvanisées à chaud",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nØ mm",
+            "Value": "14,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nnr",
+            "Value": "34",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "1800",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "m",
+            "Value": "50",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809512211"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaînes génoises galvanisées à chaud",
+            "StandardisedArticleDescription": "Chaînes génoises galvanisées à chaud",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8121MZC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8121MZC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081210314"
+    ],
+    "URL": []
+}

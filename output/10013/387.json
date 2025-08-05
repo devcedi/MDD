@@ -1,0 +1,57 @@
+{
+    "ArtNo": "387",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à cintrer pour tubes cuivre et métaux non ferreux avec matrices interchangeables 3/16\"-1/4\"-5/16\"-3/8\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "255",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\n\"",
+            "Value": "3/16\"-1/4\"-5/16\"-3/8\"",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809329079"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à cintrer pour tubes cuivre et métaux non ferreux avec matrices interchangeables 3/16\"-1/4\"-5/16\"-3/8\"",
+            "StandardisedArticleDescription": "Pince à cintrer pour tubes cuivre et métaux non ferreux avec matrices interchangeables 3/16\"-1/4\"-5/16\"-3/8\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "387.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/387.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003870001"
+    ],
+    "URL": []
+}

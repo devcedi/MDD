@@ -1,0 +1,62 @@
+{
+    "ArtNo": "30BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chasse-clous antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "19",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230666532"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chasse-clous antidéflagrant",
+            "StandardisedArticleDescription": "Chasse-clous antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "30BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000300810"
+    ],
+    "URL": []
+}

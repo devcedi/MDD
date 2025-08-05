@@ -1,0 +1,57 @@
+{
+    "ArtNo": "720MC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à chocs, carré femelle 1/2\", colorée, pour vis 6 pans creux série normale, phosphatée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "35,0",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809153070"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à chocs, carré femelle 1/2\", colorée, pour vis 6 pans creux série normale, phosphatée",
+            "StandardisedArticleDescription": "Douille à chocs, carré femelle 1/2\", colorée, pour vis 6 pans creux série normale, phosphatée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720MC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720MC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007202024"
+    ],
+    "URL": []
+}

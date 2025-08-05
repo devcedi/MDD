@@ -1,0 +1,57 @@
+{
+    "ArtNo": "928/36A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée articulée carré mâle 3/4\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "545",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230196749"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée articulée carré mâle 3/4\"",
+            "StandardisedArticleDescription": "Poignée articulée carré mâle 3/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "928_slash_36A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/928_slash_36A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009280844"
+    ],
+    "URL": []
+}

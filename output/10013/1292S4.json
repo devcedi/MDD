@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1292/S4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 tournevis pour vis Phillips® (art. 1292)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230435961"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 tournevis pour vis Phillips® (art. 1292)",
+            "StandardisedArticleDescription": "Jeu de 4 tournevis pour vis Phillips® (art. 1292)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1292_slash_S4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1292_slash_S4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012920304"
+    ],
+    "URL": []
+}

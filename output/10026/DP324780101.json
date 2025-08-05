@@ -1,0 +1,82 @@
+{
+    "ArtNo": "DP32478/0101",
+    "Attributs": [
+        {
+            "Attribute": "M 001774 - FRUEHAUF",
+            "Value": "UJB 0358-001",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "UJY 0099",
+            "Value": "D278/H - 278.1.510",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1R 12-721",
+            "Value": "1DK 21B-8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "1DK 23L9131",
+            "Value": "1T 323-40 / 200751",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "H 2 500 324",
+            "Value": "M 001774",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D12B04",
+            "Value": "KR 509-9131",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "HT 18 002",
+            "Value": 128147123,
+            "SortNo": 7
+        },
+        {
+            "Attribute": "YP 09131W",
+            "Value": "",
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006282"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A123,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A123,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP32478/0101"
+    ],
+    "URL": []
+}

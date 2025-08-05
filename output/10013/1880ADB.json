@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1880ADB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pompe rotative pour AdBlue",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230900087"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pompe rotative pour AdBlue",
+            "StandardisedArticleDescription": "Pompe rotative pour AdBlue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1880ADB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1880ADB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018800101"
+    ],
+    "URL": []
+}

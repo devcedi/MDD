@@ -1,0 +1,34 @@
+{
+    "ArtNo": 93150016,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694016802"
+    ],
+    "GenArts": [
+        {
+            "Description": "ABC Embase filetée Regular M16X1,5",
+            "StandardisedArticleDescription": "ABC Embase filetée Regular M16X1,5",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "93150016"
+    ],
+    "URL": []
+}

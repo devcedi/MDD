@@ -1,0 +1,34 @@
+{
+    "ArtNo": 90208005,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694015928"
+    ],
+    "GenArts": [
+        {
+            "Description": "ABC Raccord pr tube à clipser Regular- T  8X1,0",
+            "StandardisedArticleDescription": "ABC Raccord pr tube à clipser Regular- T  8X1,0",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "90208005"
+    ],
+    "URL": []
+}

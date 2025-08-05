@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8182H/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Arrimage extérieur, 2500 kg, à deux crochets, boucle à rochet en polyester haute ténacité (PES)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "8100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L2\nmm",
+            "Value": "400",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "STF\ndaN",
+            "Value": "300",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L\nm",
+            "Value": "8,5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809422565"
+    ],
+    "GenArts": [
+        {
+            "Description": "Arrimage extérieur, 2500 kg, à deux crochets, boucle à rochet en polyester haute ténacité (PES)",
+            "StandardisedArticleDescription": "Arrimage extérieur, 2500 kg, à deux crochets, boucle à rochet en polyester haute ténacité (PES)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8182H_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8182H_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081820385"
+    ],
+    "URL": []
+}

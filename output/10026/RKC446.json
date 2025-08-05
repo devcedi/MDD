@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKC446",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966018007"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vis FHC M8 x 25 mm ",
+            "StandardisedArticleDescription": "Vis FHC M8 x 25 mm ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKC446"
+    ],
+    "URL": []
+}

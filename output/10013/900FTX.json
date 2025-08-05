@@ -1,0 +1,72 @@
+{
+    "ArtNo": "900FTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour écrous Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "E14",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "14,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "25",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "14,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "10,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230696522"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour écrous Torx®",
+            "StandardisedArticleDescription": "Douille pour écrous Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900FTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900FTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000414"
+    ],
+    "URL": []
+}

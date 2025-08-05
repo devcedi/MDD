@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1144D",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Dénudeur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "170",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm²",
+            "Value": "4,5÷240",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "2,5-18",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230486871"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dénudeur",
+            "StandardisedArticleDescription": "Dénudeur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1144D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1144D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011440010"
+    ],
+    "URL": []
+}

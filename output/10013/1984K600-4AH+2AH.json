@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1984/K600-4AH+2AH",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à chocs réversible, 20 V, sans balais, entraînement 1/2 » - 600 Nm",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809451565"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à chocs réversible, 20 V, sans balais, entraînement 1/2 » - 600 Nm",
+            "StandardisedArticleDescription": "Clé à chocs réversible, 20 V, sans balais, entraînement 1/2 » - 600 Nm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1984_slash_K600-4AH_plus_2AH.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1984_slash_K600-4AH_plus_2AH.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019840022"
+    ],
+    "URL": []
+}

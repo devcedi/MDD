@@ -1,0 +1,47 @@
+{
+    "ArtNo": "96BP/ASB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Trousse vide pour 96BP/AS8",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086606"
+    ],
+    "GenArts": [
+        {
+            "Description": "Trousse vide pour 96BP/AS8",
+            "StandardisedArticleDescription": "Trousse vide pour 96BP/AS8",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96BP_slash_ASB_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96BP_slash_ASB_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000960998"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1729MF/M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lames de rechange pour scie multifonction 1729MF",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809619323"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lames de rechange pour scie multifonction 1729MF",
+            "StandardisedArticleDescription": "Lames de rechange pour scie multifonction 1729MF",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1729MF_slash_M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1729MF_slash_M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017290503"
+    ],
+    "URL": []
+}

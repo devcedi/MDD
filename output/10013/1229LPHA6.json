@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1229LPH/A6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 micro-tournevis 1229LP-1229PH",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230516530"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 micro-tournevis 1229LP-1229PH",
+            "StandardisedArticleDescription": "Jeu de 6 micro-tournevis 1229LP-1229PH",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1229LPH_slash_A6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1229LPH_slash_A6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012290310"
+    ],
+    "URL": []
+}

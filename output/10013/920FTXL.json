@@ -1,0 +1,72 @@
+{
+    "ArtNo": "920FTX/L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour écrous Torx®, série longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "E20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "22,9",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "77",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "22,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "12,7",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230352695"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour écrous Torx®, série longue",
+            "StandardisedArticleDescription": "Douille pour écrous Torx®, série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920FTX_slash_L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920FTX_slash_L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200405"
+    ],
+    "URL": []
+}

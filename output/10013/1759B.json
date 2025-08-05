@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1759B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pèse-acides",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "280",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230088754"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pèse-acides",
+            "StandardisedArticleDescription": "Pèse-acides",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1759B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1759B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017590005"
+    ],
+    "URL": []
+}

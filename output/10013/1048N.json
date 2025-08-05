@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1048N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince multiprise entrepassée branches gainées avec PVC antidérapant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "400",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A max \nmm",
+            "Value": "96",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "81",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "19",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "1180",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809471723"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince multiprise entrepassée branches gainées avec PVC antidérapant",
+            "StandardisedArticleDescription": "Pince multiprise entrepassée branches gainées avec PVC antidérapant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1048N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1048N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010480940"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "78AS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale à frapper",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \n\"",
+            "Value": "3.1/8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "354",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "127,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "39,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230696829"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale à frapper",
+            "StandardisedArticleDescription": "Clé polygonale à frapper",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "78AS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/78AS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000780380"
+    ],
+    "URL": []
+}

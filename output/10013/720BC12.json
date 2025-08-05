@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720B/C12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique comprenant 12 douilles à chocs phosphatées 12 pans",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809501901"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique comprenant 12 douilles à chocs phosphatées 12 pans",
+            "StandardisedArticleDescription": "Coffret métallique comprenant 12 douilles à chocs phosphatées 12 pans",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720B_slash_C12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720B_slash_C12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007201912"
+    ],
+    "URL": []
+}

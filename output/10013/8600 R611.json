@@ -1,0 +1,47 @@
+{
+    "ArtNo": "8600 R/611",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Assortiment de 52 sangles de levage avec grilles, sans panneau",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230931432"
+    ],
+    "GenArts": [
+        {
+            "Description": "Assortiment de 52 sangles de levage avec grilles, sans panneau",
+            "StandardisedArticleDescription": "Assortiment de 52 sangles de levage avec grilles, sans panneau",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8600R_slash_611.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8600R_slash_611.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "086000611"
+    ],
+    "URL": []
+}

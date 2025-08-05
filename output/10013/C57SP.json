@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C57SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paroi porte-outils ",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230816951"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paroi porte-outils ",
+            "StandardisedArticleDescription": "Paroi porte-outils ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C57SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C57SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "057001420"
+    ],
+    "URL": []
+}

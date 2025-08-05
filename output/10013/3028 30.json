@@ -1,0 +1,82 @@
+{
+    "ArtNo": "3028 30",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Presse hydraulique avec piston mobile",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "850",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B\nmm",
+            "Value": "540",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "C\nmm",
+            "Value": "1850",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "1650",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "990",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "G\nmm",
+            "Value": "540",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "148",
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809368801"
+    ],
+    "GenArts": [
+        {
+            "Description": "Presse hydraulique avec piston mobile",
+            "StandardisedArticleDescription": "Presse hydraulique avec piston mobile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "302830.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/302830.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030280030"
+    ],
+    "URL": []
+}

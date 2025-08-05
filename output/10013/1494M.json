@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1494M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil pour bouchons à huile hexagonaux magnétique et flexible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "293",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "2,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "19",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230804699"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil pour bouchons à huile hexagonaux magnétique et flexible",
+            "StandardisedArticleDescription": "Outil pour bouchons à huile hexagonaux magnétique et flexible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1494M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1494M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014940401"
+    ],
+    "URL": []
+}

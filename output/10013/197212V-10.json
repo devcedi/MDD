@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1972/12V-10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Perceuse ultracompacte, 12V (corps de la machine, fourni sans batterie)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809447728"
+    ],
+    "GenArts": [
+        {
+            "Description": "Perceuse ultracompacte, 12V (corps de la machine, fourni sans batterie)",
+            "StandardisedArticleDescription": "Perceuse ultracompacte, 12V (corps de la machine, fourni sans batterie)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1972_slash_12V-10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1972_slash_12V-10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019720113"
+    ],
+    "URL": []
+}

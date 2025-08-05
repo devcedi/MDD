@@ -1,0 +1,47 @@
+{
+    "ArtNo": "562-1/VA - 562-2/VA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multiplicateurs de couple pour le serrage à droite et à gauche rapport 5,2:1 en coffret 562VV-A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809332017"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multiplicateurs de couple pour le serrage à droite et à gauche rapport 5,2:1 en coffret 562VV-A",
+            "StandardisedArticleDescription": "Multiplicateurs de couple pour le serrage à droite et à gauche rapport 5,2:1 en coffret 562VV-A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "562-1_slash_VA-562-2_slash_VA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/562-1_slash_VA-562-2_slash_VA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005620602"
+    ],
+    "URL": []
+}

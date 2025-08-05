@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900MB/C19",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "11 douilles 12 pans et 8 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230617589"
+    ],
+    "GenArts": [
+        {
+            "Description": "11 douilles 12 pans et 8 accessoires",
+            "StandardisedArticleDescription": "11 douilles 12 pans et 8 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900MB_slash_C19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900MB_slash_C19.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000977"
+    ],
+    "URL": []
+}

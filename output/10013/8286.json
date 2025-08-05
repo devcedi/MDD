@@ -1,0 +1,82 @@
+{
+    "ArtNo": "8286",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout à sertir à œil AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø D\nM",
+            "Value": "12\n",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "19,3",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "20",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "2400",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "180",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "",
+            "Value": "105",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "",
+            "Value": "12950",
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809405124"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout à sertir à œil AISI 316",
+            "StandardisedArticleDescription": "Embout à sertir à œil AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8286.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8286.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082860212"
+    ],
+    "URL": []
+}

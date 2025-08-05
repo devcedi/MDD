@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8440",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau mâle",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø D\nmm\n",
+            "Value": "20",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230904863"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau mâle",
+            "StandardisedArticleDescription": "Anneau mâle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8440.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8440.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "084400220"
+    ],
+    "URL": []
+}

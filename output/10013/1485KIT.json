@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1485/KIT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de tensiomètres de courroie de distribution",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230434339"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de tensiomètres de courroie de distribution",
+            "StandardisedArticleDescription": "Kit de tensiomètres de courroie de distribution",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1485_slash_KIT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1485_slash_KIT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014850100"
+    ],
+    "URL": []
+}

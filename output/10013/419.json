@@ -1,0 +1,57 @@
+{
+    "ArtNo": "419",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret pour marteau perforateur corps fraisé avec plaquette en métal dur, support SDS Plus",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "310",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230169859"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret pour marteau perforateur corps fraisé avec plaquette en métal dur, support SDS Plus",
+            "StandardisedArticleDescription": "Foret pour marteau perforateur corps fraisé avec plaquette en métal dur, support SDS Plus",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "419.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/419.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004190128"
+    ],
+    "URL": []
+}

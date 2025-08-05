@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1473FN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil de serrage et coupe des colliers en acier inox",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A mm",
+            "Value": "4,7÷9,5",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230752891"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil de serrage et coupe des colliers en acier inox",
+            "StandardisedArticleDescription": "Outil de serrage et coupe des colliers en acier inox",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1473FN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1473FN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014730501"
+    ],
+    "URL": []
+}

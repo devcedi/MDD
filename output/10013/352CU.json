@@ -1,0 +1,47 @@
+{
+    "ArtNo": "352C/U",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition articles 334, 345SB et 352U",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230352282"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition articles 334, 345SB et 352U",
+            "StandardisedArticleDescription": "Composition articles 334, 345SB et 352U",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "352C_slash_U.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/352C_slash_U.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003520110"
+    ],
+    "URL": []
+}

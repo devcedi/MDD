@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1498TB/6-12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Testeur de batterie analogique 6-12 V",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "290",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "170",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "P\nmm",
+            "Value": "75",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809368764"
+    ],
+    "GenArts": [
+        {
+            "Description": "Testeur de batterie analogique 6-12 V",
+            "StandardisedArticleDescription": "Testeur de batterie analogique 6-12 V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498TB_slash_6-12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498TB_slash_6-12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980420"
+    ],
+    "URL": []
+}

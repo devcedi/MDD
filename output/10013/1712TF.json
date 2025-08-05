@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1712TF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Aimant télescopique avec tête flexible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150÷590 ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "11",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F \nkg",
+            "Value": "1 ",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230718507"
+    ],
+    "GenArts": [
+        {
+            "Description": "Aimant télescopique avec tête flexible",
+            "StandardisedArticleDescription": "Aimant télescopique avec tête flexible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1712TF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1712TF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017120600"
+    ],
+    "URL": []
+}

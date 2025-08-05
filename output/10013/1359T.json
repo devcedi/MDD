@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1359T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau tête ronde plate et panne horizontale, manche en bois",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230761152"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau tête ronde plate et panne horizontale, manche en bois",
+            "StandardisedArticleDescription": "Marteau tête ronde plate et panne horizontale, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1359T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1359T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013590010"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1749A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pistolet à silicone modèle professionnel, tube en aluminium",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L min \nmm",
+            "Value": "360",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230100098"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pistolet à silicone modèle professionnel, tube en aluminium",
+            "StandardisedArticleDescription": "Pistolet à silicone modèle professionnel, tube en aluminium",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1749A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1749A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017490010"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "DP34004/0103",
+    "Attributs": [
+        {
+            "Attribute": "C292 - 292.0.531",
+            "Value": "1R 14-708",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1DK 32",
+            "Value": "1TC 360-45 / 204530",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S1 251-530 NS",
+            "Value": 750228,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D14U36",
+            "Value": "KR 836-01T",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006046"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A131,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A131,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34004/0103"
+    ],
+    "URL": []
+}

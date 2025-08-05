@@ -1,0 +1,40 @@
+{
+    "ArtNo": "2254F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Housse de protection avant",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230881713"
+    ],
+    "GenArts": [
+        {
+            "Description": "Housse de protection avant",
+            "StandardisedArticleDescription": "Housse de protection avant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022540150"
+    ],
+    "URL": []
+}

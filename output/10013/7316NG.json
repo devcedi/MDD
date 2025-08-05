@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7316NG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse en tissu mesh à haute respirabilité et croûte de velours avec maintien de la stabilité du talon",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809347554"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse en tissu mesh à haute respirabilité et croûte de velours avec maintien de la stabilité du talon",
+            "StandardisedArticleDescription": "Chaussure basse en tissu mesh à haute respirabilité et croûte de velours avec maintien de la stabilité du talon",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7316NG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7316NG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073160648"
+    ],
+    "URL": []
+}

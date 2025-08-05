@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1128BAX-HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ciseaux d'électriciens à double effet, avec profils à foret en acier inoxydable revêtu en DLC H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm²",
+            "Value": "50",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230860183"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ciseaux d'électriciens à double effet, avec profils à foret en acier inoxydable revêtu en DLC H-SAFE",
+            "StandardisedArticleDescription": "Ciseaux d'électriciens à double effet, avec profils à foret en acier inoxydable revêtu en DLC H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1128BAX-HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1128BAX-HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011284088"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1267MC/TX-D7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 tournevis colorés pour vis Torx®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809177915"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 tournevis colorés pour vis Torx®",
+            "StandardisedArticleDescription": "Jeu de 7 tournevis colorés pour vis Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1267MC_slash_TX-D7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1267MC_slash_TX-D7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012672307"
+    ],
+    "URL": []
+}

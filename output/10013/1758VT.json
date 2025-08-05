@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1758VT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit pour le contrôle des têtes",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230755212"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit pour le contrôle des têtes",
+            "StandardisedArticleDescription": "Kit pour le contrôle des têtes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1758VT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1758VT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017580100"
+    ],
+    "URL": []
+}

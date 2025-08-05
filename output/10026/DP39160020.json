@@ -1,0 +1,62 @@
+{
+    "ArtNo": "DP3916/0020",
+    "Attributs": [
+        {
+            "Attribute": "A 942 320 0117",
+            "Value": "A 942 320 4321",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A 942 327 0001",
+            "Value": "1KF 24-1-232",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1KF 24-21",
+            "Value": "1VSC 300-26 / 206785",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D13T01",
+            "Value": "",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004301"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane ",
+            "StandardisedArticleDescription": "Membrane ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A205,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A205,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP3916/0020"
+    ],
+    "URL": []
+}

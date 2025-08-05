@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1260N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis à lame courte pour vis à fente",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SxAxL \nmm",
+            "Value": "1,2x6,5x30",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "87",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "40,4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "6",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230604015"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis à lame courte pour vis à fente",
+            "StandardisedArticleDescription": "Tournevis à lame courte pour vis à fente",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1260N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1260N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012600106"
+    ],
+    "URL": []
+}

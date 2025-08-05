@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1477D/S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 clés 12 pans pour écrous tendeurs de courroie",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230689258"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 clés 12 pans pour écrous tendeurs de courroie",
+            "StandardisedArticleDescription": "Jeu de 5 clés 12 pans pour écrous tendeurs de courroie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1477D_slash_S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1477D_slash_S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014770200"
+    ],
+    "URL": []
+}

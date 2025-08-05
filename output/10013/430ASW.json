@@ -1,0 +1,67 @@
+{
+    "ArtNo": "430ASW",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 3 tarauds à main, filetage Whitworth, en acier au chrome",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "BSW",
+            "Value": "1\"x8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "16,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "110",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "50",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230171005"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 3 tarauds à main, filetage Whitworth, en acier au chrome",
+            "StandardisedArticleDescription": "Jeu de 3 tarauds à main, filetage Whitworth, en acier au chrome",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "430ASW.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/430ASW.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004300043"
+    ],
+    "URL": []
+}

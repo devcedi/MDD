@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910A/C16HR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique comprenant 1 cliquet avec 16 douilles 6 pans et 4 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230762210"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique comprenant 1 cliquet avec 16 douilles 6 pans et 4 accessoires",
+            "StandardisedArticleDescription": "Coffret métallique comprenant 1 cliquet avec 16 douilles 6 pans et 4 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910A_slash_C16HR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910A_slash_C16HR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100935"
+    ],
+    "URL": []
+}

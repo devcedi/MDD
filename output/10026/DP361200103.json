@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DP36120/0103",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005568"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Actros MP4\nExiste aussi en piston acier DP36120/0101 piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |Actros MP4\nExiste aussi en piston acier DP36120/0101 piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A161,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A161,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP36120/0103"
+    ],
+    "URL": []
+}

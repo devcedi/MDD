@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8201T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cage en tube AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \n”",
+            "Value": "3/4",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "2130",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "210",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230787206"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cage en tube AISI 316",
+            "StandardisedArticleDescription": "Cage en tube AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8201T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8201T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082010420"
+    ],
+    "URL": []
+}

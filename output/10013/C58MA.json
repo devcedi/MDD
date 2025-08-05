@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C58MA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "1 module d'une hauteur de 479 mm 1 coffre de rangement avec 1 porte pour établis modulables C58BC",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809602516"
+    ],
+    "GenArts": [
+        {
+            "Description": "1 module d'une hauteur de 479 mm 1 coffre de rangement avec 1 porte pour établis modulables C58BC",
+            "StandardisedArticleDescription": "1 module d'une hauteur de 479 mm 1 coffre de rangement avec 1 porte pour établis modulables C58BC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C58MA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C58MA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "058000681"
+    ],
+    "URL": []
+}

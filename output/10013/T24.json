@@ -1,0 +1,47 @@
+{
+    "ArtNo": "T24",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plateau thermoformé en ABS avec clés mixtes et clés hexagonales coudées en pouces",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809605883"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plateau thermoformé en ABS avec clés mixtes et clés hexagonales coudées en pouces",
+            "StandardisedArticleDescription": "Plateau thermoformé en ABS avec clés mixtes et clés hexagonales coudées en pouces",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "T24.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/T24.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024240024"
+    ],
+    "URL": []
+}

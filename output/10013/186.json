@@ -1,0 +1,52 @@
+{
+    "ArtNo": "186",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé auto-serrante à reprise automatique pour 6 pans de 8 à 32 mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "260",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230804200"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé auto-serrante à reprise automatique pour 6 pans de 8 à 32 mm",
+            "StandardisedArticleDescription": "Clé auto-serrante à reprise automatique pour 6 pans de 8 à 32 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "186.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/186.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001860008"
+    ],
+    "URL": []
+}

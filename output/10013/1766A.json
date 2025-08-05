@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1766A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ventouse simple",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " max \nkg",
+            "Value": "30",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230100166"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ventouse simple",
+            "StandardisedArticleDescription": "Ventouse simple",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1766A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1766A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017660005"
+    ],
+    "URL": []
+}

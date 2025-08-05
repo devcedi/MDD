@@ -1,0 +1,67 @@
+{
+    "ArtNo": "964BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à bonde antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "385",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "22,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "23,0",
+            "Value": "23",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A2 \nmm",
+            "Value": "4,5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230428369"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à bonde antidéflagrante",
+            "StandardisedArticleDescription": "Clé à bonde antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "964BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/964BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009640801"
+    ],
+    "URL": []
+}

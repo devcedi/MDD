@@ -1,0 +1,47 @@
+{
+    "ArtNo": "428FC/C7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret vide pour 428F/SPV",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809601403"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret vide pour 428F/SPV",
+            "StandardisedArticleDescription": "Coffret vide pour 428F/SPV",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "428FC_slash_C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/428FC_slash_C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004280205"
+    ],
+    "URL": []
+}

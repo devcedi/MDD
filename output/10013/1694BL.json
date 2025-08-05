@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1694B/L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mesure longue à ruban à poignée revolver corps en aluminium, ruban en acier verni, classe de précision II",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "50",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "12,5",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230463742"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mesure longue à ruban à poignée revolver corps en aluminium, ruban en acier verni, classe de précision II",
+            "StandardisedArticleDescription": "Mesure longue à ruban à poignée revolver corps en aluminium, ruban en acier verni, classe de précision II",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1694B_slash_L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1694B_slash_L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016940350"
+    ],
+    "URL": []
+}

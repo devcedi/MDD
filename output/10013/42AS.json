@@ -1,0 +1,72 @@
+{
+    "ArtNo": "42AS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "​ \n\"",
+            "Value": "1.1/2x1.1/2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "433",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm \n​",
+            "Value": "77,9",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "54,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S1 \nmm​",
+            "Value": "11,3",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809593630"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte",
+            "StandardisedArticleDescription": "Clé mixte",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42AS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42AS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000421138"
+    ],
+    "URL": []
+}

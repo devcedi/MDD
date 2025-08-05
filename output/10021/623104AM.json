@@ -1,0 +1,34 @@
+{
+    "ArtNo": "623104AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694008760"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maître cylindre Renault 5000877187",
+            "StandardisedArticleDescription": "Maître cylindre Renault 5000877187",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C26",
+            "Extension": "",
+            "Path": "/img/10021/=C26"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A26"
+    ],
+    "URL": []
+}

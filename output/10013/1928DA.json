@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1928DA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à chocs réversible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \n”",
+            "Value": "3/4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nkg",
+            "Value": "4,3",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230587912"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à chocs réversible",
+            "StandardisedArticleDescription": "Clé à chocs réversible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1928DA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1928DA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019280022"
+    ],
+    "URL": []
+}

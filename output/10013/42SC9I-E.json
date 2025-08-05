@@ -1,0 +1,47 @@
+{
+    "ArtNo": "42/SC9I-E",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 clés mixtes avec support compact",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230959221"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 clés mixtes avec support compact",
+            "StandardisedArticleDescription": "Jeu de 9 clés mixtes avec support compact",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42_slash_SC9I-E_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42_slash_SC9I-E_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000421088"
+    ],
+    "URL": []
+}

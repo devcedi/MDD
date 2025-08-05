@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1585/5I - 6I - 7I",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur hydraulique 3 griffes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmin÷Max\nmm",
+            "Value": "50÷350",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "335",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "280",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "N\nMax",
+            "Value": "150000",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230099002"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur hydraulique 3 griffes",
+            "StandardisedArticleDescription": "Extracteur hydraulique 3 griffes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1585_slash_5I-6I-7I.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1585_slash_5I-6I-7I.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015850007"
+    ],
+    "URL": []
+}

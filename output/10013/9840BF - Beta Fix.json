@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9840BF - Beta Fix",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "BETA Fix - Colle de fixation instantanée ultra forte avec effet ventouse",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "290",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809555317"
+    ],
+    "GenArts": [
+        {
+            "Description": "BETA Fix - Colle de fixation instantanée ultra forte avec effet ventouse",
+            "StandardisedArticleDescription": "BETA Fix - Colle de fixation instantanée ultra forte avec effet ventouse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9840BF-BetaFix.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9840BF-BetaFix.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098400029"
+    ],
+    "URL": []
+}

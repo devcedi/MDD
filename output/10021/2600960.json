@@ -1,0 +1,34 @@
+{
+    "ArtNo": 2600960,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694005080"
+    ],
+    "GenArts": [
+        {
+            "Description": "Raufoss ABC box 101 pièces",
+            "StandardisedArticleDescription": "Raufoss ABC box 101 pièces",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A23"
+    ],
+    "URL": []
+}

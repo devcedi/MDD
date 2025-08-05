@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C58CSH 6C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "1 module d'une hauteur de 479 mm comprenant 6 tiroirs pour établis modulables C58BC",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809602639"
+    ],
+    "GenArts": [
+        {
+            "Description": "1 module d'une hauteur de 479 mm comprenant 6 tiroirs pour établis modulables C58BC",
+            "StandardisedArticleDescription": "1 module d'une hauteur de 479 mm comprenant 6 tiroirs pour établis modulables C58BC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C58CSH6C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C58CSH6C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "058000689"
+    ],
+    "URL": []
+}

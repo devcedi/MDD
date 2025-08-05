@@ -1,0 +1,37 @@
+{
+    "ArtNo": "MPEP06160600",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Dragonne standard (longueur 600mm)",
+            "StandardisedArticleDescription": "Dragonne standard (longueur 600mm)",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "MPEP06160600",
+            "Extension": "",
+            "Path": "/img/10001/MPEP06160600"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "MPEP06160600",
+            "Extension": "",
+            "Path": "/img/10001/MPEP06160600",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

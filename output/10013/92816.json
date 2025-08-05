@@ -1,0 +1,67 @@
+{
+    "ArtNo": "928/16",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Augmentateur carré femelle 3/4\" et mâle 1\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "65",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "34",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1\"",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230036335"
+    ],
+    "GenArts": [
+        {
+            "Description": "Augmentateur carré femelle 3/4\" et mâle 1\"",
+            "StandardisedArticleDescription": "Augmentateur carré femelle 3/4\" et mâle 1\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "928_slash_16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/928_slash_16.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009280807"
+    ],
+    "URL": []
+}

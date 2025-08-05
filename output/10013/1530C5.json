@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1530/C5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit d'extraction moyeux et roulements de roues à a 3, 4, 5 trous",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230737317"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit d'extraction moyeux et roulements de roues à a 3, 4, 5 trous",
+            "StandardisedArticleDescription": "Kit d'extraction moyeux et roulements de roues à a 3, 4, 5 trous",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1530_slash_C5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1530_slash_C5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015300300"
+    ],
+    "URL": []
+}

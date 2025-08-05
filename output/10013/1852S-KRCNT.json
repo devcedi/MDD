@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1852S-KR/CNT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de pièces détachées pour bobine de contact",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809206646"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de pièces détachées pour bobine de contact",
+            "StandardisedArticleDescription": "Kit de pièces détachées pour bobine de contact",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1852S-KR_slash_CNT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1852S-KR_slash_CNT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018520522"
+    ],
+    "URL": []
+}

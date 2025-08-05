@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1658SP/1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support pour micromètre",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A max \nmm",
+            "Value": "18",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "LxSxH \nmm",
+            "Value": "160x115x120",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230179254"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support pour micromètre",
+            "StandardisedArticleDescription": "Support pour micromètre",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1658SP_slash_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1658SP_slash_1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016580910"
+    ],
+    "URL": []
+}

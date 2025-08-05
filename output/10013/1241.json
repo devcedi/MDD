@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1241",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis à zone de frappe pour vis à fente",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "2,5x14x250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "375",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809326061"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis à zone de frappe pour vis à fente",
+            "StandardisedArticleDescription": "Tournevis à zone de frappe pour vis à fente",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1241.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1241.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012410076"
+    ],
+    "URL": []
+}

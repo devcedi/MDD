@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1342PMR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Protecteur pour 1342",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230043654"
+    ],
+    "GenArts": [
+        {
+            "Description": "Protecteur pour 1342",
+            "StandardisedArticleDescription": "Protecteur pour 1342",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1342PMR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1342PMR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013420003"
+    ],
+    "URL": []
+}

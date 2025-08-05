@@ -1,0 +1,57 @@
+{
+    "ArtNo": "720/25",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cardan carrés mâle et femelle 1/2\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "64",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "28",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230784809"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cardan carrés mâle et femelle 1/2\"",
+            "StandardisedArticleDescription": "Cardan carrés mâle et femelle 1/2\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720_slash_25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720_slash_25.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200831"
+    ],
+    "URL": []
+}

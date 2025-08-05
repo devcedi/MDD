@@ -1,0 +1,154 @@
+En utilisant le template xls fourni ci-joint.
+
+Génère moi un script python qui va récupérer les données du fichier excel et générer les fichiers json correspondant.
+
+Le module doit générer un fichier par ligne
+
+il doit nommer le fichier en fonction du artno indiqué dans le fichier et placer le fichier dans le dossier qui correspondra a la valeur indiquée dans la colonne brandno.
+
+Attention, vu que le nom du fichier correspondra au artno, il faudra qu'il soit encoder.
+
+La correspondance des champs sera la suivante : 
+
+les données du fichier excel commeence à la ligne 2.
+
+Correspondance xls et json :
+
+colonne A (ArtNo) dans la clé json "ArtNo"
+colonne B (BrandNo) dans la clé json "BrandNo"
+colonne C (BrandName) dans la clé json "BrandName"
+colonne D (LogoBrand) dans la clé json "LogoBrand"
+	La valeur indiqué dans la cellule sera intégrée dans la sous clé de "LogoBrand" :
+		"Name" = valeur de la cellule
+		"Extension" = récupération de l'extention du fichier indiqué dans la cellule
+		"Path"= chemin de l'image qui est constituté d'une racine fixe "img" et qui est concaténé à la valeur de la clé "BrandNo" et a la valeur de la cellule
+colonne E (Ref. Commercial) dans la clé json "TradeNo": [] en intégrant la valeur en l'état au format string dans l'array
+colonne F (EAN) dans la clé json dans la clé json "GTIN": [] en intégrant la valeur en l'état au format string dans l'array
+colonne G (Description) dans la clé json "Description" et "StandardisedArticleDescription" de "GenArts", initialisé la clé "GenartNo" avec la valeur du "BrandNo" multiplié par -1
+colonne H (Picture) dans la clé json "Pictures", la sous clé "SortNo", prendra la valeur 1 et la sous clé "Path" aura une racine fixe "/img" concaténé au brandno et concaténé à la valeur de la cellule "Picture"
+colonne DK (Lien) dans la clé json "URL" et mettre la valeur de la cellule dans la clé "Url":
+
+
+Enfin pour générer les attributs, le module devra parcourir les colonnes du template en démarrant à la colonne "O" jusqu'à la colonne "DJ"
+Les colonnes seront a traiter par deux. Durant le traitement la premiere colonne correspondra à l'attribut et la seconde à la valeur de l'attribut.
+Ainsi tous les attributs seront intégrés dans "Attributs" [].
+
+
+La "Attribute" sera affecté avec la valeur de la premiere colonne du couple traité (attribut) et "Value" sera affecté avec la valeur de la seconde colonne du couple traité (Value)
+le "SortNo" démarrera à 1 et sera incrémenté de 1 pour chaque attribut trouvé.
+On arretera le traitement des attributs dans le cas ou le coupe attribute + value du fichier excel est vide.
+
+
+Soit un exemple de json suivant à générer dans un fichier :
+{
+    "ArtNo": "1 987 301 026",
+    "Attributs": [
+        {
+            "Attribute": "Voltage [V]",
+            "CritNo": 6,
+            "SortNo": 1,
+            "Type": "N",
+            "Value": "12"
+        },
+        {
+            "Attribute": "Capacité nominale [W]",
+            "CritNo": 53,
+            "SortNo": 2,
+            "Type": "A",
+            "Value": "5"
+        },
+        {
+            "Attribute": "Type de lampe",
+            "CritNo": 437,
+            "KeyTabNo": "105",
+            "SortNo": 3,
+            "Type": "K",
+            "Value": "W5W"
+        },
+        {
+            "Attribute": "Type de culot de l’ampoule",
+            "CritNo": 4120,
+            "KeyTabNo": "426",
+            "SortNo": 4,
+            "Type": "K",
+            "Value": "W2.1x9.5d"
+        }
+    ],
+    "BrandName": "BOSCH",
+    "BrandNo": "30",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "AssemblyGroup": "Éclairage",
+            "Description": "Ampoule, feu d'accès",
+            "GenArtNo": 3005,
+            "PurposeOfUse": "Lampe de seuil",
+            "StandardisedArticleDescription": "Ampoule"
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "0030001.JPG",
+            "Path": "/img/0030/0030001.JPG"
+        }
+    ],
+    "Pictures": [
+        {
+            "Extension": "JPG",
+            "Name": "1987302206PH01WHCO0000",
+            "Path": "/img/0030/1987302206PH01WHCO0000.JPG",
+            "SortNo": 1
+        },
+        {
+            "Extension": "JPG",
+            "Name": "1987302206PH07WHCO0000",
+            "Path": "/img/0030/1987302206PH07WHCO0000.JPG",
+            "SortNo": 2
+        },
+        {
+            "Extension": "JPG",
+            "Name": "1987302206PH13WHCO0000",
+            "Path": "/img/0030/1987302206PH13WHCO0000.JPG",
+            "SortNo": 3
+        },
+        {
+            "Extension": "JPG",
+            "Name": "1987302206PH19WHCO0000",
+            "Path": "/img/0030/1987302206PH19WHCO0000.JPG",
+            "SortNo": 4
+        },
+        {
+            "Extension": "JPG",
+            "Name": "1987301026PHBOWHCO0000",
+            "Path": "/img/0030/1987301026PHBOWHCO0000.JPG",
+            "SortNo": 5
+        },
+        {
+            "Extension": "JPG",
+            "Name": "1987302206LIFRWHCO00MM",
+            "Path": "/img/0030/1987302206LIFRWHCO00MM.JPG",
+            "SortNo": 6
+        },
+        {
+            "Extension": "JPG",
+            "Name": "1987301026DRCOWHCO0000",
+            "Path": "/img/0030/1987301026DRCOWHCO0000.JPG",
+            "SortNo": 7
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "W5W",
+        "12V 5W W5W PURE LIGHT"
+    ],
+    "URL": [
+        {
+            "Url": "http://emea.resource.bosch.com/AA/internet/enfinity/img/products/1987302206PDANWHCO0000/index.html"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3918MML",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étau léger à un bras, pliable",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809437170"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étau léger à un bras, pliable",
+            "StandardisedArticleDescription": "Étau léger à un bras, pliable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3918MML.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3918MML.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039180010"
+    ],
+    "URL": []
+}

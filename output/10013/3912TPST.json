@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3912TP/ST",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour fourches SUNTOUR",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "31",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "18",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809330570"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour fourches SUNTOUR",
+            "StandardisedArticleDescription": "Douille pour fourches SUNTOUR",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3912TP_slash_ST.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3912TP_slash_ST.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039120062"
+    ],
+    "URL": []
+}

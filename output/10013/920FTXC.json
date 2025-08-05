@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920FTX/C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 8 douilles pour écrous Torx® (art. 920FTX) en coffret",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230342689"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 8 douilles pour écrous Torx® (art. 920FTX) en coffret",
+            "StandardisedArticleDescription": "Jeu de 8 douilles pour écrous Torx® (art. 920FTX) en coffret",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920FTX_slash_C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920FTX_slash_C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200391"
+    ],
+    "URL": []
+}

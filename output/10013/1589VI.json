@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1589VI",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Vis hydraulique pour 1580/8I et 1585/5I-1585/6I-1585/7I",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "450",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A1 \nmm",
+            "Value": "170",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "110",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "45",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "17-41",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230099019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vis hydraulique pour 1580/8I et 1585/5I-1585/6I-1585/7I",
+            "StandardisedArticleDescription": "Vis hydraulique pour 1580/8I et 1585/5I-1585/6I-1585/7I",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1589VI.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1589VI.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015890001"
+    ],
+    "URL": []
+}

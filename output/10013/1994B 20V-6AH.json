@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1994B 20V-6AH",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Batterie lithium-ion 6 Ah pour outils BETA 20 V",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809350783"
+    ],
+    "GenArts": [
+        {
+            "Description": "Batterie lithium-ion 6 Ah pour outils BETA 20 V",
+            "StandardisedArticleDescription": "Batterie lithium-ion 6 Ah pour outils BETA 20 V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1994B20V-6AH.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1994B20V-6AH.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019940066"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1851VK-12V ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "12 bâtonnets de colle thermofusible",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230847924"
+    ],
+    "GenArts": [
+        {
+            "Description": "12 bâtonnets de colle thermofusible",
+            "StandardisedArticleDescription": "12 bâtonnets de colle thermofusible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1851VK-12V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1851VK-12V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018510072"
+    ],
+    "URL": []
+}

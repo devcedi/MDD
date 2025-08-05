@@ -1,0 +1,47 @@
+{
+    "ArtNo": "96BP-CL/SC9",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Trousse vide pour 96BP-CL/SC9",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230959887"
+    ],
+    "GenArts": [
+        {
+            "Description": "Trousse vide pour 96BP-CL/SC9",
+            "StandardisedArticleDescription": "Trousse vide pour 96BP-CL/SC9",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96BP-CL_slash_SC9.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96BP-CL_slash_SC9.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000961629"
+    ],
+    "URL": []
+}

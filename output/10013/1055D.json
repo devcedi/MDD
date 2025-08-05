@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1055D",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau pour écrous et profilés cylindriques",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "235",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A1 max\nmm",
+            "Value": "43",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809349930"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau pour écrous et profilés cylindriques",
+            "StandardisedArticleDescription": "Pince-étau pour écrous et profilés cylindriques",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1055D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1055D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010550123"
+    ],
+    "URL": []
+}

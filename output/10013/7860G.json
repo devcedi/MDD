@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7860G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon de travail léger Nouveau design - Confort amélioré",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "5XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "62",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809524771"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon de travail léger Nouveau design - Confort amélioré",
+            "StandardisedArticleDescription": "Pantalon de travail léger Nouveau design - Confort amélioré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7860G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7860G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078600808"
+    ],
+    "URL": []
+}

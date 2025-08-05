@@ -1,0 +1,67 @@
+{
+    "ArtNo": "A00Z00-039",
+    "Attributs": [
+        {
+            "Attribute": "Gamme produit",
+            "Value": "CLASSIC",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Logo Département",
+            "Value": "039",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Longueur en mm",
+            "Value": 520,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Largeur en mm",
+            "Value": 110,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Conditionnement",
+            "Value": "par 50",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "FAAB FABRICAUTO",
+    "BrandNo": "10050",
+    "Documents": [],
+    "GTIN": [
+        "3661174021474"
+    ],
+    "GenArts": [
+        {
+            "Description": "CLASSIC - Plaque aluminium SIV - Entrée de gamme",
+            "StandardisedArticleDescription": "CLASSIC - Plaque aluminium SIV - Entrée de gamme",
+            "GenArtNo": -10050
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "wp_logo-ff.png",
+            "Extension": "PNG",
+            "Path": "/img/10050/wp_logo-ff.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "plaque_aluminium_classic_longue_520x110_A00Z00-039.webp",
+            "Extension": "WEBP",
+            "Path": "/img/10050/plaque_aluminium_classic_longue_520x110_A00Z00-039.webp",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "A00Z00-039"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1878 2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cuve pour récupération des liquides",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nl",
+            "Value": "2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "85",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809116525"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cuve pour récupération des liquides",
+            "StandardisedArticleDescription": "Cuve pour récupération des liquides",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "18782.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18782.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018780002"
+    ],
+    "URL": []
+}

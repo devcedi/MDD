@@ -1,0 +1,62 @@
+{
+    "ArtNo": 24230001001,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "cartouce",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Contient des ingrédients sans allergènes",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Sans parfum, conservateurs, dissolvants et colorants",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Nettoyage approfondi par les micro-granulés rajoutés",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602005537"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Sensitive One2Clean 4x3L ",
+            "StandardisedArticleDescription": "Dreumex Sensitive One2Clean 4x3L ",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Sensitive01",
+            "Extension": "",
+            "Path": "/img/10006/Sensitive01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "24230001001"
+    ],
+    "URL": []
+}

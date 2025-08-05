@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920A/SB13",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 douilles 6 pans (art. 920A) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230034027"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 douilles 6 pans (art. 920A) sur support",
+            "StandardisedArticleDescription": "Jeu de 13 douilles 6 pans (art. 920A) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920A_slash_SB13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920A_slash_SB13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200040"
+    ],
+    "URL": []
+}

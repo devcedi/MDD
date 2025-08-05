@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7426P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "2 paires de chaussettes maxi sneakers en coton avec plante du pied en coton éponge",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "L",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "43-46",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809506173"
+    ],
+    "GenArts": [
+        {
+            "Description": "2 paires de chaussettes maxi sneakers en coton avec plante du pied en coton éponge",
+            "StandardisedArticleDescription": "2 paires de chaussettes maxi sneakers en coton avec plante du pied en coton éponge",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7426P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7426P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "074260104"
+    ],
+    "URL": []
+}

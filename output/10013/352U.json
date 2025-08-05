@@ -1,0 +1,57 @@
+{
+    "ArtNo": "352U",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Appareil à collets réglable pour cuivre et alliages légers",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm - \"",
+            "Value": "5÷16 \n3/16÷5/8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "130",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230352299"
+    ],
+    "GenArts": [
+        {
+            "Description": "Appareil à collets réglable pour cuivre et alliages légers",
+            "StandardisedArticleDescription": "Appareil à collets réglable pour cuivre et alliages légers",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "352U.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/352U.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003520101"
+    ],
+    "URL": []
+}

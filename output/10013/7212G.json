@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7212G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "CHAUSSURES DE TRAVAIL NEW FLEX Chaussures de sécurité Beta qui se caractérisent par leur extrême flexibilité tout en garantissant résistance et durabilité.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809429731"
+    ],
+    "GenArts": [
+        {
+            "Description": "CHAUSSURES DE TRAVAIL NEW FLEX Chaussures de sécurité Beta qui se caractérisent par leur extrême flexibilité tout en garantissant résistance et durabilité.",
+            "StandardisedArticleDescription": "CHAUSSURES DE TRAVAIL NEW FLEX Chaussures de sécurité Beta qui se caractérisent par leur extrême flexibilité tout en garantissant résistance et durabilité.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7212G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7212G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072120348"
+    ],
+    "URL": []
+}

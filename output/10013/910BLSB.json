@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910BL/SB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 14 douilles 12 pans série longue (art. 910BL) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230081625"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 14 douilles 12 pans série longue (art. 910BL) sur support",
+            "StandardisedArticleDescription": "Jeu de 14 douilles 12 pans série longue (art. 910BL) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910BL_slash_SB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910BL_slash_SB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100340"
+    ],
+    "URL": []
+}

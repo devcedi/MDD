@@ -1,0 +1,52 @@
+{
+    "ArtNo": "999D",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Brucelles à becs coudés dégagés type aiguille résistant aux acides, antimagnétique pointes lisses finition semi-polie en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "115",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230087719"
+    ],
+    "GenArts": [
+        {
+            "Description": "Brucelles à becs coudés dégagés type aiguille résistant aux acides, antimagnétique pointes lisses finition semi-polie en acier inoxydable",
+            "StandardisedArticleDescription": "Brucelles à becs coudés dégagés type aiguille résistant aux acides, antimagnétique pointes lisses finition semi-polie en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "999D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/999D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009990021"
+    ],
+    "URL": []
+}

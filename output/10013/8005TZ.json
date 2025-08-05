@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8005TZ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur à deux œillets, cage en tube galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n”",
+            "Value": "1.3/8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "6500",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230865201"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur à deux œillets, cage en tube galvanisé",
+            "StandardisedArticleDescription": "Tendeur à deux œillets, cage en tube galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8005TZ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8005TZ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080050536"
+    ],
+    "URL": []
+}

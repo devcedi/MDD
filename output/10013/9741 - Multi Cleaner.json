@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9741 - Multi Cleaner",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Détergent/dégraissant multifonction",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "400",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809128269"
+    ],
+    "GenArts": [
+        {
+            "Description": "Détergent/dégraissant multifonction",
+            "StandardisedArticleDescription": "Détergent/dégraissant multifonction",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9741-MultiCleaner.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9741-MultiCleaner.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "097411040"
+    ],
+    "URL": []
+}

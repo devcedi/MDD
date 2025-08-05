@@ -1,0 +1,62 @@
+{
+    "ArtNo": "412",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret taillé en acier HSS, rectifié poli, série courte",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "13,00",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "151",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "101",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230096933"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret taillé en acier HSS, rectifié poli, série courte",
+            "StandardisedArticleDescription": "Foret taillé en acier HSS, rectifié poli, série courte",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "412.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/412.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004120160"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C45PRO 2.0 MWS/W",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Servante mobile Work Station avec 7 tiroirs et bac à déchets intégré",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaC45PRO",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809442464"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servante mobile Work Station avec 7 tiroirs et bac à déchets intégré",
+            "StandardisedArticleDescription": "Servante mobile Work Station avec 7 tiroirs et bac à déchets intégré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_C45PRO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_C45PRO.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C45PRO2_dot_0MWS_slash_W.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C45PRO2_dot_0MWS_slash_W.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "045000191"
+    ],
+    "URL": []
+}

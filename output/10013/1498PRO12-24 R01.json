@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498PRO/12-24 R01",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Batterie de rechange 12V, pour boosters 1498PRO/12-24V",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809563930"
+    ],
+    "GenArts": [
+        {
+            "Description": "Batterie de rechange 12V, pour boosters 1498PRO/12-24V",
+            "StandardisedArticleDescription": "Batterie de rechange 12V, pour boosters 1498PRO/12-24V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498PRO_slash_12-24R01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498PRO_slash_12-24R01.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980825"
+    ],
+    "URL": []
+}

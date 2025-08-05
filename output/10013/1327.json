@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1327",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Palette simple longue bombée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "1075",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230043531"
+    ],
+    "GenArts": [
+        {
+            "Description": "Palette simple longue bombée",
+            "StandardisedArticleDescription": "Palette simple longue bombée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1327.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1327.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013270001"
+    ],
+    "URL": []
+}

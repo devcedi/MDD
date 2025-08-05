@@ -1,0 +1,67 @@
+{
+    "ArtNo": "900/25",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cardan carrés mâle et femelle 1/4\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "41",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "12,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230032269"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cardan carrés mâle et femelle 1/4\"",
+            "StandardisedArticleDescription": "Cardan carrés mâle et femelle 1/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_25.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000830"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1431/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur de vis et goujons cassés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "14÷18",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "9,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "82",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "9",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809146300"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur de vis et goujons cassés",
+            "StandardisedArticleDescription": "Extracteur de vis et goujons cassés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1431_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1431_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014310055"
+    ],
+    "URL": []
+}

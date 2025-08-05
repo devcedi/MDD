@@ -1,0 +1,72 @@
+{
+    "ArtNo": "360HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes modèle Stillson H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmax \"",
+            "Value": "2\"1/2 gas",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmax mm",
+            "Value": "76",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "38",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "27",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230859859"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes modèle Stillson H-SAFE",
+            "StandardisedArticleDescription": "Clé serre-tubes modèle Stillson H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "360HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/360HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003604060"
+    ],
+    "URL": []
+}

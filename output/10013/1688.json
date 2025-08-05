@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1688",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pointe à tracer en acier trempé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "2",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086163"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pointe à tracer en acier trempé",
+            "StandardisedArticleDescription": "Pointe à tracer en acier trempé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1688.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1688.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016880020"
+    ],
+    "URL": []
+}

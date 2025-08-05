@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR010018",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "DISQUE DE FREIN AVEC KIT",
+            "StandardisedArticleDescription": "DISQUE DE FREIN AVEC KIT",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR010018"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "142MC/SC9I-E",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 clés mixtes à cliquet réversible colorées avec support compact",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809152943"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 clés mixtes à cliquet réversible colorées avec support compact",
+            "StandardisedArticleDescription": "Jeu de 9 clés mixtes à cliquet réversible colorées avec support compact",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "142MC_slash_SC9I-E.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/142MC_slash_SC9I-E.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001422088"
+    ],
+    "URL": []
+}

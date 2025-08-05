@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7381N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "CHAUSSURES DE TRAVAIL 0-GRAVITY EXTREME Les chaussures de sécurité Beta allient légèreté, confort et résistance, même pour le travail dans des conditions extrêmes.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "321",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809405735"
+    ],
+    "GenArts": [
+        {
+            "Description": "CHAUSSURES DE TRAVAIL 0-GRAVITY EXTREME Les chaussures de sécurité Beta allient légèreté, confort et résistance, même pour le travail dans des conditions extrêmes.",
+            "StandardisedArticleDescription": "CHAUSSURES DE TRAVAIL 0-GRAVITY EXTREME Les chaussures de sécurité Beta allient légèreté, confort et résistance, même pour le travail dans des conditions extrêmes.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7381N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7381N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073810048"
+    ],
+    "URL": []
+}

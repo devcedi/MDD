@@ -1,0 +1,52 @@
+{
+    "ArtNo": "DP31924/0020",
+    "Attributs": [
+        {
+            "Attribute": "1T 323-40 / 202302",
+            "Value": "M 001782",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D12B01",
+            "Value": "KR 509-25",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004509"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane | ",
+            "StandardisedArticleDescription": "Membrane | ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A122,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A122,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP31924/0020"
+    ],
+    "URL": []
+}

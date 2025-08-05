@@ -1,0 +1,57 @@
+{
+    "ArtNo": "357F3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gabarit à trois flacons pur installation connexions sanitaires",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\n\"",
+            "Value": "3/8\" / 1/2\"",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "90÷220",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230731087"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gabarit à trois flacons pur installation connexions sanitaires",
+            "StandardisedArticleDescription": "Gabarit à trois flacons pur installation connexions sanitaires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "357F3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/357F3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003570100"
+    ],
+    "URL": []
+}

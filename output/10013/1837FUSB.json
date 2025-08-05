@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1837F/USB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lampe rechargeable magnétique articulée à LEDs haute luminosité, en aluminium anodisé renforcé, jusqu'à 600 Lumens",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L",
+            "Value": "460",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809127422"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lampe rechargeable magnétique articulée à LEDs haute luminosité, en aluminium anodisé renforcé, jusqu'à 600 Lumens",
+            "StandardisedArticleDescription": "Lampe rechargeable magnétique articulée à LEDs haute luminosité, en aluminium anodisé renforcé, jusqu'à 600 Lumens",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1837F_slash_USB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1837F_slash_USB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018370060"
+    ],
+    "URL": []
+}

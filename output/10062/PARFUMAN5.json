@@ -1,0 +1,62 @@
+{
+    "ArtNo": "PARFUMAN5",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Parfum PARFUM DE LUXE THE MAN 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Longue tenue ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Parfume agréablement et durablement l’habitacle, assainit l’atmosphère. ",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Pulvériser une à deux fois dans l’habitacle.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101014034"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "PARFUMAN5.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/PARFUMAN5.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "PARFUMAN5"
+    ],
+    "URL": []
+}

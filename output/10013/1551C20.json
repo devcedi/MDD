@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1551/C20",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit pour démontage têtes amortisseurs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809116488"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit pour démontage têtes amortisseurs",
+            "StandardisedArticleDescription": "Kit pour démontage têtes amortisseurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1551_slash_C20.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1551_slash_C20.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015510020"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900/C39N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret compact composé de 11 douilles 6 pans, 21 embouts et 7 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809238494"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret compact composé de 11 douilles 6 pans, 21 embouts et 7 accessoires",
+            "StandardisedArticleDescription": "Coffret compact composé de 11 douilles 6 pans, 21 embouts et 7 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_C39N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_C39N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000947"
+    ],
+    "URL": []
+}

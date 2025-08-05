@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9521OB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Parapluie en nylon 210T, diamètre 100 cm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø\ncm",
+            "Value": "100",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230942735"
+    ],
+    "GenArts": [
+        {
+            "Description": "Parapluie en nylon 210T, diamètre 100 cm",
+            "StandardisedArticleDescription": "Parapluie en nylon 210T, diamètre 100 cm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9521OB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9521OB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095210021"
+    ],
+    "URL": []
+}

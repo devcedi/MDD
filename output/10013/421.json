@@ -1,0 +1,72 @@
+{
+    "ArtNo": "421",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Fraise à noyer pour têtes de vis cylindriques avec guide de centrage en acier HSS",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "100",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "20",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "D1 \nmm",
+            "Value": "13,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "12,5",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230871578"
+    ],
+    "GenArts": [
+        {
+            "Description": "Fraise à noyer pour têtes de vis cylindriques avec guide de centrage en acier HSS",
+            "StandardisedArticleDescription": "Fraise à noyer pour têtes de vis cylindriques avec guide de centrage en acier HSS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "421.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/421.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004210012"
+    ],
+    "URL": []
+}

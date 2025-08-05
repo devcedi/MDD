@@ -1,0 +1,62 @@
+{
+    "ArtNo": "921BA/21 - 921BA/22",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge carrés mâle et femelle 1/2\", antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "31",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "510",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230666716"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge carrés mâle et femelle 1/2\", antidéflagrante",
+            "StandardisedArticleDescription": "Rallonge carrés mâle et femelle 1/2\", antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "921BA_slash_21-921BA_slash_22.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/921BA_slash_21-921BA_slash_22.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009210844"
+    ],
+    "URL": []
+}

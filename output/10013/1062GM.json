@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1062GM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau col de cygne à machoires orientables",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "460",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "255",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "255",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230935492"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau col de cygne à machoires orientables",
+            "StandardisedArticleDescription": "Pince-étau col de cygne à machoires orientables",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1062GM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1062GM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010620245"
+    ],
+    "URL": []
+}

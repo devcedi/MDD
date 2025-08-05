@@ -1,0 +1,52 @@
+{
+    "ArtNo": "450PA/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret pilote HSS pour 450AL/2",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ØxL \nmm",
+            "Value": "6,35x80",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230092331"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret pilote HSS pour 450AL/2",
+            "StandardisedArticleDescription": "Foret pilote HSS pour 450AL/2",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "450PA_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/450PA_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004500253"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "TT5N",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "TOP TINCTURE Régénrateur plastique extérieur 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Protection pour 3 à 6 mois. Sans silicone.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Traitement pour pare-chocs pvc ternis. Redonne la couleur aux plastiques usés par le temps et assure une très longue protection. ",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Etaler à l’aide d’une éponge spécifique (voir ci-dessous). Pour une protection parfaite et durable, laisser sécher 15 minutes à 15°C environ au sec avant de déplacer le véhicule.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101018438"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "TT5N.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/TT5N.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "TT5N"
+    ],
+    "URL": []
+}

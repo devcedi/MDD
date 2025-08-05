@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1599F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étau parallèle d'établi, forgé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "175",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "BxH \nmm",
+            "Value": "140x70",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "15",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A MAX\nmm",
+            "Value": "220",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230699769"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étau parallèle d'établi, forgé",
+            "StandardisedArticleDescription": "Étau parallèle d'établi, forgé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1599F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1599F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015990175"
+    ],
+    "URL": []
+}

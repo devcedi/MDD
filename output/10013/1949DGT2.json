@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1949DGT/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gonfleur de pneu numérique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "bar",
+            "Value": "0,5÷12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "psi",
+            "Value": "7÷174",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809240107"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gonfleur de pneu numérique",
+            "StandardisedArticleDescription": "Gonfleur de pneu numérique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1949DGT_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1949DGT_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019490021"
+    ],
+    "URL": []
+}

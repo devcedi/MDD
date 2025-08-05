@@ -1,0 +1,52 @@
+{
+    "ArtNo": "3027N/KP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de chasse-goupilles et plaque pour presse 3027N",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3027N 100",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809504971"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de chasse-goupilles et plaque pour presse 3027N",
+            "StandardisedArticleDescription": "Jeu de chasse-goupilles et plaque pour presse 3027N",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3027N_slash_KP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3027N_slash_KP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030270552"
+    ],
+    "URL": []
+}

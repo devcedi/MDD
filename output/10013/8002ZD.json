@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8002ZD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Œillet pour tendeurs filetage à droite zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M39",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n”",
+            "Value": "1\"1/2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "150",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "7900",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230732572"
+    ],
+    "GenArts": [
+        {
+            "Description": "Œillet pour tendeurs filetage à droite zingué",
+            "StandardisedArticleDescription": "Œillet pour tendeurs filetage à droite zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8002ZD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8002ZD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080020399"
+    ],
+    "URL": []
+}

@@ -1,0 +1,34 @@
+{
+    "ArtNo": 92050010,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694016383"
+    ],
+    "GenArts": [
+        {
+            "Description": "ABC Union T&L Regular",
+            "StandardisedArticleDescription": "ABC Union T&L Regular",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "92050010"
+    ],
+    "URL": []
+}

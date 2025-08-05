@@ -1,0 +1,47 @@
+{
+    "ArtNo": "99SQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à ergot articulée pour écrous à encoches latérales",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230084428"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à ergot articulée pour écrous à encoches latérales",
+            "StandardisedArticleDescription": "Clé à ergot articulée pour écrous à encoches latérales",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "99SQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/99SQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000990290"
+    ],
+    "URL": []
+}

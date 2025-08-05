@@ -1,0 +1,57 @@
+{
+    "ArtNo": "C55A2/R70",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etagère intérieure pour armoire C55A1 et C55AT1",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "797x403",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "2018 →",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230856032"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etagère intérieure pour armoire C55A1 et C55AT1",
+            "StandardisedArticleDescription": "Etagère intérieure pour armoire C55A1 et C55AT1",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55A2_slash_R70.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55A2_slash_R70.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000462"
+    ],
+    "URL": []
+}

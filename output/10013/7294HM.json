@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7294HM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure montante en cuir pleine fleur gras hydrofuge avec semelle extérieure en caoutchouc VIBRAM® à hautes prestations, insert anti-abrasion sur le talon et couvre-embout renforcé en polyuréthane",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "322",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230872469"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure montante en cuir pleine fleur gras hydrofuge avec semelle extérieure en caoutchouc VIBRAM® à hautes prestations, insert anti-abrasion sur le talon et couvre-embout renforcé en polyuréthane",
+            "StandardisedArticleDescription": "Chaussure montante en cuir pleine fleur gras hydrofuge avec semelle extérieure en caoutchouc VIBRAM® à hautes prestations, insert anti-abrasion sur le talon et couvre-embout renforcé en polyuréthane",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7294HM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7294HM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072940648"
+    ],
+    "URL": []
+}

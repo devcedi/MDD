@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3912TP/RS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour fourches ROCKSHOX® à essieu traversant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "35",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "30",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809330549"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour fourches ROCKSHOX® à essieu traversant",
+            "StandardisedArticleDescription": "Douille pour fourches ROCKSHOX® à essieu traversant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3912TP_slash_RS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3912TP_slash_RS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039120056"
+    ],
+    "URL": []
+}

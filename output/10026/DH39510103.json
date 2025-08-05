@@ -1,0 +1,57 @@
+{
+    "ArtNo": "DH3951/0103",
+    "Attributs": [
+        {
+            "Attribute": "1D 23E-3",
+            "Value": "1T 323-40 / 96871",
+            "SortNo": 1
+        },
+        {
+            "Attribute": 112322,
+            "Value": "D12B07",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D12B09",
+            "Value": 1006551,
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966001481"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A80,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A80,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DH3951/0103"
+    ],
+    "URL": []
+}

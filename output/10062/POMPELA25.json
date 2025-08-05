@@ -1,0 +1,57 @@
+{
+    "ArtNo": "POMPELA25",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Pompe de dilution automatique pour savon carrosserie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Compléte (Raccord, vis de fixation…)",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Dimensions",
+            "Value": "Lance 90cm et tuyau de 25 métres ",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101015055"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "POMPELA25.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/POMPELA25.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "POMPELA25"
+    ],
+    "URL": []
+}

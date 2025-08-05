@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1066",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau verrouillage à 90°",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "210",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "55",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "500",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809439532"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau verrouillage à 90°",
+            "StandardisedArticleDescription": "Pince-étau verrouillage à 90°",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1066.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1066.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010660021"
+    ],
+    "URL": []
+}

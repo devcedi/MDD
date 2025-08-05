@@ -1,0 +1,47 @@
+{
+    "ArtNo": "VPM9",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plateau thermoformé souple pour C38 avec bac de rangement",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230811178"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plateau thermoformé souple pour C38 avec bac de rangement",
+            "StandardisedArticleDescription": "Plateau thermoformé souple pour C38 avec bac de rangement",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "VPM9.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/VPM9.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088870358"
+    ],
+    "URL": []
+}

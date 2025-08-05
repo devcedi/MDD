@@ -1,0 +1,57 @@
+{
+    "ArtNo": 90337801002,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "bidon + pompe",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602004882"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Citrus Orange 4x3,78L ",
+            "StandardisedArticleDescription": "Dreumex Citrus Orange 4x3,78L ",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Citrus01",
+            "Extension": "",
+            "Path": "/img/10006/Citrus01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "90337801002"
+    ],
+    "URL": []
+}

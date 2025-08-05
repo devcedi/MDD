@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55B/GAE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pied universel pour ameublement atelier RSC55 avec enrouleur électrique intégré",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230936871"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pied universel pour ameublement atelier RSC55 avec enrouleur électrique intégré",
+            "StandardisedArticleDescription": "Pied universel pour ameublement atelier RSC55 avec enrouleur électrique intégré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55B_slash_GAE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55B_slash_GAE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000094"
+    ],
+    "URL": []
+}

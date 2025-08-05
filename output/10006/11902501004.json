@@ -1,0 +1,57 @@
+{
+    "ArtNo": 11902501004,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "tube ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602012207"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Natural Care 12x250Ml",
+            "StandardisedArticleDescription": "Dreumex Natural Care 12x250Ml",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "N&C01",
+            "Extension": "",
+            "Path": "/img/10006/N&C01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "11902501004"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "386BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes réversible à chaîne, gros effort, antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmax mm",
+            "Value": "900",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "750",
+            "Value": "750",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230494609"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes réversible à chaîne, gros effort, antidéflagrante",
+            "StandardisedArticleDescription": "Clé serre-tubes réversible à chaîne, gros effort, antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "386BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/386BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003860809"
+    ],
+    "URL": []
+}

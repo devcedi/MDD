@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9599CB-N2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Atala® Vélo de ville, 28\"",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809245102"
+    ],
+    "GenArts": [
+        {
+            "Description": "Atala® Vélo de ville, 28\"",
+            "StandardisedArticleDescription": "Atala® Vélo de ville, 28\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9599CB-N2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9599CB-N2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095990031"
+    ],
+    "URL": []
+}

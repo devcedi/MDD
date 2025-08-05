@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1101",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-boulons, poignées en caoutchouc et bras en acier tubulaire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "900",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\n”",
+            "Value": "36",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230357478"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-boulons, poignées en caoutchouc et bras en acier tubulaire",
+            "StandardisedArticleDescription": "Coupe-boulons, poignées en caoutchouc et bras en acier tubulaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1101.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1101.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011010090"
+    ],
+    "URL": []
+}

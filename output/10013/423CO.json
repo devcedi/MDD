@@ -1,0 +1,57 @@
+{
+    "ArtNo": "423CO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Forets à dépointer rectifié en acier, HSS-CO 5%",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "89",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809573403"
+    ],
+    "GenArts": [
+        {
+            "Description": "Forets à dépointer rectifié en acier, HSS-CO 5%",
+            "StandardisedArticleDescription": "Forets à dépointer rectifié en acier, HSS-CO 5%",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "423CO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/423CO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004230110"
+    ],
+    "URL": []
+}

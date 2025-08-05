@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1602A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à cosses préisolées, modèle standard",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm²",
+            "Value": "0÷6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "220",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "42",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230099163"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à cosses préisolées, modèle standard",
+            "StandardisedArticleDescription": "Pince à cosses préisolées, modèle standard",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1602A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1602A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016020005"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1493AL CF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 6 pans pour cartouches filtrantes d'huile",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "38",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "34",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\n",
+            "Value": "27",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774411"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 6 pans pour cartouches filtrantes d'huile",
+            "StandardisedArticleDescription": "Douille 6 pans pour cartouches filtrantes d'huile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1493ALCF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1493ALCF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014930438"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1946KF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Riveteuse pour embouts filetés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "3,4",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230753379"
+    ],
+    "GenArts": [
+        {
+            "Description": "Riveteuse pour embouts filetés",
+            "StandardisedArticleDescription": "Riveteuse pour embouts filetés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1946KF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1946KF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019460012"
+    ],
+    "URL": []
+}

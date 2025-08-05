@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1940MT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ressort de retenue pour 1940",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230105383"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ressort de retenue pour 1940",
+            "StandardisedArticleDescription": "Ressort de retenue pour 1940",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1940MT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1940MT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019400110"
+    ],
+    "URL": []
+}

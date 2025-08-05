@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8302Z",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Vis à œil pour chevilles filetage à droite zinguée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "E \nmm",
+            "Value": "90",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F \nmm",
+            "Value": "17",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "690",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230189819"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vis à œil pour chevilles filetage à droite zinguée",
+            "StandardisedArticleDescription": "Vis à œil pour chevilles filetage à droite zinguée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8302Z.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8302Z.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "083020012"
+    ],
+    "URL": []
+}

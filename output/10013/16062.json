@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1606/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à cosses cylindriques, modèle grande capacité",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm²",
+            "Value": "0,14÷10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "175",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "65",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B\nmm",
+            "Value": "20",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809154152"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à cosses cylindriques, modèle grande capacité",
+            "StandardisedArticleDescription": "Pince à cosses cylindriques, modèle grande capacité",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1606_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1606_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016060002"
+    ],
+    "URL": []
+}

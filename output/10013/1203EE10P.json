@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1203E/E10P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir vide 1203E/E10P",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809133980"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir vide 1203E/E10P",
+            "StandardisedArticleDescription": "Présentoir vide 1203E/E10P",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1203E_slash_E10P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1203E_slash_E10P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012031360"
+    ],
+    "URL": []
+}

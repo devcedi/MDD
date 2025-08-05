@@ -1,0 +1,52 @@
+{
+    "ArtNo": "929/42",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée coulissante carré mâle 1\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "535",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230036588"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée coulissante carré mâle 1\"",
+            "StandardisedArticleDescription": "Poignée coulissante carré mâle 1\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "929_slash_42.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/929_slash_42.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009290850"
+    ],
+    "URL": []
+}

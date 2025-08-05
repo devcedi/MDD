@@ -1,0 +1,52 @@
+{
+    "ArtNo": "TCPLW1000",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Truck cleaner shampoung carrosserie PL 1000L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Formule spécial PL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101078005"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "TCPLW1000.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/TCPLW1000.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "TCPLW1000"
+    ],
+    "URL": []
+}

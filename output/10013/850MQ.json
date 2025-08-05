@@ -1,0 +1,62 @@
+{
+    "ArtNo": "850MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée porte-embouts magnétique isolée bimatières",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "233",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "125",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "12.5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230660127"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée porte-embouts magnétique isolée bimatières",
+            "StandardisedArticleDescription": "Poignée porte-embouts magnétique isolée bimatières",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "850MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/850MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008500910"
+    ],
+    "URL": []
+}

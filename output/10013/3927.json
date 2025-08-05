@@ -1,0 +1,52 @@
+{
+    "ArtNo": "3927",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bloque-guidon",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "365",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882475"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bloque-guidon",
+            "StandardisedArticleDescription": "Bloque-guidon",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3927.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3927.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039270010"
+    ],
+    "URL": []
+}

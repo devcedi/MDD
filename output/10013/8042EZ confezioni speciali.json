@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8042EZ confezioni speciali",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage femelle galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "1,75",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "​",
+            "Value": "15",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809455303"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage femelle galvanisé",
+            "StandardisedArticleDescription": "Anneau de levage femelle galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8042EZconfezionispeciali.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8042EZconfezionispeciali.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080420912"
+    ],
+    "URL": []
+}

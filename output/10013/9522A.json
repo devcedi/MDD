@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9522A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ouvre-bouteilles avec branche ergonomique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809170091"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ouvre-bouteilles avec branche ergonomique",
+            "StandardisedArticleDescription": "Ouvre-bouteilles avec branche ergonomique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9522A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9522A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095220010"
+    ],
+    "URL": []
+}

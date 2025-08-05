@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2254K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Housse de protection réutilisable pour sièges, volant et pommeau du levier de vitesse",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809138473"
+    ],
+    "GenArts": [
+        {
+            "Description": "Housse de protection réutilisable pour sièges, volant et pommeau du levier de vitesse",
+            "StandardisedArticleDescription": "Housse de protection réutilisable pour sièges, volant et pommeau du levier de vitesse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2254K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2254K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022540101"
+    ],
+    "URL": []
+}

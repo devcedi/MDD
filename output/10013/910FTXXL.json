@@ -1,0 +1,67 @@
+{
+    "ArtNo": "910FTX/XL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour vis Torx®, carré femelle 3/8\", série extra-longue, chromée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "E20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "21,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "200",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "18",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809126562"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour vis Torx®, carré femelle 3/8\", série extra-longue, chromée",
+            "StandardisedArticleDescription": "Douille pour vis Torx®, carré femelle 3/8\", série extra-longue, chromée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910FTX_slash_XL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910FTX_slash_XL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100780"
+    ],
+    "URL": []
+}

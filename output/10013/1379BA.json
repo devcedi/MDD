@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1379BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau à piquer antidéflagrant, manche en bois",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "142",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "315",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "28",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "670",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230428499"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau à piquer antidéflagrant, manche en bois",
+            "StandardisedArticleDescription": "Marteau à piquer antidéflagrant, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1379BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1379BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013790850"
+    ],
+    "URL": []
+}

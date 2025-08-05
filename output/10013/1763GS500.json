@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1763G/S500",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "500 agrafes pour revêtements textiles auto",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230839578"
+    ],
+    "GenArts": [
+        {
+            "Description": "500 agrafes pour revêtements textiles auto",
+            "StandardisedArticleDescription": "500 agrafes pour revêtements textiles auto",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1763G_slash_S500.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1763G_slash_S500.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017630105"
+    ],
+    "URL": []
+}

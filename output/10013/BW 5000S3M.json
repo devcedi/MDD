@@ -1,0 +1,47 @@
+{
+    "ArtNo": "BW 5000S/3M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chariot de service d’atelier à 3 tiroirs avec composition 189 outils",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWORKER",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809471242"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chariot de service d’atelier à 3 tiroirs avec composition 189 outils",
+            "StandardisedArticleDescription": "Chariot de service d’atelier à 3 tiroirs avec composition 189 outils",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "BW-000.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW-000.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "BW5000S_slash_3M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW5000S_slash_3M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "050006333"
+    ],
+    "URL": []
+}

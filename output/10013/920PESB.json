@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920PE/SB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 douilles tournevis pour vis 6 pans creux (art. 920PE) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230034911"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 douilles tournevis pour vis 6 pans creux (art. 920PE) sur support",
+            "StandardisedArticleDescription": "Jeu de 9 douilles tournevis pour vis 6 pans creux (art. 920PE) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920PE_slash_SB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920PE_slash_SB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200441"
+    ],
+    "URL": []
+}

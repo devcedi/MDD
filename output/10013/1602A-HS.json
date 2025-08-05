@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1602A-HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à cosses préisolées, modèle standard H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm²",
+            "Value": "0÷6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "220",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "42",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230860572"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à cosses préisolées, modèle standard H-SAFE",
+            "StandardisedArticleDescription": "Pince à cosses préisolées, modèle standard H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1602A-HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1602A-HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016024005"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1982/K12V",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Visseuse à chocs réversible à percussion 12V idéale pour les espaces restreints, exerce un couple élevé de 80 Nm et peut être utilisée d’une seule main",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809447810"
+    ],
+    "GenArts": [
+        {
+            "Description": "Visseuse à chocs réversible à percussion 12V idéale pour les espaces restreints, exerce un couple élevé de 80 Nm et peut être utilisée d’une seule main",
+            "StandardisedArticleDescription": "Visseuse à chocs réversible à percussion 12V idéale pour les espaces restreints, exerce un couple élevé de 80 Nm et peut être utilisée d’une seule main",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1982_slash_K12V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1982_slash_K12V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019820112"
+    ],
+    "URL": []
+}

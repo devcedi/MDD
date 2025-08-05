@@ -1,0 +1,77 @@
+{
+    "ArtNo": "3028 50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Presse hydraulique avec piston mobile et treuil",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "1100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B\nmm",
+            "Value": "750",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "C\nmm",
+            "Value": "1850",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "820",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "F\nmm",
+            "Value": "280",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "200",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809368818"
+    ],
+    "GenArts": [
+        {
+            "Description": "Presse hydraulique avec piston mobile et treuil",
+            "StandardisedArticleDescription": "Presse hydraulique avec piston mobile et treuil",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "302850.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/302850.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030280050"
+    ],
+    "URL": []
+}

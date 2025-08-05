@@ -1,0 +1,47 @@
+{
+    "ArtNo": "357R/F3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Flacon pour 357F3",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230731117"
+    ],
+    "GenArts": [
+        {
+            "Description": "Flacon pour 357F3",
+            "StandardisedArticleDescription": "Flacon pour 357F3",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "357R_slash_F3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/357R_slash_F3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003570101"
+    ],
+    "URL": []
+}

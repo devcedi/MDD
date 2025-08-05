@@ -1,0 +1,47 @@
+{
+    "ArtNo": "560/C3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multiplicateur de couple pour serrages à droite et gauche en coffret plastique rapport 3,8:1 avec système à cliquet anti-retour",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230956404"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multiplicateur de couple pour serrages à droite et gauche en coffret plastique rapport 3,8:1 avec système à cliquet anti-retour",
+            "StandardisedArticleDescription": "Multiplicateur de couple pour serrages à droite et gauche en coffret plastique rapport 3,8:1 avec système à cliquet anti-retour",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "560_slash_C3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/560_slash_C3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005600030"
+    ],
+    "URL": []
+}

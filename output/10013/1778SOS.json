@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1778SOS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Couteau de survie auto avec fonction marteau brise-vitre et coupe-ceinture de sécurité avec étui",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "205",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "25",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "85",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230634111"
+    ],
+    "GenArts": [
+        {
+            "Description": "Couteau de survie auto avec fonction marteau brise-vitre et coupe-ceinture de sécurité avec étui",
+            "StandardisedArticleDescription": "Couteau de survie auto avec fonction marteau brise-vitre et coupe-ceinture de sécurité avec étui",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1778SOS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1778SOS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017780080"
+    ],
+    "URL": []
+}

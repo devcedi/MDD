@@ -1,0 +1,77 @@
+{
+    "ArtNo": "42BA-AS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1.7/16x1.7/16",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "72,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "55,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "360",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "15,0",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "",
+            "Value": "890",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230861845"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte antidéflagrante",
+            "StandardisedArticleDescription": "Clé mixte antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42BA-AS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42BA-AS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000420976"
+    ],
+    "URL": []
+}

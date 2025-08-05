@@ -1,0 +1,72 @@
+{
+    "ArtNo": "363",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes modèle américain en alliages légers",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "6\" gas",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "165",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "54",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "35",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230813585"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes modèle américain en alliages légers",
+            "StandardisedArticleDescription": "Clé serre-tubes modèle américain en alliages légers",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "363.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/363.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003630120"
+    ],
+    "URL": []
+}

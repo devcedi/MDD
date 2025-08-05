@@ -1,0 +1,47 @@
+{
+    "ArtNo": "952FTX/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 clés à béquille à cardan pour écrou Torx® (art. 952FTX)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230151052"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 clés à béquille à cardan pour écrou Torx® (art. 952FTX)",
+            "StandardisedArticleDescription": "Jeu de 9 clés à béquille à cardan pour écrou Torx® (art. 952FTX)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "952FTX_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/952FTX_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009520141"
+    ],
+    "URL": []
+}

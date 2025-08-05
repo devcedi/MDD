@@ -1,0 +1,47 @@
+{
+    "ArtNo": "862XP/A16",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etui de poche comprenant 16 embouts \"impacts\"",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809523019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etui de poche comprenant 16 embouts \"impacts\"",
+            "StandardisedArticleDescription": "Etui de poche comprenant 16 embouts \"impacts\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "862XP_slash_A16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/862XP_slash_A16.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008620960"
+    ],
+    "URL": []
+}

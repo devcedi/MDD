@@ -1,0 +1,72 @@
+{
+    "ArtNo": "928B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 12 pans",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "60",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "80,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "87",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "48",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "41,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230036151"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 12 pans",
+            "StandardisedArticleDescription": "Douille 12 pans",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "928B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/928B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009280160"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1201E/S6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 tournevis Evox pour vis à fente",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaEVOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809133348"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 tournevis Evox pour vis à fente",
+            "StandardisedArticleDescription": "Jeu de 6 tournevis Evox pour vis à fente",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1201E_slash_S6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1201E_slash_S6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012011206"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1852S-CNT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bobine de contact",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809206622"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bobine de contact",
+            "StandardisedArticleDescription": "Bobine de contact",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1852S-CNT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1852S-CNT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018520520"
+    ],
+    "URL": []
+}

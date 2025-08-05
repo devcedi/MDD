@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7940",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon de travail multi-protection pour la protection contre la chaleur, les flammes, les effets d'arc électrique, les risques de soudage et les produits chimiques.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "2XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "56",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230966779"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon de travail multi-protection pour la protection contre la chaleur, les flammes, les effets d'arc électrique, les risques de soudage et les produits chimiques.",
+            "StandardisedArticleDescription": "Pantalon de travail multi-protection pour la protection contre la chaleur, les flammes, les effets d'arc électrique, les risques de soudage et les produits chimiques.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7940.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7940.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "079400005"
+    ],
+    "URL": []
+}

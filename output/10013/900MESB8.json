@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900ME/SB8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de douilles pour vis 6 pans creux carré femelle 1/4\" chromées",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230696584"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de douilles pour vis 6 pans creux carré femelle 1/4\" chromées",
+            "StandardisedArticleDescription": "Jeu de douilles pour vis 6 pans creux carré femelle 1/4\" chromées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900ME_slash_SB8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900ME_slash_SB8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000518"
+    ],
+    "URL": []
+}

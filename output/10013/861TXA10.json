@@ -1,0 +1,40 @@
+{
+    "ArtNo": "861TX/A10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etui de poche comprenant 10 embouts et 1 porte-embout magnétique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809613406"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etui de poche comprenant 10 embouts et 1 porte-embout magnétique",
+            "StandardisedArticleDescription": "Etui de poche comprenant 10 embouts et 1 porte-embout magnétique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008610870"
+    ],
+    "URL": []
+}

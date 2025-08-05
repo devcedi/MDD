@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1712TFS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Doigt magnétique télescopique à tête flexible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "135÷570",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F \nkg",
+            "Value": "0,4",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809623566"
+    ],
+    "GenArts": [
+        {
+            "Description": "Doigt magnétique télescopique à tête flexible",
+            "StandardisedArticleDescription": "Doigt magnétique télescopique à tête flexible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1712TFS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1712TFS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017120595"
+    ],
+    "URL": []
+}

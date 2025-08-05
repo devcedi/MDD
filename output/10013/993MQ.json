@@ -1,0 +1,52 @@
+{
+    "ArtNo": "993MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Brucelles à becs coudés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "147",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230103105"
+    ],
+    "GenArts": [
+        {
+            "Description": "Brucelles à becs coudés",
+            "StandardisedArticleDescription": "Brucelles à becs coudés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "993MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/993MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009930040"
+    ],
+    "URL": []
+}

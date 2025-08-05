@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1479RB/3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Grattoir à ébarber plat",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230425818"
+    ],
+    "GenArts": [
+        {
+            "Description": "Grattoir à ébarber plat",
+            "StandardisedArticleDescription": "Grattoir à ébarber plat",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1479RB_slash_3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1479RB_slash_3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014790310"
+    ],
+    "URL": []
+}

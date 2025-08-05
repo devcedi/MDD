@@ -1,0 +1,67 @@
+{
+    "ArtNo": "451GA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mandrin pour 451",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "14x1,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "35÷50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \n \nmm",
+            "Value": "57",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "10",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230506906"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mandrin pour 451",
+            "StandardisedArticleDescription": "Mandrin pour 451",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "451GA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/451GA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004510105"
+    ],
+    "URL": []
+}

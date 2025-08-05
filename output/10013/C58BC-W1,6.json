@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C58BC-W1,6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etabli simple d'une longueur de 1,6m avec plan de travail en bois",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809600130"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etabli simple d'une longueur de 1,6m avec plan de travail en bois",
+            "StandardisedArticleDescription": "Etabli simple d'une longueur de 1,6m avec plan de travail en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C58BC-W16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C58BC-W16.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "058000601"
+    ],
+    "URL": []
+}

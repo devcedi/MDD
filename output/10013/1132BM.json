@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1132BM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-câbles branches gainées confort bi-matières",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \n~",
+            "Value": "230",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "18",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "37",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "12,5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "235",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230513720"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-câbles branches gainées confort bi-matières",
+            "StandardisedArticleDescription": "Coupe-câbles branches gainées confort bi-matières",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1132BM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1132BM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011320143"
+    ],
+    "URL": []
+}

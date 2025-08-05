@@ -1,0 +1,62 @@
+{
+    "ArtNo": "422",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret à centrer rectifié avec angle de taraudage de 60° en acier HSS",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "3,15",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "8,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "50,0",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230871615"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret à centrer rectifié avec angle de taraudage de 60° en acier HSS",
+            "StandardisedArticleDescription": "Foret à centrer rectifié avec angle de taraudage de 60° en acier HSS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "422.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/422.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004220131"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1833L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Torche LED à haute luminosité en aluminium anodisé renforcé jusqu'à 1100 Lumens",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "196",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809127385"
+    ],
+    "GenArts": [
+        {
+            "Description": "Torche LED à haute luminosité en aluminium anodisé renforcé jusqu'à 1100 Lumens",
+            "StandardisedArticleDescription": "Torche LED à haute luminosité en aluminium anodisé renforcé jusqu'à 1100 Lumens",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1833L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1833L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018330004"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "DP156/0103",
+    "Attributs": [
+        {
+            "Attribute": "W01 M58 8613",
+            "Value": "C293/A - 293.0.411",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1R 11-703",
+            "Value": "1DK 21K",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1TC 300-30 / 205536",
+            "Value": 13769,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D11U31",
+            "Value": "KR 732-01",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "UR 732-01T",
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006756"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A97,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A97,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP156/0103"
+    ],
+    "URL": []
+}

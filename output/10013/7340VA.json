@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7340VA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure RENEGADE en tissu mesh ultra respirant avec système de laçage rapide ATOP",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "321",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809577005"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure RENEGADE en tissu mesh ultra respirant avec système de laçage rapide ATOP",
+            "StandardisedArticleDescription": "Chaussure RENEGADE en tissu mesh ultra respirant avec système de laçage rapide ATOP",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7340VA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7340VA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073400548"
+    ],
+    "URL": []
+}

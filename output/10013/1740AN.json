@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1740AN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pinces à riveter 2 bras comprenant 5 embouts interchangeables",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "530",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809519531"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pinces à riveter 2 bras comprenant 5 embouts interchangeables",
+            "StandardisedArticleDescription": "Pinces à riveter 2 bras comprenant 5 embouts interchangeables",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1740AN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1740AN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017400103"
+    ],
+    "URL": []
+}

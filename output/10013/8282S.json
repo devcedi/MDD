@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8282S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet en \"S\" symétrique, acier inoxydable AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø D\nmm",
+            "Value": "6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B\nmm",
+            "Value": "10",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "54",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "18",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230884639"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet en \"S\" symétrique, acier inoxydable AISI 316",
+            "StandardisedArticleDescription": "Crochet en \"S\" symétrique, acier inoxydable AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8282S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8282S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082820306"
+    ],
+    "URL": []
+}

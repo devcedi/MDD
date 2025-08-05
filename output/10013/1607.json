@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1607",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à cosses coaxiales, modèle professionnel, pour connecteurs BNC RG 58, RG 59, RG 62, RG 71",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "220",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "73",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "19",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230099200"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à cosses coaxiales, modèle professionnel, pour connecteurs BNC RG 58, RG 59, RG 62, RG 71",
+            "StandardisedArticleDescription": "Pince à cosses coaxiales, modèle professionnel, pour connecteurs BNC RG 58, RG 59, RG 62, RG 71",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1607.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1607.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016070001"
+    ],
+    "URL": []
+}

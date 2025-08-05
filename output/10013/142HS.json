@@ -1,0 +1,72 @@
+{
+    "ArtNo": "142HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte à cliquet réversible H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "32x32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "420",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "64,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "59,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "17,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230859811"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte à cliquet réversible H-SAFE",
+            "StandardisedArticleDescription": "Clé mixte à cliquet réversible H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "142HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/142HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001424032"
+    ],
+    "URL": []
+}

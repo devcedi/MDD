@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8228",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manille lyre AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø D \nmm",
+            "Value": "19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "66",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "86",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "1100",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "E \nmm",
+            "Value": "38",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230636221"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manille lyre AISI 316",
+            "StandardisedArticleDescription": "Manille lyre AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8228.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8228.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082280219"
+    ],
+    "URL": []
+}

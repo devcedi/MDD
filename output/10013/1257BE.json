@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1257BE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Micro-clé à douille emmanchée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "5,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "60",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230657790"
+    ],
+    "GenArts": [
+        {
+            "Description": "Micro-clé à douille emmanchée",
+            "StandardisedArticleDescription": "Micro-clé à douille emmanchée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1257BE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1257BE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012570088"
+    ],
+    "URL": []
+}

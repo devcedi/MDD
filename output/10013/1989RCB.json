@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1989RCB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Radio de chantier 20V",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809469379"
+    ],
+    "GenArts": [
+        {
+            "Description": "Radio de chantier 20V",
+            "StandardisedArticleDescription": "Radio de chantier 20V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1989RCB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1989RCB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019890020"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "DP31782/0020",
+    "Attributs": [
+        {
+            "Attribute": "1R 11-773",
+            "Value": 90557233,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1DK 20C-2",
+            "Value": "1T 300-37 / 207768",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H 2 501 869",
+            "Value": "M 051232",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "M 078580",
+            "Value": "D12B30",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "KR 915-53",
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004516"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane |Attention existe 2 hauteurs Voir aussi DP31782-2/0020 ",
+            "StandardisedArticleDescription": "Membrane |Attention existe 2 hauteurs Voir aussi DP31782-2/0020 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A119,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A119,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP31782/0020"
+    ],
+    "URL": []
+}

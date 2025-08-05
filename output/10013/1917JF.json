@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1917JF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Raccord à billes pour profil Asiatique, filetage femelle, embout cylindrique BSP",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8\"",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230886336"
+    ],
+    "GenArts": [
+        {
+            "Description": "Raccord à billes pour profil Asiatique, filetage femelle, embout cylindrique BSP",
+            "StandardisedArticleDescription": "Raccord à billes pour profil Asiatique, filetage femelle, embout cylindrique BSP",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1917JF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1917JF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019170460"
+    ],
+    "URL": []
+}

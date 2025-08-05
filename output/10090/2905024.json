@@ -1,0 +1,67 @@
+{
+    "ArtNo": "2905024",
+    "Attributs": [
+        {
+            "Attribute": "D (kN)",
+            "Value": 31,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "S (kg)",
+            "Value": 375,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø",
+            "Value": "4XØ17",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Convoi ED-EC (t) maxi",
+            "Value": 35.5,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Remorque ED-EC (t maxi)",
+            "Value": 3.5,
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "70C - Crochet à boule mixte",
+            "StandardisedArticleDescription": "70C - Crochet à boule mixte",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2905019_022_023_024_027_3D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/2905019_022_023_024_027_3D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "2905024"
+    ],
+    "URL": []
+}

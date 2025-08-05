@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1569/SB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition d'outils pour l'extraction et l'introduction des silentblocs pont arrière, déflecteurs d'huile arbre moteur et roulements de roue",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809418520"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition d'outils pour l'extraction et l'introduction des silentblocs pont arrière, déflecteurs d'huile arbre moteur et roulements de roue",
+            "StandardisedArticleDescription": "Composition d'outils pour l'extraction et l'introduction des silentblocs pont arrière, déflecteurs d'huile arbre moteur et roulements de roue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1569_slash_SB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1569_slash_SB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015690016"
+    ],
+    "URL": []
+}

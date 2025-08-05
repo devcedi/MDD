@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1428L/B3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 3 extracteurs d'ecrous endommagés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230570969"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 3 extracteurs d'ecrous endommagés",
+            "StandardisedArticleDescription": "Jeu de 3 extracteurs d'ecrous endommagés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1428L_slash_B3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1428L_slash_B3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014280303"
+    ],
+    "URL": []
+}

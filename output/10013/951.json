@@ -1,0 +1,72 @@
+{
+    "ArtNo": "951",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mâle 6 pans en T",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "14",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "330",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "178",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "17,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "17",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230038452"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mâle 6 pans en T",
+            "StandardisedArticleDescription": "Clé mâle 6 pans en T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "951.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/951.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009510640"
+    ],
+    "URL": []
+}

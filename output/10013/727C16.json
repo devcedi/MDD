@@ -1,0 +1,47 @@
+{
+    "ArtNo": "727/C16",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "12 embouts à chocs et 4 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230352565"
+    ],
+    "GenArts": [
+        {
+            "Description": "12 embouts à chocs et 4 accessoires",
+            "StandardisedArticleDescription": "12 embouts à chocs et 4 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "727_slash_C16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/727_slash_C16.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007270900"
+    ],
+    "URL": []
+}

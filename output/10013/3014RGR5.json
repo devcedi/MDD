@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3014R/GR5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "5 roues pour chevalet de support moteur 3014",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230559964"
+    ],
+    "GenArts": [
+        {
+            "Description": "5 roues pour chevalet de support moteur 3014",
+            "StandardisedArticleDescription": "5 roues pour chevalet de support moteur 3014",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3014R_slash_GR5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3014R_slash_GR5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030140501"
+    ],
+    "URL": []
+}

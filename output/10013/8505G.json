@@ -1,0 +1,45 @@
+{
+    "ArtNo": "8505G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cast-iron two-eyed turnbuckles for hobby use",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230190440"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cast-iron two-eyed turnbuckles for hobby use",
+            "StandardisedArticleDescription": "Cast-iron two-eyed turnbuckles for hobby use",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085050012"
+    ],
+    "URL": []
+}

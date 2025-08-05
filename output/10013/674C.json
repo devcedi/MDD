@@ -1,0 +1,47 @@
+{
+    "ArtNo": "674/C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à déclenchement, embout rond Ø 22 mm, pour serrage à droite et à gauche, précision du couple: ± 4%,",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809149615"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à déclenchement, embout rond Ø 22 mm, pour serrage à droite et à gauche, précision du couple: ± 4%,",
+            "StandardisedArticleDescription": "Clé dynamométrique à déclenchement, embout rond Ø 22 mm, pour serrage à droite et à gauche, précision du couple: ± 4%,",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "674_slash_C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/674_slash_C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006740010"
+    ],
+    "URL": []
+}

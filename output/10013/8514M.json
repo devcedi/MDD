@@ -1,0 +1,60 @@
+{
+    "ArtNo": "8514M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "One-eyed elongated turnbuckles Marche type, galvanised",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "22",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "80",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "34",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809633336"
+    ],
+    "GenArts": [
+        {
+            "Description": "One-eyed elongated turnbuckles Marche type, galvanised",
+            "StandardisedArticleDescription": "One-eyed elongated turnbuckles Marche type, galvanised",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085140022"
+    ],
+    "URL": []
+}

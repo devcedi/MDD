@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8052 - 8055S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet de levage à œil pour câble, haute résistance en acier allié",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "22000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "87",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F \nmm",
+            "Value": "90",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230564999"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet de levage à œil pour câble, haute résistance en acier allié",
+            "StandardisedArticleDescription": "Crochet de levage à œil pour câble, haute résistance en acier allié",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8052-8055S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8052-8055S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080550320"
+    ],
+    "URL": []
+}

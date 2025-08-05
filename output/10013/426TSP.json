@@ -1,0 +1,47 @@
+{
+    "ArtNo": "426T/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de fraises à noyer à 3 dents dans coffret en ABS",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809168623"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de fraises à noyer à 3 dents dans coffret en ABS",
+            "StandardisedArticleDescription": "Jeu de fraises à noyer à 3 dents dans coffret en ABS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "426T_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/426T_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004260080"
+    ],
+    "URL": []
+}

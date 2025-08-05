@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7218G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure montante en Nubuck Action hydrofuge avec insert anti-abrasion sur l'embout. Délaçage rapide",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809347417"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure montante en Nubuck Action hydrofuge avec insert anti-abrasion sur l'embout. Délaçage rapide",
+            "StandardisedArticleDescription": "Chaussure montante en Nubuck Action hydrofuge avec insert anti-abrasion sur l'embout. Délaçage rapide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7218G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7218G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072180148"
+    ],
+    "URL": []
+}

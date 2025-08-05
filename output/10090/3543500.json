@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3543500",
+    "Attributs": [
+        {
+            "Attribute": "Compatibilité",
+            "Value": "Ø28 à Ø50",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Matière",
+            "Value": "Acier",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Finition",
+            "Value": "Zingué",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support porte outils pour Ø28 à Ø50 mm, acier zingué et sangle caoutchouc noir.",
+            "StandardisedArticleDescription": "Support porte outils pour Ø28 à Ø50 mm, acier zingué et sangle caoutchouc noir.",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3543500_porteOutil_0009.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/3543500_porteOutil_0009.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "3543500"
+    ],
+    "URL": []
+}

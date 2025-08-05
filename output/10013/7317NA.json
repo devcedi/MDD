@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7317NA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse aérée en croûte de velours avec renfort en microfibre dans la zone du talon",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230970981"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse aérée en croûte de velours avec renfort en microfibre dans la zone du talon",
+            "StandardisedArticleDescription": "Chaussure basse aérée en croûte de velours avec renfort en microfibre dans la zone du talon",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7317NA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7317NA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073170148"
+    ],
+    "URL": []
+}

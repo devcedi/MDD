@@ -1,0 +1,47 @@
+{
+    "ArtNo": "8182E",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Arrimage pour intérieurs fourgons et camions, 1000 kg, boucle à rochet en polyester haute ténacité (PES)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820187"
+    ],
+    "GenArts": [
+        {
+            "Description": "Arrimage pour intérieurs fourgons et camions, 1000 kg, boucle à rochet en polyester haute ténacité (PES)",
+            "StandardisedArticleDescription": "Arrimage pour intérieurs fourgons et camions, 1000 kg, boucle à rochet en polyester haute ténacité (PES)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8182E.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8182E.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081820945"
+    ],
+    "URL": []
+}

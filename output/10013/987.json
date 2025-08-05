@@ -1,0 +1,52 @@
+{
+    "ArtNo": "987",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Levier pour valves pneus avec protection en caoutchouc",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "310",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230740096"
+    ],
+    "GenArts": [
+        {
+            "Description": "Levier pour valves pneus avec protection en caoutchouc",
+            "StandardisedArticleDescription": "Levier pour valves pneus avec protection en caoutchouc",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "987.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/987.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009870001"
+    ],
+    "URL": []
+}

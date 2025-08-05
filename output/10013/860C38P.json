@@ -1,0 +1,47 @@
+{
+    "ArtNo": "860/C38P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 1 poignée porte-embouts avec cliquet réversible, 27 embouts pour visseuses, 8 douilles 6 pans et 2 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230729121"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 1 poignée porte-embouts avec cliquet réversible, 27 embouts pour visseuses, 8 douilles 6 pans et 2 accessoires",
+            "StandardisedArticleDescription": "Composition de 1 poignée porte-embouts avec cliquet réversible, 27 embouts pour visseuses, 8 douilles 6 pans et 2 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "860_slash_C38P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/860_slash_C38P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008600878"
+    ],
+    "URL": []
+}

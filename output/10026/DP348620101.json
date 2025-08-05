@@ -1,0 +1,77 @@
+{
+    "ArtNo": "DP34862/0101",
+    "Attributs": [
+        {
+            "Attribute": "1R 14-823",
+            "Value": "20 105 015 01",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A 946 328 1501",
+            "Value": "1D 28F-3",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1DK 28F-3",
+            "Value": 17924,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 1288087,
+            "Value": 1337628,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 1344510,
+            "Value": "FAG 041-0087",
+            "SortNo": 5
+        },
+        {
+            "Attribute": 93770001,
+            "Value": "US 04030 P",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "US 04030 Renforcé",
+            "Value": "YP 4030N-F",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005674"
+    ],
+    "GenArts": [
+        {
+            "Description": " | piston acier",
+            "StandardisedArticleDescription": " | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A153,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A153,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34862/0101"
+    ],
+    "URL": []
+}

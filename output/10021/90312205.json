@@ -1,0 +1,34 @@
+{
+    "ArtNo": 90312205,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694016253"
+    ],
+    "GenArts": [
+        {
+            "Description": "ABC Coude intégré 90 à clipser Regular - T 12X1,5",
+            "StandardisedArticleDescription": "ABC Coude intégré 90 à clipser Regular - T 12X1,5",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "90312205"
+    ],
+    "URL": []
+}

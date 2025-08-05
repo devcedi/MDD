@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1276MQ/C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis pour vis cruciformes combinées PZ + à fente",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": " PZ2+LPP",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230885728"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis pour vis cruciformes combinées PZ + à fente",
+            "StandardisedArticleDescription": "Tournevis pour vis cruciformes combinées PZ + à fente",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1276MQ_slash_C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1276MQ_slash_C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012760418"
+    ],
+    "URL": []
+}

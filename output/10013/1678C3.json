@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1678/C3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rapporteur d'angles en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L Max\nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "70",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230085784"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rapporteur d'angles en acier inoxydable",
+            "StandardisedArticleDescription": "Rapporteur d'angles en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1678_slash_C3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1678_slash_C3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016780030"
+    ],
+    "URL": []
+}

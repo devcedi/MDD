@@ -1,0 +1,72 @@
+{
+    "ArtNo": "3003PRO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Couchette d’atelier en plastique antichoc",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "C max\nkg",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H min\nmm\n",
+            "Value": "170",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H Max\nmm\n",
+            "Value": "230",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "H1\nmm",
+            "Value": "230",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "1040",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809129921"
+    ],
+    "GenArts": [
+        {
+            "Description": "Couchette d’atelier en plastique antichoc",
+            "StandardisedArticleDescription": "Couchette d’atelier en plastique antichoc",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3003PRO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3003PRO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030030150"
+    ],
+    "URL": []
+}

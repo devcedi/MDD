@@ -1,0 +1,67 @@
+{
+    "ArtNo": "900FL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge flexible carrés mâle et femelle 1/4\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "12",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230087511"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge flexible carrés mâle et femelle 1/4\"",
+            "StandardisedArticleDescription": "Rallonge flexible carrés mâle et femelle 1/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900FL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900FL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000828"
+    ],
+    "URL": []
+}

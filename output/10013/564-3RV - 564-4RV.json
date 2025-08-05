@@ -1,0 +1,47 @@
+{
+    "ArtNo": "564-3R/V - 564-4R/V",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multiplicateurs de couple pour les serrages à droite et à gauche rapport 25:1 avec système anti-remontrant, en coffret",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809437255"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multiplicateurs de couple pour les serrages à droite et à gauche rapport 25:1 avec système anti-remontrant, en coffret",
+            "StandardisedArticleDescription": "Multiplicateurs de couple pour les serrages à droite et à gauche rapport 25:1 avec système anti-remontrant, en coffret",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "564-3R_slash_V-564-4R_slash_V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/564-3R_slash_V-564-4R_slash_V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005640614"
+    ],
+    "URL": []
+}

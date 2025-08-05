@@ -1,0 +1,72 @@
+{
+    "ArtNo": "910AS/L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 12 pans série longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \n\"",
+            "Value": "7/8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "29",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "65",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "28",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "21,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230033099"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 12 pans série longue",
+            "StandardisedArticleDescription": "Douille 12 pans série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910AS_slash_L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910AS_slash_L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100363"
+    ],
+    "URL": []
+}

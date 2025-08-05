@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920/RN50F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pièce de rechange pour cliquets à entraînement carré femelle 920/50F NOUVEAU",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809638683"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pièce de rechange pour cliquets à entraînement carré femelle 920/50F NOUVEAU",
+            "StandardisedArticleDescription": "Pièce de rechange pour cliquets à entraînement carré femelle 920/50F NOUVEAU",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_RN50F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_RN50F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009201131"
+    ],
+    "URL": []
+}

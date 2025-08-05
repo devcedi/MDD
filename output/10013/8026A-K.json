@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8026A-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manille droite, type UNI 1947, estampée à chaud, zinguée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "25",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \n”",
+            "Value": "1\"",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "2500",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B x C \nmm",
+            "Value": "79x36",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230815404"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manille droite, type UNI 1947, estampée à chaud, zinguée",
+            "StandardisedArticleDescription": "Manille droite, type UNI 1947, estampée à chaud, zinguée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8026A-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8026A-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080269025"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "861SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout pour visseuses pour vis Spanner",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SP",
+            "Value": "12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "3,9",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "25",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230174891"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout pour visseuses pour vis Spanner",
+            "StandardisedArticleDescription": "Embout pour visseuses pour vis Spanner",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "861SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/861SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008610660"
+    ],
+    "URL": []
+}

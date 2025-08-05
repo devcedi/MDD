@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1169MQ/D2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 1 pince universelle isolée et 1 pince coupante diagonale isolée ",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809541792"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 1 pince universelle isolée et 1 pince coupante diagonale isolée ",
+            "StandardisedArticleDescription": "Jeu de 1 pince universelle isolée et 1 pince coupante diagonale isolée ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1169MQ_slash_D2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1169MQ_slash_D2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011690152"
+    ],
+    "URL": []
+}

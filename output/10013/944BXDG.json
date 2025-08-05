@@ -1,0 +1,47 @@
+{
+    "ArtNo": "944BX/DG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir mural avec 43 clés à douille profondes emmanchées, série longue Présentoir mural avec 43 tournevis emmenché emmanchées, série longue",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230762838"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir mural avec 43 clés à douille profondes emmanchées, série longue Présentoir mural avec 43 tournevis emmenché emmanchées, série longue",
+            "StandardisedArticleDescription": "Présentoir mural avec 43 clés à douille profondes emmanchées, série longue Présentoir mural avec 43 tournevis emmenché emmanchées, série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "944BX_slash_DG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/944BX_slash_DG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009440701"
+    ],
+    "URL": []
+}

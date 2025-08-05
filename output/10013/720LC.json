@@ -1,0 +1,57 @@
+{
+    "ArtNo": "720LC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douilles à chocs gainées pour écrous de roues en alliage léger",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "34,6",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776682"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douilles à chocs gainées pour écrous de roues en alliage léger",
+            "StandardisedArticleDescription": "Douilles à chocs gainées pour écrous de roues en alliage léger",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720LC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720LC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200644"
+    ],
+    "URL": []
+}

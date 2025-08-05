@@ -1,0 +1,47 @@
+{
+    "ArtNo": "960T/C11",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de douilles pour élimination/installation capteurs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809115948"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de douilles pour élimination/installation capteurs",
+            "StandardisedArticleDescription": "Jeu de douilles pour élimination/installation capteurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960T_slash_C11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960T_slash_C11.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600031"
+    ],
+    "URL": []
+}

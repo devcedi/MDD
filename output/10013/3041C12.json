@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3041C/12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de curseurs à rouleaux pour 3041C",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230952864"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de curseurs à rouleaux pour 3041C",
+            "StandardisedArticleDescription": "Paire de curseurs à rouleaux pour 3041C",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3041C_slash_12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3041C_slash_12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030410512"
+    ],
+    "URL": []
+}

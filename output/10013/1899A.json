@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1899A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Machine de nettoyage du système DPF/FAP®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809235783"
+    ],
+    "GenArts": [
+        {
+            "Description": "Machine de nettoyage du système DPF/FAP®",
+            "StandardisedArticleDescription": "Machine de nettoyage du système DPF/FAP®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1899A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1899A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018990010"
+    ],
+    "URL": []
+}

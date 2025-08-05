@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1752",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Burette plastique sous pression à embout rigide",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "cc",
+            "Value": "500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "95",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "140",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230047249"
+    ],
+    "GenArts": [
+        {
+            "Description": "Burette plastique sous pression à embout rigide",
+            "StandardisedArticleDescription": "Burette plastique sous pression à embout rigide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1752.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1752.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017520005"
+    ],
+    "URL": []
+}

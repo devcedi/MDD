@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910A/C17",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "17 douilles 6 pans et 9 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230106557"
+    ],
+    "GenArts": [
+        {
+            "Description": "17 douilles 6 pans et 9 accessoires",
+            "StandardisedArticleDescription": "17 douilles 6 pans et 9 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910A_slash_C17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910A_slash_C17.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100938"
+    ],
+    "URL": []
+}

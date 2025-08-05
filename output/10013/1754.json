@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1754",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Burette plastique à embout flexible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "cc",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "65",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "130",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230047263"
+    ],
+    "GenArts": [
+        {
+            "Description": "Burette plastique à embout flexible",
+            "StandardisedArticleDescription": "Burette plastique à embout flexible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1754.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1754.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017540025"
+    ],
+    "URL": []
+}

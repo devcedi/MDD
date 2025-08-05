@@ -1,0 +1,47 @@
+{
+    "ArtNo": "42/SP15",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Une nouvelle forme Jeu de 15 clés mixtes avec support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230959283"
+    ],
+    "GenArts": [
+        {
+            "Description": "Une nouvelle forme Jeu de 15 clés mixtes avec support",
+            "StandardisedArticleDescription": "Une nouvelle forme Jeu de 15 clés mixtes avec support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42_slash_SP15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42_slash_SP15.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000421078"
+    ],
+    "URL": []
+}

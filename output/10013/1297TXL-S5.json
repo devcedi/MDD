@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1297TX/L-S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 tournevis Beta Max pour vis Torx(R)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230933542"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 tournevis Beta Max pour vis Torx(R)",
+            "StandardisedArticleDescription": "Jeu de 5 tournevis Beta Max pour vis Torx(R)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1297TX_slash_L-S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1297TX_slash_L-S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012970325"
+    ],
+    "URL": []
+}

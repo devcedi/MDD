@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8188F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Arrimage extérieur sans-fin, 200kg boucle à came en polypropylène haute ténacité (PP)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nm",
+            "Value": "5,0",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230608259"
+    ],
+    "GenArts": [
+        {
+            "Description": "Arrimage extérieur sans-fin, 200kg boucle à came en polypropylène haute ténacité (PP)",
+            "StandardisedArticleDescription": "Arrimage extérieur sans-fin, 200kg boucle à came en polypropylène haute ténacité (PP)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8188F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8188F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081880250"
+    ],
+    "URL": []
+}

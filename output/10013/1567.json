@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1567",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Levier dépose brides d'amortisseur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A mm",
+            "Value": "1060 ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B min÷Max mm",
+            "Value": "100÷300",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776620"
+    ],
+    "GenArts": [
+        {
+            "Description": "Levier dépose brides d'amortisseur",
+            "StandardisedArticleDescription": "Levier dépose brides d'amortisseur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1567.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1567.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015670001"
+    ],
+    "URL": []
+}

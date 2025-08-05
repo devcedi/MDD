@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1479RB/1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Grattoir à ébarber droit",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230425825"
+    ],
+    "GenArts": [
+        {
+            "Description": "Grattoir à ébarber droit",
+            "StandardisedArticleDescription": "Grattoir à ébarber droit",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1479RB_slash_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1479RB_slash_1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014790315"
+    ],
+    "URL": []
+}

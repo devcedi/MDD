@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C13",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffre porte-outils avec roues, en polypropylène haute résistance",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230532639"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffre porte-outils avec roues, en polypropylène haute résistance",
+            "StandardisedArticleDescription": "Coffre porte-outils avec roues, en polypropylène haute résistance",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021130000"
+    ],
+    "URL": []
+}

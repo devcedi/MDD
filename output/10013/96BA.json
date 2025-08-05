@@ -1,0 +1,62 @@
+{
+    "ArtNo": "96BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mâle 6 pans coudée antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "192",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "82",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809215242"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mâle 6 pans coudée antidéflagrante",
+            "StandardisedArticleDescription": "Clé mâle 6 pans coudée antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000960804"
+    ],
+    "URL": []
+}

@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKC409",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966017703"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vis tête H M12X160mm FP 8.8 DIN931 ",
+            "StandardisedArticleDescription": "Vis tête H M12X160mm FP 8.8 DIN931 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKC409"
+    ],
+    "URL": []
+}

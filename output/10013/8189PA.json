@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8189PA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "2 protections angulaires pour boucles en polyester",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "135x90",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "60",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "18",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776026"
+    ],
+    "GenArts": [
+        {
+            "Description": "2 protections angulaires pour boucles en polyester",
+            "StandardisedArticleDescription": "2 protections angulaires pour boucles en polyester",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8189PA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8189PA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081890090"
+    ],
+    "URL": []
+}

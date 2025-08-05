@@ -1,0 +1,97 @@
+{
+    "ArtNo": "DP144/0020",
+    "Attributs": [
+        {
+            "Attribute": "W01 M58 7887",
+            "Value": "T291/2 - 291.2.200",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "2B 9-223",
+            "Value": "2B 9-2250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": 15603,
+            "Value": 550016169,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 5231,
+            "Value": 5236,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 5266,
+            "Value": 528919,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "2B 12R",
+            "Value": "20-206797",
+            "SortNo": 6
+        },
+        {
+            "Attribute": 21221395,
+            "Value": 21222663,
+            "SortNo": 7
+        },
+        {
+            "Attribute": 16793,
+            "Value": "S 09201NB",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "KF 216",
+            "Value": "KF 218-6910",
+            "SortNo": 9
+        },
+        {
+            "Attribute": 21074519,
+            "Value": 365461,
+            "SortNo": 10
+        },
+        {
+            "Attribute": 6882797,
+            "Value": "US 06910 F",
+            "SortNo": 11
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004691"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane ",
+            "StandardisedArticleDescription": "Membrane ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A92,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A92,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP144/0020"
+    ],
+    "URL": []
+}

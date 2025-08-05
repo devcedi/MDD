@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1719BMR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manche de rechange pour limes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L",
+            "Value": "110",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A",
+            "Value": "29",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "mm",
+            "Value": "100/150",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\"",
+            "Value": "6/8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230748924"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manche de rechange pour limes",
+            "StandardisedArticleDescription": "Manche de rechange pour limes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1719BMR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1719BMR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017190955"
+    ],
+    "URL": []
+}

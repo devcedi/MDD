@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3065/40-20T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cric hydropneumatique 40/20 tonnes",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774619"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cric hydropneumatique 40/20 tonnes",
+            "StandardisedArticleDescription": "Cric hydropneumatique 40/20 tonnes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3065_slash_40-20T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3065_slash_40-20T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030650200"
+    ],
+    "URL": []
+}

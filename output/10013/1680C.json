@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1680C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Compas à pointes sèches pointes droites en acier trempé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A Max\nmm",
+            "Value": "280",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "360",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230085937"
+    ],
+    "GenArts": [
+        {
+            "Description": "Compas à pointes sèches pointes droites en acier trempé",
+            "StandardisedArticleDescription": "Compas à pointes sèches pointes droites en acier trempé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1680C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1680C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016800330"
+    ],
+    "URL": []
+}

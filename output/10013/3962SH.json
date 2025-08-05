@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3962SH",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à rayon double pour Shimano",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "132",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "4,3",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A2\nmm",
+            "Value": "4,4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "4,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882574"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à rayon double pour Shimano",
+            "StandardisedArticleDescription": "Clé à rayon double pour Shimano",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3962SH.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3962SH.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039620010"
+    ],
+    "URL": []
+}

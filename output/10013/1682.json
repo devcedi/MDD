@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1682",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Réglet flexible en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "1000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "0,5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086040"
+    ],
+    "GenArts": [
+        {
+            "Description": "Réglet flexible en acier inoxydable",
+            "StandardisedArticleDescription": "Réglet flexible en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1682.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1682.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016820100"
+    ],
+    "URL": []
+}

@@ -1,0 +1,82 @@
+{
+    "ArtNo": "8285",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout à sertir à chape AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø A\nM",
+            "Value": "12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "20",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "19",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "2400",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "105",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "",
+            "Value": "190",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "",
+            "Value": "12950",
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809405094"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout à sertir à chape AISI 316",
+            "StandardisedArticleDescription": "Embout à sertir à chape AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8285.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8285.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082850212"
+    ],
+    "URL": []
+}

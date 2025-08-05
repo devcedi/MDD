@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7276N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure montante FitEVOLUTION en microfibre, déperlante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "324",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809576640"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure montante FitEVOLUTION en microfibre, déperlante",
+            "StandardisedArticleDescription": "Chaussure montante FitEVOLUTION en microfibre, déperlante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7276N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7276N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072760248"
+    ],
+    "URL": []
+}

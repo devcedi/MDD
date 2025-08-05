@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9542AL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-vent imperméable à manches longues respirant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230788760"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-vent imperméable à manches longues respirant",
+            "StandardisedArticleDescription": "Coupe-vent imperméable à manches longues respirant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9542AL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9542AL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095420047"
+    ],
+    "URL": []
+}

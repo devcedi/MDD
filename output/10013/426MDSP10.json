@@ -1,0 +1,47 @@
+{
+    "ArtNo": "426MD/SP10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 10 limes rotatives en métal dur coupe croisée HM4",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230554822"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 10 limes rotatives en métal dur coupe croisée HM4",
+            "StandardisedArticleDescription": "Jeu de 10 limes rotatives en métal dur coupe croisée HM4",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "426MD_slash_SP10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/426MD_slash_SP10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004260510"
+    ],
+    "URL": []
+}

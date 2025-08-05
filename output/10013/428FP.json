@@ -1,0 +1,67 @@
+{
+    "ArtNo": "428FP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tarauds machine pour trous débouchants, pas gros, en acier HSS",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "24x3",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "14,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "160",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "38",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230170640"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tarauds machine pour trous débouchants, pas gros, en acier HSS",
+            "StandardisedArticleDescription": "Tarauds machine pour trous débouchants, pas gros, en acier HSS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "428FP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/428FP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004280024"
+    ],
+    "URL": []
+}

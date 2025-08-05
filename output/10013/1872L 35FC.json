@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1872L 35/FC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Filtre à cartouche classe \"L\" pour 1872L 35",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230851198"
+    ],
+    "GenArts": [
+        {
+            "Description": "Filtre à cartouche classe \"L\" pour 1872L 35",
+            "StandardisedArticleDescription": "Filtre à cartouche classe \"L\" pour 1872L 35",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1872L35_slash_FC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1872L35_slash_FC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018720144"
+    ],
+    "URL": []
+}

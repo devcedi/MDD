@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1528",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur autoserrant pour disques frein",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmin÷Max \nmm",
+            "Value": "170÷ 380",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809124124"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur autoserrant pour disques frein",
+            "StandardisedArticleDescription": "Extracteur autoserrant pour disques frein",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1528.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1528.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015280000"
+    ],
+    "URL": []
+}

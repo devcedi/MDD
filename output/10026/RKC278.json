@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKC278",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966017055"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tube polyuréthane Ø6/4 mm bleu au mètre ",
+            "StandardisedArticleDescription": "Tube polyuréthane Ø6/4 mm bleu au mètre ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKC278"
+    ],
+    "URL": []
+}

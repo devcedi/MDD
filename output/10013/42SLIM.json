@@ -1,0 +1,72 @@
+{
+    "ArtNo": "42SLIM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte à tête slim affinée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "19x19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "233",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "40,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "40,5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "5,6",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230931517"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte à tête slim affinée",
+            "StandardisedArticleDescription": "Clé mixte à tête slim affinée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42SLIM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42SLIM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000420419"
+    ],
+    "URL": []
+}

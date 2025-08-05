@@ -1,0 +1,47 @@
+{
+    "ArtNo": "6888",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochets pour présentoirs C60 - C61 - C68 - C88",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230959610"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochets pour présentoirs C60 - C61 - C68 - C88",
+            "StandardisedArticleDescription": "Crochets pour présentoirs C60 - C61 - C68 - C88",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "96.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "6888.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/6888.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "068880610"
+    ],
+    "URL": []
+}

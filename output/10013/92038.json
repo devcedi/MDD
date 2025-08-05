@@ -1,0 +1,57 @@
+{
+    "ArtNo": "920/38",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée articulée extensible, carré mâle 1/2\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "262",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L max\nmm",
+            "Value": "402",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230799513"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée articulée extensible, carré mâle 1/2\"",
+            "StandardisedArticleDescription": "Poignée articulée extensible, carré mâle 1/2\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_38.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_38.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200839"
+    ],
+    "URL": []
+}

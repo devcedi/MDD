@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8889P3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Séparateurs parallèles pour RSC24AXL",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "70 mm",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230848075"
+    ],
+    "GenArts": [
+        {
+            "Description": "Séparateurs parallèles pour RSC24AXL",
+            "StandardisedArticleDescription": "Séparateurs parallèles pour RSC24AXL",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8889P3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8889P3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088890207"
+    ],
+    "URL": []
+}

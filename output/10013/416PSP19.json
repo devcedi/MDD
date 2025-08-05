@@ -1,0 +1,47 @@
+{
+    "ArtNo": "416P/SP19",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 19 forets hélicoïdaux cylindriques en HSS, AISI M2, entièrement rectifiés avec pointe réduite pour le centrage et pour un perçage plus rapide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809448060"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 19 forets hélicoïdaux cylindriques en HSS, AISI M2, entièrement rectifiés avec pointe réduite pour le centrage et pour un perçage plus rapide",
+            "StandardisedArticleDescription": "Jeu de 19 forets hélicoïdaux cylindriques en HSS, AISI M2, entièrement rectifiés avec pointe réduite pour le centrage et pour un perçage plus rapide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "416P_slash_SP19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/416P_slash_SP19.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004160469"
+    ],
+    "URL": []
+}

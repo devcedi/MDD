@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7849BL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Veste de travail en T/C twill, 245 g/m2, bleu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230786940"
+    ],
+    "GenArts": [
+        {
+            "Description": "Veste de travail en T/C twill, 245 g/m2, bleu",
+            "StandardisedArticleDescription": "Veste de travail en T/C twill, 245 g/m2, bleu",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7849BL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7849BL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078490107"
+    ],
+    "URL": []
+}

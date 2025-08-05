@@ -1,0 +1,47 @@
+{
+    "ArtNo": "KIT 6VC/3C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de 6 plateaux amovibles pour bacs de rangement CPMB/3C pour petites pièces",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809503622"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de 6 plateaux amovibles pour bacs de rangement CPMB/3C pour petites pièces",
+            "StandardisedArticleDescription": "Kit de 6 plateaux amovibles pour bacs de rangement CPMB/3C pour petites pièces",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "KIT6VC_slash_3C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/KIT6VC_slash_3C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088880453"
+    ],
+    "URL": []
+}

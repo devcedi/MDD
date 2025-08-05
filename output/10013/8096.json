@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8096",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Élingue chaîne à un brin, avec raccourcisseur, grade 8",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "4",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "12,5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809431703"
+    ],
+    "GenArts": [
+        {
+            "Description": "Élingue chaîne à un brin, avec raccourcisseur, grade 8",
+            "StandardisedArticleDescription": "Élingue chaîne à un brin, avec raccourcisseur, grade 8",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8096.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8096.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080960174"
+    ],
+    "URL": []
+}

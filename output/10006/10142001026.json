@@ -1,0 +1,67 @@
+{
+    "ArtNo": 10142001026,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "bidon métallique ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Pouvoir accentué grâce à l’action des microbilles non agressives pour la peau",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Gardez la peau saine grâce à des ingrédients graissants",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Savon gel citronné , sans solvant, avec microbilles végétales surpuissant pour fortes salissures comme le goudron, la graisse, les lubrifiants, l'huile, la résine, et le caoutchouc. Particulièrement destiné aux garages, aux ateliers et à l'industrie lourde.",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Application ",
+            "Value": "Appliquer Dreumex sur les mains sèches, bien frotter jusqu’à ce que toute saleté soit dissoute. Rincer les mains et essuyer. Garder l’emballage bien fermé et au frais.",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602000624"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Plus 4x4,5L",
+            "StandardisedArticleDescription": "Dreumex Plus 4x4,5L",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Plus01",
+            "Extension": "",
+            "Path": "/img/10006/Plus01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "10142001026"
+    ],
+    "URL": []
+}

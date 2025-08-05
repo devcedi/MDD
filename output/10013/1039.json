@@ -1,0 +1,82 @@
+{
+    "ArtNo": "1039",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour circlips réversible à becs droits",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nØ mm",
+            "Value": "10÷15",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nØ mm",
+            "Value": "6÷25",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "30",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A1 \nmm",
+            "Value": "1,0",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "5,2",
+            "SortNo": 7
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "75",
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230087764"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour circlips réversible à becs droits",
+            "StandardisedArticleDescription": "Pince pour circlips réversible à becs droits",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1039.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1039.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010390015"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "DP3724/0101",
+    "Attributs": [
+        {
+            "Attribute": "1D 28B-10",
+            "Value": "1T19 E2 / 204676",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "2923V",
+            "Value": "3 229 0031 00",
+            "SortNo": 2
+        },
+        {
+            "Attribute": 751082,
+            "Value": "D13B26",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "KR 622-18",
+            "Value": "",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005292"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A183,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A183,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP3724/0101"
+    ],
+    "URL": []
+}

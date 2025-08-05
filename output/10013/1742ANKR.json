@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1742AN/KR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de rechange comprenant 4 mandrins filetés pour la pince à insert 1742AN",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M12",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809519951"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de rechange comprenant 4 mandrins filetés pour la pince à insert 1742AN",
+            "StandardisedArticleDescription": "Kit de rechange comprenant 4 mandrins filetés pour la pince à insert 1742AN",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1742AN_slash_KR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1742AN_slash_KR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017420162"
+    ],
+    "URL": []
+}

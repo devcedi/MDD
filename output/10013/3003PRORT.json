@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3003PRO/RT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lampe a LED avec aimants de rechange pour couchette d'atelier 3003PRO",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809129969"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lampe a LED avec aimants de rechange pour couchette d'atelier 3003PRO",
+            "StandardisedArticleDescription": "Lampe a LED avec aimants de rechange pour couchette d'atelier 3003PRO",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3003PRO_slash_RT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3003PRO_slash_RT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030030652"
+    ],
+    "URL": []
+}

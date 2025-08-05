@@ -1,0 +1,72 @@
+{
+    "ArtNo": "378",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes modèle suédois tête inclinée à 45°, mâchoires fines",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "650",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmax \"",
+            "Value": "3\" gas",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmax mm",
+            "Value": "90",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "36",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "18",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230026954"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes modèle suédois tête inclinée à 45°, mâchoires fines",
+            "StandardisedArticleDescription": "Clé serre-tubes modèle suédois tête inclinée à 45°, mâchoires fines",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "378.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/378.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003780065"
+    ],
+    "URL": []
+}

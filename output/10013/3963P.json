@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3963P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé spéciale pour rayons plats",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "129",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "15,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "2,2",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A2\nmm",
+            "Value": "2,5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882598"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé spéciale pour rayons plats",
+            "StandardisedArticleDescription": "Clé spéciale pour rayons plats",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3963P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3963P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039630010"
+    ],
+    "URL": []
+}

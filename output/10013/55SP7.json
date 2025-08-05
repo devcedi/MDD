@@ -1,0 +1,47 @@
+{
+    "ArtNo": "55/SP7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 clés à fourches avec support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230486369"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 clés à fourches avec support",
+            "StandardisedArticleDescription": "Jeu de 7 clés à fourches avec support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "55_slash_SP7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/55_slash_SP7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000550167"
+    ],
+    "URL": []
+}

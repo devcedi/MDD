@@ -1,0 +1,57 @@
+{
+    "ArtNo": "DP34757/0201",
+    "Attributs": [
+        {
+            "Attribute": "1DK 25-1",
+            "Value": "1DK 25-8747",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H 2 500 915",
+            "Value": "D13B42",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "YP 08747W",
+            "Value": "",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005728"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A151,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A151,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34757/0201"
+    ],
+    "URL": []
+}

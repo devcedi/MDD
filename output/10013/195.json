@@ -1,0 +1,72 @@
+{
+    "ArtNo": "195",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale double droite à cliquet",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "17x19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "230",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "34,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "35,6",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "10,7",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230487083"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale double droite à cliquet",
+            "StandardisedArticleDescription": "Clé polygonale double droite à cliquet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "195.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/195.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001950019"
+    ],
+    "URL": []
+}

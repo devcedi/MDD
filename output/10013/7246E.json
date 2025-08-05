@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7246E",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse type tennis aérée en croûte de velours",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "317",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230802985"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse type tennis aérée en croûte de velours",
+            "StandardisedArticleDescription": "Chaussure basse type tennis aérée en croûte de velours",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7246E.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7246E.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072460448"
+    ],
+    "URL": []
+}

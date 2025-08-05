@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1515/1 - 2 - 3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur à 2 griffes articulées",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nMax\nmm",
+            "Value": "90",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "105",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "105",
+            "SortNo": 4
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "10",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230045443"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur à 2 griffes articulées",
+            "StandardisedArticleDescription": "Extracteur à 2 griffes articulées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1515_slash_1-2-3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1515_slash_1-2-3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015150103"
+    ],
+    "URL": []
+}

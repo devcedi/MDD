@@ -1,0 +1,52 @@
+{
+    "ArtNo": "387R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Matrices pour 387",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\n\"",
+            "Value": "5/16\"-3/8\" ",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809329109"
+    ],
+    "GenArts": [
+        {
+            "Description": "Matrices pour 387",
+            "StandardisedArticleDescription": "Matrices pour 387",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "387R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/387R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003870015"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1836B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lampe frontale articulée à LED, rechargeable, à double intensité lumineuse et avec capteur ON/OFF",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776767"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lampe frontale articulée à LED, rechargeable, à double intensité lumineuse et avec capteur ON/OFF",
+            "StandardisedArticleDescription": "Lampe frontale articulée à LED, rechargeable, à double intensité lumineuse et avec capteur ON/OFF",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1836B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1836B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018360200"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "861RTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout pour visseuses pour vis à Tamper Resistant Torx(R)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809135830"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout pour visseuses pour vis à Tamper Resistant Torx(R)",
+            "StandardisedArticleDescription": "Embout pour visseuses pour vis à Tamper Resistant Torx(R)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "861RTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/861RTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008610540"
+    ],
+    "URL": []
+}

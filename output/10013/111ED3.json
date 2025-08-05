@@ -1,0 +1,47 @@
+{
+    "ArtNo": "111E/D3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 3 clés à molette graduées et chromées",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809640570"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 3 clés à molette graduées et chromées",
+            "StandardisedArticleDescription": "Jeu de 3 clés à molette graduées et chromées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "111E_slash_D3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/111E_slash_D3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001110163"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "34BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Burin plat antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "24",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "400",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230799681"
+    ],
+    "GenArts": [
+        {
+            "Description": "Burin plat antidéflagrant",
+            "StandardisedArticleDescription": "Burin plat antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "34BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/34BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000340803"
+    ],
+    "URL": []
+}

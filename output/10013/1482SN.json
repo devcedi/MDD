@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1482SN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pivotante à mâchoires articulées pour les raccords rapides des conduites de carburant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "260",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809195995"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pivotante à mâchoires articulées pour les raccords rapides des conduites de carburant",
+            "StandardisedArticleDescription": "Pince pivotante à mâchoires articulées pour les raccords rapides des conduites de carburant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1482SN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1482SN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014820110"
+    ],
+    "URL": []
+}

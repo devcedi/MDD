@@ -1,0 +1,62 @@
+{
+    "ArtNo": "DP154/0101",
+    "Attributs": [
+        {
+            "Attribute": "2B 9-269",
+            "Value": 15670,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "20 107 016 01",
+            "Value": "A 946 328 1601",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "2B 12R-A-10",
+            "Value": 21221356,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S 09280",
+            "Value": "US 07394 F",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006787"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A94,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A94,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP154/0101"
+    ],
+    "URL": []
+}

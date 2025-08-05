@@ -1,0 +1,72 @@
+{
+    "ArtNo": "195AS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale droite à cliquet chromée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\n\"",
+            "Value": "11/16x3/4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "230",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230735979"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale droite à cliquet chromée",
+            "StandardisedArticleDescription": "Clé polygonale droite à cliquet chromée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "195AS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/195AS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001950617"
+    ],
+    "URL": []
+}

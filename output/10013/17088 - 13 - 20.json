@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1708/8 - 13 - 20",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jauges d'épaisseur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "0,05÷1,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S \nײ",
+            "Value": "0,002÷0,040",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "105",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230046846"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jauges d'épaisseur",
+            "StandardisedArticleDescription": "Jauges d'épaisseur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1708_slash_8-13-20.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1708_slash_8-13-20.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017080020"
+    ],
+    "URL": []
+}

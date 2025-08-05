@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1701NE/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ciseau d'électricien",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SxL \nmm",
+            "Value": "10x250",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230389608"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ciseau d'électricien",
+            "StandardisedArticleDescription": "Ciseau d'électricien",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1701NE_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1701NE_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017010409"
+    ],
+    "URL": []
+}

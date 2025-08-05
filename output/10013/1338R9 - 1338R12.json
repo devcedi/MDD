@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1338R9 - 1338R12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lime fraisée pour 1338A-B",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "/1”",
+            "Value": "12",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230043623"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lime fraisée pour 1338A-B",
+            "StandardisedArticleDescription": "Lime fraisée pour 1338A-B",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1338R9-1338R12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1338R9-1338R12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013380005"
+    ],
+    "URL": []
+}

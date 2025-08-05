@@ -1,0 +1,40 @@
+{
+    "ArtNo": "365R/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit pièces de rechange pour 365 composé de: mâchoire fixe, mâchoire mobile, molette, goupille de retenue.",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230423784"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit pièces de rechange pour 365 composé de: mâchoire fixe, mâchoire mobile, molette, goupille de retenue.",
+            "StandardisedArticleDescription": "Kit pièces de rechange pour 365 composé de: mâchoire fixe, mâchoire mobile, molette, goupille de retenue.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003650245"
+    ],
+    "URL": []
+}

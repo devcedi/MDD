@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7980L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bonnet à LED rechargeable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "Taglia unica",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809506296"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bonnet à LED rechargeable",
+            "StandardisedArticleDescription": "Bonnet à LED rechargeable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7980L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7980L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "079800200"
+    ],
+    "URL": []
+}

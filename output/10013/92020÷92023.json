@@ -1,0 +1,67 @@
+{
+    "ArtNo": "920/20÷920/23",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge carrés mâle et femelle 1/2\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "375",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230847054"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge carrés mâle et femelle 1/2\"",
+            "StandardisedArticleDescription": "Rallonge carrés mâle et femelle 1/2\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_20920_slash_23.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_20920_slash_23.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200827"
+    ],
+    "URL": []
+}

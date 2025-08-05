@@ -1,0 +1,62 @@
+{
+    "ArtNo": "96BPC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mâle 6 pans coudée à tête sphérique, chromée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "7",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "157",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "33",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230473109"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mâle 6 pans coudée à tête sphérique, chromée",
+            "StandardisedArticleDescription": "Clé mâle 6 pans coudée à tête sphérique, chromée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96BPC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96BPC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000960353"
+    ],
+    "URL": []
+}

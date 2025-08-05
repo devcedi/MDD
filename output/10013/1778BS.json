@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1778BS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Couteau pliable à lame dentelée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "29",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "85",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809526904"
+    ],
+    "GenArts": [
+        {
+            "Description": "Couteau pliable à lame dentelée",
+            "StandardisedArticleDescription": "Couteau pliable à lame dentelée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1778BS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1778BS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017780035"
+    ],
+    "URL": []
+}

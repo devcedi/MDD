@@ -1,0 +1,57 @@
+{
+    "ArtNo": "8425",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manille droite",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø D\nmm",
+            "Value": "25",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "2100",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230904719"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manille droite",
+            "StandardisedArticleDescription": "Manille droite",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8425.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8425.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "084250225"
+    ],
+    "URL": []
+}

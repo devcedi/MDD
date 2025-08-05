@@ -1,0 +1,52 @@
+{
+    "ArtNo": "RKAS107/01",
+    "Attributs": [
+        {
+            "Attribute": 500041358,
+            "Value": 500042581,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1E 19-4",
+            "Value": "1TS 270-23 / 206684",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966014153"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de renfort de suspension arrière - Iveco Daily MY2014 - 2014 ",
+            "StandardisedArticleDescription": "Kit de renfort de suspension arrière - Iveco Daily MY2014 - 2014 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A234,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A234,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKAS107/01"
+    ],
+    "URL": []
+}

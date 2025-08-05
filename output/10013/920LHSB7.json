@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920LH/SB7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille tournevis pour vis Phillips®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230035017"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille tournevis pour vis Phillips®",
+            "StandardisedArticleDescription": "Douille tournevis pour vis Phillips®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920LH_slash_SB7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920LH_slash_SB7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200478"
+    ],
+    "URL": []
+}

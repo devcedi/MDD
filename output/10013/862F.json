@@ -1,0 +1,62 @@
+{
+    "ArtNo": "862F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout à douille magnétique pour visseuse",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "13",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "65",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "18",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230174952"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout à douille magnétique pour visseuse",
+            "StandardisedArticleDescription": "Embout à douille magnétique pour visseuse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "862F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/862F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008620413"
+    ],
+    "URL": []
+}

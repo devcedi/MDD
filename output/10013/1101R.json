@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1101R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lames pour 1101",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "900",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1101",
+            "Value": "900",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230357539"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lames pour 1101",
+            "StandardisedArticleDescription": "Lames pour 1101",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1101R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1101R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011010190"
+    ],
+    "URL": []
+}

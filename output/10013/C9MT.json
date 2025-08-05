@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C9MT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sacoche porte-outils pour les agents d'entretien, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809464749"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sacoche porte-outils pour les agents d'entretien, vide",
+            "StandardisedArticleDescription": "Sacoche porte-outils pour les agents d'entretien, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C9MT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C9MT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021090200"
+    ],
+    "URL": []
+}

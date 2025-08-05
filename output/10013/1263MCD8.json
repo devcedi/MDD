@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1263MC/D8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 8 tournevis colorés",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809177830"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 8 tournevis colorés",
+            "StandardisedArticleDescription": "Jeu de 8 tournevis colorés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1263MC_slash_D8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1263MC_slash_D8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012632008"
+    ],
+    "URL": []
+}

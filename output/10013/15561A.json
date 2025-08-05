@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1556/1A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Compresseur de ressorts",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "min L Max\nmm",
+            "Value": "65÷320",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230138350"
+    ],
+    "GenArts": [
+        {
+            "Description": "Compresseur de ressorts",
+            "StandardisedArticleDescription": "Compresseur de ressorts",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1556_slash_1A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1556_slash_1A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015560101"
+    ],
+    "URL": []
+}

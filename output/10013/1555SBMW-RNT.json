@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1555S/BMW-RNT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupelle pour amortisseurs BMW E39, E46 et Renault Mégane II pour 1555Q et 1555/QS",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230559926"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupelle pour amortisseurs BMW E39, E46 et Renault Mégane II pour 1555Q et 1555/QS",
+            "StandardisedArticleDescription": "Coupelle pour amortisseurs BMW E39, E46 et Renault Mégane II pour 1555Q et 1555/QS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1555S_slash_BMW-RNT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1555S_slash_BMW-RNT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015550303"
+    ],
+    "URL": []
+}

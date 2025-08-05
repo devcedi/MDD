@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1105/C16T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Assortiment de 15 emporte pièces, 3 à 30 mm, et 1 accessoire",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809213804"
+    ],
+    "GenArts": [
+        {
+            "Description": "Assortiment de 15 emporte pièces, 3 à 30 mm, et 1 accessoire",
+            "StandardisedArticleDescription": "Assortiment de 15 emporte pièces, 3 à 30 mm, et 1 accessoire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1105_slash_C16T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1105_slash_C16T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011050255"
+    ],
+    "URL": []
+}

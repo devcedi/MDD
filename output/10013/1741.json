@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1741",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à riveter avec 4 embouts interchangeables",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A",
+            "Value": "73",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B",
+            "Value": "24",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L",
+            "Value": "266",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809531656"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à riveter avec 4 embouts interchangeables",
+            "StandardisedArticleDescription": "Pince à riveter avec 4 embouts interchangeables",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1741.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1741.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017410003"
+    ],
+    "URL": []
+}

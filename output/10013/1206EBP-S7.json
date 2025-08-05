@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1206E/BP-S7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 clés mâles emmanchées à tête sphérique Evox pour vis 6 pans",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaEVOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809134420"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 clés mâles emmanchées à tête sphérique Evox pour vis 6 pans",
+            "StandardisedArticleDescription": "Jeu de 7 clés mâles emmanchées à tête sphérique Evox pour vis 6 pans",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1206E_slash_BP-S7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1206E_slash_BP-S7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012061407"
+    ],
+    "URL": []
+}

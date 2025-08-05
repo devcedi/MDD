@@ -1,0 +1,34 @@
+{
+    "ArtNo": "629135AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694012903"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servo d'embrayage DAF ",
+            "StandardisedArticleDescription": "Servo d'embrayage DAF ",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C35",
+            "Extension": "",
+            "Path": "/img/10021/=C35"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A35"
+    ],
+    "URL": []
+}

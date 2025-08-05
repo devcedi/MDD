@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9523A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gourde en aluminium, 500 ml",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "500",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809170114"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gourde en aluminium, 500 ml",
+            "StandardisedArticleDescription": "Gourde en aluminium, 500 ml",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9523A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9523A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095230005"
+    ],
+    "URL": []
+}

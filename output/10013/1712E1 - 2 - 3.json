@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1712E/1 - 2 - 3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Doigt magnétique flexible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "532",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "19",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F \nkg",
+            "Value": "3,0",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230469027"
+    ],
+    "GenArts": [
+        {
+            "Description": "Doigt magnétique flexible",
+            "StandardisedArticleDescription": "Doigt magnétique flexible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1712E_slash_1-2-3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1712E_slash_1-2-3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017120013"
+    ],
+    "URL": []
+}

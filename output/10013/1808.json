@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1808",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Fer à souder bi-watts avec panne droite pointue en acier 1824R8",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "W",
+            "Value": "20/130",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "V",
+            "Value": "230",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230637501"
+    ],
+    "GenArts": [
+        {
+            "Description": "Fer à souder bi-watts avec panne droite pointue en acier 1824R8",
+            "StandardisedArticleDescription": "Fer à souder bi-watts avec panne droite pointue en acier 1824R8",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1808.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1808.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018080001"
+    ],
+    "URL": []
+}

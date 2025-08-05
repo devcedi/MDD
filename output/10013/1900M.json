@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1900M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Enrouleur de tuyau automatique, corps en plastique antichoc, pour l’air ou l’eau",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D1xD \nmm",
+            "Value": "12x16",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "15",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø GAS \nBSP",
+            "Value": "1/2''",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Scocca",
+            "Value": "B",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809622712"
+    ],
+    "GenArts": [
+        {
+            "Description": "Enrouleur de tuyau automatique, corps en plastique antichoc, pour l’air ou l’eau",
+            "StandardisedArticleDescription": "Enrouleur de tuyau automatique, corps en plastique antichoc, pour l’air ou l’eau",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "27_avvolgitori.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/27_avvolgitori.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1900M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1900M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019000125"
+    ],
+    "URL": []
+}

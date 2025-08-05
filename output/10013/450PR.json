@@ -1,0 +1,52 @@
+{
+    "ArtNo": "450PR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge pour 450",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "305",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230173436"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge pour 450",
+            "StandardisedArticleDescription": "Rallonge pour 450",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "450PR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/450PR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004500255"
+    ],
+    "URL": []
+}

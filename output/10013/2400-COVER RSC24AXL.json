@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2400-COVER RSC24AXL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Housse en nylon pour servante RSC24A-XL, RSC24L, RSC24L-CAB",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230936024"
+    ],
+    "GenArts": [
+        {
+            "Description": "Housse en nylon pour servante RSC24A-XL, RSC24L, RSC24L-CAB",
+            "StandardisedArticleDescription": "Housse en nylon pour servante RSC24A-XL, RSC24L, RSC24L-CAB",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2400-COVERRSC24AXL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2400-COVERRSC24AXL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024000930"
+    ],
+    "URL": []
+}

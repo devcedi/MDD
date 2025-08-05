@@ -1,0 +1,72 @@
+{
+    "ArtNo": "3955",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourche pour jeux guidon universels, chromée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "32x36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "319",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "63,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "76,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "4",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230881065"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourche pour jeux guidon universels, chromée",
+            "StandardisedArticleDescription": "Clé à fourche pour jeux guidon universels, chromée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3955.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3955.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039550114"
+    ],
+    "URL": []
+}

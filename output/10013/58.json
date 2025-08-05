@@ -1,0 +1,67 @@
+{
+    "ArtNo": "58",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourche à frapper",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "230",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "800",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "392,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "78,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230022819"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourche à frapper",
+            "StandardisedArticleDescription": "Clé à fourche à frapper",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "58.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/58.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000580230"
+    ],
+    "URL": []
+}

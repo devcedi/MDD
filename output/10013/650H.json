@@ -1,0 +1,67 @@
+{
+    "ArtNo": "650H",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à ergot pour clés dynamométriques avec entraînement rectangulaire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "80-90",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "14x18",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "145",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "LA\nmm",
+            "Value": "92",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809149912"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à ergot pour clés dynamométriques avec entraînement rectangulaire",
+            "StandardisedArticleDescription": "Clé à ergot pour clés dynamométriques avec entraînement rectangulaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "650H.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/650H.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006500980"
+    ],
+    "URL": []
+}

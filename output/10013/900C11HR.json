@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900/C11HR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique avec plateau thermoformé rigide comprenant 1 cliquet avec 11 douilles 6 pans, 20 embouts pour visseuses et 7 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230789262"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique avec plateau thermoformé rigide comprenant 1 cliquet avec 11 douilles 6 pans, 20 embouts pour visseuses et 7 accessoires",
+            "StandardisedArticleDescription": "Coffret métallique avec plateau thermoformé rigide comprenant 1 cliquet avec 11 douilles 6 pans, 20 embouts pour visseuses et 7 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_C11HR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_C11HR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000980"
+    ],
+    "URL": []
+}

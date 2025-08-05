@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3969K3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 3 leviers démonte-pneus en plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "113",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "15",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "21",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882642"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 3 leviers démonte-pneus en plastique",
+            "StandardisedArticleDescription": "Jeu de 3 leviers démonte-pneus en plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3969K3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3969K3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039690130"
+    ],
+    "URL": []
+}

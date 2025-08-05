@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1750R/1 - 1750R/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Flexible pour 1750",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "410",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230093185"
+    ],
+    "GenArts": [
+        {
+            "Description": "Flexible pour 1750",
+            "StandardisedArticleDescription": "Flexible pour 1750",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1750R_slash_1-1750R_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1750R_slash_1-1750R_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017500040"
+    ],
+    "URL": []
+}

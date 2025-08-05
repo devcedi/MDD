@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1105T30",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée pour 1105, 3-30 mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "​L \nmm",
+            "Value": "175",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809213781"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée pour 1105, 3-30 mm",
+            "StandardisedArticleDescription": "Poignée pour 1105, 3-30 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1105T30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1105T30.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011050205"
+    ],
+    "URL": []
+}

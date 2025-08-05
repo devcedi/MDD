@@ -1,0 +1,57 @@
+{
+    "ArtNo": "123Q1/4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Adaptateur pour douilles 1/4\" à déverrouillage rapide, pour clés à cliquet 10 mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "17,5",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230486987"
+    ],
+    "GenArts": [
+        {
+            "Description": "Adaptateur pour douilles 1/4\" à déverrouillage rapide, pour clés à cliquet 10 mm",
+            "StandardisedArticleDescription": "Adaptateur pour douilles 1/4\" à déverrouillage rapide, pour clés à cliquet 10 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "123Q1_slash_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/123Q1_slash_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001230310"
+    ],
+    "URL": []
+}

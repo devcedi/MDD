@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7865G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Combinaison de travail légère Nouveau design - Confort amélioré",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "5XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "62",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809525402"
+    ],
+    "GenArts": [
+        {
+            "Description": "Combinaison de travail légère Nouveau design - Confort amélioré",
+            "StandardisedArticleDescription": "Combinaison de travail légère Nouveau design - Confort amélioré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7865G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7865G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078650808"
+    ],
+    "URL": []
+}

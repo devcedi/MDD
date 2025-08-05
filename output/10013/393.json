@@ -1,0 +1,67 @@
+{
+    "ArtNo": "393",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour écrous de robinet",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "270",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "42",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "11",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "32",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086651"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour écrous de robinet",
+            "StandardisedArticleDescription": "Pince pour écrous de robinet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "393.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/393.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003930001"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1870-72/FL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Filtre pour aspiration liquides pour 1870 - 1870I - 1872L - 1873 - 1874 - 1875LT",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230746562"
+    ],
+    "GenArts": [
+        {
+            "Description": "Filtre pour aspiration liquides pour 1870 - 1870I - 1872L - 1873 - 1874 - 1875LT",
+            "StandardisedArticleDescription": "Filtre pour aspiration liquides pour 1870 - 1870I - 1872L - 1873 - 1874 - 1875LT",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1870-72_slash_FL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1870-72_slash_FL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018700027"
+    ],
+    "URL": []
+}

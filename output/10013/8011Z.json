@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8011Z",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeurs à crochet et à chape galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M27",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n”",
+            "Value": "1\"1/8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L min\nmm",
+            "Value": "500",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "2300",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809517315"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeurs à crochet et à chape galvanisé",
+            "StandardisedArticleDescription": "Tendeurs à crochet et à chape galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8011Z.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8011Z.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080110127"
+    ],
+    "URL": []
+}

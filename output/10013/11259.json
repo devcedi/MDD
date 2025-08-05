@@ -1,0 +1,57 @@
+{
+    "ArtNo": "11259",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Disques à lamelles en feutre pour polissage, support en fibre de verre et lamelle simple",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "115",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "F \nmm",
+            "Value": "22,23",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230946542"
+    ],
+    "GenArts": [
+        {
+            "Description": "Disques à lamelles en feutre pour polissage, support en fibre de verre et lamelle simple",
+            "StandardisedArticleDescription": "Disques à lamelles en feutre pour polissage, support en fibre de verre et lamelle simple",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11259.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11259.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "112590115"
+    ],
+    "URL": []
+}

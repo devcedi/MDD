@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1500G/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de griffes série normale pour 1500 et 1580/8I",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "230",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \n1500",
+            "Value": "/8 \n1580/8I",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230628158"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de griffes série normale pour 1500 et 1580/8I",
+            "StandardisedArticleDescription": "Paire de griffes série normale pour 1500 et 1580/8I",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1500G_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1500G_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015000317"
+    ],
+    "URL": []
+}

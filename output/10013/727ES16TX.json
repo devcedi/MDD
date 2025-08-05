@@ -1,0 +1,62 @@
+{
+    "ArtNo": "727/ES16TX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout à choc pour vis Torx® avec entrainement 16mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T70",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "16",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "50",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230352527"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout à choc pour vis Torx® avec entrainement 16mm",
+            "StandardisedArticleDescription": "Embout à choc pour vis Torx® avec entrainement 16mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "727_slash_ES16TX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/727_slash_ES16TX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007270370"
+    ],
+    "URL": []
+}

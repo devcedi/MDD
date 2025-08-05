@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1618-SF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cosse pré-isolée à fiche femelle",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "3,8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm²",
+            "Value": "0,25-1,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "23,5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629001404"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cosse pré-isolée à fiche femelle",
+            "StandardisedArticleDescription": "Cosse pré-isolée à fiche femelle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1618-SF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1618-SF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BM00140"
+    ],
+    "URL": []
+}

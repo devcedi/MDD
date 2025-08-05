@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1484",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 2 outils pour la dépose et le montage des courroies élastiques",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230693415"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 2 outils pour la dépose et le montage des courroies élastiques",
+            "StandardisedArticleDescription": "Jeu de 2 outils pour la dépose et le montage des courroies élastiques",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1484.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1484.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014840010"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2115P L-MQ32",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 32 outils isolés pour autos hybrides, en (boîte à outils) coffret en matière plastique, avec plateau en mousse compacte",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230778587"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 32 outils isolés pour autos hybrides, en (boîte à outils) coffret en matière plastique, avec plateau en mousse compacte",
+            "StandardisedArticleDescription": "Composition de 32 outils isolés pour autos hybrides, en (boîte à outils) coffret en matière plastique, avec plateau en mousse compacte",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2115PL-MQ32.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2115PL-MQ32.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021150332"
+    ],
+    "URL": []
+}

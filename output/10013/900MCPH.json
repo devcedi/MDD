@@ -1,0 +1,67 @@
+{
+    "ArtNo": "900MC/PH",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille tournevis pour vis Philips®, colorée, carré femelle 1/4\", chromée - embouts brunis",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PH",
+            "Value": "3",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "12",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "28",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "12",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809153254"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille tournevis pour vis Philips®, colorée, carré femelle 1/4\", chromée - embouts brunis",
+            "StandardisedArticleDescription": "Douille tournevis pour vis Philips®, colorée, carré femelle 1/4\", chromée - embouts brunis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900MC_slash_PH.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900MC_slash_PH.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009002703"
+    ],
+    "URL": []
+}

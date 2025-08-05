@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1498EL/12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Booster de démarrage portable 12V",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "330",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "390",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "P \nmm",
+            "Value": "130",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809563664"
+    ],
+    "GenArts": [
+        {
+            "Description": "Booster de démarrage portable 12V",
+            "StandardisedArticleDescription": "Booster de démarrage portable 12V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498EL_slash_12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498EL_slash_12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980712"
+    ],
+    "URL": []
+}

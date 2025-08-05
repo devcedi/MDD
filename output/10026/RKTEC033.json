@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKTEC033",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966028334"
+    ],
+    "GenArts": [
+        {
+            "Description": "kit visserie pour DP157/0605 ",
+            "StandardisedArticleDescription": "kit visserie pour DP157/0605 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKTEC033"
+    ],
+    "URL": []
+}

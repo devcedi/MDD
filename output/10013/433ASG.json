@@ -1,0 +1,67 @@
+{
+    "ArtNo": "433ASG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 2 tarauds à main, filetage GAS, en acier au chrome",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "GAS",
+            "Value": "1\"x11",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "20,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "100",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "39",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230171494"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 2 tarauds à main, filetage GAS, en acier au chrome",
+            "StandardisedArticleDescription": "Jeu de 2 tarauds à main, filetage GAS, en acier au chrome",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "433ASG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/433ASG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004330410"
+    ],
+    "URL": []
+}

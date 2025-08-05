@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8871",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ceinture de sécurité avec boucle métallique à double verrouillage, pour connecter les outils H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L",
+            "Value": "100-135 ",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230856919"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ceinture de sécurité avec boucle métallique à double verrouillage, pour connecter les outils H-SAFE",
+            "StandardisedArticleDescription": "Ceinture de sécurité avec boucle métallique à double verrouillage, pour connecter les outils H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8871.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8871.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088710100"
+    ],
+    "URL": []
+}

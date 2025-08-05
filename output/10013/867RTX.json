@@ -1,0 +1,57 @@
+{
+    "ArtNo": "867RTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout avec entraînement hexagonal de 10 mm pour vis Tamper Resistant Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T55",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "30",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230375526"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout avec entraînement hexagonal de 10 mm pour vis Tamper Resistant Torx®",
+            "StandardisedArticleDescription": "Embout avec entraînement hexagonal de 10 mm pour vis Tamper Resistant Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "867RTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/867RTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008670530"
+    ],
+    "URL": []
+}

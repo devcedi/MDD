@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3030/2T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cric rouleur hydraulique à 6 roues",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230697048"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cric rouleur hydraulique à 6 roues",
+            "StandardisedArticleDescription": "Cric rouleur hydraulique à 6 roues",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3030_slash_2T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3030_slash_2T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030300020"
+    ],
+    "URL": []
+}

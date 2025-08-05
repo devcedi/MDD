@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3065/20-10T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cric hydropneumatique 20-10 t avec coffret de transport",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230872704"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cric hydropneumatique 20-10 t avec coffret de transport",
+            "StandardisedArticleDescription": "Cric hydropneumatique 20-10 t avec coffret de transport",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3065_slash_20-10T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3065_slash_20-10T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030650100"
+    ],
+    "URL": []
+}

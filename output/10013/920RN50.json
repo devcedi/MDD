@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920/RN50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de rechange",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809542843"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de rechange",
+            "StandardisedArticleDescription": "Kit de rechange",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_RN50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_RN50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009201130"
+    ],
+    "URL": []
+}

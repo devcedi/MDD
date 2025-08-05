@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1492/1 - 1492/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé réglable pour filtres à huile",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "80÷110",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230045030"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé réglable pour filtres à huile",
+            "StandardisedArticleDescription": "Clé réglable pour filtres à huile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1492_slash_1-1492_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1492_slash_1-1492_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014920002"
+    ],
+    "URL": []
+}

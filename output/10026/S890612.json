@@ -1,0 +1,87 @@
+{
+    "ArtNo": "S890612",
+    "Attributs": [
+        {
+            "Attribute": 81436010065,
+            "Value": 81436010067,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 81436010070,
+            "Value": 81436010092,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 81436010093,
+            "Value": 81436010094,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 81436010099,
+            "Value": 81436010103,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 81436010121,
+            "Value": 81436010132,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D031105",
+            "Value": "A 658 328 0101",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "A 699 328 0101",
+            "Value": "1F 16",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "1SC 250-28 / 97042",
+            "Value": "D12S12",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "B 155",
+            "Value": "",
+            "SortNo": 9
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966011411"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coussin de cabine ",
+            "StandardisedArticleDescription": "Coussin de cabine ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A268,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A268,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "S890612"
+    ],
+    "URL": []
+}

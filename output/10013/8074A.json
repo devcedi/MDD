@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8074A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mousqueton avec anneau, zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "øAxL\nmm",
+            "Value": "10x100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "13,3",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "120",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230884776"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mousqueton avec anneau, zingué",
+            "StandardisedArticleDescription": "Mousqueton avec anneau, zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8074A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8074A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080740410"
+    ],
+    "URL": []
+}

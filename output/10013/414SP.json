@@ -1,0 +1,47 @@
+{
+    "ArtNo": "414/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret vide pour 414/SP49",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230168142"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret vide pour 414/SP49",
+            "StandardisedArticleDescription": "Coffret vide pour 414/SP49",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "414_slash_SP_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/414_slash_SP_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004140430"
+    ],
+    "URL": []
+}

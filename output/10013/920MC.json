@@ -1,0 +1,52 @@
+{
+    "ArtNo": "920MC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 6 pans, carré femelle 1/2\", colorée, chromée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "24",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809153483"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 6 pans, carré femelle 1/2\", colorée, chromée",
+            "StandardisedArticleDescription": "Douille 6 pans, carré femelle 1/2\", colorée, chromée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920MC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920MC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009202024"
+    ],
+    "URL": []
+}

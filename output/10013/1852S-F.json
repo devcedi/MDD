@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1852S-F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serpentin avec branchement sur le devant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "45",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "M",
+            "Value": "M22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "220",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230805078"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serpentin avec branchement sur le devant",
+            "StandardisedArticleDescription": "Serpentin avec branchement sur le devant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1852S-F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1852S-F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018520514"
+    ],
+    "URL": []
+}

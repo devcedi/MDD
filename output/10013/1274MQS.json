@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1274MQ/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 tournevis à lame fraisée pur vis à fente (art. 1274MQ)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230646398"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 tournevis à lame fraisée pur vis à fente (art. 1274MQ)",
+            "StandardisedArticleDescription": "Jeu de 6 tournevis à lame fraisée pur vis à fente (art. 1274MQ)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1274MQ_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1274MQ_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012740751"
+    ],
+    "URL": []
+}

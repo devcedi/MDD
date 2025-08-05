@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7831SN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bermuda de travail extensible Coupe slim",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809346816"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bermuda de travail extensible Coupe slim",
+            "StandardisedArticleDescription": "Bermuda de travail extensible Coupe slim",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7831SN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7831SN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078310106"
+    ],
+    "URL": []
+}

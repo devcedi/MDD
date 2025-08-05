@@ -1,0 +1,62 @@
+{
+    "ArtNo": "961BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Dérouiller à levier antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "350",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "55",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "555",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230670621"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dérouiller à levier antidéflagrant",
+            "StandardisedArticleDescription": "Dérouiller à levier antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "961BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/961BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009610806"
+    ],
+    "URL": []
+}

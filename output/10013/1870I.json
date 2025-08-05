@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1870I",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Aspirateur solide et fluide, 20 l, tambour en acier inoxydable",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809329659"
+    ],
+    "GenArts": [
+        {
+            "Description": "Aspirateur solide et fluide, 20 l, tambour en acier inoxydable",
+            "StandardisedArticleDescription": "Aspirateur solide et fluide, 20 l, tambour en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1870I.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1870I.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018700220"
+    ],
+    "URL": []
+}

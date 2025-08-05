@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1728BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lame de scie Cuivre/Béryllium",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "32",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230494623"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lame de scie Cuivre/Béryllium",
+            "StandardisedArticleDescription": "Lame de scie Cuivre/Béryllium",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1728BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1728BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017280801"
+    ],
+    "URL": []
+}

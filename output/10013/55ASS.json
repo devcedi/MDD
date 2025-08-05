@@ -1,0 +1,47 @@
+{
+    "ArtNo": "55AS/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 12 clés à fourches (art. 55AS)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230847542"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 12 clés à fourches (art. 55AS)",
+            "StandardisedArticleDescription": "Jeu de 12 clés à fourches (art. 55AS)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "55AS_slash_S_7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/55AS_slash_S_7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000550298"
+    ],
+    "URL": []
+}

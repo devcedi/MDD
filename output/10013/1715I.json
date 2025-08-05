@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1715I",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Miroir d'inspection télescopique articulé avec fonction grossissement 5x",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250÷720",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "55",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809541648"
+    ],
+    "GenArts": [
+        {
+            "Description": "Miroir d'inspection télescopique articulé avec fonction grossissement 5x",
+            "StandardisedArticleDescription": "Miroir d'inspection télescopique articulé avec fonction grossissement 5x",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1715I.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1715I.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017150020"
+    ],
+    "URL": []
+}

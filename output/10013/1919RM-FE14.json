@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1919RM-FE1/4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Elément filtrant de rechange pour 1919FE1/4",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230435367"
+    ],
+    "GenArts": [
+        {
+            "Description": "Elément filtrant de rechange pour 1919FE1/4",
+            "StandardisedArticleDescription": "Elément filtrant de rechange pour 1919FE1/4",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1919RM-FE1_slash_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1919RM-FE1_slash_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019190220"
+    ],
+    "URL": []
+}

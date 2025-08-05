@@ -1,0 +1,47 @@
+{
+    "ArtNo": "604B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à cassure Utilisable pour serrage droite ou gauche Précision de serrage : ± 6%",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230731841"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à cassure Utilisable pour serrage droite ou gauche Précision de serrage : ± 6%",
+            "StandardisedArticleDescription": "Clé dynamométrique à cassure Utilisable pour serrage droite ou gauche Précision de serrage : ± 6%",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "604B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/604B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006040020"
+    ],
+    "URL": []
+}

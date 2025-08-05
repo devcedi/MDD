@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7272V",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure en tissu mesh FitEVOLUTION, résistante et à haute respirabilité",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "324",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809575209"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure en tissu mesh FitEVOLUTION, résistante et à haute respirabilité",
+            "StandardisedArticleDescription": "Chaussure en tissu mesh FitEVOLUTION, résistante et à haute respirabilité",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7272V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7272V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072720148"
+    ],
+    "URL": []
+}

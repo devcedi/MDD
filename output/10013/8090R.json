@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8090R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Maillon d'assemblage en acier allié, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "12500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "20",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "40",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "25",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809426471"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maillon d'assemblage en acier allié, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Maillon d'assemblage en acier allié, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8090R-8090.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8090R-8090.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080900312"
+    ],
+    "URL": []
+}

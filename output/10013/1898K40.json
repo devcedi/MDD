@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1898/K40",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bac manuel pour le nettoyage de pièces mécaniques à recirculation avec liquide chauffé et bactéries",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809130934"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bac manuel pour le nettoyage de pièces mécaniques à recirculation avec liquide chauffé et bactéries",
+            "StandardisedArticleDescription": "Bac manuel pour le nettoyage de pièces mécaniques à recirculation avec liquide chauffé et bactéries",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1898_slash_K40.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1898_slash_K40.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018980004"
+    ],
+    "URL": []
+}

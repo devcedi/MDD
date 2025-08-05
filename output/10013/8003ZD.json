@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8003ZD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet pour tendeurs filetage à droite zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M27",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1\"1/8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "2300",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "135",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230732695"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet pour tendeurs filetage à droite zingué",
+            "StandardisedArticleDescription": "Crochet pour tendeurs filetage à droite zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8003ZD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8003ZD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080030327"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1756G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Seringue pour moteurs diesel capacité 1,5 l pour branchement aux tuyaux diesel",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230900100"
+    ],
+    "GenArts": [
+        {
+            "Description": "Seringue pour moteurs diesel capacité 1,5 l pour branchement aux tuyaux diesel",
+            "StandardisedArticleDescription": "Seringue pour moteurs diesel capacité 1,5 l pour branchement aux tuyaux diesel",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1756G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1756G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017560615"
+    ],
+    "URL": []
+}

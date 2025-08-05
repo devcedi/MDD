@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7398 0/G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Semelle intérieure anatomique en mousse EVA avec coussinet amortissant dans la zone du talon (pièce de rechange préconisée pour la ligne de chaussures)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809147024"
+    ],
+    "GenArts": [
+        {
+            "Description": "Semelle intérieure anatomique en mousse EVA avec coussinet amortissant dans la zone du talon (pièce de rechange préconisée pour la ligne de chaussures)",
+            "StandardisedArticleDescription": "Semelle intérieure anatomique en mousse EVA avec coussinet amortissant dans la zone du talon (pièce de rechange préconisée pour la ligne de chaussures)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "73980_slash_G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/73980_slash_G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073981248"
+    ],
+    "URL": []
+}

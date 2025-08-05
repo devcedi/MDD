@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C45PRO 2.0 A1/RB600",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etagère intérieure avec tringle à vêtements pour armoire C45PRO AS1",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaC45PRO",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809541914"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etagère intérieure avec tringle à vêtements pour armoire C45PRO AS1",
+            "StandardisedArticleDescription": "Etagère intérieure avec tringle à vêtements pour armoire C45PRO AS1",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_C45PRO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_C45PRO.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C45PRO2_dot_0A1_slash_RB600.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C45PRO2_dot_0A1_slash_RB600.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "045000467"
+    ],
+    "URL": []
+}

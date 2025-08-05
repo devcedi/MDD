@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1494MAN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille spéciale pour les bouchons de vidange d'huile en plastique,spécifique moteurs DAF et MAN",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809210681"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille spéciale pour les bouchons de vidange d'huile en plastique,spécifique moteurs DAF et MAN",
+            "StandardisedArticleDescription": "Douille spéciale pour les bouchons de vidange d'huile en plastique,spécifique moteurs DAF et MAN",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1494MAN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1494MAN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014940330"
+    ],
+    "URL": []
+}

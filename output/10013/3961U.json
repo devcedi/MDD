@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3961U",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à rayon professionnelle 3,2 - 4,0 mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "3,2 - 4,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "44",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "9,3",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882567"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à rayon professionnelle 3,2 - 4,0 mm",
+            "StandardisedArticleDescription": "Clé à rayon professionnelle 3,2 - 4,0 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3961U.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3961U.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039610100"
+    ],
+    "URL": []
+}

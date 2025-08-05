@@ -1,0 +1,47 @@
+{
+    "ArtNo": "415/C116",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de forets taillés (art.415) en coffret",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230097299"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de forets taillés (art.415) en coffret",
+            "StandardisedArticleDescription": "Jeu de forets taillés (art.415) en coffret",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "415_slash_C116.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/415_slash_C116.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004150450"
+    ],
+    "URL": []
+}

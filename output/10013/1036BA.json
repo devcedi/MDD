@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1036BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour circlips extérieurs à becs droits antidéflagrante, branches recouvertes en PVC",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "40÷100",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "2.0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "22",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "45",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230781266"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour circlips extérieurs à becs droits antidéflagrante, branches recouvertes en PVC",
+            "StandardisedArticleDescription": "Pince pour circlips extérieurs à becs droits antidéflagrante, branches recouvertes en PVC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1036BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1036BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010360820"
+    ],
+    "URL": []
+}

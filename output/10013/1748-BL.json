@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1748-BL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Collier en nylon avec dent en acier, couleur naturelle",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "7.6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "370",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø MAX\nmm",
+            "Value": "103.5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "F MAX\nN",
+            "Value": "780",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629250574"
+    ],
+    "GenArts": [
+        {
+            "Description": "Collier en nylon avec dent en acier, couleur naturelle",
+            "StandardisedArticleDescription": "Collier en nylon avec dent en acier, couleur naturelle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1748-BL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1748-BL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BMBL3776"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8143",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Palans manuels à chaîne",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \n t",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nL m",
+            "Value": "6",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "798",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "sforzo / effort \nkg",
+            "Value": "52",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \nkg",
+            "Value": "135",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809572758"
+    ],
+    "GenArts": [
+        {
+            "Description": "Palans manuels à chaîne",
+            "StandardisedArticleDescription": "Palans manuels à chaîne",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8143.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8143.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081430200"
+    ],
+    "URL": []
+}

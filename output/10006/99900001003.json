@@ -1,0 +1,72 @@
+{
+    "ArtNo": 99900001003,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "distributeur mural",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "distributeur mural 4Kg ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Facile à installer",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Hygiénique et Économique",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Application ",
+            "Value": "Distributeur robuste à utiliser avec différents produits Dreumex. Le distributeur de savon industriel est hygiénique, pratique et, surtout, plus économique.",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Distributeur de savon robuste à utiliser avec divers produits Dreumex. Les distributeurs de savon industriels sont hygiéniques, pratiques et surtout plus économiques.",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602000228"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex EX4000 dispenser ",
+            "StandardisedArticleDescription": "Dreumex EX4000 dispenser ",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "EX400001",
+            "Extension": "",
+            "Path": "/img/10006/EX400001",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "99900001003"
+    ],
+    "URL": []
+}

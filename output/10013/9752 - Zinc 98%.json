@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9752 - Zinc 98%",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Zinc clair",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "400",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331393"
+    ],
+    "GenArts": [
+        {
+            "Description": "Zinc clair",
+            "StandardisedArticleDescription": "Zinc clair",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9752-Zinc98_percent_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9752-Zinc98_percent_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "097522040"
+    ],
+    "URL": []
+}

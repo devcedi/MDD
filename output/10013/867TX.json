@@ -1,0 +1,57 @@
+{
+    "ArtNo": "867TX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout avec entraînement hexagonal de 10 mm pour vis Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T55",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "30",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230375366"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout avec entraînement hexagonal de 10 mm pour vis Torx®",
+            "StandardisedArticleDescription": "Embout avec entraînement hexagonal de 10 mm pour vis Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "867TX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/867TX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008670430"
+    ],
+    "URL": []
+}

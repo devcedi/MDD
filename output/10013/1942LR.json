@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1942LR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lames Bimétal pour scie alternative 1942A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230100869"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lames Bimétal pour scie alternative 1942A",
+            "StandardisedArticleDescription": "Lames Bimétal pour scie alternative 1942A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1942LR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1942LR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019420032"
+    ],
+    "URL": []
+}

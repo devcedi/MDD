@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9528B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gourde en polyéthylène, 500 ml",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "500",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809170121"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gourde en polyéthylène, 500 ml",
+            "StandardisedArticleDescription": "Gourde en polyéthylène, 500 ml",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9528B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9528B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095280005"
+    ],
+    "URL": []
+}

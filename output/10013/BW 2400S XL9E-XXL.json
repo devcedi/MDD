@@ -1,0 +1,47 @@
+{
+    "ArtNo": "BW 2400S XL9/E-XXL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Servante mobile extra-large 9 tiroirs équipée d’un système anti-basculement et composée de 716 outils",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWORKER",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809410302"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servante mobile extra-large 9 tiroirs équipée d’un système anti-basculement et composée de 716 outils",
+            "StandardisedArticleDescription": "Servante mobile extra-large 9 tiroirs équipée d’un système anti-basculement et composée de 716 outils",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "BW-000.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW-000.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "BW2400SXL9_slash_E-XXL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW2400SXL9_slash_E-XXL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024006256"
+    ],
+    "URL": []
+}

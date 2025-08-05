@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910FTX-XL/C10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 10 douilles pour écrous à empreinte Torx®, série longue, en coffret plastique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809126678"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 10 douilles pour écrous à empreinte Torx®, série longue, en coffret plastique",
+            "StandardisedArticleDescription": "Jeu de 10 douilles pour écrous à empreinte Torx®, série longue, en coffret plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910FTX-XL_slash_C10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910FTX-XL_slash_C10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100976"
+    ],
+    "URL": []
+}

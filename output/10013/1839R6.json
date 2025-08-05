@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1839/R6\t",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Transformateur de charge rapide USB Q C3.0, pièce de rechange pour 1838POCKET, 1839BRW",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809439921"
+    ],
+    "GenArts": [
+        {
+            "Description": "Transformateur de charge rapide USB Q C3.0, pièce de rechange pour 1838POCKET, 1839BRW",
+            "StandardisedArticleDescription": "Transformateur de charge rapide USB Q C3.0, pièce de rechange pour 1838POCKET, 1839BRW",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1839_slash_R6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1839_slash_R6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018390506"
+    ],
+    "URL": []
+}

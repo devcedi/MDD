@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8530ZC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manille lyre haute résistance en acier allié, axe avec écrou à goupille, bride galvanisée à chaud",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø B\nmm",
+            "Value": "52",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø D\nmm",
+            "Value": "45",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø E\nmm",
+            "Value": "126",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WLL\nkg",
+            "Value": "25000",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809366364"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manille lyre haute résistance en acier allié, axe avec écrou à goupille, bride galvanisée à chaud",
+            "StandardisedArticleDescription": "Manille lyre haute résistance en acier allié, axe avec écrou à goupille, bride galvanisée à chaud",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8530ZC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8530ZC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085300145"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "921BA/15",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Augmentateur carré femelle 1/2\" et mâle 3/8\", antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "34",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873084"
+    ],
+    "GenArts": [
+        {
+            "Description": "Augmentateur carré femelle 1/2\" et mâle 3/8\", antidéflagrant",
+            "StandardisedArticleDescription": "Augmentateur carré femelle 1/2\" et mâle 3/8\", antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "921BA_slash_15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/921BA_slash_15.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009210839"
+    ],
+    "URL": []
+}

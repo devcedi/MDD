@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720MC/C13",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 douilles à chocs colorées, carré femelle 1/2\", phosphatées, en coffret métallique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809153087"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 douilles à chocs colorées, carré femelle 1/2\", phosphatées, en coffret métallique",
+            "StandardisedArticleDescription": "Jeu de 13 douilles à chocs colorées, carré femelle 1/2\", phosphatées, en coffret métallique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720MC_slash_C13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720MC_slash_C13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007202913"
+    ],
+    "URL": []
+}

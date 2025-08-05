@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8146",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Palans à levier",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL\n t",
+            "Value": "6,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nL m",
+            "Value": "3,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "600",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "sforzo / effort \nkg",
+            "Value": "46",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \nkg",
+            "Value": "27,5",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809138176"
+    ],
+    "GenArts": [
+        {
+            "Description": "Palans à levier",
+            "StandardisedArticleDescription": "Palans à levier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8146.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8146.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081460160"
+    ],
+    "URL": []
+}

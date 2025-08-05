@@ -1,0 +1,62 @@
+{
+    "ArtNo": "970B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille de serrage pour écrou de moyeu Fiat Daily",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "65",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "88",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "75",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230434322"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille de serrage pour écrou de moyeu Fiat Daily",
+            "StandardisedArticleDescription": "Douille de serrage pour écrou de moyeu Fiat Daily",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "970B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/970B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009700010"
+    ],
+    "URL": []
+}

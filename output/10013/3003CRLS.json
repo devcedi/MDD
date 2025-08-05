@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3003C/RLS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "6 roues de rechange pour couchette d'atelier 3003C",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809129938"
+    ],
+    "GenArts": [
+        {
+            "Description": "6 roues de rechange pour couchette d'atelier 3003C",
+            "StandardisedArticleDescription": "6 roues de rechange pour couchette d'atelier 3003C",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3003C_slash_RLS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3003C_slash_RLS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030030600"
+    ],
+    "URL": []
+}

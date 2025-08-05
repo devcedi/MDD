@@ -1,0 +1,67 @@
+{
+    "ArtNo": "DP1884/0201",
+    "Attributs": [
+        {
+            "Attribute": 5010239252,
+            "Value": "5010 294 252 B",
+            "SortNo": 1
+        },
+        {
+            "Attribute": 5010305438,
+            "Value": 5010488071,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 5010488701,
+            "Value": 5010600570,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 7421978506,
+            "Value": 20758818,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 21978510,
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006497"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A111,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A111,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP1884/0201"
+    ],
+    "URL": []
+}

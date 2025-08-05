@@ -1,0 +1,57 @@
+{
+    "ArtNo": "426MD-3/CT3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mini foret rotatif en métal dur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm\n",
+            "Value": "37,8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "3",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230864532"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mini foret rotatif en métal dur",
+            "StandardisedArticleDescription": "Mini foret rotatif en métal dur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "426MD-3_slash_CT3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/426MD-3_slash_CT3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004260333"
+    ],
+    "URL": []
+}

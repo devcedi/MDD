@@ -1,0 +1,47 @@
+{
+    "ArtNo": "951TX/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 clés mâles pour vis à empreinte Torx® en T (951TX)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230847610"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 clés mâles pour vis à empreinte Torx® en T (951TX)",
+            "StandardisedArticleDescription": "Jeu de 6 clés mâles pour vis à empreinte Torx® en T (951TX)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "951TX_slash_S_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/951TX_slash_S_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009510866"
+    ],
+    "URL": []
+}

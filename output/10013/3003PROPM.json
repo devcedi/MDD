@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3003PRO/PM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bac de rangement magnétique rond pour couchette d’atelier 3003PRO",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809137742"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bac de rangement magnétique rond pour couchette d’atelier 3003PRO",
+            "StandardisedArticleDescription": "Bac de rangement magnétique rond pour couchette d’atelier 3003PRO",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3003PRO_slash_PM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3003PRO_slash_PM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030030152"
+    ],
+    "URL": []
+}

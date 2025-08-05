@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1144G/RL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lame pour 1144G",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230769592"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lame pour 1144G",
+            "StandardisedArticleDescription": "Lame pour 1144G",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1144G_slash_RL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1144G_slash_RL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011440005"
+    ],
+    "URL": []
+}

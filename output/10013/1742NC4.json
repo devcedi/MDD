@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1742N/C4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à inserts filetés 1742N avec assortiment de 400 inserts filetés en acier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809519593"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à inserts filetés 1742N avec assortiment de 400 inserts filetés en acier",
+            "StandardisedArticleDescription": "Pince à inserts filetés 1742N avec assortiment de 400 inserts filetés en acier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1742N_slash_C4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1742N_slash_C4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017420006"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1144L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Dénudeur avec lame réglable pour coupes transversales et longitudinales",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "145",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm²",
+            "Value": "6-150",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "4-28",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809131009"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dénudeur avec lame réglable pour coupes transversales et longitudinales",
+            "StandardisedArticleDescription": "Dénudeur avec lame réglable pour coupes transversales et longitudinales",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1144L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1144L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011440050"
+    ],
+    "URL": []
+}

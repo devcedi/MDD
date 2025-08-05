@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9587 9x14",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Carnet, 9x14 cm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\ncm",
+            "Value": "9",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\ncm",
+            "Value": "14",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820811"
+    ],
+    "GenArts": [
+        {
+            "Description": "Carnet, 9x14 cm",
+            "StandardisedArticleDescription": "Carnet, 9x14 cm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "95879x14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/95879x14.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095870009"
+    ],
+    "URL": []
+}

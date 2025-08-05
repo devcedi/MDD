@@ -1,0 +1,37 @@
+{
+    "ArtNo": "FPBTA0020S",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Section basse complète avec profilé et joint bas 395 x ___ mm, millénium",
+            "StandardisedArticleDescription": "Section basse complète avec profilé et joint bas 395 x ___ mm, millénium",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FPBTA0020S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0020S"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FPBTA0020S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0020S",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

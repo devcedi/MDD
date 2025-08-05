@@ -1,0 +1,47 @@
+{
+    "ArtNo": "671N/C30",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique 668N/30 et accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230783741"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique 668N/30 et accessoires",
+            "StandardisedArticleDescription": "Clé dynamométrique 668N/30 et accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "671N_slash_C30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/671N_slash_C30.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006710130"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C45PRO 2.0 ML",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Module fixe avec évier intégré, pour combinaison d'ameublement d'atelier C45PRO 2.0",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaC45PRO",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809617824"
+    ],
+    "GenArts": [
+        {
+            "Description": "Module fixe avec évier intégré, pour combinaison d'ameublement d'atelier C45PRO 2.0",
+            "StandardisedArticleDescription": "Module fixe avec évier intégré, pour combinaison d'ameublement d'atelier C45PRO 2.0",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_C45PRO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_C45PRO.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C45PRO2_dot_0ML.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C45PRO2_dot_0ML.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "045002233"
+    ],
+    "URL": []
+}

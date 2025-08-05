@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8004ND",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tige pour tendeurs filetage à droite - noir",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M39",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n”",
+            "Value": "1\"1/2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "7900",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "150",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230734033"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tige pour tendeurs filetage à droite - noir",
+            "StandardisedArticleDescription": "Tige pour tendeurs filetage à droite - noir",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8004NS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8004NS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080040199"
+    ],
+    "URL": []
+}

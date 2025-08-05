@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1531/C7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit extracteur pour bagues intérieures de roulement de roue",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809225609"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit extracteur pour bagues intérieures de roulement de roue",
+            "StandardisedArticleDescription": "Kit extracteur pour bagues intérieures de roulement de roue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1531_slash_C7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1531_slash_C7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015310107"
+    ],
+    "URL": []
+}

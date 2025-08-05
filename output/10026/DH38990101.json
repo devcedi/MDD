@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DH3899/0101",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966001306"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |coté gauche piston acier | Assemblage coté gauche",
+            "StandardisedArticleDescription": "Diaphragme assemble |coté gauche piston acier | Assemblage coté gauche",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A74,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A74,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DH3899/0101"
+    ],
+    "URL": []
+}

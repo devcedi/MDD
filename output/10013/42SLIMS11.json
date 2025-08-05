@@ -1,0 +1,47 @@
+{
+    "ArtNo": "42SLIM/S11",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 11 clés mixtes à tête abaissée",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230950594"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 11 clés mixtes à tête abaissée",
+            "StandardisedArticleDescription": "Jeu de 11 clés mixtes à tête abaissée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42SLIM_slash_S11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42SLIM_slash_S11.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000420471"
+    ],
+    "URL": []
+}

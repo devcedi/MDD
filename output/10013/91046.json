@@ -1,0 +1,67 @@
+{
+    "ArtNo": "910/46",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Vilebrequin carré mâle 3/8\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "315",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "80",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "115",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230033662"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vilebrequin carré mâle 3/8\"",
+            "StandardisedArticleDescription": "Vilebrequin carré mâle 3/8\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910_slash_46.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910_slash_46.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100862"
+    ],
+    "URL": []
+}

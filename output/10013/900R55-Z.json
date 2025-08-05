@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900/R55-Z",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de rechange",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809152035"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de rechange",
+            "StandardisedArticleDescription": "Jeu de rechange",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_R55-Z.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_R55-Z.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000872"
+    ],
+    "URL": []
+}

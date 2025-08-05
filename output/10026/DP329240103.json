@@ -1,0 +1,52 @@
+{
+    "ArtNo": "DP32924/0103",
+    "Attributs": [
+        {
+            "Attribute": "D12B24",
+            "Value": 1076594,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 1076595,
+            "Value": 20554755,
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006169"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A127,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A127,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP32924/0103"
+    ],
+    "URL": []
+}

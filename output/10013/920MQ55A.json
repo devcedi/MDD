@@ -1,0 +1,62 @@
+{
+    "ArtNo": "920MQ/55A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible carré mâle 1/2\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "240",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "89",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230175799"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible carré mâle 1/2\"",
+            "StandardisedArticleDescription": "Cliquet réversible carré mâle 1/2\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920MQ_slash_55A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920MQ_slash_55A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200809"
+    ],
+    "URL": []
+}

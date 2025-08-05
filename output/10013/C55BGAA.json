@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55B/GAA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pied universel pour ameublement atelier RSC55 avec enrouleur de tuyau intégré",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230934877"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pied universel pour ameublement atelier RSC55 avec enrouleur de tuyau intégré",
+            "StandardisedArticleDescription": "Pied universel pour ameublement atelier RSC55 avec enrouleur de tuyau intégré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55B_slash_GAA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55B_slash_GAA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000099"
+    ],
+    "URL": []
+}

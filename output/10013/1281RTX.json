@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1281RTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lame réversible pour vis Tamper Resistant Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T30-T40",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "175",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230511337"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lame réversible pour vis Tamper Resistant Torx®",
+            "StandardisedArticleDescription": "Lame réversible pour vis Tamper Resistant Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1281RTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1281RTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012810363"
+    ],
+    "URL": []
+}

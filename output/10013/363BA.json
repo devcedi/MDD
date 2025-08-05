@@ -1,0 +1,72 @@
+{
+    "ArtNo": "363BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes modèle américain antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmax",
+            "Value": "3\" gas",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "90",
+            "Value": "90",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S  \nmm",
+            "Value": "29,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "4000",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230494586"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes modèle américain antidéflagrante",
+            "StandardisedArticleDescription": "Clé serre-tubes modèle américain antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "363BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/363BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003630860"
+    ],
+    "URL": []
+}

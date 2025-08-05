@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7222PEK",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse en daim perforée grise , avec empiècements en mesh hautement respirant -S1P SRC",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809162171"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse en daim perforée grise , avec empiècements en mesh hautement respirant -S1P SRC",
+            "StandardisedArticleDescription": "Chaussure basse en daim perforée grise , avec empiècements en mesh hautement respirant -S1P SRC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7222PEK.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7222PEK.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072220148"
+    ],
+    "URL": []
+}

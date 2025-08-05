@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8029RS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manille lyre haute résistance en acier allié, axe carré femelle, bride galvanisée à chaud",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ØD \nmm",
+            "Value": "25",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "ØA \nmm",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "2",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809455068"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manille lyre haute résistance en acier allié, axe carré femelle, bride galvanisée à chaud",
+            "StandardisedArticleDescription": "Manille lyre haute résistance en acier allié, axe carré femelle, bride galvanisée à chaud",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8029Rconfezionispeciali.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8029Rconfezionispeciali.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080290722"
+    ],
+    "URL": []
+}

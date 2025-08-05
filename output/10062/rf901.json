@@ -1,0 +1,62 @@
+{
+    "ArtNo": "rf901",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "REFINISH 9000 patre a polir ONE STEP 1l",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Ne contient pas de silicone, ne laisse pas de poussière.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "FINAL CUT 9000 est une pâte à polir intermédiaire. Elle permettra de travailler les micro rayures, l'oxydation et la pollution en une seule étape. Résultat sans hologramme garanti.",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "À la machine avec la mousse blanche en déplacements lents à vitesse moyenne, croiser les passages. Puis à vitesse rapide, travailler le produit jusqu’à obtenir une surface presque sèche avec une fine pellicule transparente de produit. Essuyer avec la microfibre de lustrage blanche.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "8716255014502"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "RF901.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/RF901.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "rf901"
+    ],
+    "URL": []
+}

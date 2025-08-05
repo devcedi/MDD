@@ -1,0 +1,62 @@
+{
+    "ArtNo": "378BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes modèle suédois antidéflagrante, Cuivre/Béryllium",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "530",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmax \"",
+            "Value": "2\" gas",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø\nmax  mm",
+            "Value": "60",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230666655"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes modèle suédois antidéflagrante, Cuivre/Béryllium",
+            "StandardisedArticleDescription": "Clé serre-tubes modèle suédois antidéflagrante, Cuivre/Béryllium",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "378BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/378BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003780801"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1773U/R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de rechange pour l'outil lisseur/extracteur de joint silicone 1773U",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809550725"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de rechange pour l'outil lisseur/extracteur de joint silicone 1773U",
+            "StandardisedArticleDescription": "Kit de rechange pour l'outil lisseur/extracteur de joint silicone 1773U",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1773U_slash_R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1773U_slash_R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017730510"
+    ],
+    "URL": []
+}

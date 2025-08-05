@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1743T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pur colliers",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230717050"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pur colliers",
+            "StandardisedArticleDescription": "Pince pur colliers",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1743T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1743T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017430100"
+    ],
+    "URL": []
+}

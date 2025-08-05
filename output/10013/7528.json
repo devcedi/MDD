@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7528",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon jeans de travail élastifié",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230967813"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon jeans de travail élastifié",
+            "StandardisedArticleDescription": "Pantalon jeans de travail élastifié",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7528.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7528.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "075280058"
+    ],
+    "URL": []
+}

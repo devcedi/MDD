@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1502/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteurs universels à deux griffes équipés d'un système de verrouillage rapide",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmin÷Max\nmm",
+            "Value": "70÷235",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "200",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "321",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "27",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A1\nmin÷Max\nmm",
+            "Value": "170÷335",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809201528"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteurs universels à deux griffes équipés d'un système de verrouillage rapide",
+            "StandardisedArticleDescription": "Extracteurs universels à deux griffes équipés d'un système de verrouillage rapide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1502_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1502_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015020004"
+    ],
+    "URL": []
+}

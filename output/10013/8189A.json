@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8189A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tapis antiglisse pour fixer la charge",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L m",
+            "Value": "5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H mm",
+            "Value": "250",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S mm",
+            "Value": "8",
+            "SortNo": 4
+        },
+        {
+            "Attribute": " μ",
+            "Value": "0,6",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809127224"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tapis antiglisse pour fixer la charge",
+            "StandardisedArticleDescription": "Tapis antiglisse pour fixer la charge",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8189A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8189A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081890525"
+    ],
+    "URL": []
+}

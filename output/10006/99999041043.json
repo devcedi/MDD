@@ -1,0 +1,40 @@
+{
+    "ArtNo": 99999041043,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "pompe ",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602011019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex dispenser 5L",
+            "StandardisedArticleDescription": "Dreumex dispenser 5L",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "99999041043"
+    ],
+    "URL": []
+}

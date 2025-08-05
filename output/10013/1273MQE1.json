@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1273MQ/E1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir 1273MQ/E1, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230667683"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir 1273MQ/E1, vide",
+            "StandardisedArticleDescription": "Présentoir 1273MQ/E1, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1273MQ_slash_E1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1273MQ_slash_E1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012730651"
+    ],
+    "URL": []
+}

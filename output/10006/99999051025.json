@@ -1,0 +1,67 @@
+{
+    "ArtNo": 99999051025,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "distributeur mural",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "utilisation",
+            "Value": "distributeur mural  3Kg",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Facile à installer",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Hygiénique et Économique 600 à 1000 lavages ",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Application ",
+            "Value": "Distributeur automatique à utiliser avec différents produits Dreumex. Le distributeur de savon industriel est hygiénique, pratique et, surtout, plus économique.",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "99999051025"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex One2Clean Automatic dispenser 3-5ml",
+            "StandardisedArticleDescription": "Dreumex One2Clean Automatic dispenser 3-5ml",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "O2C02",
+            "Extension": "",
+            "Path": "/img/10006/O2C02",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "99999051025"
+    ],
+    "URL": []
+}

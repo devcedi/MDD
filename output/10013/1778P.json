@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1778P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Couteau à cran d'arrêt, lame et manche en acier inoxydable et aluminium, bouton d'ouverture • avec étui",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "193",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "29",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "72",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230959412"
+    ],
+    "GenArts": [
+        {
+            "Description": "Couteau à cran d'arrêt, lame et manche en acier inoxydable et aluminium, bouton d'ouverture • avec étui",
+            "StandardisedArticleDescription": "Couteau à cran d'arrêt, lame et manche en acier inoxydable et aluminium, bouton d'ouverture • avec étui",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1778P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1778P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017780088"
+    ],
+    "URL": []
+}

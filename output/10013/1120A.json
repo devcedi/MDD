@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1120A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cisaille grignoteuse",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "280",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Fe \nS mm",
+            "Value": "1,2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "13",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230548012"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cisaille grignoteuse",
+            "StandardisedArticleDescription": "Cisaille grignoteuse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1120A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1120A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011200101"
+    ],
+    "URL": []
+}

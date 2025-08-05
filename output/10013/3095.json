@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3095",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support de banc pour moteurs de moto",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "360",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P\nmm",
+            "Value": "460",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "640",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "460",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809368825"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support de banc pour moteurs de moto",
+            "StandardisedArticleDescription": "Support de banc pour moteurs de moto",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3095.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3095.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030950001"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "11101",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Meule forme cylindrique sur tige au corindon rose avec liant céramique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "60",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "h \nmm",
+            "Value": "10",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "max. rpm \nLo=13 mm",
+            "Value": "15.900",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "AR36P5V",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230944685"
+    ],
+    "GenArts": [
+        {
+            "Description": "Meule forme cylindrique sur tige au corindon rose avec liant céramique",
+            "StandardisedArticleDescription": "Meule forme cylindrique sur tige au corindon rose avec liant céramique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11101.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11101.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "111010060"
+    ],
+    "URL": []
+}

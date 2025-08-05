@@ -1,0 +1,43 @@
+{
+    "ArtNo": "FPBTA0317S",
+    "Attributs": [
+        {
+            "Attribute": "Hauteur 292 mm",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Section intermédiaire 292 x ___ mm , millénium",
+            "StandardisedArticleDescription": "Section intermédiaire 292 x ___ mm , millénium",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FPBTA0317S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0317S"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FPBTA0317S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0317S",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

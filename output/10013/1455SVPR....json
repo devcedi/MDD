@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1455SVP/R...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ventouses en caoutchouc pour 1455SVP",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230139173"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ventouses en caoutchouc pour 1455SVP",
+            "StandardisedArticleDescription": "Ventouses en caoutchouc pour 1455SVP",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1455SVP_slash_R_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1455SVP_slash_R_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014550503"
+    ],
+    "URL": []
+}

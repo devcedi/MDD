@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3073",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil universel d'insertion de joints d'huile de fourche (joint spi)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230852171"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil universel d'insertion de joints d'huile de fourche (joint spi)",
+            "StandardisedArticleDescription": "Outil universel d'insertion de joints d'huile de fourche (joint spi)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3073.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3073.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030730001"
+    ],
+    "URL": []
+}

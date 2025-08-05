@@ -1,0 +1,57 @@
+{
+    "ArtNo": 11630001004,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "cartouche ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602001539"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Wash&Care One2Clean 4x3L",
+            "StandardisedArticleDescription": "Dreumex Wash&Care One2Clean 4x3L",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "W&C01",
+            "Extension": "",
+            "Path": "/img/10006/W&C01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "11630001004"
+    ],
+    "URL": []
+}

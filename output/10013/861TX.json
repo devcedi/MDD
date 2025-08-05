@@ -1,0 +1,57 @@
+{
+    "ArtNo": "861TX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout pour visseuses pour vis Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T40",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230150598"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout pour visseuses pour vis Torx®",
+            "StandardisedArticleDescription": "Embout pour visseuses pour vis Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "861TX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/861TX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008610450"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9526MC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Machine à café pour capsules expresso",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "358",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "128",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "255",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809643144"
+    ],
+    "GenArts": [
+        {
+            "Description": "Machine à café pour capsules expresso",
+            "StandardisedArticleDescription": "Machine à café pour capsules expresso",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9526MC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9526MC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095260020"
+    ],
+    "URL": []
+}

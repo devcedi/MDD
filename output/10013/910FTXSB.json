@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910FTX/SB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 douilles pour écrous Torx® (art. 910FTX) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230081632"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 douilles pour écrous Torx® (art. 910FTX) sur support",
+            "StandardisedArticleDescription": "Jeu de 9 douilles pour écrous Torx® (art. 910FTX) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910FTX_slash_SB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910FTX_slash_SB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100430"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2258N-O",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mini-servante tabouret à 3 tiroirs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809472935"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mini-servante tabouret à 3 tiroirs",
+            "StandardisedArticleDescription": "Mini-servante tabouret à 3 tiroirs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2258N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2258N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022580021"
+    ],
+    "URL": []
+}

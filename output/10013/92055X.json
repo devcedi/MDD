@@ -1,0 +1,67 @@
+{
+    "ArtNo": "920/55X",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible carré 1/2\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "207",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "31",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "33",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809543116"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible carré 1/2\"",
+            "StandardisedArticleDescription": "Cliquet réversible carré 1/2\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_55XN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_55XN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009201158"
+    ],
+    "URL": []
+}

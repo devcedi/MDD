@@ -1,0 +1,47 @@
+{
+    "ArtNo": "671N/C20",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique 668N/20 et accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230783734"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique 668N/20 et accessoires",
+            "StandardisedArticleDescription": "Clé dynamométrique 668N/20 et accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "671N_slash_C20.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/671N_slash_C20.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006710120"
+    ],
+    "URL": []
+}

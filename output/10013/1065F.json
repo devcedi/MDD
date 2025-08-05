@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1065F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à poinçonner",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "228",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230653105"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à poinçonner",
+            "StandardisedArticleDescription": "Pince à poinçonner",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1065F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1065F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010650015"
+    ],
+    "URL": []
+}

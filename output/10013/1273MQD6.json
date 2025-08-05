@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1273MQ/D6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 tournevis (art. 1274MQ, 1272MQ)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230645841"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 tournevis (art. 1274MQ, 1272MQ)",
+            "StandardisedArticleDescription": "Jeu de 6 tournevis (art. 1274MQ, 1272MQ)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1273MQ_slash_D6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1273MQ_slash_D6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012730851"
+    ],
+    "URL": []
+}

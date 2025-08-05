@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1168G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à becs coudés demi-ronds longs striés, branches gainées avec double couche de PVC antidérapant, finition industrielle",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "76",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "1,6",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "22,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "5,0",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "S1\nmm",
+            "Value": "4,0",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230963761"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à becs coudés demi-ronds longs striés, branches gainées avec double couche de PVC antidérapant, finition industrielle",
+            "StandardisedArticleDescription": "Pince à becs coudés demi-ronds longs striés, branches gainées avec double couche de PVC antidérapant, finition industrielle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1168G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1168G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011680070"
+    ],
+    "URL": []
+}

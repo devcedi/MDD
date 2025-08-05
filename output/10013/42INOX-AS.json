@@ -1,0 +1,72 @@
+{
+    "ArtNo": "42INOX-AS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "15/16x15/16",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "285",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "50,3",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "34,9",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "8,5",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "BetaINOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230867786"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte en acier inoxydable",
+            "StandardisedArticleDescription": "Clé mixte en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_inox.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_inox.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42INOX-AS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42INOX-AS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000420373"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9803H",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Frein filet-Forte résistance",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Confezione",
+            "Value": "flacone",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Formato \nmL",
+            "Value": "250",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331515"
+    ],
+    "GenArts": [
+        {
+            "Description": "Frein filet-Forte résistance",
+            "StandardisedArticleDescription": "Frein filet-Forte résistance",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9803H.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9803H.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098032025"
+    ],
+    "URL": []
+}

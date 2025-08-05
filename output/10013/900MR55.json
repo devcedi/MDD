@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900M/R55",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mécanisme rotatif pour cliquets, pour 900M/55",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230378947"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mécanisme rotatif pour cliquets, pour 900M/55",
+            "StandardisedArticleDescription": "Mécanisme rotatif pour cliquets, pour 900M/55",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900M_slash_R55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900M_slash_R55.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000888"
+    ],
+    "URL": []
+}

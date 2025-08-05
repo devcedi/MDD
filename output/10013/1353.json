@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1353",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau tête ronde bombée et panne pointue, manche en bois",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230761121"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau tête ronde bombée et panne pointue, manche en bois",
+            "StandardisedArticleDescription": "Marteau tête ronde bombée et panne pointue, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1353.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1353.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013530010"
+    ],
+    "URL": []
+}

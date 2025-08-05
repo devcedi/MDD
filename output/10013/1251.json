@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1251",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis pose-vis Phillips®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PHxDxL \nmm",
+            "Value": "2x6x175",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "280",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230042930"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis pose-vis Phillips®",
+            "StandardisedArticleDescription": "Tournevis pose-vis Phillips®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1251.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1251.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012510020"
+    ],
+    "URL": []
+}

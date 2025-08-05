@@ -1,0 +1,52 @@
+{
+    "ArtNo": "DP37929/0203",
+    "Attributs": [
+        {
+            "Attribute": "A 942 320 0557",
+            "Value": "A 942 320 1421",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A 942 320 2321",
+            "Value": "A 942 320 6921",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005193"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A188,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A188,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP37929/0203"
+    ],
+    "URL": []
+}

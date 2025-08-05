@@ -1,0 +1,47 @@
+{
+    "ArtNo": "426MD-3/A9",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 mini-forets en métal dur en coffret plastique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230871622"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 mini-forets en métal dur en coffret plastique",
+            "StandardisedArticleDescription": "Jeu de 9 mini-forets en métal dur en coffret plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "426MD-3_slash_A9.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/426MD-3_slash_A9.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004260349"
+    ],
+    "URL": []
+}

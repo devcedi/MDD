@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1368G/K400",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Assortiment de 400 agrafes pour 1368",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230780221"
+    ],
+    "GenArts": [
+        {
+            "Description": "Assortiment de 400 agrafes pour 1368",
+            "StandardisedArticleDescription": "Assortiment de 400 agrafes pour 1368",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1368G_slash_K400.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1368G_slash_K400.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013680140"
+    ],
+    "URL": []
+}

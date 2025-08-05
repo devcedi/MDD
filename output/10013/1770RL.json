@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1770RL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etui de 10 lames sécables 9 mm, pour 1770,1770BM et 1770A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230051314"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etui de 10 lames sécables 9 mm, pour 1770,1770BM et 1770A",
+            "StandardisedArticleDescription": "Etui de 10 lames sécables 9 mm, pour 1770,1770BM et 1770A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1770RL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1770RL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017700010"
+    ],
+    "URL": []
+}

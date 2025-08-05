@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1937M-01÷11",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Accessoires pour 1937M",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "23",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1937M-",
+            "Value": "01, 02,\n04, 06",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230719412"
+    ],
+    "GenArts": [
+        {
+            "Description": "Accessoires pour 1937M",
+            "StandardisedArticleDescription": "Accessoires pour 1937M",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1937M-0111.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1937M-0111.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019370111"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1493Y",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé auto-serrante pour filtres à huile, serrages à droite et gauche, pour poids-lourds.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "104÷145",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "7,3",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873718"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé auto-serrante pour filtres à huile, serrages à droite et gauche, pour poids-lourds.",
+            "StandardisedArticleDescription": "Clé auto-serrante pour filtres à huile, serrages à droite et gauche, pour poids-lourds.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1493Y.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1493Y.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014930122"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "96TINOX/S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 clés mâles 6 pans coudées à poignée en T haute performance en acier inoxydable",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaINOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230726328"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 clés mâles 6 pans coudées à poignée en T haute performance en acier inoxydable",
+            "StandardisedArticleDescription": "Jeu de 5 clés mâles 6 pans coudées à poignée en T haute performance en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_inox.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_inox.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96TINOX_slash_S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96TINOX_slash_S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000961952"
+    ],
+    "URL": []
+}

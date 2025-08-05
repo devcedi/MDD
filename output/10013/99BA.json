@@ -1,0 +1,67 @@
+{
+    "ArtNo": "99BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à ergot pour écrous à encoches latérales antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "115-170",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "4,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "310",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "13,5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230666617"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à ergot pour écrous à encoches latérales antidéflagrante",
+            "StandardisedArticleDescription": "Clé à ergot pour écrous à encoches latérales antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "99BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/99BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000990811"
+    ],
+    "URL": []
+}

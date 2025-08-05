@@ -1,0 +1,67 @@
+{
+    "ArtNo": "710/25",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cardan carrés mâle et femelle 3/8\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "58",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "24",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230028606"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cardan carrés mâle et femelle 3/8\"",
+            "StandardisedArticleDescription": "Cardan carrés mâle et femelle 3/8\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "710_slash_25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/710_slash_25.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007100830"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8063SL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochets pivotants autobloquants (pas sous charge) acier allié à haute résistance 8e année",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL\nkg",
+            "Value": "5300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nØ mm",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "49",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "83",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "269",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809188331"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochets pivotants autobloquants (pas sous charge) acier allié à haute résistance 8e année",
+            "StandardisedArticleDescription": "Crochets pivotants autobloquants (pas sous charge) acier allié à haute résistance 8e année",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8063SL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8063SL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080630353"
+    ],
+    "URL": []
+}

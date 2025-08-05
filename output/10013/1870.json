@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1870",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Aspirateur 20 litres eau et poussières pour usage professionnel",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230743158"
+    ],
+    "GenArts": [
+        {
+            "Description": "Aspirateur 20 litres eau et poussières pour usage professionnel",
+            "StandardisedArticleDescription": "Aspirateur 20 litres eau et poussières pour usage professionnel",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1870.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1870.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018700020"
+    ],
+    "URL": []
+}

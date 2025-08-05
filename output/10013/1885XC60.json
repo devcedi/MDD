@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1885/XC60",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Raccord boîte de vitesses Volvo XC60 pour 1885",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809384177"
+    ],
+    "GenArts": [
+        {
+            "Description": "Raccord boîte de vitesses Volvo XC60 pour 1885",
+            "StandardisedArticleDescription": "Raccord boîte de vitesses Volvo XC60 pour 1885",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1885_slash_XC60.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1885_slash_XC60.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018850151"
+    ],
+    "URL": []
+}

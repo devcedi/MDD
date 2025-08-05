@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1470FT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour garniture de frein à tambour",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "184",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230732077"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour garniture de frein à tambour",
+            "StandardisedArticleDescription": "Pince pour garniture de frein à tambour",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1470FT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1470FT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014700000"
+    ],
+    "URL": []
+}

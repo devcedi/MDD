@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1150MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince universelle chromée polie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "220",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "46",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "2,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "31",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "8",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "225",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809179742"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince universelle chromée polie",
+            "StandardisedArticleDescription": "Pince universelle chromée polie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1150MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1150MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011500502"
+    ],
+    "URL": []
+}

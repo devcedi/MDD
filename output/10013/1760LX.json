@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1760LX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Luxmètre numérique portable avec caoutchouc extérieur antidérapant et antichoc",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "165",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809382296"
+    ],
+    "GenArts": [
+        {
+            "Description": "Luxmètre numérique portable avec caoutchouc extérieur antidérapant et antichoc",
+            "StandardisedArticleDescription": "Luxmètre numérique portable avec caoutchouc extérieur antidérapant et antichoc",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760LX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760LX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600820"
+    ],
+    "URL": []
+}

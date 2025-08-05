@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9525TR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Casquette noir type camionneur avec visière incurvée",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809517803"
+    ],
+    "GenArts": [
+        {
+            "Description": "Casquette noir type camionneur avec visière incurvée",
+            "StandardisedArticleDescription": "Casquette noir type camionneur avec visière incurvée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9525TR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9525TR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095250011"
+    ],
+    "URL": []
+}

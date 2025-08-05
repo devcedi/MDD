@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C39MD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Servante spéciale mobile type Racing MD",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230695556"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servante spéciale mobile type Racing MD",
+            "StandardisedArticleDescription": "Servante spéciale mobile type Racing MD",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C39MD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C39MD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039390103"
+    ],
+    "URL": []
+}

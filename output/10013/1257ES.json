@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1257ES",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Micro-clé mâle emmanchée pour vis 6 pans",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "3",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "60",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230657646"
+    ],
+    "GenArts": [
+        {
+            "Description": "Micro-clé mâle emmanchée pour vis 6 pans",
+            "StandardisedArticleDescription": "Micro-clé mâle emmanchée pour vis 6 pans",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1257ES.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1257ES.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012570050"
+    ],
+    "URL": []
+}

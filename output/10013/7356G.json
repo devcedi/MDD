@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7356G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse 0-Gravity ultra légère en microfibre hydrofuge",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "321",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809162423"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse 0-Gravity ultra légère en microfibre hydrofuge",
+            "StandardisedArticleDescription": "Chaussure basse 0-Gravity ultra légère en microfibre hydrofuge",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7356G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7356G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073560048"
+    ],
+    "URL": []
+}

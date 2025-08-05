@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8278",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mousqueton trapézoïdal AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø A x L \nmm",
+            "Value": "10x100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "55",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "16",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "120",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "BF\nkg",
+            "Value": "1300",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230637242"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mousqueton trapézoïdal AISI 316",
+            "StandardisedArticleDescription": "Mousqueton trapézoïdal AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8278.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8278.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082780210"
+    ],
+    "URL": []
+}

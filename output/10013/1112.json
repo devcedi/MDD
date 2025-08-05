@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1112",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cisaille type américain coupe droite",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \n~",
+            "Value": "375",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "76",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "1,2",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "44",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "18",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "R \nkg/mm²",
+            "Value": "60",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230076416"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cisaille type américain coupe droite",
+            "StandardisedArticleDescription": "Cisaille type américain coupe droite",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1112.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1112.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011120037"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8147C/RKR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de roues pour chariots à pousser à chaîne 8147C",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \n t",
+            "Value": "5,0",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809565712"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de roues pour chariots à pousser à chaîne 8147C",
+            "StandardisedArticleDescription": "Kit de roues pour chariots à pousser à chaîne 8147C",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8147C_slash_RKR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8147C_slash_RKR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081470955"
+    ],
+    "URL": []
+}

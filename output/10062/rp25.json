@@ -1,0 +1,62 @@
+{
+    "ArtNo": "rp25",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Rénovateur interieur exterieur  plastqiue et caoutchouc 25L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Polyvalent pour intérieur, extérieur. Antistatique, sèche en 3 minutes.  Laisse une protection longue durée. Parfumé. ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Ravive les garnitures intérieures, pare-chocs et flancs de pneumatiques ternis. ",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Pulvériser pur et étaler à l’aide de l’éponge vinyle",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101011019"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "RP25.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/RP25.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "rp25"
+    ],
+    "URL": []
+}

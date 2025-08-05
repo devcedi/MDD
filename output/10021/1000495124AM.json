@@ -1,0 +1,34 @@
+{
+    "ArtNo": "1000495124AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694026917"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maître cylindre Iveco  Iveco Bus",
+            "StandardisedArticleDescription": "Maître cylindre Iveco  Iveco Bus",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C31",
+            "Extension": "",
+            "Path": "/img/10021/=C31"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A31"
+    ],
+    "URL": []
+}

@@ -1,0 +1,77 @@
+{
+    "ArtNo": "S890618",
+    "Attributs": [
+        {
+            "Attribute": 97108363,
+            "Value": 81436010066,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 81436010068,
+            "Value": 81436010069,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 81436010106,
+            "Value": 81436010108,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A 658 328 0001",
+            "Value": "1F 20A",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "1S 270-25C / 97608",
+            "Value": 5000301452,
+            "SortNo": 5
+        },
+        {
+            "Attribute": 5010294385,
+            "Value": 5010488757,
+            "SortNo": 6
+        },
+        {
+            "Attribute": "D12S06",
+            "Value": "BL 249",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966011466"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coussin de cabine ",
+            "StandardisedArticleDescription": "Coussin de cabine ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A269,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A269,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "S890618"
+    ],
+    "URL": []
+}

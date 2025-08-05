@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3120282",
+    "Attributs": [
+        {
+            "Attribute": "Longueur",
+            "Value": 5000,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Matière",
+            "Value": "Aluminium",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Finition",
+            "Value": "Brut",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "VISUAL - Profil de protection latérale ECE 104, aluminium.",
+            "StandardisedArticleDescription": "VISUAL - Profil de protection latérale ECE 104, aluminium.",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3120282_3120284AN_ece1042_3d.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/3120282_3120284AN_ece1042_3d.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "3120282"
+    ],
+    "URL": []
+}

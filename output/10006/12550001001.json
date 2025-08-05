@@ -1,0 +1,57 @@
+{
+    "ArtNo": 12550001001,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "bidon ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602013419"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Soft 4x5L",
+            "StandardisedArticleDescription": "Dreumex Soft 4x5L",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Soft01",
+            "Extension": "",
+            "Path": "/img/10006/Soft01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "12550001001"
+    ],
+    "URL": []
+}

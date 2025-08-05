@@ -1,0 +1,57 @@
+{
+    "ArtNo": "S890276",
+    "Attributs": [
+        {
+            "Attribute": "C302 - 302.1.375",
+            "Value": "1R 12-712",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1DF 25-11",
+            "Value": "D13B32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "KR 721-06",
+            "Value": "YP 0836MK1W",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966009715"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coussin de cabine ",
+            "StandardisedArticleDescription": "Coussin de cabine ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A261,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A261,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "S890276"
+    ],
+    "URL": []
+}

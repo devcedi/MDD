@@ -1,0 +1,52 @@
+{
+    "ArtNo": "437U/PM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Forets et tarauds mâles pour 437U/09",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M12",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230410012"
+    ],
+    "GenArts": [
+        {
+            "Description": "Forets et tarauds mâles pour 437U/09",
+            "StandardisedArticleDescription": "Forets et tarauds mâles pour 437U/09",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "437U_slash_PM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/437U_slash_PM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004370572"
+    ],
+    "URL": []
+}

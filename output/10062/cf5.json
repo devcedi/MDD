@@ -1,0 +1,62 @@
+{
+    "ArtNo": "cf5",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "COKPIT FRESH Rénovateur habitacle haute qualité 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Odeur fraîcheur, nettoie et ravive. Très longue tenue dans le temps.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Nettoyant rénovateur pour tableaux de bord skaïs, cuirs, plastiques. ",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Pulvériser pur et frotter à l’aide d'une éponge vinyle",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101019985"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "CF5.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/CF5.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "cf5"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910.../C29",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "17 douilles, 12 douilles tournevis et 5 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230106588"
+    ],
+    "GenArts": [
+        {
+            "Description": "17 douilles, 12 douilles tournevis et 5 accessoires",
+            "StandardisedArticleDescription": "17 douilles, 12 douilles tournevis et 5 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910A_slash_C29_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910A_slash_C29_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100945"
+    ],
+    "URL": []
+}

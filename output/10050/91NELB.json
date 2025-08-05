@@ -1,0 +1,67 @@
+{
+    "ArtNo": "91NELB",
+    "Attributs": [
+        {
+            "Attribute": "Gamme produit",
+            "Value": "L30",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Logo Département",
+            "Value": "-",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Longueur en mm",
+            "Value": 520,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Largeur en mm",
+            "Value": 110,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Conditionnement",
+            "Value": "par 10",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "FAAB FABRICAUTO",
+    "BrandNo": "10050",
+    "Documents": [],
+    "GTIN": [
+        "3661174005023"
+    ],
+    "GenArts": [
+        {
+            "Description": "L30 - Plaque plastique 3mm Arrêté 96 (film + support) - Milieu de gamme",
+            "StandardisedArticleDescription": "L30 - Plaque plastique 3mm Arrêté 96 (film + support) - Milieu de gamme",
+            "GenArtNo": -10050
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "wp_logo-ff.png",
+            "Extension": "PNG",
+            "Path": "/img/10050/wp_logo-ff.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Non disponible",
+            "Extension": "",
+            "Path": "/img/10050/Non disponible",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "91NELB"
+    ],
+    "URL": []
+}

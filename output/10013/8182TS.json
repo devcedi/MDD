@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8182TS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Arrimage extérieur, 1500kg, boucle à rochet en polyester haute ténacité (PES)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L2\nmm",
+            "Value": "10100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "400",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nm",
+            "Value": "10,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "STF\ndaN",
+            "Value": "300",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230884820"
+    ],
+    "GenArts": [
+        {
+            "Description": "Arrimage extérieur, 1500kg, boucle à rochet en polyester haute ténacité (PES)",
+            "StandardisedArticleDescription": "Arrimage extérieur, 1500kg, boucle à rochet en polyester haute ténacité (PES)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8182TS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8182TS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081821305"
+    ],
+    "URL": []
+}

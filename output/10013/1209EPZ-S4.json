@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1209E/PZ-S4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 tournevis Evox pour vis Pozidriv®-Supadriv®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaEVOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809134956"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 tournevis Evox pour vis Pozidriv®-Supadriv®",
+            "StandardisedArticleDescription": "Jeu de 4 tournevis Evox pour vis Pozidriv®-Supadriv®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1209E_slash_PZ-S4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1209E_slash_PZ-S4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012091204"
+    ],
+    "URL": []
+}

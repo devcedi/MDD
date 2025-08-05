@@ -1,0 +1,62 @@
+{
+    "ArtNo": "96LC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mâle 6 pans coudée série longue chromée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "259",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "56",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230144115"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mâle 6 pans coudée série longue chromée",
+            "StandardisedArticleDescription": "Clé mâle 6 pans coudée série longue chromée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96LC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96LC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000960332"
+    ],
+    "URL": []
+}

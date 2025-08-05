@@ -1,0 +1,34 @@
+{
+    "ArtNo": "626597AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694012606"
+    ],
+    "GenArts": [
+        {
+            "Description": "Actionneur de passage Mercedes",
+            "StandardisedArticleDescription": "Actionneur de passage Mercedes",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C36",
+            "Extension": "",
+            "Path": "/img/10021/=C36"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A36"
+    ],
+    "URL": []
+}

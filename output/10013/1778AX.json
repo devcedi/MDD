@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1778AX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Couteau à cran d'arrêt, lame en acier inoxydable à dents, manche en aluminium, avec cran pour ouverture aisée, • avec étui",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "189",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "26",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "80",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809165493"
+    ],
+    "GenArts": [
+        {
+            "Description": "Couteau à cran d'arrêt, lame en acier inoxydable à dents, manche en aluminium, avec cran pour ouverture aisée, • avec étui",
+            "StandardisedArticleDescription": "Couteau à cran d'arrêt, lame en acier inoxydable à dents, manche en aluminium, avec cran pour ouverture aisée, • avec étui",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1778AX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1778AX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017780026"
+    ],
+    "URL": []
+}

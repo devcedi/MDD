@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1672A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Fausse équerre à coulisse lame en acier chromée, talon en aluminium",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "300",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230092140"
+    ],
+    "GenArts": [
+        {
+            "Description": "Fausse équerre à coulisse lame en acier chromée, talon en aluminium",
+            "StandardisedArticleDescription": "Fausse équerre à coulisse lame en acier chromée, talon en aluminium",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1672A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1672A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016720130"
+    ],
+    "URL": []
+}

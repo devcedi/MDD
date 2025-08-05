@@ -1,0 +1,57 @@
+{
+    "ArtNo": "JASAPREM5",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Nettoyant jante alcalin 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Action ultra rapide, sans frotter, formule sans acide.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Pour jante en alu, tôle, enjoliveur plastique",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101100546"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "JASAPREM5.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/JASAPREM5.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "JASAPREM5"
+    ],
+    "URL": []
+}

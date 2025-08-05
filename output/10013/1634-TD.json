@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1634-TD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cosse tubulaire double",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm²",
+            "Value": "2x6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "26",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629006614"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cosse tubulaire double",
+            "StandardisedArticleDescription": "Cosse tubulaire double",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1634-TD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1634-TD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BM00661"
+    ],
+    "URL": []
+}

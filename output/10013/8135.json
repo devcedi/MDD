@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8135",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pinces de levage pour plaque d'acier équipées d'œillets de levage articulés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL\n t",
+            "Value": "5,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "0-50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "80",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "23",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809144757"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pinces de levage pour plaque d'acier équipées d'œillets de levage articulés",
+            "StandardisedArticleDescription": "Pinces de levage pour plaque d'acier équipées d'œillets de levage articulés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8135.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8135.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081350050"
+    ],
+    "URL": []
+}

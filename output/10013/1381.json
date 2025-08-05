@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1381",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Masse gros effort avec manche en hickory",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\ng",
+            "Value": "8000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "80",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "900",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "185",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "1381/MR8",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230469799"
+    ],
+    "GenArts": [
+        {
+            "Description": "Masse gros effort avec manche en hickory",
+            "StandardisedArticleDescription": "Masse gros effort avec manche en hickory",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1381.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1381.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013810080"
+    ],
+    "URL": []
+}

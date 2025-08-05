@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1054",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau à becs droits",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "235",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A max \nmm",
+            "Value": "40",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "70,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "16,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "650",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230039763"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau à becs droits",
+            "StandardisedArticleDescription": "Pince-étau à becs droits",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1054.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1054.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010540022"
+    ],
+    "URL": []
+}

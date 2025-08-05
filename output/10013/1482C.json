@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1482C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "2 couples de coins pur décrochage raccords filtres gasoil groupes Fiat, Volkswagen, Jeep, Chrysler et Volvo",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230807249"
+    ],
+    "GenArts": [
+        {
+            "Description": "2 couples de coins pur décrochage raccords filtres gasoil groupes Fiat, Volkswagen, Jeep, Chrysler et Volvo",
+            "StandardisedArticleDescription": "2 couples de coins pur décrochage raccords filtres gasoil groupes Fiat, Volkswagen, Jeep, Chrysler et Volvo",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1482C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1482C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014820022"
+    ],
+    "URL": []
+}

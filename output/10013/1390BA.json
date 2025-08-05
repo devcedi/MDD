@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1390BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Maillet à embouts nylon antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "52",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "370",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "130",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230645315"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maillet à embouts nylon antidéflagrant",
+            "StandardisedArticleDescription": "Maillet à embouts nylon antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1390BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1390BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013900805"
+    ],
+    "URL": []
+}

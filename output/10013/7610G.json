@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7610G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon \"work trekking\" LIGHT en tissu stretch, idéal pour qui souhaite un vêtement pratique, léger et confortable.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809413822"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon \"work trekking\" LIGHT en tissu stretch, idéal pour qui souhaite un vêtement pratique, léger et confortable.",
+            "StandardisedArticleDescription": "Pantalon \"work trekking\" LIGHT en tissu stretch, idéal pour qui souhaite un vêtement pratique, léger et confortable.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7610G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7610G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076100006"
+    ],
+    "URL": []
+}

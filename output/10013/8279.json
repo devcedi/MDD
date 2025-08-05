@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8279",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaîne type \"Genovese\" pour connexions statiques, acier inoxydable AISI 304",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1000",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809240008"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaîne type \"Genovese\" pour connexions statiques, acier inoxydable AISI 304",
+            "StandardisedArticleDescription": "Chaîne type \"Genovese\" pour connexions statiques, acier inoxydable AISI 304",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8279.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8279.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082790400"
+    ],
+    "URL": []
+}

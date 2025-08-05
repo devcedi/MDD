@@ -1,0 +1,47 @@
+{
+    "ArtNo": "960EPC/L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu d’outils pour l’extraction de la point électrode des bougies de préchauffage",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230901121"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu d’outils pour l’extraction de la point électrode des bougies de préchauffage",
+            "StandardisedArticleDescription": "Jeu d’outils pour l’extraction de la point électrode des bougies de préchauffage",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960EPC_slash_L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960EPC_slash_L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600890"
+    ],
+    "URL": []
+}

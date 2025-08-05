@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C99P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chariot pliable COMBO en aluminium",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809170572"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chariot pliable COMBO en aluminium",
+            "StandardisedArticleDescription": "Chariot pliable COMBO en aluminium",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C99P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C99P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "099000101"
+    ],
+    "URL": []
+}

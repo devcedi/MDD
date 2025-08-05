@@ -1,0 +1,72 @@
+{
+    "ArtNo": "30",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chasse-clous",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "20",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L2 \nmm",
+            "Value": "64",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "12",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020044"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chasse-clous",
+            "StandardisedArticleDescription": "Chasse-clous",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000300060"
+    ],
+    "URL": []
+}

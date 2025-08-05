@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1879 6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Aspirateur manuel pour liquides (6 l)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230900094"
+    ],
+    "GenArts": [
+        {
+            "Description": "Aspirateur manuel pour liquides (6 l)",
+            "StandardisedArticleDescription": "Aspirateur manuel pour liquides (6 l)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "18796.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18796.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018790000"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1721/B6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 limes pour contacts",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230050966"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 limes pour contacts",
+            "StandardisedArticleDescription": "Jeu de 6 limes pour contacts",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1721_slash_B6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1721_slash_B6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017210010"
+    ],
+    "URL": []
+}

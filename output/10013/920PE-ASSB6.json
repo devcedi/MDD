@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920PE-AS/SB6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 douille tournevis pour vis 6 pans creux",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230950570"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 douille tournevis pour vis 6 pans creux",
+            "StandardisedArticleDescription": "Jeu de 6 douille tournevis pour vis 6 pans creux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920PE-AS_slash_SB6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920PE-AS_slash_SB6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200469"
+    ],
+    "URL": []
+}

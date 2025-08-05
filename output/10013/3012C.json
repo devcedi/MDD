@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3012C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Barre support moteur inférieure - grande amplitude",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776484"
+    ],
+    "GenArts": [
+        {
+            "Description": "Barre support moteur inférieure - grande amplitude",
+            "StandardisedArticleDescription": "Barre support moteur inférieure - grande amplitude",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3012C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3012C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030120255"
+    ],
+    "URL": []
+}

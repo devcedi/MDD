@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1114",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cisaille type américain bichantourneuse bec de canard",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L~ \nmm",
+            "Value": "350",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "76",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "1",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "22",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "26",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "R \nKgf/mm²",
+            "Value": "60",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230659510"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cisaille type américain bichantourneuse bec de canard",
+            "StandardisedArticleDescription": "Cisaille type américain bichantourneuse bec de canard",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1114.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1114.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011140340"
+    ],
+    "URL": []
+}

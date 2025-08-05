@@ -1,0 +1,62 @@
+{
+    "ArtNo": "929/55PR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge pour cliquets 929/55",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "540",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "32",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "26",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809202662"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge pour cliquets 929/55",
+            "StandardisedArticleDescription": "Rallonge pour cliquets 929/55",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "929_slash_55PR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/929_slash_55PR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009290868"
+    ],
+    "URL": []
+}

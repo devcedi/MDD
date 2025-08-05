@@ -1,0 +1,47 @@
+{
+    "ArtNo": "CA49-G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chariot multifonction avec porte",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230874234"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chariot multifonction avec porte",
+            "StandardisedArticleDescription": "Chariot multifonction avec porte",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "CA49-G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/CA49-G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "049000112"
+    ],
+    "URL": []
+}

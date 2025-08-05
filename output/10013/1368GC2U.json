@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1368G/C2U",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Agrafes pour angles creux pour 1368",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230780214"
+    ],
+    "GenArts": [
+        {
+            "Description": "Agrafes pour angles creux pour 1368",
+            "StandardisedArticleDescription": "Agrafes pour angles creux pour 1368",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1368G_slash_C2U.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1368G_slash_C2U.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013680130"
+    ],
+    "URL": []
+}

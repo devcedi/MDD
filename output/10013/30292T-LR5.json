@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3029/2T-L/R5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Roue avant pour cric 3029/2T, 3029L/2T",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230950877"
+    ],
+    "GenArts": [
+        {
+            "Description": "Roue avant pour cric 3029/2T, 3029L/2T",
+            "StandardisedArticleDescription": "Roue avant pour cric 3029/2T, 3029L/2T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3029_slash_2T-L_slash_R5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3029_slash_2T-L_slash_R5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030290505"
+    ],
+    "URL": []
+}

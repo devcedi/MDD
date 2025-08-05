@@ -1,0 +1,57 @@
+{
+    "ArtNo": "8188C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Arrimage extérieur sans-fin, 750kg boucle à rochet en polyester haute ténacité (PES)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nm",
+            "Value": "5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "STF\ndaN\n",
+            "Value": "72",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230608266"
+    ],
+    "GenArts": [
+        {
+            "Description": "Arrimage extérieur sans-fin, 750kg boucle à rochet en polyester haute ténacité (PES)",
+            "StandardisedArticleDescription": "Arrimage extérieur sans-fin, 750kg boucle à rochet en polyester haute ténacité (PES)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8188C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8188C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081880350"
+    ],
+    "URL": []
+}

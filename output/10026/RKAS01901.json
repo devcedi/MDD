@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKAS019/01",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966012975"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de renfort de suspension Mascott - Master Arrière ",
+            "StandardisedArticleDescription": "Kit de renfort de suspension Mascott - Master Arrière ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKAS019/01"
+    ],
+    "URL": []
+}

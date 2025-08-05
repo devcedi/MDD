@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1279MQ/F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis pour vis Pozidriv®-Supadriv®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "pz",
+            "Value": "2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "100",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "208",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230885995"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis pour vis Pozidriv®-Supadriv®",
+            "StandardisedArticleDescription": "Tournevis pour vis Pozidriv®-Supadriv®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1279MQ_slash_F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1279MQ_slash_F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012790418"
+    ],
+    "URL": []
+}

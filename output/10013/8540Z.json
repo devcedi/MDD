@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8540Z",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage mâle galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "M30",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "3,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WLL1\nkg",
+            "Value": "3200",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WLL2\nkg",
+            "Value": "3200",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230933306"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage mâle galvanisé",
+            "StandardisedArticleDescription": "Anneau de levage mâle galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8540Z.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8540Z.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085400430"
+    ],
+    "URL": []
+}

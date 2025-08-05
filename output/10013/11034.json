@@ -1,0 +1,67 @@
+{
+    "ArtNo": "11034",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Disques à tronçonner épaisseur fine, à moyeu plat pour l'acier et l'inox Haute performance et très longue durée de vie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "115",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "1,6",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F\nmm",
+            "Value": "22,23",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "max.\nrpm",
+            "Value": "13300",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230943855"
+    ],
+    "GenArts": [
+        {
+            "Description": "Disques à tronçonner épaisseur fine, à moyeu plat pour l'acier et l'inox Haute performance et très longue durée de vie",
+            "StandardisedArticleDescription": "Disques à tronçonner épaisseur fine, à moyeu plat pour l'acier et l'inox Haute performance et très longue durée de vie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11034.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11034.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "110340062"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1758B-RNT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupleur rapide anti-reflux pour entonnoir 1758B - 1758B-1,6",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809116518"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupleur rapide anti-reflux pour entonnoir 1758B - 1758B-1,6",
+            "StandardisedArticleDescription": "Coupleur rapide anti-reflux pour entonnoir 1758B - 1758B-1,6",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1758B-RNT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1758B-RNT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017580035"
+    ],
+    "URL": []
+}

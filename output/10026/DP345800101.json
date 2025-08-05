@@ -1,0 +1,67 @@
+{
+    "ArtNo": "DP34580/0101",
+    "Attributs": [
+        {
+            "Attribute": "1T19 E3 / 207771",
+            "Value": 5010305464,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 5010557356,
+            "Value": 5010600439,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 7421978495,
+            "Value": 7422190560,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 20726769,
+            "Value": 21978502,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 22190560,
+            "Value": 25364097,
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005803"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A143,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A143,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34580/0101"
+    ],
+    "URL": []
+}

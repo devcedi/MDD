@@ -1,0 +1,62 @@
+{
+    "ArtNo": "451",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Fraise trépan en acier HSS entièrement rectifiée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "50",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "85",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D \n \nmm",
+            "Value": "10",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230173849"
+    ],
+    "GenArts": [
+        {
+            "Description": "Fraise trépan en acier HSS entièrement rectifiée",
+            "StandardisedArticleDescription": "Fraise trépan en acier HSS entièrement rectifiée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "451.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/451.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004510050"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8153",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Élingue plate, 2t, vert, double couche, boutonnières renforcées, en polyester haute ténacité (PES)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "60",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "2",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230682808"
+    ],
+    "GenArts": [
+        {
+            "Description": "Élingue plate, 2t, vert, double couche, boutonnières renforcées, en polyester haute ténacité (PES)",
+            "StandardisedArticleDescription": "Élingue plate, 2t, vert, double couche, boutonnières renforcées, en polyester haute ténacité (PES)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8153.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8153.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081530100"
+    ],
+    "URL": []
+}

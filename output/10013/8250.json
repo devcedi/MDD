@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8250",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mousqueton crochet avec linguet AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "47",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "ø B \nmm",
+            "Value": "20",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "190",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "BF\nkg",
+            "Value": "900",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230636504"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mousqueton crochet avec linguet AISI 316",
+            "StandardisedArticleDescription": "Mousqueton crochet avec linguet AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8250.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8250.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082500210"
+    ],
+    "URL": []
+}

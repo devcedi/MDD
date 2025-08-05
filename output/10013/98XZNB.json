@@ -1,0 +1,47 @@
+{
+    "ArtNo": "98XZN/B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 clés mâles coudées XZN® (art. 98XZN) en trousse",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230026220"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 clés mâles coudées XZN® (art. 98XZN) en trousse",
+            "StandardisedArticleDescription": "Jeu de 5 clés mâles coudées XZN® (art. 98XZN) en trousse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "98XZN_slash_B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/98XZN_slash_B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000980650"
+    ],
+    "URL": []
+}

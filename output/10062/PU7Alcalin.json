@@ -1,0 +1,57 @@
+{
+    "ArtNo": "PU7Alcalin",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Pulvérisateur pression 1,5L pour produit alcalin",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Version",
+            "Value": "BLEUE, joint EPDM, alcalin",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Corps rigide au design évasé pour une stabilité accrue. Contenance 1.5 L. Large poignée ergonomique avec bouton poussoir de pulvérisation. Buse réglable et tête orientable sur rotule. Mise en pression rapide grâce au long piston rigide. Muni d'un clapet de dépressurisation. Nouveauté : Maintenant avec indicateur du niveau de remplissage.",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "5415279044726"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "PU7Alcalin.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/PU7Alcalin.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "PU7Alcalin"
+    ],
+    "URL": []
+}

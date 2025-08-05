@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1738",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pinceau de nettoyage",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "210",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "30",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230047119"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pinceau de nettoyage",
+            "StandardisedArticleDescription": "Pinceau de nettoyage",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1738.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1738.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017380001"
+    ],
+    "URL": []
+}

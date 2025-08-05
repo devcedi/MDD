@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8018T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-câble, type TELECOM, corp en fonte zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "8÷10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "M8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "42",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Nm",
+            "Value": "10,20",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230184524"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-câble, type TELECOM, corp en fonte zingué",
+            "StandardisedArticleDescription": "Serre-câble, type TELECOM, corp en fonte zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8018T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8018T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080180003"
+    ],
+    "URL": []
+}

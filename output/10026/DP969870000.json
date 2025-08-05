@@ -1,0 +1,47 @@
+{
+    "ArtNo": "DP96987/0000",
+    "Attributs": [
+        {
+            "Attribute": 2617887,
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004240"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane ",
+            "StandardisedArticleDescription": "Membrane ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A214,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A214,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP96987/0000"
+    ],
+    "URL": []
+}

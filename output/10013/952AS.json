@@ -1,0 +1,72 @@
+{
+    "ArtNo": "952AS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à béquille à cardan",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \n''",
+            "Value": "3/4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "26,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "13,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "500",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "230",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230429281"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à béquille à cardan",
+            "StandardisedArticleDescription": "Clé à béquille à cardan",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "952AS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/952AS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009520269"
+    ],
+    "URL": []
+}

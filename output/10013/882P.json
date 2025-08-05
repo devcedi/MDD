@@ -1,0 +1,67 @@
+{
+    "ArtNo": "882P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge porte-embouts magnétique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "80",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "10",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230688374"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge porte-embouts magnétique",
+            "StandardisedArticleDescription": "Rallonge porte-embouts magnétique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "882P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/882P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008820080"
+    ],
+    "URL": []
+}

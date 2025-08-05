@@ -1,0 +1,47 @@
+{
+    "ArtNo": "6600 M/650",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 28 outils, avec crochets sans panneau",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230467207"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 28 outils, avec crochets sans panneau",
+            "StandardisedArticleDescription": "Composition de 28 outils, avec crochets sans panneau",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "6600M_slash_650.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/6600M_slash_650.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "066000650"
+    ],
+    "URL": []
+}

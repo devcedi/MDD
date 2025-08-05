@@ -1,0 +1,47 @@
+{
+    "ArtNo": "610L/5L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à déclenchement avec levier en L",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809368894"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à déclenchement avec levier en L",
+            "StandardisedArticleDescription": "Clé dynamométrique à déclenchement avec levier en L",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "610L_slash_5L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/610L_slash_5L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006100150"
+    ],
+    "URL": []
+}

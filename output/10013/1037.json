@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1037",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour circlips extérieurs à becs coudés à 45°",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "225",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nØ mm",
+            "Value": "40÷100",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "2,3",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "25",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "11,2",
+            "SortNo": 6
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "250",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230176185"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour circlips extérieurs à becs coudés à 45°",
+            "StandardisedArticleDescription": "Pince pour circlips extérieurs à becs coudés à 45°",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1037.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1037.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010370021"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9528C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ballon de football en revêtement PU de taille 5",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \ncm",
+            "Value": "65",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "W \ncm",
+            "Value": "42",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H  \ncm",
+            "Value": "42",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809616254"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ballon de football en revêtement PU de taille 5",
+            "StandardisedArticleDescription": "Ballon de football en revêtement PU de taille 5",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9528C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9528C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095280100"
+    ],
+    "URL": []
+}

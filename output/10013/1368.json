@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1368",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de réparation des pièces en plastique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230777603"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de réparation des pièces en plastique",
+            "StandardisedArticleDescription": "Kit de réparation des pièces en plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1368.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1368.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013680001"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8189",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Boucle à rochet en polyester (PES) pour arrimages extérieures",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "50",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "100",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "LC \nkg",
+            "Value": "2000",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230751627"
+    ],
+    "GenArts": [
+        {
+            "Description": "Boucle à rochet en polyester (PES) pour arrimages extérieures",
+            "StandardisedArticleDescription": "Boucle à rochet en polyester (PES) pour arrimages extérieures",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8189.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8189.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081890905"
+    ],
+    "URL": []
+}

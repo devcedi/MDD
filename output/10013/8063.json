@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8063",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet de levage orientable (horse charge), acier allié, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL\nkg",
+            "Value": "3150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "44,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "27",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230788975"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet de levage orientable (horse charge), acier allié, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Crochet de levage orientable (horse charge), acier allié, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8063.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8063.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080630031"
+    ],
+    "URL": []
+}

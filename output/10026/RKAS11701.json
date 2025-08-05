@@ -1,0 +1,50 @@
+{
+    "ArtNo": "RKAS117/01",
+    "Attributs": [
+        {
+            "Attribute": 16512,
+            "Value": 16558,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 1244666,
+            "Value": 1270603,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "US 86318 F",
+            "Value": "US 06318 F",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966014269"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de renfort de suspension Sprinter 906 ",
+            "StandardisedArticleDescription": "Kit de renfort de suspension Sprinter 906 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKAS117/01"
+    ],
+    "URL": []
+}

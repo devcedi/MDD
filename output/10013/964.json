@@ -1,0 +1,67 @@
+{
+    "ArtNo": "964",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince levier à broche et à bec",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "400",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "46",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "14",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "14",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230091556"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince levier à broche et à bec",
+            "StandardisedArticleDescription": "Pince levier à broche et à bec",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "964.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/964.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009640001"
+    ],
+    "URL": []
+}

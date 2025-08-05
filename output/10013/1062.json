@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1062",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau col de cygne",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "460",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "255",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "255",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "95",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "12",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230935478"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau col de cygne",
+            "StandardisedArticleDescription": "Pince-étau col de cygne",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1062.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1062.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010620045"
+    ],
+    "URL": []
+}

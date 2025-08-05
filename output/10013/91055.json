@@ -1,0 +1,67 @@
+{
+    "ArtNo": "910/55",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible carré mâle 3/8\" avec mécanisme à 72 dents",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "207",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "31",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "33",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809542690"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible carré mâle 3/8\" avec mécanisme à 72 dents",
+            "StandardisedArticleDescription": "Cliquet réversible carré mâle 3/8\" avec mécanisme à 72 dents",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910_slash_55N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910_slash_55N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009101155"
+    ],
+    "URL": []
+}

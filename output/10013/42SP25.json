@@ -1,0 +1,47 @@
+{
+    "ArtNo": "42/SP25",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support vide pour 42/SPV2",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020884"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support vide pour 42/SPV2",
+            "StandardisedArticleDescription": "Support vide pour 42/SPV2",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42_slash_SP25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42_slash_SP25.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000420090"
+    ],
+    "URL": []
+}

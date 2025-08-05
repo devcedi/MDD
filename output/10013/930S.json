@@ -1,0 +1,47 @@
+{
+    "ArtNo": "930/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 clés en tube droites 12 pans gros effort (art. 930)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230036762"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 clés en tube droites 12 pans gros effort (art. 930)",
+            "StandardisedArticleDescription": "Jeu de 13 clés en tube droites 12 pans gros effort (art. 930)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "930_slash_S_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/930_slash_S_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009300083"
+    ],
+    "URL": []
+}

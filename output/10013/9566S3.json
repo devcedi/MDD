@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9566S/3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ensemble de 3 tabourets réglables verticalement",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "620 ÷ 840",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809608815"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ensemble de 3 tabourets réglables verticalement",
+            "StandardisedArticleDescription": "Ensemble de 3 tabourets réglables verticalement",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9566S_slash_3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9566S_slash_3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095660300"
+    ],
+    "URL": []
+}

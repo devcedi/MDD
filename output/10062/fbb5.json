@@ -1,0 +1,62 @@
+{
+    "ArtNo": "fbb5",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Full buzz demoustiquant concentre 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "FULL BUG BUZZ ramollit rapidement les salissures occasionnées par les insectes et les matières organiques.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "FULL BUG BUZZ est spécialement conçu pour décoller les insectes sur les carrosseries, pare-brises, phares et calandres automobiles.",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Diluer FULL BUG BUZZ, 1 pour 5 volumes d’eau et pulvériser sur la surface à traiter de bas en haut. Laisser agir 2 minutes, passer l’éponge ou le gant de lavage et rincer à haute pression.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101015550"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FBB5",
+            "Extension": "",
+            "Path": "/img/10062/FBB5",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "fbb5"
+    ],
+    "URL": []
+}

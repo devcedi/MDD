@@ -1,0 +1,72 @@
+{
+    "ArtNo": "929",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 6 pans",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "80",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "106",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "120",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "60",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "56",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230036540"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 6 pans",
+            "StandardisedArticleDescription": "Douille 6 pans",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "929.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/929.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009290080"
+    ],
+    "URL": []
+}

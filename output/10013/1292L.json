@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1292L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis à lame longue pour vis à empreinte Phillips®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PHxDxL \nmm",
+            "Value": "2x6x400",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "520",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230382760"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis à lame longue pour vis à empreinte Phillips®",
+            "StandardisedArticleDescription": "Tournevis à lame longue pour vis à empreinte Phillips®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1292L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1292L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012920209"
+    ],
+    "URL": []
+}

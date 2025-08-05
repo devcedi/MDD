@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9844T - Neutral Sil",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Neutral Sil - Clear neutral silicone sealant with mildew protection",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "310",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809555409"
+    ],
+    "GenArts": [
+        {
+            "Description": "Neutral Sil - Clear neutral silicone sealant with mildew protection",
+            "StandardisedArticleDescription": "Neutral Sil - Clear neutral silicone sealant with mildew protection",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9844T-NeutralSil.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9844T-NeutralSil.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098440031"
+    ],
+    "URL": []
+}

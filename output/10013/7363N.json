@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7363N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse \"occupational\" 0-Gravity ultra légère, en tissu mesh hydrofuge",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "321",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809132105"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse \"occupational\" 0-Gravity ultra légère, en tissu mesh hydrofuge",
+            "StandardisedArticleDescription": "Chaussure basse \"occupational\" 0-Gravity ultra légère, en tissu mesh hydrofuge",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7363N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7363N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073630048"
+    ],
+    "URL": []
+}

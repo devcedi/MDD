@@ -1,0 +1,47 @@
+{
+    "ArtNo": "195P/B5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 clés 12 pans coudées à 15° à cliquet réversible (art. 195P) en trousse",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230540573"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 clés 12 pans coudées à 15° à cliquet réversible (art. 195P) en trousse",
+            "StandardisedArticleDescription": "Jeu de 5 clés 12 pans coudées à 15° à cliquet réversible (art. 195P) en trousse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "195P_slash_B5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/195P_slash_B5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001950266"
+    ],
+    "URL": []
+}

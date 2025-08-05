@@ -1,0 +1,34 @@
+{
+    "ArtNo": "2944133",
+    "Attributs": [],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit embout de verin pour rattrapage de jeux pneumatique AirConfort",
+            "StandardisedArticleDescription": "Kit embout de verin pour rattrapage de jeux pneumatique AirConfort",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "2944133"
+    ],
+    "URL": []
+}

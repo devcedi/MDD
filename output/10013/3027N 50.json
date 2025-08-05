@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3027N 50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Presse hydraulique avec piston mobile et treuil",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "2100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1350",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "790",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "750",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809473055"
+    ],
+    "GenArts": [
+        {
+            "Description": "Presse hydraulique avec piston mobile et treuil",
+            "StandardisedArticleDescription": "Presse hydraulique avec piston mobile et treuil",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3027N50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3027N50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030270105"
+    ],
+    "URL": []
+}

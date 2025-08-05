@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8216-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-câble AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230849126"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-câble AISI 316",
+            "StandardisedArticleDescription": "Serre-câble AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8216-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8216-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082169410"
+    ],
+    "URL": []
+}

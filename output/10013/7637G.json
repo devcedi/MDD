@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7637G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sweat-shirt technique en polaire avec empiècements en tissu softshell pour rester confortablement au chaud et à l'aise en toute situation et afficher un look moderne.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809414454"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sweat-shirt technique en polaire avec empiècements en tissu softshell pour rester confortablement au chaud et à l'aise en toute situation et afficher un look moderne.",
+            "StandardisedArticleDescription": "Sweat-shirt technique en polaire avec empiècements en tissu softshell pour rester confortablement au chaud et à l'aise en toute situation et afficher un look moderne.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7637G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7637G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076370006"
+    ],
+    "URL": []
+}

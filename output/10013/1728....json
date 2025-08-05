@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1728...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lame de scie",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230142241"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lame de scie",
+            "StandardisedArticleDescription": "Lame de scie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1728_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1728_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017280030"
+    ],
+    "URL": []
+}

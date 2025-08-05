@@ -1,0 +1,47 @@
+{
+    "ArtNo": "928/R55X",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mécanisme rotatif pour cliquets, pour 614X",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230004105"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mécanisme rotatif pour cliquets, pour 614X",
+            "StandardisedArticleDescription": "Mécanisme rotatif pour cliquets, pour 614X",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "928_slash_R55X.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/928_slash_R55X.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009280858"
+    ],
+    "URL": []
+}

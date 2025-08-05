@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3069",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Transpalette manuel",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809524153"
+    ],
+    "GenArts": [
+        {
+            "Description": "Transpalette manuel",
+            "StandardisedArticleDescription": "Transpalette manuel",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3069.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3069.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030690000"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "C20TSS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Boîte à outils 5 cases en acier inoxydable AISI 304, vide",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": " \n",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaINOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230878676"
+    ],
+    "GenArts": [
+        {
+            "Description": "Boîte à outils 5 cases en acier inoxydable AISI 304, vide",
+            "StandardisedArticleDescription": "Boîte à outils 5 cases en acier inoxydable AISI 304, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_inox.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_inox.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C20TSS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C20TSS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021203001"
+    ],
+    "URL": []
+}

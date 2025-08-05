@@ -1,0 +1,52 @@
+{
+    "ArtNo": "VP1 - VP2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Modules thermoformés en ABS avec bacs de rangement pour coffres à outils RSC22, RSC23, RSC23C",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "35",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230049380"
+    ],
+    "GenArts": [
+        {
+            "Description": "Modules thermoformés en ABS avec bacs de rangement pour coffres à outils RSC22, RSC23, RSC23C",
+            "StandardisedArticleDescription": "Modules thermoformés en ABS avec bacs de rangement pour coffres à outils RSC22, RSC23, RSC23C",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "VP1-VP2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/VP1-VP2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088880352"
+    ],
+    "URL": []
+}

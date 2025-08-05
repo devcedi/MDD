@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7985N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cache-cou en micro-polaire avec régulateur à coulisse",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "Taglia unica",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809506388"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cache-cou en micro-polaire avec régulateur à coulisse",
+            "StandardisedArticleDescription": "Cache-cou en micro-polaire avec régulateur à coulisse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7985N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7985N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "079850000"
+    ],
+    "URL": []
+}

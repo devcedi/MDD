@@ -1,0 +1,52 @@
+{
+    "ArtNo": "334R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Molette pour article 332 et 334 pour cuivre et alliages légers",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "18",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230093819"
+    ],
+    "GenArts": [
+        {
+            "Description": "Molette pour article 332 et 334 pour cuivre et alliages légers",
+            "StandardisedArticleDescription": "Molette pour article 332 et 334 pour cuivre et alliages légers",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "334R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/334R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003340021"
+    ],
+    "URL": []
+}

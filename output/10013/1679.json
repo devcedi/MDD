@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1679",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pied à coulisse à tracer à molette en acier inoxydable, précision au 1/10e",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "235",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A Max\nmm",
+            "Value": "200",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "HxS \nmm",
+            "Value": "43x9",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230179360"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pied à coulisse à tracer à molette en acier inoxydable, précision au 1/10e",
+            "StandardisedArticleDescription": "Pied à coulisse à tracer à molette en acier inoxydable, précision au 1/10e",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1679.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1679.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016790020"
+    ],
+    "URL": []
+}

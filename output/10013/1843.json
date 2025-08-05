@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1843",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Enrouleur de câble automatique, avec câble 2x1,5 mm²",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Cavo",
+            "Value": "H05VV-F",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "​L\nm",
+            "Value": "15+1",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Scocca",
+            "Value": "A",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230965130"
+    ],
+    "GenArts": [
+        {
+            "Description": "Enrouleur de câble automatique, avec câble 2x1,5 mm²",
+            "StandardisedArticleDescription": "Enrouleur de câble automatique, avec câble 2x1,5 mm²",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "27_avvolgitori.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/27_avvolgitori.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1843.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1843.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018430215"
+    ],
+    "URL": []
+}

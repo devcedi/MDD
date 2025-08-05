@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1827PC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pannes coniques pour 1827",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230533018"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pannes coniques pour 1827",
+            "StandardisedArticleDescription": "Pannes coniques pour 1827",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1827PC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1827PC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018270502"
+    ],
+    "URL": []
+}

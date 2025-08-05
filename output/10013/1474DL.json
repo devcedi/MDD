@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1474DL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour connecteurs de bougies à becs long, branches gainées par 2 couches de PVC",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230397320"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour connecteurs de bougies à becs long, branches gainées par 2 couches de PVC",
+            "StandardisedArticleDescription": "Pince pour connecteurs de bougies à becs long, branches gainées par 2 couches de PVC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1474DL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1474DL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014740015"
+    ],
+    "URL": []
+}

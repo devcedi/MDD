@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1467LF/RC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bidon de collecte avec tuyau pour 1467LF",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230739649"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bidon de collecte avec tuyau pour 1467LF",
+            "StandardisedArticleDescription": "Bidon de collecte avec tuyau pour 1467LF",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1467LF_slash_RC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1467LF_slash_RC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014670125"
+    ],
+    "URL": []
+}

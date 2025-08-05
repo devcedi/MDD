@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1438DSG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Levier pour blocage/déblocage des boîtes de vitesses DSG à double embrayage du groupe VAG",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230840116"
+    ],
+    "GenArts": [
+        {
+            "Description": "Levier pour blocage/déblocage des boîtes de vitesses DSG à double embrayage du groupe VAG",
+            "StandardisedArticleDescription": "Levier pour blocage/déblocage des boîtes de vitesses DSG à double embrayage du groupe VAG",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1438DSG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1438DSG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014380200"
+    ],
+    "URL": []
+}

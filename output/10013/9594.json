@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9594",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Horloge murale avec thermomètre et hygromètre, diamètre 26 cm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \ncm",
+            "Value": "26",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230542355"
+    ],
+    "GenArts": [
+        {
+            "Description": "Horloge murale avec thermomètre et hygromètre, diamètre 26 cm",
+            "StandardisedArticleDescription": "Horloge murale avec thermomètre et hygromètre, diamètre 26 cm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9594.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9594.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095940051"
+    ],
+    "URL": []
+}

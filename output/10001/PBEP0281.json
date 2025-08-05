@@ -1,0 +1,43 @@
+{
+    "ArtNo": "PBEP0281",
+    "Attributs": [
+        {
+            "Attribute": "Comprend les vis de réparation",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Kit charnière centrale avec vis de réparation",
+            "StandardisedArticleDescription": "Kit charnière centrale avec vis de réparation",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PBEP0281",
+            "Extension": "",
+            "Path": "/img/10001/PBEP0281"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "PBEP0281",
+            "Extension": "",
+            "Path": "/img/10001/PBEP0281",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

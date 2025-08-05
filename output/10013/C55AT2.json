@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55AT2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Armoire en tôle à 2 portes transparentes en polycarbonate pour ameublement atelier RSC55",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809151397"
+    ],
+    "GenArts": [
+        {
+            "Description": "Armoire en tôle à 2 portes transparentes en polycarbonate pour ameublement atelier RSC55",
+            "StandardisedArticleDescription": "Armoire en tôle à 2 portes transparentes en polycarbonate pour ameublement atelier RSC55",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55AT2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55AT2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000422"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "860PZ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout coloré pour visseuses pour vis Pozidriv® - Supadriv®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PZ",
+            "Value": "4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230663685"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout coloré pour visseuses pour vis Pozidriv® - Supadriv®",
+            "StandardisedArticleDescription": "Embout coloré pour visseuses pour vis Pozidriv® - Supadriv®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "860PZ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/860PZ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008600335"
+    ],
+    "URL": []
+}

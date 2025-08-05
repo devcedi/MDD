@@ -1,0 +1,47 @@
+{
+    "ArtNo": "581",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis dynamométrique à débrayage mono-couple Utilisable pour serrage droite Précision de serrage : ±6% (S'utilise avec les articles 588 - 682)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230619873"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis dynamométrique à débrayage mono-couple Utilisable pour serrage droite Précision de serrage : ±6% (S'utilise avec les articles 588 - 682)",
+            "StandardisedArticleDescription": "Tournevis dynamométrique à débrayage mono-couple Utilisable pour serrage droite Précision de serrage : ±6% (S'utilise avec les articles 588 - 682)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "581.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/581.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005810001"
+    ],
+    "URL": []
+}

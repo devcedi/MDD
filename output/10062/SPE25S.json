@@ -1,0 +1,62 @@
+{
+    "ArtNo": "SPE25S",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Speed polish cire de protection pulvérisable 25L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Économique, écologique, sans solvant, ultra rapide et très facile d’essuyage.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Nouvelle formule de lustrage rapide recommandée pour le nettoyage et la protection des surfaces telles que carrosserie auto moto, caravane, bateau, chromes, miroiteries, vitres, jantes...",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bien agiter le bidon et pulvériser SPEED POLISH EVOLUTION sur la surface à traiter. Étaler à l’aide d’un chiffon doux (microfibre) en frottant d’un geste circulaire et laisser sécher. A l’aide d’un second chiffon doux, lustrer jusqu’au brillant final. ",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101017998"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "spe25s.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/spe25s.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "SPE25S"
+    ],
+    "URL": []
+}

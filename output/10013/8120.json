@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8120",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaîne type \"Genovese\" pour connexions statiques, galvanisée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "12,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "32",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1400",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "15",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820972"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaîne type \"Genovese\" pour connexions statiques, galvanisée",
+            "StandardisedArticleDescription": "Chaîne type \"Genovese\" pour connexions statiques, galvanisée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8120.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8120.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081200120"
+    ],
+    "URL": []
+}

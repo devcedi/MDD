@@ -1,0 +1,47 @@
+{
+    "ArtNo": "583/C31",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 1 tournevis dynamométrique, 8 douilles 6 pans, 20 embouts pour visseuses et 2 accessoires en coffret tôle avec plateau thermoformé souple",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230695655"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 1 tournevis dynamométrique, 8 douilles 6 pans, 20 embouts pour visseuses et 2 accessoires en coffret tôle avec plateau thermoformé souple",
+            "StandardisedArticleDescription": "Composition de 1 tournevis dynamométrique, 8 douilles 6 pans, 20 embouts pour visseuses et 2 accessoires en coffret tôle avec plateau thermoformé souple",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "583_slash_C31.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/583_slash_C31.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005830931"
+    ],
+    "URL": []
+}

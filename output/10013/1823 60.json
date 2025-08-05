@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1823 60",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poste de soudage thermorégulé à contrôle numérique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "W",
+            "Value": "60",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774015"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poste de soudage thermorégulé à contrôle numérique",
+            "StandardisedArticleDescription": "Poste de soudage thermorégulé à contrôle numérique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "182360.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/182360.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018230060"
+    ],
+    "URL": []
+}

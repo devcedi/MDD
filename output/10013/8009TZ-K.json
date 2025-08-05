@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8009TZ-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ridoir à deux chapes DIN 1478 galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\n\"",
+            "Value": "1/2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "690",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230814889"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ridoir à deux chapes DIN 1478 galvanisé",
+            "StandardisedArticleDescription": "Ridoir à deux chapes DIN 1478 galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8009TZ-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8009TZ-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080099512"
+    ],
+    "URL": []
+}

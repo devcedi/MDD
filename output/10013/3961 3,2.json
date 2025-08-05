@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3961 3,2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à rayon noire 3,2 mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "3,2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "57",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "40",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882536"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à rayon noire 3,2 mm",
+            "StandardisedArticleDescription": "Clé à rayon noire 3,2 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "396132.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/396132.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039610032"
+    ],
+    "URL": []
+}

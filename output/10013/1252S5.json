@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1252/S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 tournevis pose-vis (art. 1250, 1251)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230042947"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 tournevis pose-vis (art. 1250, 1251)",
+            "StandardisedArticleDescription": "Jeu de 5 tournevis pose-vis (art. 1250, 1251)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1252_slash_S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1252_slash_S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012520001"
+    ],
+    "URL": []
+}

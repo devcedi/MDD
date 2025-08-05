@@ -1,0 +1,57 @@
+{
+    "ArtNo": "860LP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout coloré pour visseuses pour vis à fente",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SxA \nmm",
+            "Value": "1,2x6,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230632681"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout coloré pour visseuses pour vis à fente",
+            "StandardisedArticleDescription": "Embout coloré pour visseuses pour vis à fente",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "860LP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/860LP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008600025"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1719BA12",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lime de 12\" antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\n\"",
+            "Value": "12",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230799780"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lime de 12\" antidéflagrante",
+            "StandardisedArticleDescription": "Lime de 12\" antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1719BA12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1719BA12.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017190831"
+    ],
+    "URL": []
+}

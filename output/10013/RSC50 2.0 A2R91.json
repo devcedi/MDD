@@ -1,0 +1,52 @@
+{
+    "ArtNo": "RSC50 2.0 A2/R91",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etagère intérieure pour armoire RSC50 A2",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "911x596 mm",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaRSC50",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809536132"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etagère intérieure pour armoire RSC50 A2",
+            "StandardisedArticleDescription": "Etagère intérieure pour armoire RSC50 A2",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "RSC502_dot_0A2_slash_R91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/RSC502_dot_0A2_slash_R91.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "050001915"
+    ],
+    "URL": []
+}

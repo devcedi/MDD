@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1375",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau de charpentier, manche en bois",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "95",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "25",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "37",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230043968"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau de charpentier, manche en bois",
+            "StandardisedArticleDescription": "Marteau de charpentier, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1375.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1375.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013750000"
+    ],
+    "URL": []
+}

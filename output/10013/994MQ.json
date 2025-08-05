@@ -1,0 +1,52 @@
+{
+    "ArtNo": "994MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Brucelles à becs droits arrondis",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "145",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230103112"
+    ],
+    "GenArts": [
+        {
+            "Description": "Brucelles à becs droits arrondis",
+            "StandardisedArticleDescription": "Brucelles à becs droits arrondis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "994MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/994MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009940040"
+    ],
+    "URL": []
+}

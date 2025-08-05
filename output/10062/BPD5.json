@@ -1,0 +1,62 @@
+{
+    "ArtNo": "BPD5",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "BLUUE POLAR Destructeur odeur 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Efficacité. Odeur de fraicheur polaire longue durée.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Absorbe, neutralise immédiatement et détruit les mauvaises odeurs efficacement sur toutes les surfaces.",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Nettoyer préalablement l’habitacle du véhicule puis vaporiser dans l’habitacle et le coffre. Répéter l’opération si nécessaire.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101032014"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "BPD5.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/BPD5.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BPD5"
+    ],
+    "URL": []
+}

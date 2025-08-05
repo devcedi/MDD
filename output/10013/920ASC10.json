@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920AS/C10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "10 douilles 12 pans et 2 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230106595"
+    ],
+    "GenArts": [
+        {
+            "Description": "10 douilles 12 pans et 2 accessoires",
+            "StandardisedArticleDescription": "10 douilles 12 pans et 2 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920AS_slash_C10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920AS_slash_C10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200919"
+    ],
+    "URL": []
+}

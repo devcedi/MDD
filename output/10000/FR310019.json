@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR310019",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "DISQUE DE FREIN SANS ABS",
+            "StandardisedArticleDescription": "DISQUE DE FREIN SANS ABS",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR310019"
+    ],
+    "URL": []
+}

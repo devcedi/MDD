@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7246NB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure de sécurité BASIC basse en cuir suédé perforée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809570976"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure de sécurité BASIC basse en cuir suédé perforée",
+            "StandardisedArticleDescription": "Chaussure de sécurité BASIC basse en cuir suédé perforée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7246NB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7246NB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072461648"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498MN/12-R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Alimentation secteur mini booster de démarrage 1498BC/12",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230783093"
+    ],
+    "GenArts": [
+        {
+            "Description": "Alimentation secteur mini booster de démarrage 1498BC/12",
+            "StandardisedArticleDescription": "Alimentation secteur mini booster de démarrage 1498BC/12",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498MN_slash_12-R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498MN_slash_12-R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980003"
+    ],
+    "URL": []
+}

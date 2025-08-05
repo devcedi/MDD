@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2041UC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Valise Utility Case avec 33 outils",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809151564"
+    ],
+    "GenArts": [
+        {
+            "Description": "Valise Utility Case avec 33 outils",
+            "StandardisedArticleDescription": "Valise Utility Case avec 33 outils",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2041UC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2041UC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "020410215"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1479/B27",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de 27 outils en nylon pour le démontage des plastiques intérieurs. Aucun endommagement des éléments au démontage.",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774718"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de 27 outils en nylon pour le démontage des plastiques intérieurs. Aucun endommagement des éléments au démontage.",
+            "StandardisedArticleDescription": "Kit de 27 outils en nylon pour le démontage des plastiques intérieurs. Aucun endommagement des éléments au démontage.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1479_slash_B27.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1479_slash_B27.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014790407"
+    ],
+    "URL": []
+}

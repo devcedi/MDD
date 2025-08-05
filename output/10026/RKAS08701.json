@@ -1,0 +1,45 @@
+{
+    "ArtNo": "RKAS087/01",
+    "Attributs": [
+        {
+            "Attribute": 500042584,
+            "Value": "1E 19-2",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1TS 270-23 / 206687",
+            "Value": "",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966013606"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de renfort Ford Transit ",
+            "StandardisedArticleDescription": "Kit de renfort Ford Transit ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKAS087/01"
+    ],
+    "URL": []
+}

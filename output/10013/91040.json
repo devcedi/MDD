@@ -1,0 +1,62 @@
+{
+    "ArtNo": "910/40",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée à béquille à cardan carré mâle 3/8\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "420",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "175",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230033648"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée à béquille à cardan carré mâle 3/8\"",
+            "StandardisedArticleDescription": "Poignée à béquille à cardan carré mâle 3/8\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910_slash_40.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910_slash_40.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100850"
+    ],
+    "URL": []
+}

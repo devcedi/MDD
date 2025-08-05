@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1498/SP250",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chargeur / démarreur de batterie professionnel 12/24 V",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "220",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P \nmm",
+            "Value": "235",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "335",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809629988"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chargeur / démarreur de batterie professionnel 12/24 V",
+            "StandardisedArticleDescription": "Chargeur / démarreur de batterie professionnel 12/24 V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498_slash_SP250.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498_slash_SP250.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980746"
+    ],
+    "URL": []
+}

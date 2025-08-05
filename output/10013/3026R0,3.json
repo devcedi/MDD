@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3026/R0,3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "4 roues pivotantes pour vérin hydraulique 3026 0,3",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230782539"
+    ],
+    "GenArts": [
+        {
+            "Description": "4 roues pivotantes pour vérin hydraulique 3026 0,3",
+            "StandardisedArticleDescription": "4 roues pivotantes pour vérin hydraulique 3026 0,3",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3026_slash_R03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3026_slash_R03.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030260903"
+    ],
+    "URL": []
+}

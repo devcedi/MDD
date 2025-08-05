@@ -1,0 +1,47 @@
+{
+    "ArtNo": "141/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 clé mixte droite  à cliquet",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230942995"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 clé mixte droite  à cliquet",
+            "StandardisedArticleDescription": "Jeu de 6 clé mixte droite  à cliquet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "141_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/141_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001410072"
+    ],
+    "URL": []
+}

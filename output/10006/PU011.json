@@ -1,0 +1,50 @@
+{
+    "ArtNo": "PU011",
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "pompe ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "utilisation",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602000228"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex dispenser 4,5L plastic",
+            "StandardisedArticleDescription": "Dreumex dispenser 4,5L plastic",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "PU011"
+    ],
+    "URL": []
+}

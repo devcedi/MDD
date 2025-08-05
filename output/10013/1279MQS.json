@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1279MQ/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 tournevis pour vis Pozidriv®-Supadriv® (art. 1279MQ)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230646381"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 tournevis pour vis Pozidriv®-Supadriv® (art. 1279MQ)",
+            "StandardisedArticleDescription": "Jeu de 4 tournevis pour vis Pozidriv®-Supadriv® (art. 1279MQ)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1279MQ_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1279MQ_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012790751"
+    ],
+    "URL": []
+}

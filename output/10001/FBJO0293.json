@@ -1,0 +1,37 @@
+{
+    "ArtNo": "FBJO0293",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Joint bas de porte bois longueur 2500 mm",
+            "StandardisedArticleDescription": "Joint bas de porte bois longueur 2500 mm",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FBJO0293",
+            "Extension": "",
+            "Path": "/img/10001/FBJO0293"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FBJO0293",
+            "Extension": "",
+            "Path": "/img/10001/FBJO0293",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

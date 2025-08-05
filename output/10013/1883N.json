@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1883N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Compteur de litres d'huile numérique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809504766"
+    ],
+    "GenArts": [
+        {
+            "Description": "Compteur de litres d'huile numérique",
+            "StandardisedArticleDescription": "Compteur de litres d'huile numérique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1883N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1883N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018830036"
+    ],
+    "URL": []
+}

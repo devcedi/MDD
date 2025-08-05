@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1783",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ciseaux faible effort",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "240",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230505497"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ciseaux faible effort",
+            "StandardisedArticleDescription": "Ciseaux faible effort",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1783.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1783.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017830024"
+    ],
+    "URL": []
+}

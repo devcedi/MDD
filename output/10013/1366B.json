@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1366B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau coulissant en T pour débosselage sans peinture",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "440",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809212715"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau coulissant en T pour débosselage sans peinture",
+            "StandardisedArticleDescription": "Marteau coulissant en T pour débosselage sans peinture",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1366B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1366B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013660250"
+    ],
+    "URL": []
+}

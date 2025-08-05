@@ -1,0 +1,47 @@
+{
+    "ArtNo": "7076BD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lunettes de protection avec verres en polycarbonate",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230725093"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lunettes de protection avec verres en polycarbonate",
+            "StandardisedArticleDescription": "Lunettes de protection avec verres en polycarbonate",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7076BD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7076BD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "070760019"
+    ],
+    "URL": []
+}

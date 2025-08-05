@@ -1,0 +1,57 @@
+{
+    "ArtNo": "970IVECO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à ergot pour écrous de moyeu Iveco Daily",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "61,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø2\nmm",
+            "Value": "74,8",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809195650"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à ergot pour écrous de moyeu Iveco Daily",
+            "StandardisedArticleDescription": "Douille à ergot pour écrous de moyeu Iveco Daily",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "970IVECO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/970IVECO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009700011"
+    ],
+    "URL": []
+}

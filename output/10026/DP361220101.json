@@ -1,0 +1,57 @@
+{
+    "ArtNo": "DP36122/0101",
+    "Attributs": [
+        {
+            "Attribute": 515022140,
+            "Value": "1DK 22E-14",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1T 300-37 / 207722",
+            "Value": "2626V",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "3 229 0039 00",
+            "Value": "YP 207722W",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005520"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | ",
+            "StandardisedArticleDescription": "Diaphragme assemble | ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A165,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A165,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP36122/0101"
+    ],
+    "URL": []
+}

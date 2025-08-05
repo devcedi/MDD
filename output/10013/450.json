@@ -1,0 +1,67 @@
+{
+    "ArtNo": "450",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Scie trépan en acier HSS - BIMETAL",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "152",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \n”",
+            "Value": "(6\")",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \n \nmm",
+            "Value": "44",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "/2",
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230098708"
+    ],
+    "GenArts": [
+        {
+            "Description": "Scie trépan en acier HSS - BIMETAL",
+            "StandardisedArticleDescription": "Scie trépan en acier HSS - BIMETAL",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "450.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/450.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004500152"
+    ],
+    "URL": []
+}

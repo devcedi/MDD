@@ -1,0 +1,57 @@
+{
+    "ArtNo": "8410",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ridoir à deux chapes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "M20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "2130",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230904405"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ridoir à deux chapes",
+            "StandardisedArticleDescription": "Ridoir à deux chapes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8410.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8410.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "084100220"
+    ],
+    "URL": []
+}

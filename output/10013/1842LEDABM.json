@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1842LED/ABM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Baladeuse à LEDs très haute luminosité, 12-24V AC/DC",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L mm",
+            "Value": "230",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230791661"
+    ],
+    "GenArts": [
+        {
+            "Description": "Baladeuse à LEDs très haute luminosité, 12-24V AC/DC",
+            "StandardisedArticleDescription": "Baladeuse à LEDs très haute luminosité, 12-24V AC/DC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1842LED_slash_ABM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1842LED_slash_ABM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018420311"
+    ],
+    "URL": []
+}

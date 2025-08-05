@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1370/MR...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manche pour 1370",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230479590"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manche pour 1370",
+            "StandardisedArticleDescription": "Manche pour 1370",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1370_slash_MR_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1370_slash_MR_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013700100"
+    ],
+    "URL": []
+}

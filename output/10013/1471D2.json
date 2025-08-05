@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1471D2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil pour le recul des pistons de freins à disque avec pinces fermées",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "10",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230750439"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil pour le recul des pistons de freins à disque avec pinces fermées",
+            "StandardisedArticleDescription": "Outil pour le recul des pistons de freins à disque avec pinces fermées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1471D2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1471D2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014710301"
+    ],
+    "URL": []
+}

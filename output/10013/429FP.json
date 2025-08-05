@@ -1,0 +1,67 @@
+{
+    "ArtNo": "429FP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Taraud machine pour trous débouchants, pas gros, HSS-CO 5%",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "14x2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "9,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "110",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "30",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230170794"
+    ],
+    "GenArts": [
+        {
+            "Description": "Taraud machine pour trous débouchants, pas gros, HSS-CO 5%",
+            "StandardisedArticleDescription": "Taraud machine pour trous débouchants, pas gros, HSS-CO 5%",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "429FP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/429FP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004290014"
+    ],
+    "URL": []
+}

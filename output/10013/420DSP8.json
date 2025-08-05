@@ -1,0 +1,47 @@
+{
+    "ArtNo": "420D/SP8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret de 8 forêts hélicoïdaux pour le bois à queue cylindrique, séries courtes, avec 2 tranchants et guide de perçage central",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809565774"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret de 8 forêts hélicoïdaux pour le bois à queue cylindrique, séries courtes, avec 2 tranchants et guide de perçage central",
+            "StandardisedArticleDescription": "Coffret de 8 forêts hélicoïdaux pour le bois à queue cylindrique, séries courtes, avec 2 tranchants et guide de perçage central",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "420D_slash_SP8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/420D_slash_SP8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004200200"
+    ],
+    "URL": []
+}

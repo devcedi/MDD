@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8274A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mousqueton avec anneau AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø A x L \nmm",
+            "Value": "8x80",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "ø C \nmm",
+            "Value": "9,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "10",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "75",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "40",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776088"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mousqueton avec anneau AISI 316",
+            "StandardisedArticleDescription": "Mousqueton avec anneau AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8274A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8274A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082740408"
+    ],
+    "URL": []
+}

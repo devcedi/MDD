@@ -1,0 +1,47 @@
+{
+    "ArtNo": "950/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 14 clés à béquille simple série longue (art. 950)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230149509"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 14 clés à béquille simple série longue (art. 950)",
+            "StandardisedArticleDescription": "Jeu de 14 clés à béquille simple série longue (art. 950)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "950_slash_S_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/950_slash_S_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009500082"
+    ],
+    "URL": []
+}

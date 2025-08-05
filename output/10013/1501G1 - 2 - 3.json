@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1501G/1 - 2 - 3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Griffe pour 1501",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "27",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "1501N",
+            "Value": "/1-/2-/3",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230138244"
+    ],
+    "GenArts": [
+        {
+            "Description": "Griffe pour 1501",
+            "StandardisedArticleDescription": "Griffe pour 1501",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1501G_slash_1-2-3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1501G_slash_1-2-3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015010113"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1517C/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteurs autobloquants combinés à deux / trois griffes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmin÷max \nmm",
+            "Value": "30÷280",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "270",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "300",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "18",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809201559"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteurs autobloquants combinés à deux / trois griffes",
+            "StandardisedArticleDescription": "Extracteurs autobloquants combinés à deux / trois griffes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1517C_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1517C_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015170502"
+    ],
+    "URL": []
+}

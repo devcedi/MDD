@@ -1,0 +1,67 @@
+{
+    "ArtNo": "616 - 617 - 619",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Carrés mâles",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "63",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "LA\nmm",
+            "Value": "32",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "25",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230027906"
+    ],
+    "GenArts": [
+        {
+            "Description": "Carrés mâles",
+            "StandardisedArticleDescription": "Carrés mâles",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "616-617-619.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/616-617-619.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006190000"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C5 - 2105",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sac à dos porte-outils vide en tissu technique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809164243"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sac à dos porte-outils vide en tissu technique",
+            "StandardisedArticleDescription": "Sac à dos porte-outils vide en tissu technique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C5-2105.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C5-2105.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021051122"
+    ],
+    "URL": []
+}

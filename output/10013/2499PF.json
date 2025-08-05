@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2499PF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Porte-flacons",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230441641"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte-flacons",
+            "StandardisedArticleDescription": "Porte-flacons",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2499PF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2499PF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024990230"
+    ],
+    "URL": []
+}

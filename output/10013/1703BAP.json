@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1703BA/P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pic antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "56",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "1050",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "410",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "2,1",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230651828"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pic antidéflagrant",
+            "StandardisedArticleDescription": "Pic antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1703BA_slash_P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1703BA_slash_P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017030150"
+    ],
+    "URL": []
+}

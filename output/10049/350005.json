@@ -1,0 +1,26 @@
+{
+    "ArtNo": "350005",
+    "Attributs": [],
+    "BrandName": "Belton",
+    "BrandNo": "10049",
+    "Documents": [],
+    "GTIN": [
+        "4015962920040"
+    ],
+    "GenArts": [
+        {
+            "Description": "BT ACRYL RAL1021 JAUNE C.",
+            "StandardisedArticleDescription": "BT ACRYL RAL1021 JAUNE C.",
+            "GenArtNo": -10049
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

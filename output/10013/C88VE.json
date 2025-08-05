@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C88VE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plateau d'exposition pour présentoir mural C88",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230806082"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plateau d'exposition pour présentoir mural C88",
+            "StandardisedArticleDescription": "Plateau d'exposition pour présentoir mural C88",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "96.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C88VE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C88VE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088000120"
+    ],
+    "URL": []
+}

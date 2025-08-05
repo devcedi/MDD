@@ -1,0 +1,62 @@
+{
+    "ArtNo": "412L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret taillé en acier HSS, rectifié bruni, série longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "10,00",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "184",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "121",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230166629"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret taillé en acier HSS, rectifié bruni, série longue",
+            "StandardisedArticleDescription": "Foret taillé en acier HSS, rectifié bruni, série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "412L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/412L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004120264"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8542Z",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage femelle galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "M30",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "3,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WLL 1\nkg",
+            "Value": "3200",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WLL 2\nkg",
+            "Value": "3200",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230933429"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage femelle galvanisé",
+            "StandardisedArticleDescription": "Anneau de levage femelle galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8542Z.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8542Z.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085420430"
+    ],
+    "URL": []
+}

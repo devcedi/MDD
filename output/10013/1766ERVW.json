@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1766ER/VW",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil de retrait de garniture de fenêtre",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "215",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "4",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809195759"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil de retrait de garniture de fenêtre",
+            "StandardisedArticleDescription": "Outil de retrait de garniture de fenêtre",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1766ER_slash_VW.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1766ER_slash_VW.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017660510"
+    ],
+    "URL": []
+}

@@ -1,0 +1,34 @@
+{
+    "ArtNo": 90512012,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694023145"
+    ],
+    "GenArts": [
+        {
+            "Description": "ABC Union double T 12X1,5",
+            "StandardisedArticleDescription": "ABC Union double T 12X1,5",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "90512012"
+    ],
+    "URL": []
+}

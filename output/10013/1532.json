@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1532",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil pour extraire les joints et des déflecteurs d'huile",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230099651"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil pour extraire les joints et des déflecteurs d'huile",
+            "StandardisedArticleDescription": "Outil pour extraire les joints et des déflecteurs d'huile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1532.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1532.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015320001"
+    ],
+    "URL": []
+}

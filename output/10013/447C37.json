@@ -1,0 +1,47 @@
+{
+    "ArtNo": "447/C37",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de tarauds 431 et de filières 442 en acier HSS en coffret métallique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230581446"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de tarauds 431 et de filières 442 en acier HSS en coffret métallique",
+            "StandardisedArticleDescription": "Composition de tarauds 431 et de filières 442 en acier HSS en coffret métallique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "447_slash_C37.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/447_slash_C37.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004470055"
+    ],
+    "URL": []
+}

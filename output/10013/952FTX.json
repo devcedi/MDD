@@ -1,0 +1,72 @@
+{
+    "ArtNo": "952FTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à béquille à cardan pour écrou TORX®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "E20",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "23",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "14,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "490",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "230",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230151045"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à béquille à cardan pour écrou TORX®",
+            "StandardisedArticleDescription": "Clé à béquille à cardan pour écrou TORX®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "952FTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/952FTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009520120"
+    ],
+    "URL": []
+}

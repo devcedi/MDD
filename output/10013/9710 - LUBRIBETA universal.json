@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9710 - LUBRIBETA universal",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Débloquant multiusage 7 fonctions en 1 seul produit",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "400",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331249"
+    ],
+    "GenArts": [
+        {
+            "Description": "Débloquant multiusage 7 fonctions en 1 seul produit",
+            "StandardisedArticleDescription": "Débloquant multiusage 7 fonctions en 1 seul produit",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9710-LUBRIBETAuniversal.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9710-LUBRIBETAuniversal.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "097102040"
+    ],
+    "URL": []
+}

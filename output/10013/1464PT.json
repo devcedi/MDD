@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1464PT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit pour le contrôle de la pression du turbo à utiliser avec 1464T",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230841083"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit pour le contrôle de la pression du turbo à utiliser avec 1464T",
+            "StandardisedArticleDescription": "Kit pour le contrôle de la pression du turbo à utiliser avec 1464T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1464PT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1464PT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014640550"
+    ],
+    "URL": []
+}

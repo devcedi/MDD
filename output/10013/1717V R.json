@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1717V R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lame de rechange pour 1717V",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "65",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809150109"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lame de rechange pour 1717V",
+            "StandardisedArticleDescription": "Lame de rechange pour 1717V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1717VR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1717VR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017170756"
+    ],
+    "URL": []
+}

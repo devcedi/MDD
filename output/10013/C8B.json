@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C8B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chariot porte-outils en tissu technique pour électriciens",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809151342"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chariot porte-outils en tissu technique pour électriciens",
+            "StandardisedArticleDescription": "Chariot porte-outils en tissu technique pour électriciens",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C8B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C8B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "021080300"
+    ],
+    "URL": []
+}

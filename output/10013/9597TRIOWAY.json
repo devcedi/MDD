@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9597TRIOWAY",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Système de propulsion électrique auxiliaire TRIOWAY par ATALA®, pouvant être fixé au fauteuil roulant REHA COMFORT (inclus), batterie au lithium intégrée au châssis, console avec commandes de direction et de vitesse, avec système d'accrochage intégré au fauteuil roulant",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809544540"
+    ],
+    "GenArts": [
+        {
+            "Description": "Système de propulsion électrique auxiliaire TRIOWAY par ATALA®, pouvant être fixé au fauteuil roulant REHA COMFORT (inclus), batterie au lithium intégrée au châssis, console avec commandes de direction et de vitesse, avec système d'accrochage intégré au fauteuil roulant",
+            "StandardisedArticleDescription": "Système de propulsion électrique auxiliaire TRIOWAY par ATALA®, pouvant être fixé au fauteuil roulant REHA COMFORT (inclus), batterie au lithium intégrée au châssis, console avec commandes de direction et de vitesse, avec système d'accrochage intégré au fauteuil roulant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9597TRIOWAY.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9597TRIOWAY.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095970200"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "78BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale contre-coudée antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "105",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "420",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "155,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "43,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "7000",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230880303"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale contre-coudée antidéflagrante",
+            "StandardisedArticleDescription": "Clé polygonale contre-coudée antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "78BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/78BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000780903"
+    ],
+    "URL": []
+}

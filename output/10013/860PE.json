@@ -1,0 +1,57 @@
+{
+    "ArtNo": "860PE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout coloré pour visseuses pour vis 6 pans creux",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230659114"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout coloré pour visseuses pour vis 6 pans creux",
+            "StandardisedArticleDescription": "Embout coloré pour visseuses pour vis 6 pans creux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "860PE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/860PE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008600110"
+    ],
+    "URL": []
+}

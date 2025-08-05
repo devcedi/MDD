@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1120ARL - ARG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lames pour article 1120A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230548036"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lames pour article 1120A",
+            "StandardisedArticleDescription": "Lames pour article 1120A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1120ARL-ARG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1120ARL-ARG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011200120"
+    ],
+    "URL": []
+}

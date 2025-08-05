@@ -1,0 +1,40 @@
+{
+    "ArtNo": "342MOL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ressort de rechange pour 342",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230545912"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ressort de rechange pour 342",
+            "StandardisedArticleDescription": "Ressort de rechange pour 342",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003420033"
+    ],
+    "URL": []
+}

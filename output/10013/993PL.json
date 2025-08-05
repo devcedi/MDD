@@ -1,0 +1,52 @@
+{
+    "ArtNo": "993PL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Brucelles à becs coudés gainées PVC pointes fines arrondies striées finition polie en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230039138"
+    ],
+    "GenArts": [
+        {
+            "Description": "Brucelles à becs coudés gainées PVC pointes fines arrondies striées finition polie en acier inoxydable",
+            "StandardisedArticleDescription": "Brucelles à becs coudés gainées PVC pointes fines arrondies striées finition polie en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "993PL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/993PL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009930010"
+    ],
+    "URL": []
+}

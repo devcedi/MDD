@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9501TLD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pull polaire femme, 80 % coton, 20 % polyester, 320 g/m2",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809151175"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pull polaire femme, 80 % coton, 20 % polyester, 320 g/m2",
+            "StandardisedArticleDescription": "Pull polaire femme, 80 % coton, 20 % polyester, 320 g/m2",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9501TLD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9501TLD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095010064"
+    ],
+    "URL": []
+}

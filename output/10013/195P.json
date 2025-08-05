@@ -1,0 +1,72 @@
+{
+    "ArtNo": "195P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé 12 pans coudée à 15° à cliquet réversible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "17x19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "230",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "34,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "35,6",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "10,7",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230533148"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé 12 pans coudée à 15° à cliquet réversible",
+            "StandardisedArticleDescription": "Clé 12 pans coudée à 15° à cliquet réversible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "195P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/195P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001950219"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1672",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Fausse équerre à coulisse lame et talon en acier",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "300",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230091563"
+    ],
+    "GenArts": [
+        {
+            "Description": "Fausse équerre à coulisse lame et talon en acier",
+            "StandardisedArticleDescription": "Fausse équerre à coulisse lame et talon en acier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1672.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1672.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016720030"
+    ],
+    "URL": []
+}

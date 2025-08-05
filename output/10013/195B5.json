@@ -1,0 +1,47 @@
+{
+    "ArtNo": "195/B5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Trousse vide pour 195/B5, 195P/B5",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230540627"
+    ],
+    "GenArts": [
+        {
+            "Description": "Trousse vide pour 195/B5, 195P/B5",
+            "StandardisedArticleDescription": "Trousse vide pour 195/B5, 195P/B5",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "195_slash_B5_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/195_slash_B5_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001950070"
+    ],
+    "URL": []
+}

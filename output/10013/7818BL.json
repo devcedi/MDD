@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7818BL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon de travail multipoches avec inserts en tissu extensible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809346670"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon de travail multipoches avec inserts en tissu extensible",
+            "StandardisedArticleDescription": "Pantalon de travail multipoches avec inserts en tissu extensible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7818BL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7818BL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078180106"
+    ],
+    "URL": []
+}

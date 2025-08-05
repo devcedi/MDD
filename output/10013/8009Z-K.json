@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8009Z-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur à deux chapes, zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \n”",
+            "Value": "1/2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "690",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L min \nmm",
+            "Value": "274",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230814872"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur à deux chapes, zingué",
+            "StandardisedArticleDescription": "Tendeur à deux chapes, zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8009Z-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8009Z-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080099012"
+    ],
+    "URL": []
+}

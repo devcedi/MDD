@@ -1,0 +1,72 @@
+{
+    "ArtNo": "365",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes prise en bout en alliages légers",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "450",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmax \"",
+            "Value": "2\"1/2 gas",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmax mm",
+            "Value": "76",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "30",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "28",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086644"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes prise en bout en alliages légers",
+            "StandardisedArticleDescription": "Clé serre-tubes prise en bout en alliages légers",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "365.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/365.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003650045"
+    ],
+    "URL": []
+}

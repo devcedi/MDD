@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1067",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau pour tubes, mâchoires bloque-tube articulées",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "380",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A1 max\nmm",
+            "Value": "89",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "110",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "19",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809167268"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau pour tubes, mâchoires bloque-tube articulées",
+            "StandardisedArticleDescription": "Pince-étau pour tubes, mâchoires bloque-tube articulées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1067.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1067.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010670380"
+    ],
+    "URL": []
+}

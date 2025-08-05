@@ -1,0 +1,43 @@
+{
+    "ArtNo": "PBEP0283-100",
+    "Attributs": [
+        {
+            "Attribute": "Avec canelure et écrou griffe",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Sachet de 100 vis de réparation",
+            "StandardisedArticleDescription": "Sachet de 100 vis de réparation",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PBEP0283-100",
+            "Extension": "",
+            "Path": "/img/10001/PBEP0283-100"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "PBEP0283-100",
+            "Extension": "",
+            "Path": "/img/10001/PBEP0283-100",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

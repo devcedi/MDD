@@ -1,0 +1,47 @@
+{
+    "ArtNo": "RSC22",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffre à outils portable avec 3 tiroirs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809187136"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffre à outils portable avec 3 tiroirs",
+            "StandardisedArticleDescription": "Coffre à outils portable avec 3 tiroirs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "RSC22.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/RSC22.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022003007"
+    ],
+    "URL": []
+}

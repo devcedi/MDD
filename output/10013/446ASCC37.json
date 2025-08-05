@@ -1,0 +1,47 @@
+{
+    "ArtNo": "446ASC/C37",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de tarauds 430ASC et de filières 440ASC en acier au chrome, filetage UNC en coffret bois",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230581422"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de tarauds 430ASC et de filières 440ASC en acier au chrome, filetage UNC en coffret bois",
+            "StandardisedArticleDescription": "Composition de tarauds 430ASC et de filières 440ASC en acier au chrome, filetage UNC en coffret bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "446ASC_slash_C37.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/446ASC_slash_C37.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004460080"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "440",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Filière ronde, pas gros, en acier au chrome",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "12x1,75",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø x S\nmm",
+            "Value": "25,4 x 9",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230090689"
+    ],
+    "GenArts": [
+        {
+            "Description": "Filière ronde, pas gros, en acier au chrome",
+            "StandardisedArticleDescription": "Filière ronde, pas gros, en acier au chrome",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "440.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/440.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004400012"
+    ],
+    "URL": []
+}

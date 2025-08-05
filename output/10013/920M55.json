@@ -1,0 +1,67 @@
+{
+    "ArtNo": "920M/55",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible carré mâle 1/2\" avec manche métallique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "253",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "38",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "35",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230193403"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible carré mâle 1/2\" avec manche métallique",
+            "StandardisedArticleDescription": "Cliquet réversible carré mâle 1/2\" avec manche métallique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920M_slash_55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920M_slash_55.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200893"
+    ],
+    "URL": []
+}

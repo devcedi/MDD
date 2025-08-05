@@ -1,0 +1,47 @@
+{
+    "ArtNo": "96C-AS/SC9",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 9 clés mâles 6 pans coudées chromées",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230789255"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 9 clés mâles 6 pans coudées chromées",
+            "StandardisedArticleDescription": "Jeu de 9 clés mâles 6 pans coudées chromées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96C-AS_slash_SC9.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96C-AS_slash_SC9.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000961753"
+    ],
+    "URL": []
+}

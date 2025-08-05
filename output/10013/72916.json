@@ -1,0 +1,67 @@
+{
+    "ArtNo": "729/16",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Réducteur carré femelle 1\" et mâle 1.1/2\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "88",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "54,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1.1/2",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230030340"
+    ],
+    "GenArts": [
+        {
+            "Description": "Réducteur carré femelle 1\" et mâle 1.1/2\"",
+            "StandardisedArticleDescription": "Réducteur carré femelle 1\" et mâle 1.1/2\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "729_slash_16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/729_slash_16.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007290813"
+    ],
+    "URL": []
+}

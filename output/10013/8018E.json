@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8018E",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-câble, type ENEL, galvanisé a chaud ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "4÷6",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "M6",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "34",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Nm",
+            "Value": "4,24",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230184517"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-câble, type ENEL, galvanisé a chaud ",
+            "StandardisedArticleDescription": "Serre-câble, type ENEL, galvanisé a chaud ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8018E.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8018E.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080180001"
+    ],
+    "URL": []
+}

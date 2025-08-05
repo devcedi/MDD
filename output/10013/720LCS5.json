@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720LC/S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret de 5 douilles à chocs gainées pour écrous de roues en alliage léger",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230785875"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret de 5 douilles à chocs gainées pour écrous de roues en alliage léger",
+            "StandardisedArticleDescription": "Coffret de 5 douilles à chocs gainées pour écrous de roues en alliage léger",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720LC_slash_S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720LC_slash_S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200645"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1474G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à becs longs coudés pour capuchons des bougies de préchauffage",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L",
+            "Value": "235 mm",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230839660"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à becs longs coudés pour capuchons des bougies de préchauffage",
+            "StandardisedArticleDescription": "Pince à becs longs coudés pour capuchons des bougies de préchauffage",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1474G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1474G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014740200"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8040EZ Confezioni speciali",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage mâle spécial",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "​ \nmm",
+            "Value": "1,75",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "15",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809455181"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage mâle spécial",
+            "StandardisedArticleDescription": "Anneau de levage mâle spécial",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8040EZConfezionispeciali.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8040EZConfezionispeciali.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080400912"
+    ],
+    "URL": []
+}

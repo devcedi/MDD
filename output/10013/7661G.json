@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7661G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bermuda de travail Gris stretch, léger, style multipoches, 86% nylon - 14% élasthanne, 140 g / m2, Poches arrière renforcées en polyester 300D, entrejambe indéchirable Coupe ajustée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809197487"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bermuda de travail Gris stretch, léger, style multipoches, 86% nylon - 14% élasthanne, 140 g / m2, Poches arrière renforcées en polyester 300D, entrejambe indéchirable Coupe ajustée",
+            "StandardisedArticleDescription": "Bermuda de travail Gris stretch, léger, style multipoches, 86% nylon - 14% élasthanne, 140 g / m2, Poches arrière renforcées en polyester 300D, entrejambe indéchirable Coupe ajustée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7661G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7661G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076610006"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2029/VV",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Valise porte-outils en polypropylène à grande épaisseur, profilée en aluminium, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230532646"
+    ],
+    "GenArts": [
+        {
+            "Description": "Valise porte-outils en polypropylène à grande épaisseur, profilée en aluminium, vide",
+            "StandardisedArticleDescription": "Valise porte-outils en polypropylène à grande épaisseur, profilée en aluminium, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2029_slash_VV.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2029_slash_VV.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "020290000"
+    ],
+    "URL": []
+}

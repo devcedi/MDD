@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3011/T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crics bouteilles hydrauliques",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809594576"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crics bouteilles hydrauliques",
+            "StandardisedArticleDescription": "Crics bouteilles hydrauliques",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3011_slash_T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3011_slash_T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030110500"
+    ],
+    "URL": []
+}

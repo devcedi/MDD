@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8090F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Maillon d'assemblage pour élingues polyester, acier allié haute résistance, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "8000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "21",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "75",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "16",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230617398"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maillon d'assemblage pour élingues polyester, acier allié haute résistance, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Maillon d'assemblage pour élingues polyester, acier allié haute résistance, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8090F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8090F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080900280"
+    ],
+    "URL": []
+}

@@ -1,0 +1,37 @@
+{
+    "ArtNo": "MPEP0021",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Roulette nylon basic",
+            "StandardisedArticleDescription": "Roulette nylon basic",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "MPEP0021",
+            "Extension": "",
+            "Path": "/img/10001/MPEP0021"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "MPEP0021",
+            "Extension": "",
+            "Path": "/img/10001/MPEP0021",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

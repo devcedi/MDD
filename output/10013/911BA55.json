@@ -1,0 +1,62 @@
+{
+    "ArtNo": "911BA/55",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet à glissière, carré mâle 3/8\", antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "45",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "16.5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873077"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet à glissière, carré mâle 3/8\", antidéflagrant",
+            "StandardisedArticleDescription": "Cliquet à glissière, carré mâle 3/8\", antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "911BA_slash_55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/911BA_slash_55.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009110882"
+    ],
+    "URL": []
+}

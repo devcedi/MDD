@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1506",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur auto-serrant à 2 griffes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmin÷Max\nmm",
+            "Value": "10÷50",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "80",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "40",
+            "SortNo": 4
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "10",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A1 \nmm",
+            "Value": "60",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230045368"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur auto-serrant à 2 griffes",
+            "StandardisedArticleDescription": "Extracteur auto-serrant à 2 griffes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1506.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1506.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015060001"
+    ],
+    "URL": []
+}

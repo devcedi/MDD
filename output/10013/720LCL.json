@@ -1,0 +1,57 @@
+{
+    "ArtNo": "720LCL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à chocs colorées, série longue, avec embouts polymères pour écrous de roues",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "21",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "30,3",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230807669"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à chocs colorées, série longue, avec embouts polymères pour écrous de roues",
+            "StandardisedArticleDescription": "Douille à chocs colorées, série longue, avec embouts polymères pour écrous de roues",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720LCL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720LCL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200741"
+    ],
+    "URL": []
+}

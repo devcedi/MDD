@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1377INOX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Marteau américain en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\ng",
+            "Value": "340",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "220",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "90",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BetaINOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230950129"
+    ],
+    "GenArts": [
+        {
+            "Description": "Marteau américain en acier inoxydable",
+            "StandardisedArticleDescription": "Marteau américain en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_inox.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_inox.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1377INOX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1377INOX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013770634"
+    ],
+    "URL": []
+}

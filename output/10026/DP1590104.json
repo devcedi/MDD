@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DP159/0104",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006633"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | Kit de fixation DAKIT009 | piston acier renforcé",
+            "StandardisedArticleDescription": "Diaphragme assemble | Kit de fixation DAKIT009 | piston acier renforcé",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A322,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A322,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP159/0104"
+    ],
+    "URL": []
+}

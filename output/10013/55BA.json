@@ -1,0 +1,72 @@
+{
+    "ArtNo": "55BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourches antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "17x19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "33,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "37,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "170",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "9,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230906270"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourches antidéflagrante",
+            "StandardisedArticleDescription": "Clé à fourches antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "55BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/55BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000550847"
+    ],
+    "URL": []
+}

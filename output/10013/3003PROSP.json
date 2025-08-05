@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3003PRO/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support mural en plastique pour couchette d’atelier 3003PRO",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809137735"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support mural en plastique pour couchette d’atelier 3003PRO",
+            "StandardisedArticleDescription": "Support mural en plastique pour couchette d’atelier 3003PRO",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3003PRO_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3003PRO_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030030151"
+    ],
+    "URL": []
+}

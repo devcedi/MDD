@@ -1,0 +1,62 @@
+{
+    "ArtNo": "415CO-A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret taillé en acier HSS-CO 5 %, rectifié, série courte, avec support réduit (ø 13 mm)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "140",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "205",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "20,00",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809168036"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret taillé en acier HSS-CO 5 %, rectifié, série courte, avec support réduit (ø 13 mm)",
+            "StandardisedArticleDescription": "Foret taillé en acier HSS-CO 5 %, rectifié, série courte, avec support réduit (ø 13 mm)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "415CO-A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/415CO-A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004150376"
+    ],
+    "URL": []
+}

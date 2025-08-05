@@ -1,0 +1,52 @@
+{
+    "ArtNo": "340",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince coupe-tubes pour tube multicouche",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø max\nmm",
+            "Value": "26",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230864143"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince coupe-tubes pour tube multicouche",
+            "StandardisedArticleDescription": "Pince coupe-tubes pour tube multicouche",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "340.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/340.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003400001"
+    ],
+    "URL": []
+}

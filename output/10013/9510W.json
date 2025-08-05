@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9510W",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chemise stretch homme, manches longues.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809328744"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chemise stretch homme, manches longues.",
+            "StandardisedArticleDescription": "Chemise stretch homme, manches longues.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9510W.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9510W.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095100105"
+    ],
+    "URL": []
+}

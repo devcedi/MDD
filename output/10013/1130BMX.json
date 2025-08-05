@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1130BMX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ciseaux multifonctions lames droites en acier inoxydable avec micro-denture",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "185",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "60",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230935096"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ciseaux multifonctions lames droites en acier inoxydable avec micro-denture",
+            "StandardisedArticleDescription": "Ciseaux multifonctions lames droites en acier inoxydable avec micro-denture",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1130BMX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1130BMX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011300002"
+    ],
+    "URL": []
+}

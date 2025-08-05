@@ -1,0 +1,47 @@
+{
+    "ArtNo": "450/C15",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de scies trépans et accessoires pour électriciens en coffret métallique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230887395"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de scies trépans et accessoires pour électriciens en coffret métallique",
+            "StandardisedArticleDescription": "Composition de scies trépans et accessoires pour électriciens en coffret métallique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "450_slash_C15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/450_slash_C15.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004500313"
+    ],
+    "URL": []
+}

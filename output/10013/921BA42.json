@@ -1,0 +1,57 @@
+{
+    "ArtNo": "921BA/42",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée coulissante carré mâle 1/2\", antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "330",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230666723"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée coulissante carré mâle 1/2\", antidéflagrante",
+            "StandardisedArticleDescription": "Poignée coulissante carré mâle 1/2\", antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "921BA_slash_42.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/921BA_slash_42.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009210846"
+    ],
+    "URL": []
+}

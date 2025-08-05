@@ -1,0 +1,37 @@
+{
+    "ArtNo": "FPBEP0095",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Attache câble standard complet",
+            "StandardisedArticleDescription": "Attache câble standard complet",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FPBEP0095",
+            "Extension": "",
+            "Path": "/img/10001/FPBEP0095"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FPBEP0095",
+            "Extension": "",
+            "Path": "/img/10001/FPBEP0095",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

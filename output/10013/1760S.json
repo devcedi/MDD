@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1760S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multimètre digital compact",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809362731"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multimètre digital compact",
+            "StandardisedArticleDescription": "Multimètre digital compact",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600022"
+    ],
+    "URL": []
+}

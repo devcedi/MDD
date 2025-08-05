@@ -1,0 +1,47 @@
+{
+    "ArtNo": "902A/C22",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plateau thermoformé vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809440057"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plateau thermoformé vide",
+            "StandardisedArticleDescription": "Plateau thermoformé vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "902A_slash_C22_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/902A_slash_C22_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098990133"
+    ],
+    "URL": []
+}

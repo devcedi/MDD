@@ -1,0 +1,67 @@
+{
+    "ArtNo": "DP31415/0020",
+    "Attributs": [
+        {
+            "Attribute": "1R 11-106",
+            "Value": "1R 11-882",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1DK 21A-3",
+            "Value": "1DK 21A-31",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "1TC 300-38 / 205598",
+            "Value": 21222442,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D12B17",
+            "Value": "KR 913-57",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "US 08840",
+            "Value": "USO 7074 F",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004554"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane",
+            "StandardisedArticleDescription": "Membrane",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A117,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A117,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP31415/0020"
+    ],
+    "URL": []
+}

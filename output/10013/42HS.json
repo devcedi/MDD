@@ -1,0 +1,72 @@
+{
+    "ArtNo": "42HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "36x36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "412",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "73,9",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "51,3",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "10,9",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809161754"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte H-SAFE",
+            "StandardisedArticleDescription": "Clé mixte H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42NEWHS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42NEWHS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000424536"
+    ],
+    "URL": []
+}

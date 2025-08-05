@@ -1,0 +1,40 @@
+{
+    "ArtNo": "RE7673R",
+    "Attributs": [
+        {
+            "Attribute": "1DF 16 A-2",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966025081"
+    ],
+    "GenArts": [
+        {
+            "Description": "Retroviseur ",
+            "StandardisedArticleDescription": "Retroviseur ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RE7673R"
+    ],
+    "URL": []
+}

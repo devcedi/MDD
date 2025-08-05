@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1639ESB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ruban isolant en PVC",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "​Colore...",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "​S \nmm",
+            "Value": "0.15",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "​A \nmm",
+            "Value": "50",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "​L \nm",
+            "Value": "25",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629265837"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ruban isolant en PVC",
+            "StandardisedArticleDescription": "Ruban isolant en PVC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1639ESB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1639ESB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BMESB5025NE"
+    ],
+    "URL": []
+}

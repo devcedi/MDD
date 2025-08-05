@@ -1,0 +1,67 @@
+{
+    "ArtNo": "900MC/LP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille tournevis pour vis à fente, colorée chromée - embouts brunis",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SxA\nmm",
+            "Value": "1,2x8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "28",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "8",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809153223"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille tournevis pour vis à fente, colorée chromée - embouts brunis",
+            "StandardisedArticleDescription": "Douille tournevis pour vis à fente, colorée chromée - embouts brunis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900MC_slash_LP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900MC_slash_LP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009002620"
+    ],
+    "URL": []
+}

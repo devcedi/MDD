@@ -1,0 +1,62 @@
+{
+    "ArtNo": "11210B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Disque à lamelles conique Zirconium avec support fibre de verre. Gamme Premium avec simple lamelle pour un enlèvement de matière élevé et longue durée de vie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "125",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P",
+            "Value": "80",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F\nmm",
+            "Value": "22,23",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230945743"
+    ],
+    "GenArts": [
+        {
+            "Description": "Disque à lamelles conique Zirconium avec support fibre de verre. Gamme Premium avec simple lamelle pour un enlèvement de matière élevé et longue durée de vie",
+            "StandardisedArticleDescription": "Disque à lamelles conique Zirconium avec support fibre de verre. Gamme Premium avec simple lamelle pour un enlèvement de matière élevé et longue durée de vie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11210B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11210B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "112100108"
+    ],
+    "URL": []
+}

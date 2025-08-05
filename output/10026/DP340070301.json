@@ -1,0 +1,72 @@
+{
+    "ArtNo": "DP34007/0301",
+    "Attributs": [
+        {
+            "Attribute": "1R 14-727",
+            "Value": "1D 28B-9",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1T19 E2BR / 97764",
+            "Value": 1107674,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 1314906,
+            "Value": 255293,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 255295,
+            "Value": 298568,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 325748,
+            "Value": "D13B10",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D13B22",
+            "Value": "KR 622-01",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006015"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A134,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A134,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34007/0301"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1269PZ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis pour vis Pozidriv®-Supadriv®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PZ",
+            "Value": "4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "327",
+            "SortNo": 4
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "239,6",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230604763"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis pour vis Pozidriv®-Supadriv®",
+            "StandardisedArticleDescription": "Tournevis pour vis Pozidriv®-Supadriv®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1269PZ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1269PZ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012690004"
+    ],
+    "URL": []
+}

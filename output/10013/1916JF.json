@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1916JF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout rapide profil Asiatique, filetage femelle, embout cylindrique BSP",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8\"",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230886213"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout rapide profil Asiatique, filetage femelle, embout cylindrique BSP",
+            "StandardisedArticleDescription": "Embout rapide profil Asiatique, filetage femelle, embout cylindrique BSP",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1916JF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1916JF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019160460"
+    ],
+    "URL": []
+}

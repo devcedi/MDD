@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1656",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jauge de profondeur, précision au 1/50e",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A max \nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "360",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "80",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "G \nmm",
+            "Value": "0,02",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "HxS \nmm",
+            "Value": "10x3,5",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230092355"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jauge de profondeur, précision au 1/50e",
+            "StandardisedArticleDescription": "Jauge de profondeur, précision au 1/50e",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1656.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1656.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016560030"
+    ],
+    "URL": []
+}

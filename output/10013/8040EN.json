@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8040EN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage mâle unicolor",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M64F",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "4",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "16000",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "90",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230544939"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage mâle unicolor",
+            "StandardisedArticleDescription": "Anneau de levage mâle unicolor",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8040EN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8040EN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080400365"
+    ],
+    "URL": []
+}

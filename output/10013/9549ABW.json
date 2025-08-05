@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9549ABW",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "BT V5.0 sans fil, avec microphone intégré, charge magnétique, base de charge USB-C, noir",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "61",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "34,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "41",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809328874"
+    ],
+    "GenArts": [
+        {
+            "Description": "BT V5.0 sans fil, avec microphone intégré, charge magnétique, base de charge USB-C, noir",
+            "StandardisedArticleDescription": "BT V5.0 sans fil, avec microphone intégré, charge magnétique, base de charge USB-C, noir",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9549ABW.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9549ABW.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095490091"
+    ],
+    "URL": []
+}

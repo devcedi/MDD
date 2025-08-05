@@ -1,0 +1,72 @@
+{
+    "ArtNo": "96TBP-HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mâle 6 pans coudée à tête sphérique et à poignée en T, chromée, H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "285",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "132",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "12",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "27,6",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809442679"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mâle 6 pans coudée à tête sphérique et à poignée en T, chromée, H-SAFE",
+            "StandardisedArticleDescription": "Clé mâle 6 pans coudée à tête sphérique et à poignée en T, chromée, H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96TBP-HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96TBP-HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000964692"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8051S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet à œil avec sûreté de blocage, zingué, acier au carbone",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "18",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F \nmm",
+            "Value": "16,5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230594514"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet à œil avec sûreté de blocage, zingué, acier au carbone",
+            "StandardisedArticleDescription": "Crochet à œil avec sûreté de blocage, zingué, acier au carbone",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8051S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8051S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080510205"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "720",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à chocs, série normale",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "50,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "50",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "30",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "18,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230350547"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à chocs, série normale",
+            "StandardisedArticleDescription": "Douille à chocs, série normale",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200036"
+    ],
+    "URL": []
+}

@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR050003",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "TAMBOUR DE FREIN",
+            "StandardisedArticleDescription": "TAMBOUR DE FREIN",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR050003"
+    ],
+    "URL": []
+}

@@ -1,0 +1,26 @@
+{
+    "ArtNo": 680123,
+    "Attributs": [],
+    "BrandName": "GAMME SPRAY MAX 400ML",
+    "BrandNo": "10049",
+    "Documents": [],
+    "GTIN": [
+        "4015962853577"
+    ],
+    "GenArts": [
+        {
+            "Description": "SM RVI 3650 GRIS SAT CHAS",
+            "StandardisedArticleDescription": "SM RVI 3650 GRIS SAT CHAS",
+            "GenArtNo": -10049
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

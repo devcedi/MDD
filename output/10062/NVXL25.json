@@ -1,0 +1,62 @@
+{
+    "ArtNo": "NVXL25",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Nettoyant dégraissant vitres et miroiteries 25L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Anti reflet, anti trace, ultra dégraissant.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Nettoie et dégraisse toutes les surfaces vitrées ainsi que les miroiteries. ",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Pulvériser pur et essuyer à l’aide de papier  d’essuyage ou d’une microfibre vitre. ",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010665871425"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "NVXL25.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/NVXL25.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "NVXL25"
+    ],
+    "URL": []
+}

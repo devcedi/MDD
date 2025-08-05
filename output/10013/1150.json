@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1150",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince universelle chromée polie branches gainées avec double couche de PVC antidérapant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "220",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "2,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "27,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "7,1",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "",
+            "Value": "350",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230934099"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince universelle chromée polie branches gainées avec double couche de PVC antidérapant",
+            "StandardisedArticleDescription": "Pince universelle chromée polie branches gainées avec double couche de PVC antidérapant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1150.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1150.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011500052"
+    ],
+    "URL": []
+}

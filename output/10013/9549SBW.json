@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9549SBW",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Enceinte sans fil BT 5.0, portable, 6 fonctions, compacte et résistante, pour pouvoir écouter votre musique préférée à tout moment.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "73",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "73",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "124",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809328867"
+    ],
+    "GenArts": [
+        {
+            "Description": "Enceinte sans fil BT 5.0, portable, 6 fonctions, compacte et résistante, pour pouvoir écouter votre musique préférée à tout moment.",
+            "StandardisedArticleDescription": "Enceinte sans fil BT 5.0, portable, 6 fonctions, compacte et résistante, pour pouvoir écouter votre musique préférée à tout moment.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9549SBW.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9549SBW.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095490072"
+    ],
+    "URL": []
+}

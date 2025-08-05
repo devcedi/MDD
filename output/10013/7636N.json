@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7636N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pull en micro-polaire avec fermeture éclair courte",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809462905"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pull en micro-polaire avec fermeture éclair courte",
+            "StandardisedArticleDescription": "Pull en micro-polaire avec fermeture éclair courte",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7636N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7636N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076360506"
+    ],
+    "URL": []
+}

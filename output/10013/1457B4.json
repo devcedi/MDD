@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1457/B4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu d'outils pour le déblocage des connecteurs Rilsan",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230854465"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu d'outils pour le déblocage des connecteurs Rilsan",
+            "StandardisedArticleDescription": "Jeu d'outils pour le déblocage des connecteurs Rilsan",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1457_slash_B4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1457_slash_B4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014570024"
+    ],
+    "URL": []
+}

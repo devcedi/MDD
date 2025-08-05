@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1756D-2OR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Couple de joints toriques pour seringues 1756D",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230795751"
+    ],
+    "GenArts": [
+        {
+            "Description": "Couple de joints toriques pour seringues 1756D",
+            "StandardisedArticleDescription": "Couple de joints toriques pour seringues 1756D",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1756D-2OR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1756D-2OR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017560516"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "952/D7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 clés à béquille à cardan",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230588810"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 clés à béquille à cardan",
+            "StandardisedArticleDescription": "Jeu de 7 clés à béquille à cardan",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "952_slash_D7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/952_slash_D7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009520079"
+    ],
+    "URL": []
+}

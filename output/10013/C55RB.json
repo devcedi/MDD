@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55RB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Revêtement en PVC antichoc, anti-rayure, résistant aux hydrocarbures",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230936895"
+    ],
+    "GenArts": [
+        {
+            "Description": "Revêtement en PVC antichoc, anti-rayure, résistant aux hydrocarbures",
+            "StandardisedArticleDescription": "Revêtement en PVC antichoc, anti-rayure, résistant aux hydrocarbures",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55RB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55RB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000199"
+    ],
+    "URL": []
+}

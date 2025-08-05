@@ -1,0 +1,57 @@
+{
+    "ArtNo": "331C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-tubes de poche en en forme de C pour tubes cuivre et alliages légers",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm ",
+            "Value": "15÷22",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "78",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809345659"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-tubes de poche en en forme de C pour tubes cuivre et alliages légers",
+            "StandardisedArticleDescription": "Coupe-tubes de poche en en forme de C pour tubes cuivre et alliages légers",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "331C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/331C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003310050"
+    ],
+    "URL": []
+}

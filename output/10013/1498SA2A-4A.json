@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498SA/2A-4A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Câble avec prise allume-cigares pour 1498/2A et 1498/4A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873138"
+    ],
+    "GenArts": [
+        {
+            "Description": "Câble avec prise allume-cigares pour 1498/2A et 1498/4A",
+            "StandardisedArticleDescription": "Câble avec prise allume-cigares pour 1498/2A et 1498/4A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498SA_slash_2A-4A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498SA_slash_2A-4A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980120"
+    ],
+    "URL": []
+}

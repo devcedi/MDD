@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1838AM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lampe d’inspection LED rechargeable, avec double émission de lumière, articulée, peut être tournée à 180 °, avec base magnétique pivotante et crochet",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "405",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "l\nmm",
+            "Value": "40",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "45",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "175",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "l1\nmm",
+            "Value": "23",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809211817"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lampe d’inspection LED rechargeable, avec double émission de lumière, articulée, peut être tournée à 180 °, avec base magnétique pivotante et crochet",
+            "StandardisedArticleDescription": "Lampe d’inspection LED rechargeable, avec double émission de lumière, articulée, peut être tournée à 180 °, avec base magnétique pivotante et crochet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1838AM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1838AM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018380400"
+    ],
+    "URL": []
+}

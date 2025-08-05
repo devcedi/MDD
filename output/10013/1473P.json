@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1473P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour colliers OETIKER® pinçables à bas profil",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A Max\nmm",
+            "Value": "53 ",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774213"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour colliers OETIKER® pinçables à bas profil",
+            "StandardisedArticleDescription": "Pince pour colliers OETIKER® pinçables à bas profil",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1473P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1473P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014730020"
+    ],
+    "URL": []
+}

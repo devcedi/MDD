@@ -1,0 +1,47 @@
+{
+    "ArtNo": "BW 2400S 7/I-S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Commode mobile BW C24S avec sept tiroirs et un assortiment de 235 outils",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWORKER",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809465746"
+    ],
+    "GenArts": [
+        {
+            "Description": "Commode mobile BW C24S avec sept tiroirs et un assortiment de 235 outils",
+            "StandardisedArticleDescription": "Commode mobile BW C24S avec sept tiroirs et un assortiment de 235 outils",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "BW-000.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW-000.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "BW2400S7_slash_I-S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW2400S7_slash_I-S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024006233"
+    ],
+    "URL": []
+}

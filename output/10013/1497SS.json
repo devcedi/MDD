@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1497SS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau pour le soudage de fils d'étain",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "245",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "14÷70",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809418490"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau pour le soudage de fils d'étain",
+            "StandardisedArticleDescription": "Pince-étau pour le soudage de fils d'étain",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1497SS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1497SS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014970195"
+    ],
+    "URL": []
+}

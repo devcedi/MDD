@@ -1,0 +1,47 @@
+{
+    "ArtNo": "142C/A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 12 clés mixtes à cliquet (art. 142C), série courte droite, en étui",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230472850"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 12 clés mixtes à cliquet (art. 142C), série courte droite, en étui",
+            "StandardisedArticleDescription": "Jeu de 12 clés mixtes à cliquet (art. 142C), série courte droite, en étui",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "142C_slash_A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/142C_slash_A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001420175"
+    ],
+    "URL": []
+}

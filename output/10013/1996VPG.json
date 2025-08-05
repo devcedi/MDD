@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1996VPG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Testeur pneumatique pour gants isolants",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809503349"
+    ],
+    "GenArts": [
+        {
+            "Description": "Testeur pneumatique pour gants isolants",
+            "StandardisedArticleDescription": "Testeur pneumatique pour gants isolants",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1996VPG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1996VPG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019960134"
+    ],
+    "URL": []
+}

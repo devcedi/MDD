@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3008N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Élévateur hydraulique pour le montage/démontage des roues simples ou jumelées des poids-lourds",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "940",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1030",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "500",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809504797"
+    ],
+    "GenArts": [
+        {
+            "Description": "Élévateur hydraulique pour le montage/démontage des roues simples ou jumelées des poids-lourds",
+            "StandardisedArticleDescription": "Élévateur hydraulique pour le montage/démontage des roues simples ou jumelées des poids-lourds",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3008N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3008N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030080110"
+    ],
+    "URL": []
+}

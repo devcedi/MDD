@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1390N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Maillet à embouts nylon, manche en bois",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "60",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "380",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "128",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230716343"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maillet à embouts nylon, manche en bois",
+            "StandardisedArticleDescription": "Maillet à embouts nylon, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1390N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1390N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013900560"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "960E-PI/P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur de joints d'injecteurs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230773933"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur de joints d'injecteurs",
+            "StandardisedArticleDescription": "Extracteur de joints d'injecteurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960E-PI_slash_P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960E-PI_slash_P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600706"
+    ],
+    "URL": []
+}

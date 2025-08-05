@@ -1,0 +1,72 @@
+{
+    "ArtNo": "95",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale double droite",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "30x32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "335",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "43,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "45,5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "13,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230024769"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale double droite",
+            "StandardisedArticleDescription": "Clé polygonale double droite",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "95.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/95.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000950174"
+    ],
+    "URL": []
+}

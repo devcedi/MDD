@@ -1,0 +1,62 @@
+{
+    "ArtNo": 10442001033,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "bidon métallique ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Pour les salissures moyennes à fortes, comme liquide de frein, ciment, huile, lubrifiants, diesel, graisse, résine, goudron, rouille, métal (poussière)",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Nettoyage puissant et rinçage facile",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Développement durable : les microbilles sont 100% naturelles, biodégradables, d'origine biologique et non génétiquement modifiées.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602002765"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Spécial 4x4,2Kg",
+            "StandardisedArticleDescription": "Dreumex Spécial 4x4,2Kg",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Spécial04",
+            "Extension": "",
+            "Path": "/img/10006/Spécial04",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "10442001033"
+    ],
+    "URL": []
+}

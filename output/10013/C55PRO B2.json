@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55PRO B/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etabli en tôle de 2 mètres pour ameublement atelier RSC55",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230833019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etabli en tôle de 2 mètres pour ameublement atelier RSC55",
+            "StandardisedArticleDescription": "Etabli en tôle de 2 mètres pour ameublement atelier RSC55",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55PROB_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55PROB_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000171"
+    ],
+    "URL": []
+}

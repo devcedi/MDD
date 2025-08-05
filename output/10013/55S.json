@@ -1,0 +1,47 @@
+{
+    "ArtNo": "55/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 clés à fourches (art. 55)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230022109"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 clés à fourches (art. 55)",
+            "StandardisedArticleDescription": "Jeu de 13 clés à fourches (art. 55)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "55_slash_S_9.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/55_slash_S_9.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000550182"
+    ],
+    "URL": []
+}

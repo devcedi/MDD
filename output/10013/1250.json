@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1250",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis pose-vis à fente",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SxDxL \nmm",
+            "Value": "0,7x5x150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "255",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230042909"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis pose-vis à fente",
+            "StandardisedArticleDescription": "Tournevis pose-vis à fente",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1250.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1250.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012500050"
+    ],
+    "URL": []
+}

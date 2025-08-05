@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900AS/C17-MBM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "10 douilles 12 pans et 7 accessoires pour maintenance aéronautique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230617619"
+    ],
+    "GenArts": [
+        {
+            "Description": "10 douilles 12 pans et 7 accessoires pour maintenance aéronautique",
+            "StandardisedArticleDescription": "10 douilles 12 pans et 7 accessoires pour maintenance aéronautique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900AS_slash_C17-MBM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900AS_slash_C17-MBM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000982"
+    ],
+    "URL": []
+}

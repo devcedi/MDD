@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1946KF/M...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tie-rod M8",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230756226"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tie-rod M8",
+            "StandardisedArticleDescription": "Tie-rod M8",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1946KF_slash_M_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1946KF_slash_M_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019460128"
+    ],
+    "URL": []
+}

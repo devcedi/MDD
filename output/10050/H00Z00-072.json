@@ -1,0 +1,67 @@
+{
+    "ArtNo": "H00Z00-072",
+    "Attributs": [
+        {
+            "Attribute": "Gamme produit",
+            "Value": "L30",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Logo Département",
+            "Value": "072",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Longueur en mm",
+            "Value": 520,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Largeur en mm",
+            "Value": 110,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Conditionnement",
+            "Value": "par 50",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "FAAB FABRICAUTO",
+    "BrandNo": "10050",
+    "Documents": [],
+    "GTIN": [
+        "3661174068721"
+    ],
+    "GenArts": [
+        {
+            "Description": "L30 - Plaque plastique 3mm SIV (film + support) - Milieu de gamme",
+            "StandardisedArticleDescription": "L30 - Plaque plastique 3mm SIV (film + support) - Milieu de gamme",
+            "GenArtNo": -10050
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "wp_logo-ff.png",
+            "Extension": "PNG",
+            "Path": "/img/10050/wp_logo-ff.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "plaque_plastique_l30_longue_520x110_H00Z00-072.webp",
+            "Extension": "WEBP",
+            "Path": "/img/10050/plaque_plastique_l30_longue_520x110_H00Z00-072.webp",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "H00Z00-072"
+    ],
+    "URL": []
+}

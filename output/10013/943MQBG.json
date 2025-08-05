@@ -1,0 +1,47 @@
+{
+    "ArtNo": "943MQ/BG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir vide 943MQ/DG",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230667676"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir vide 943MQ/DG",
+            "StandardisedArticleDescription": "Présentoir vide 943MQ/DG",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "943MQ_slash_BG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/943MQ_slash_BG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009430285"
+    ],
+    "URL": []
+}

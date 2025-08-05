@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9565K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Table fût avec deux assises",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230976136"
+    ],
+    "GenArts": [
+        {
+            "Description": "Table fût avec deux assises",
+            "StandardisedArticleDescription": "Table fût avec deux assises",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9565K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9565K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095650500"
+    ],
+    "URL": []
+}

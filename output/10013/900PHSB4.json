@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900PH/SB4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 douille tournevis pour vis Phillips®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230950532"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 douille tournevis pour vis Phillips®",
+            "StandardisedArticleDescription": "Jeu de 4 douille tournevis pour vis Phillips®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900PH_slash_SB4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900PH_slash_SB4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000708"
+    ],
+    "URL": []
+}

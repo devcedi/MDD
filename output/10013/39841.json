@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3984/1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé extracteur pour roues libres BMX à 4 embouts nickelée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "35",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "25,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "24",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882734"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé extracteur pour roues libres BMX à 4 embouts nickelée",
+            "StandardisedArticleDescription": "Clé extracteur pour roues libres BMX à 4 embouts nickelée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3984_slash_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3984_slash_1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039840010"
+    ],
+    "URL": []
+}

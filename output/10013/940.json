@@ -1,0 +1,72 @@
+{
+    "ArtNo": "940",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Broche pour 930-935",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "21÷32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "290",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "12,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "10,7",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Ø2 \nmm",
+            "Value": "-",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230037578"
+    ],
+    "GenArts": [
+        {
+            "Description": "Broche pour 930-935",
+            "StandardisedArticleDescription": "Broche pour 930-935",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "940.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/940.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009400003"
+    ],
+    "URL": []
+}

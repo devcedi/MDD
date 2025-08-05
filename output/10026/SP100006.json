@@ -1,0 +1,41 @@
+{
+    "ArtNo": "SP100006",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966001887"
+    ],
+    "GenArts": [
+        {
+            "Description": "Platines x 2 entraxe 110-140-180-190-216-260-280-305-320 ",
+            "StandardisedArticleDescription": "Platines x 2 entraxe 110-140-180-190-216-260-280-305-320 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A290,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A290,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "SP100006"
+    ],
+    "URL": []
+}

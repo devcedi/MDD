@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3050/LA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plan en tôle antidérapante pour élévateur 3050/600",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230953106"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plan en tôle antidérapante pour élévateur 3050/600",
+            "StandardisedArticleDescription": "Plan en tôle antidérapante pour élévateur 3050/600",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3050_slash_LA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3050_slash_LA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030500062"
+    ],
+    "URL": []
+}

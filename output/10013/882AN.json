@@ -1,0 +1,62 @@
+{
+    "ArtNo": "882AN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Renvoi d’angle coupleur hexagonal 1/4\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "137",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230938608"
+    ],
+    "GenArts": [
+        {
+            "Description": "Renvoi d’angle coupleur hexagonal 1/4\"",
+            "StandardisedArticleDescription": "Renvoi d’angle coupleur hexagonal 1/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "882AN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/882AN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008820090"
+    ],
+    "URL": []
+}

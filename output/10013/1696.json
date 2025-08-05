@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1696",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Niveau corps en profilé aluminium, surfaces anodisées, avec fioles incassables, précision : 1 mm/m",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "1000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "19",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "589",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086385"
+    ],
+    "GenArts": [
+        {
+            "Description": "Niveau corps en profilé aluminium, surfaces anodisées, avec fioles incassables, précision : 1 mm/m",
+            "StandardisedArticleDescription": "Niveau corps en profilé aluminium, surfaces anodisées, avec fioles incassables, précision : 1 mm/m",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1696.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1696.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016960010"
+    ],
+    "URL": []
+}

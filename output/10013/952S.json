@@ -1,0 +1,47 @@
+{
+    "ArtNo": "952/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 18 clés à béquille à cardan (art. 952)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230038698"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 18 clés à béquille à cardan (art. 952)",
+            "StandardisedArticleDescription": "Jeu de 18 clés à béquille à cardan (art. 952)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "952_slash_S_7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/952_slash_S_7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009520083"
+    ],
+    "URL": []
+}

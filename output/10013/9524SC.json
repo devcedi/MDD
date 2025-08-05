@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9524SC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Garage Beta en miniature pour collectionneurs",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1:18",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230739199"
+    ],
+    "GenArts": [
+        {
+            "Description": "Garage Beta en miniature pour collectionneurs",
+            "StandardisedArticleDescription": "Garage Beta en miniature pour collectionneurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9524SC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9524SC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095240018"
+    ],
+    "URL": []
+}

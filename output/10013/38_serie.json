@@ -1,0 +1,47 @@
+{
+    "ArtNo": "38_serie",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support vide pour 38/SP6",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020433"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support vide pour 38/SP6",
+            "StandardisedArticleDescription": "Support vide pour 38/SP6",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "38_serie_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/38_serie_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000380019"
+    ],
+    "URL": []
+}

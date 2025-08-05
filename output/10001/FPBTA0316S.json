@@ -1,0 +1,43 @@
+{
+    "ArtNo": "FPBTA0316S",
+    "Attributs": [
+        {
+            "Attribute": "Hauteur 395 mm",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Section intermédiaire 395 x ___ mm , millénium",
+            "StandardisedArticleDescription": "Section intermédiaire 395 x ___ mm , millénium",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FPBTA0316S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0316S"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FPBTA0316S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0316S",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

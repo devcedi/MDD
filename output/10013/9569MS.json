@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9569MS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sac shopper en polypropylène à haute résistance, avec double poignées",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\ncm",
+            "Value": "60",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\ncm",
+            "Value": "40",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230942667"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sac shopper en polypropylène à haute résistance, avec double poignées",
+            "StandardisedArticleDescription": "Sac shopper en polypropylène à haute résistance, avec double poignées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9569MS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9569MS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095690052"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1481K/S4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de 4 presses auto-serrantes pour occlusion lignes",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809116396"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de 4 presses auto-serrantes pour occlusion lignes",
+            "StandardisedArticleDescription": "Kit de 4 presses auto-serrantes pour occlusion lignes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1481K_slash_S4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1481K_slash_S4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014810400"
+    ],
+    "URL": []
+}

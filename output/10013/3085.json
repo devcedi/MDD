@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3085",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil pour séparation des pistons de frein",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230852317"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil pour séparation des pistons de frein",
+            "StandardisedArticleDescription": "Outil pour séparation des pistons de frein",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3085.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3085.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030850010"
+    ],
+    "URL": []
+}

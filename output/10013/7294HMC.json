@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7294HMC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure montante en cuir pleine fleur gras hydrofuge avec semelle extérieure en caoutchouc VIBRAM® à hautes prestations, embout anti-abrasion sur le talon et couvre-embout renforcé en polyuréthane. Dotée de membrane Tepor, résistante à l'eau et au vent et extrêmement respirante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "322",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873947"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure montante en cuir pleine fleur gras hydrofuge avec semelle extérieure en caoutchouc VIBRAM® à hautes prestations, embout anti-abrasion sur le talon et couvre-embout renforcé en polyuréthane. Dotée de membrane Tepor, résistante à l'eau et au vent et extrêmement respirante",
+            "StandardisedArticleDescription": "Chaussure montante en cuir pleine fleur gras hydrofuge avec semelle extérieure en caoutchouc VIBRAM® à hautes prestations, embout anti-abrasion sur le talon et couvre-embout renforcé en polyuréthane. Dotée de membrane Tepor, résistante à l'eau et au vent et extrêmement respirante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7294HMC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7294HMC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072940748"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8148/RP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout de fixation pour treuils manuels 8148",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "8148\nt",
+            "Value": "3,2",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809426037"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout de fixation pour treuils manuels 8148",
+            "StandardisedArticleDescription": "Embout de fixation pour treuils manuels 8148",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8148_slash_RP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8148_slash_RP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081480909"
+    ],
+    "URL": []
+}

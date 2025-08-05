@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR380012",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "TAMBOUR DE FREIN SAF",
+            "StandardisedArticleDescription": "TAMBOUR DE FREIN SAF",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR380012"
+    ],
+    "URL": []
+}

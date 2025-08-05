@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9746 - Clima Cleaner",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Nettoyant pour climatisation",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "400",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809218496"
+    ],
+    "GenArts": [
+        {
+            "Description": "Nettoyant pour climatisation",
+            "StandardisedArticleDescription": "Nettoyant pour climatisation",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9746-ClimaCleaner.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9746-ClimaCleaner.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "097461040"
+    ],
+    "URL": []
+}

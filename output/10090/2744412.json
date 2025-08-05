@@ -1,0 +1,57 @@
+{
+    "ArtNo": "2744412",
+    "Attributs": [
+        {
+            "Attribute": "Longueur",
+            "Value": 3250,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø",
+            "Value": 5.2,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Entraxe",
+            "Value": 100,
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Charnière de porte sans saillie ouverture 180°",
+            "StandardisedArticleDescription": "Charnière de porte sans saillie ouverture 180°",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "27_44410.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/27_44410.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "2744412"
+    ],
+    "URL": []
+}

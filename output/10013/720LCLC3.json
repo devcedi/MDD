@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720LCL/C3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 3 chiavi douilles à chocs colorées, série longue, avec embouts polymères pour écrous de roues",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230807737"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 3 chiavi douilles à chocs colorées, série longue, avec embouts polymères pour écrous de roues",
+            "StandardisedArticleDescription": "Jeu de 3 chiavi douilles à chocs colorées, série longue, avec embouts polymères pour écrous de roues",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720LCL_slash_C3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720LCL_slash_C3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200753"
+    ],
+    "URL": []
+}

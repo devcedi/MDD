@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920A/C17MR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique avec plateau en mousse compacte comprenant 1 cliquet avec 17 douilles 6 pans et 5 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230762227"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique avec plateau en mousse compacte comprenant 1 cliquet avec 17 douilles 6 pans et 5 accessoires",
+            "StandardisedArticleDescription": "Coffret métallique avec plateau en mousse compacte comprenant 1 cliquet avec 17 douilles 6 pans et 5 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920A_slash_C17MR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920A_slash_C17MR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200937"
+    ],
+    "URL": []
+}

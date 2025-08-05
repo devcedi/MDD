@@ -1,0 +1,67 @@
+{
+    "ArtNo": "882MSR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Porte-embouts magnétique à bague de verrouillage rapide pour visseuses",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L mm",
+            "Value": "75",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "11",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230667621"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte-embouts magnétique à bague de verrouillage rapide pour visseuses",
+            "StandardisedArticleDescription": "Porte-embouts magnétique à bague de verrouillage rapide pour visseuses",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "882MSR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/882MSR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008820207"
+    ],
+    "URL": []
+}

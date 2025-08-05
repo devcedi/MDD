@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498LT/12-R7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chargeur secteur pour booster de démarrage 1498LT/12",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230852935"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chargeur secteur pour booster de démarrage 1498LT/12",
+            "StandardisedArticleDescription": "Chargeur secteur pour booster de démarrage 1498LT/12",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498LT_slash_12-R7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498LT_slash_12-R7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980657"
+    ],
+    "URL": []
+}

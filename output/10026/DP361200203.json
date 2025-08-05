@@ -1,0 +1,62 @@
+{
+    "ArtNo": "DP36120/0203",
+    "Attributs": [
+        {
+            "Attribute": "1DK 22E-11",
+            "Value": "1T 300-37 / 206585",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "2619V",
+            "Value": "2918VP01",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "3 229 0033 00",
+            "Value": 1723281,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D11B41",
+            "Value": "YP 08612W",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005551"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Actros MP4 piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble |Actros MP4 piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A162,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A162,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP36120/0203"
+    ],
+    "URL": []
+}

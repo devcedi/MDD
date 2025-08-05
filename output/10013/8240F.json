@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8240F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage mâle, FORGÉ á chaud, acier inoxydable A4",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø \nmm",
+            "Value": "M30",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "3,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "4000",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230730813"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage mâle, FORGÉ á chaud, acier inoxydable A4",
+            "StandardisedArticleDescription": "Anneau de levage mâle, FORGÉ á chaud, acier inoxydable A4",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8240F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8240F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082400430"
+    ],
+    "URL": []
+}

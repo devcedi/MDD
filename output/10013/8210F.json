@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8210F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mâchoires tournantes, acier inoxydable AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø\nmm",
+            "Value": "M14",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n”",
+            "Value": "9/16",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "G\nmm",
+            "Value": "93",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "940",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230868431"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mâchoires tournantes, acier inoxydable AISI 316",
+            "StandardisedArticleDescription": "Mâchoires tournantes, acier inoxydable AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8210F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8210F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082100414"
+    ],
+    "URL": []
+}

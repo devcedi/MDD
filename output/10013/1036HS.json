@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1036HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour circlips extérieurs à becs droits H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "175",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nØ mm",
+            "Value": "19÷60",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "1,9",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "21",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "10,0",
+            "SortNo": 6
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "160",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230860114"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour circlips extérieurs à becs droits H-SAFE",
+            "StandardisedArticleDescription": "Pince pour circlips extérieurs à becs droits H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1036HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1036HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010364017"
+    ],
+    "URL": []
+}

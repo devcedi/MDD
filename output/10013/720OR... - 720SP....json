@@ -1,0 +1,92 @@
+{
+    "ArtNo": "720/OR... - 720/SP...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bague en caoutchouc et goupille de sécurité pour douille et accessoires à choc",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "720\n mm",
+            "Value": "15÷36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "720TX\n",
+            "Value": "",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "720AS\n \"",
+            "Value": "5/8÷1.1/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "720L\n mm",
+            "Value": "15÷32",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "720LS\n mm",
+            "Value": "15÷36",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "720LPL\n mm",
+            "Value": "17÷21",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "720FTX\n",
+            "Value": "E20",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "720TX\n",
+            "Value": "",
+            "SortNo": 9
+        },
+        {
+            "Attribute": "720ME\nmm",
+            "Value": "17÷19",
+            "SortNo": 10
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230029115"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bague en caoutchouc et goupille de sécurité pour douille et accessoires à choc",
+            "StandardisedArticleDescription": "Bague en caoutchouc et goupille de sécurité pour douille et accessoires à choc",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720_slash_OR_dot__dot__dot_-720_slash_SP_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720_slash_OR_dot__dot__dot_-720_slash_SP_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200924"
+    ],
+    "URL": []
+}

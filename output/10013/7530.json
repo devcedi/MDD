@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7530",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon jeans de travail qui associent le confort du denim stretch et la résistance des empiècements en polyester. Une combinaison parfaite entre confort, fonctionnalité et design.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809346533"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon jeans de travail qui associent le confort du denim stretch et la résistance des empiècements en polyester. Une combinaison parfaite entre confort, fonctionnalité et design.",
+            "StandardisedArticleDescription": "Pantalon jeans de travail qui associent le confort du denim stretch et la résistance des empiècements en polyester. Une combinaison parfaite entre confort, fonctionnalité et design.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7530.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7530.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "075300058"
+    ],
+    "URL": []
+}

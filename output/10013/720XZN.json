@@ -1,0 +1,67 @@
+{
+    "ArtNo": "720XZN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille mâle à chocs pour vis XZN® carré femelle 1/2\", phosphatée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M18",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "25",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "77",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "53",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809440507"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille mâle à chocs pour vis XZN® carré femelle 1/2\", phosphatée",
+            "StandardisedArticleDescription": "Douille mâle à chocs pour vis XZN® carré femelle 1/2\", phosphatée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720XZN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720XZN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007201518"
+    ],
+    "URL": []
+}

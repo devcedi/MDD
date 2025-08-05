@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1918R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Barrette de réduction avec filet conique BSPT",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "​Ø \nGAS",
+            "Value": "3/8\"",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "​Ø1 \nGAS",
+            "Value": "1/2\"",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809169767"
+    ],
+    "GenArts": [
+        {
+            "Description": "Barrette de réduction avec filet conique BSPT",
+            "StandardisedArticleDescription": "Barrette de réduction avec filet conique BSPT",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1918R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1918R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019180210"
+    ],
+    "URL": []
+}

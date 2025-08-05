@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1814M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Fer à souder pour l'électronique avec panne droite en acier",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "W",
+            "Value": "40",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "V",
+            "Value": "230",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230699059"
+    ],
+    "GenArts": [
+        {
+            "Description": "Fer à souder pour l'électronique avec panne droite en acier",
+            "StandardisedArticleDescription": "Fer à souder pour l'électronique avec panne droite en acier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1814M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1814M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018140240"
+    ],
+    "URL": []
+}

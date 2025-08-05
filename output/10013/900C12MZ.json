@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900/C12MZ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique avec plateau en mousse compacte comprenant 1 cliquet avec 12 douilles 6 pans, 20 embouts pour visseuses et 7 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809130545"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique avec plateau en mousse compacte comprenant 1 cliquet avec 12 douilles 6 pans, 20 embouts pour visseuses et 7 accessoires",
+            "StandardisedArticleDescription": "Coffret métallique avec plateau en mousse compacte comprenant 1 cliquet avec 12 douilles 6 pans, 20 embouts pour visseuses et 7 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_C12MZ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_C12MZ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000983"
+    ],
+    "URL": []
+}

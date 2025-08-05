@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8517DF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-câble en acier, estampé à chaud, avec écrou à embase, zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \n\"",
+            "Value": "3/8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "N x T",
+            "Value": "6X290",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Nm",
+            "Value": "9,2",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230760469"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-câble en acier, estampé à chaud, avec écrou à embase, zingué",
+            "StandardisedArticleDescription": "Serre-câble en acier, estampé à chaud, avec écrou à embase, zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8517DF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8517DF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085170070"
+    ],
+    "URL": []
+}

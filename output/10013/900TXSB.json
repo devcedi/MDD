@@ -1,0 +1,47 @@
+{
+    "ArtNo": "900TX/SB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 8 douilles tournevis pour vis Torx (art. 900TX) avec support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230822075"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 8 douilles tournevis pour vis Torx (art. 900TX) avec support",
+            "StandardisedArticleDescription": "Jeu de 8 douilles tournevis pour vis Torx (art. 900TX) avec support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900TX_slash_SB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900TX_slash_SB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000730"
+    ],
+    "URL": []
+}

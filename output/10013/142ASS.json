@@ -1,0 +1,47 @@
+{
+    "ArtNo": "142AS/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 8 clés mixtes à cliquet réversible (art.142AS)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230477237"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 8 clés mixtes à cliquet réversible (art.142AS)",
+            "StandardisedArticleDescription": "Jeu de 8 clés mixtes à cliquet réversible (art.142AS)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "142AS_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/142AS_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001420330"
+    ],
+    "URL": []
+}

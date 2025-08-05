@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1492T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé pour filtres sécheurs",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "120÷140",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "75",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230705514"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé pour filtres sécheurs",
+            "StandardisedArticleDescription": "Clé pour filtres sécheurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1492T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1492T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014920575"
+    ],
+    "URL": []
+}

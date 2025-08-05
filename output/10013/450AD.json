@@ -1,0 +1,67 @@
+{
+    "ArtNo": "450AD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Adaptateur pour 450AL/1",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "32÷51",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "25",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \n \nmm",
+            "Value": "12,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "19",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230091167"
+    ],
+    "GenArts": [
+        {
+            "Description": "Adaptateur pour 450AL/1",
+            "StandardisedArticleDescription": "Adaptateur pour 450AL/1",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "450AD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/450AD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004500230"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7342N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure RENEGADE en microfibre, hydrofuge",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "321",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809578446"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure RENEGADE en microfibre, hydrofuge",
+            "StandardisedArticleDescription": "Chaussure RENEGADE en microfibre, hydrofuge",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7342N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7342N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073420548"
+    ],
+    "URL": []
+}

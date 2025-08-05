@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1986/K20V-125",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret meuleuse d'angle, Brushless 20V",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809450964"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret meuleuse d'angle, Brushless 20V",
+            "StandardisedArticleDescription": "Coffret meuleuse d'angle, Brushless 20V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1986_slash_K20V-125.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1986_slash_K20V-125.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019860015"
+    ],
+    "URL": []
+}

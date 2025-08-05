@@ -1,0 +1,57 @@
+{
+    "ArtNo": "851",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée porte-embouts magnétique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L1 mm",
+            "Value": "125",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L mm",
+            "Value": "245",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230663951"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée porte-embouts magnétique",
+            "StandardisedArticleDescription": "Poignée porte-embouts magnétique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "851.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/851.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008510245"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "8148/RKCM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 2 capuchons de branche pour treuils manuels 8148",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809425870"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 2 capuchons de branche pour treuils manuels 8148",
+            "StandardisedArticleDescription": "Jeu de 2 capuchons de branche pour treuils manuels 8148",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8148_slash_RKCM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8148_slash_RKCM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081480905"
+    ],
+    "URL": []
+}

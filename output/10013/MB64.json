@@ -1,0 +1,47 @@
+{
+    "ArtNo": "MB64",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plateau thermoformé souple MB62, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230818634"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plateau thermoformé souple MB62, vide",
+            "StandardisedArticleDescription": "Plateau thermoformé souple MB62, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "MB64.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/MB64.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024524262"
+    ],
+    "URL": []
+}

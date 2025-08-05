@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3912TP/ROAD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour fourches routières",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "33",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "35",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809330563"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour fourches routières",
+            "StandardisedArticleDescription": "Douille pour fourches routières",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3912TP_slash_ROAD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3912TP_slash_ROAD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039120060"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1493/PF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé pour filtres à huile spéciale Purflux®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "108",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "N",
+            "Value": "18",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230685397"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé pour filtres à huile spéciale Purflux®",
+            "StandardisedArticleDescription": "Clé pour filtres à huile spéciale Purflux®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1493_slash_PF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1493_slash_PF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014930254"
+    ],
+    "URL": []
+}

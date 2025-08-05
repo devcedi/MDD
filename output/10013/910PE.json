@@ -1,0 +1,67 @@
+{
+    "ArtNo": "910PE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille tournevis pour vis 6 pans creux",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "18,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "50",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "20",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230033372"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille tournevis pour vis 6 pans creux",
+            "StandardisedArticleDescription": "Douille tournevis pour vis 6 pans creux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910PE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910PE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100500"
+    ],
+    "URL": []
+}

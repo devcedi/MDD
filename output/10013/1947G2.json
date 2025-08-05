@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1947G2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pistolet de graissage 2 en 1",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nkg",
+            "Value": "2,2",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809151410"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pistolet de graissage 2 en 1",
+            "StandardisedArticleDescription": "Pistolet de graissage 2 en 1",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1947G2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1947G2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019470060"
+    ],
+    "URL": []
+}

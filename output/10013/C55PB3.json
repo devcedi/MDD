@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55PB/3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Combinaison d'ameublement de l'atelier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230849454"
+    ],
+    "GenArts": [
+        {
+            "Description": "Combinaison d'ameublement de l'atelier",
+            "StandardisedArticleDescription": "Combinaison d'ameublement de l'atelier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55PB_slash_3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55PB_slash_3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000035"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "DP331239/0101",
+    "Attributs": [
+        {
+            "Attribute": 20427804,
+            "Value": 20456154,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 20531986,
+            "Value": 20582209,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 21961443,
+            "Value": 3171694,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 70321694,
+            "Value": "",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955006084"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Scania Bus Série 5 Avant K-N AMA 78 piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |Scania Bus Série 5 Avant K-N AMA 78 piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A129,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A129,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP331239/0101"
+    ],
+    "URL": []
+}

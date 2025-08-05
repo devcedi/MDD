@@ -1,0 +1,62 @@
+{
+    "ArtNo": "900/42",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée coulissante carré mâle 1/4\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "115",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230032290"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée coulissante carré mâle 1/4\"",
+            "StandardisedArticleDescription": "Poignée coulissante carré mâle 1/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_42.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_42.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000854"
+    ],
+    "URL": []
+}

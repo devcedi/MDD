@@ -1,0 +1,72 @@
+{
+    "ArtNo": "42LMP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mixte longue polie chromée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "32x32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "435",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "66,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "47,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "13,3",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230158709"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mixte longue polie chromée",
+            "StandardisedArticleDescription": "Clé mixte longue polie chromée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "42LMP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/42LMP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000420532"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1169N/D4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 1 pince universelle grande capacité, 1 pince à becs demi-ronds longs, 1 pince coupante chromée et 1 pince multiprise entrepassé phosphatée",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809448053"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 1 pince universelle grande capacité, 1 pince à becs demi-ronds longs, 1 pince coupante chromée et 1 pince multiprise entrepassé phosphatée",
+            "StandardisedArticleDescription": "Jeu de 1 pince universelle grande capacité, 1 pince à becs demi-ronds longs, 1 pince coupante chromée et 1 pince multiprise entrepassé phosphatée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1169N_slash_D4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1169N_slash_D4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011690024"
+    ],
+    "URL": []
+}

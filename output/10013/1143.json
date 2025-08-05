@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1143",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à dénuder automatique latérale",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \n~",
+            "Value": "165",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm²",
+            "Value": "0,5÷6",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "45",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "30",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "20",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230098791"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à dénuder automatique latérale",
+            "StandardisedArticleDescription": "Pince à dénuder automatique latérale",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1143.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1143.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011430001"
+    ],
+    "URL": []
+}

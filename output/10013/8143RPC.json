@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8143/RPC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de goupilles de blocage de chaîne sur crochet pour palans à chaîne 8143",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "8143\nWLL t",
+            "Value": "5,0",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809434360"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de goupilles de blocage de chaîne sur crochet pour palans à chaîne 8143",
+            "StandardisedArticleDescription": "Kit de goupilles de blocage de chaîne sur crochet pour palans à chaîne 8143",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8143_slash_RPC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8143_slash_RPC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081430514"
+    ],
+    "URL": []
+}

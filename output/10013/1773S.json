@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1773S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cutter de sécurité à lame ronde",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "190",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "28",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809509198"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cutter de sécurité à lame ronde",
+            "StandardisedArticleDescription": "Cutter de sécurité à lame ronde",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1773S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1773S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017730100"
+    ],
+    "URL": []
+}

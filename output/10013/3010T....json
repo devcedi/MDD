@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3010/T...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de chandelles",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230573700"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de chandelles",
+            "StandardisedArticleDescription": "Paire de chandelles",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3010_slash_T_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3010_slash_T_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030100010"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1500N/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 extracteurs universels à 2 griffes coulissantes (art. 1500N/…) avec support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230576411"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 extracteurs universels à 2 griffes coulissantes (art. 1500N/…) avec support",
+            "StandardisedArticleDescription": "Jeu de 6 extracteurs universels à 2 griffes coulissantes (art. 1500N/…) avec support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1500N_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1500N_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015000626"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1429/SB7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 extracteurs de vis et goujons cassés avec carrés 3/8\" et 1/2\" (art. 1429) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230510019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 extracteurs de vis et goujons cassés avec carrés 3/8\" et 1/2\" (art. 1429) sur support",
+            "StandardisedArticleDescription": "Jeu de 7 extracteurs de vis et goujons cassés avec carrés 3/8\" et 1/2\" (art. 1429) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1429_slash_SB7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1429_slash_SB7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014290107"
+    ],
+    "URL": []
+}

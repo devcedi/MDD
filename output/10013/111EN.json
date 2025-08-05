@@ -1,0 +1,62 @@
+{
+    "ArtNo": "111EN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à molette à ouverture graduée, phosphatée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "450",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "18",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A max\nmm",
+            "Value": "54",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809370798"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à molette à ouverture graduée, phosphatée",
+            "StandardisedArticleDescription": "Clé à molette à ouverture graduée, phosphatée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "111EN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/111EN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001110445"
+    ],
+    "URL": []
+}

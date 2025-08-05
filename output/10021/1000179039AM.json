@@ -1,0 +1,34 @@
+{
+    "ArtNo": "1000179039AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694018103"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maître Cylindre Scania",
+            "StandardisedArticleDescription": "Maître Cylindre Scania",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C29",
+            "Extension": "",
+            "Path": "/img/10021/=C29"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A29"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8889PS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Séparateurs parallèles pour C38 - C45PRO M4/M5/M7/M8",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "70 mm",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230848112"
+    ],
+    "GenArts": [
+        {
+            "Description": "Séparateurs parallèles pour C38 - C45PRO M4/M5/M7/M8",
+            "StandardisedArticleDescription": "Séparateurs parallèles pour C38 - C45PRO M4/M5/M7/M8",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8889PS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8889PS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088890407"
+    ],
+    "URL": []
+}

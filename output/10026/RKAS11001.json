@@ -1,0 +1,52 @@
+{
+    "ArtNo": "RKAS110/01",
+    "Attributs": [
+        {
+            "Attribute": 500041359,
+            "Value": 500042582,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1E 19-3",
+            "Value": "1TS 270-23 / 206685",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966014214"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de renfort de suspension arrière - Iveco Daily S2000 twin ",
+            "StandardisedArticleDescription": "Kit de renfort de suspension arrière - Iveco Daily S2000 twin ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A235,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A235,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKAS110/01"
+    ],
+    "URL": []
+}

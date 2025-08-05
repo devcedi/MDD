@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1533PR/1 - 2 - 3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge pour 1533",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "1533",
+            "Value": "/4-/5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230045696"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge pour 1533",
+            "StandardisedArticleDescription": "Rallonge pour 1533",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1533PR_slash_1-2-3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1533PR_slash_1-2-3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015330013"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1741P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à riveter robuste avec 4 buses interchangeables",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A",
+            "Value": "73",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L",
+            "Value": "267",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809531687"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à riveter robuste avec 4 buses interchangeables",
+            "StandardisedArticleDescription": "Pince à riveter robuste avec 4 buses interchangeables",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1741P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1741P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017410303"
+    ],
+    "URL": []
+}

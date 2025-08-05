@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1264",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis à lame fraisée pour vis à fente",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SxAxL \nmm",
+            "Value": "1,2x6,5x150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "269",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "117,6",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230604299"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis à lame fraisée pour vis à fente",
+            "StandardisedArticleDescription": "Tournevis à lame fraisée pour vis à fente",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1264.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1264.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012640024"
+    ],
+    "URL": []
+}

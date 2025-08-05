@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1464T/N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Testeur de pression et de compression numérique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "460",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "120",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "P \nmm",
+            "Value": "360",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809608938"
+    ],
+    "GenArts": [
+        {
+            "Description": "Testeur de pression et de compression numérique",
+            "StandardisedArticleDescription": "Testeur de pression et de compression numérique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1464T_slash_N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1464T_slash_N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014640090"
+    ],
+    "URL": []
+}

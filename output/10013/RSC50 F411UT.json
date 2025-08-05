@@ -1,0 +1,47 @@
+{
+    "ArtNo": "RSC50 F/411UT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Combinaison d'équipements d'atelier RSC50 2.0 avec 411 outils",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC50",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809627090"
+    ],
+    "GenArts": [
+        {
+            "Description": "Combinaison d'équipements d'atelier RSC50 2.0 avec 411 outils",
+            "StandardisedArticleDescription": "Combinaison d'équipements d'atelier RSC50 2.0 avec 411 outils",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "RSC502_dot_0F_slash_411UT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/RSC502_dot_0F_slash_411UT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "050001095"
+    ],
+    "URL": []
+}

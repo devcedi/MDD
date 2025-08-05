@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1688A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pointe à tracer en carbure",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "4",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086170"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pointe à tracer en carbure",
+            "StandardisedArticleDescription": "Pointe à tracer en carbure",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1688A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1688A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016880120"
+    ],
+    "URL": []
+}

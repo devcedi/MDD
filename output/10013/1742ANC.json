@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1742AN/C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à insert filetés 2 bras 1742AN avec assortiment de 80 inserts filetés en acier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809523071"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à insert filetés 2 bras 1742AN avec assortiment de 80 inserts filetés en acier",
+            "StandardisedArticleDescription": "Pince à insert filetés 2 bras 1742AN avec assortiment de 80 inserts filetés en acier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1742AN_slash_C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1742AN_slash_C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017420106"
+    ],
+    "URL": []
+}

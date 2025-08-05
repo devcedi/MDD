@@ -1,0 +1,47 @@
+{
+    "ArtNo": "7076BU",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lunettes de sécurité avec verres en polycarbonate orange pour la détection des fuites avec lampe UV",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230790725"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lunettes de sécurité avec verres en polycarbonate orange pour la détection des fuites avec lampe UV",
+            "StandardisedArticleDescription": "Lunettes de sécurité avec verres en polycarbonate orange pour la détection des fuites avec lampe UV",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7076BU.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7076BU.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "070760039"
+    ],
+    "URL": []
+}

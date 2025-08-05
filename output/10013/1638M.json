@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1638M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gaine thermorétractable de faible épaisseur, en minibox",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "25,4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "3,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø 1\nmm",
+            "Value": "25,4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø 2\nmm",
+            "Value": "12,7",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "0,89",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629253216"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gaine thermorétractable de faible épaisseur, en minibox",
+            "StandardisedArticleDescription": "Gaine thermorétractable de faible épaisseur, en minibox",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1638M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1638M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BMGBS254MNE"
+    ],
+    "URL": []
+}

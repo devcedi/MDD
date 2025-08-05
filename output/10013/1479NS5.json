@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1479N/S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de 5 spatules d’extraction de clips pour carrossiers en nylon",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230517728"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de 5 spatules d’extraction de clips pour carrossiers en nylon",
+            "StandardisedArticleDescription": "Kit de 5 spatules d’extraction de clips pour carrossiers en nylon",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1479N_slash_S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1479N_slash_S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014790251"
+    ],
+    "URL": []
+}

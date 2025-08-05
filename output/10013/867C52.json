@@ -1,0 +1,47 @@
+{
+    "ArtNo": "867/C52",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 52 embouts avec entraînement hexagonal de 10 mm et 2 accessoires (art. 867PE, 867PE/L, 867XZN, 867XZN/L, 867TX, 867TX/L, 867RTX, 867RTX/L, 867/1, 867/1)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230387840"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 52 embouts avec entraînement hexagonal de 10 mm et 2 accessoires (art. 867PE, 867PE/L, 867XZN, 867XZN/L, 867TX, 867TX/L, 867RTX, 867RTX/L, 867/1, 867/1)",
+            "StandardisedArticleDescription": "Jeu de 52 embouts avec entraînement hexagonal de 10 mm et 2 accessoires (art. 867PE, 867PE/L, 867XZN, 867XZN/L, 867TX, 867TX/L, 867RTX, 867RTX/L, 867/1, 867/1)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "867_slash_C52.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/867_slash_C52.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008670901"
+    ],
+    "URL": []
+}

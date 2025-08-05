@@ -1,0 +1,47 @@
+{
+    "ArtNo": "BW 903E/C42",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret plastique thermoformé comprenant 1 cliquet avec 13 douilles 6 pans,18 embouts pour visseuses, 4 clés mâles 6 pans coudées et 6 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWORKER",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809334455"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret plastique thermoformé comprenant 1 cliquet avec 13 douilles 6 pans,18 embouts pour visseuses, 4 clés mâles 6 pans coudées et 6 accessoires",
+            "StandardisedArticleDescription": "Coffret plastique thermoformé comprenant 1 cliquet avec 13 douilles 6 pans,18 embouts pour visseuses, 4 clés mâles 6 pans coudées et 6 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "BW-000.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW-000.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "BW903E_slash_C42.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW903E_slash_C42.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009036042"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720TC/S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 douilles à chocs colorées à contrôle de couple, en kit",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230822150"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 douilles à chocs colorées à contrôle de couple, en kit",
+            "StandardisedArticleDescription": "Jeu de 5 douilles à chocs colorées à contrôle de couple, en kit",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720TC_slash_S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720TC_slash_S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200779"
+    ],
+    "URL": []
+}

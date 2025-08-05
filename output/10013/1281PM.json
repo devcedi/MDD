@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1281PM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Porte-embouts magnétique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "165",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "208",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "12",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230511368"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte-embouts magnétique",
+            "StandardisedArticleDescription": "Porte-embouts magnétique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1281PM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1281PM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012810292"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1169BM/D3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 1 pince universelle, 1 pince à becs demi-ronds longs et 1 pince coupante diagonale",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809154145"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 1 pince universelle, 1 pince à becs demi-ronds longs et 1 pince coupante diagonale",
+            "StandardisedArticleDescription": "Jeu de 1 pince universelle, 1 pince à becs demi-ronds longs et 1 pince coupante diagonale",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1169BM_slash_D3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1169BM_slash_D3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011690133"
+    ],
+    "URL": []
+}

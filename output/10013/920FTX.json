@@ -1,0 +1,72 @@
+{
+    "ArtNo": "920FTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour écrousTorx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "E24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "26,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "40",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "25",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "16,9",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230139746"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour écrousTorx®",
+            "StandardisedArticleDescription": "Douille pour écrousTorx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920FTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920FTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200388"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "97TX/BG8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 clés mâles pour vis Torx®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230634081"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 clés mâles pour vis Torx®",
+            "StandardisedArticleDescription": "Jeu de 7 clés mâles pour vis Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "97TX_slash_BG8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/97TX_slash_BG8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000970368"
+    ],
+    "URL": []
+}

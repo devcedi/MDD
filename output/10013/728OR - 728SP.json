@@ -1,0 +1,87 @@
+{
+    "ArtNo": "728/OR - 728/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bague en caoutchouc et goupille de sécurité pour douille et accessoires à chocs",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "728\n mm",
+            "Value": "17÷46",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "728FTX\n",
+            "Value": "E20÷E24",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "728L\n mm",
+            "Value": "19÷46",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "728LS\n mm",
+            "Value": "17÷36",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "728LQ\n mm",
+            "Value": "17÷19",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "728/15\nL mm",
+            "Value": "",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "728/21\nL mm",
+            "Value": "175",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "728/22\nL mm",
+            "Value": "250",
+            "SortNo": 9
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230029924"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bague en caoutchouc et goupille de sécurité pour douille et accessoires à chocs",
+            "StandardisedArticleDescription": "Bague en caoutchouc et goupille de sécurité pour douille et accessoires à chocs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "728_slash_OR-728_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/728_slash_OR-728_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007280926"
+    ],
+    "URL": []
+}

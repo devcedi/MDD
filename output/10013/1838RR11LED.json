@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1838RR/11LED",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Base de recharge pour 1838/11LED",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230801445"
+    ],
+    "GenArts": [
+        {
+            "Description": "Base de recharge pour 1838/11LED",
+            "StandardisedArticleDescription": "Base de recharge pour 1838/11LED",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1838RR_slash_11LED.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1838RR_slash_11LED.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018380914"
+    ],
+    "URL": []
+}

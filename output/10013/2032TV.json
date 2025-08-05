@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2032/TV",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Valise porte-outils en matière plastique, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230674674"
+    ],
+    "GenArts": [
+        {
+            "Description": "Valise porte-outils en matière plastique, vide",
+            "StandardisedArticleDescription": "Valise porte-outils en matière plastique, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2032_slash_TV.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2032_slash_TV.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "020320110"
+    ],
+    "URL": []
+}

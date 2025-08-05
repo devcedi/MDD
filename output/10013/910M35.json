@@ -1,0 +1,57 @@
+{
+    "ArtNo": "910M/35",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée articulée carré mâle 3/8\" avec manche métallique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230175744"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée articulée carré mâle 3/8\" avec manche métallique",
+            "StandardisedArticleDescription": "Poignée articulée carré mâle 3/8\" avec manche métallique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910M_slash_35.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910M_slash_35.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100839"
+    ],
+    "URL": []
+}

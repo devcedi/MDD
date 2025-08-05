@@ -1,0 +1,47 @@
+{
+    "ArtNo": "KIT 10VC/5C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de 10 plateaux amovibles pour bacs de rangement CPMB/5C pour petites pièces",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809503653"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de 10 plateaux amovibles pour bacs de rangement CPMB/5C pour petites pièces",
+            "StandardisedArticleDescription": "Kit de 10 plateaux amovibles pour bacs de rangement CPMB/5C pour petites pièces",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "KIT10VC_slash_5C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/KIT10VC_slash_5C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088880455"
+    ],
+    "URL": []
+}

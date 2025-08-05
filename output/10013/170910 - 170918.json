@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1709/10 - 1709/18",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Casse-écrous",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "107,8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A max\nmm",
+            "Value": "24 (M16)",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "C\nmm",
+            "Value": "47",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "15,3",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "19",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230046860"
+    ],
+    "GenArts": [
+        {
+            "Description": "Casse-écrous",
+            "StandardisedArticleDescription": "Casse-écrous",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1709_slash_10-1709_slash_18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1709_slash_10-1709_slash_18.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017090018"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8135/KMO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de ressorts pour pinces de levage 8135",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "5,00",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809411118"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de ressorts pour pinces de levage 8135",
+            "StandardisedArticleDescription": "Kit de ressorts pour pinces de levage 8135",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8135_slash_KMO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8135_slash_KMO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081350675"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1688M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crayon de menuisier",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "180",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230091587"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crayon de menuisier",
+            "StandardisedArticleDescription": "Crayon de menuisier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1688M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1688M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016880880"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "682",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Contrôleur de couple électronique digital Avec transducteur Dynatester 682 fonctionnant dans les 2 sens Haute précision de lecture Fourni avec sortie sérielle RS 232",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Nm",
+            "Value": "30÷1500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nkg",
+            "Value": "6,4",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230390703"
+    ],
+    "GenArts": [
+        {
+            "Description": "Contrôleur de couple électronique digital Avec transducteur Dynatester 682 fonctionnant dans les 2 sens Haute précision de lecture Fourni avec sortie sérielle RS 232",
+            "StandardisedArticleDescription": "Contrôleur de couple électronique digital Avec transducteur Dynatester 682 fonctionnant dans les 2 sens Haute précision de lecture Fourni avec sortie sérielle RS 232",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "682.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/682.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006820150"
+    ],
+    "URL": []
+}

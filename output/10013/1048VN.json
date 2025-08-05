@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1048VN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince multiprise entrepassée Poligrip vernis orange",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A max\nmm",
+            "Value": "60",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "44",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "14.8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "\ng",
+            "Value": "554",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809382968"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince multiprise entrepassée Poligrip vernis orange",
+            "StandardisedArticleDescription": "Pince multiprise entrepassée Poligrip vernis orange",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1048VN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1048VN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010480121"
+    ],
+    "URL": []
+}

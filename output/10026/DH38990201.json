@@ -1,0 +1,52 @@
+{
+    "ArtNo": "DH3899/0201",
+    "Attributs": [
+        {
+            "Attribute": "W01 M58 8679",
+            "Value": "C295/D1 - 295.1.460",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1R 11-843",
+            "Value": "",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966001313"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |coté droit piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |coté droit piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A75,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A75,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DH3899/0201"
+    ],
+    "URL": []
+}

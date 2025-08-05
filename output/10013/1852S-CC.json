@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1852S-CC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bobine de cuillère",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809206639"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bobine de cuillère",
+            "StandardisedArticleDescription": "Bobine de cuillère",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1852S-CC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1852S-CC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018520521"
+    ],
+    "URL": []
+}

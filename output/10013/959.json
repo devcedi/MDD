@@ -1,0 +1,62 @@
+{
+    "ArtNo": "959",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à bougies à cardan",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm - \"",
+            "Value": "20,8 \n13/16",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "27,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "527",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230038957"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à bougies à cardan",
+            "StandardisedArticleDescription": "Clé à bougies à cardan",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "959.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/959.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009590011"
+    ],
+    "URL": []
+}

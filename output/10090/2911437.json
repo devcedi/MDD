@@ -1,0 +1,67 @@
+{
+    "ArtNo": "2911437",
+    "Attributs": [
+        {
+            "Attribute": "I/V mini",
+            "Value": 160,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "LG",
+            "Value": "Ext 750 > 1480\nInt 790 > 1140",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Type",
+            "Value": "Hydraulique",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Course",
+            "Value": 491,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur chassis - sol Max",
+            "Value": 996,
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "BAB Barre anti-encastrement, fixation latérale, tube acier Ø 100.",
+            "StandardisedArticleDescription": "BAB Barre anti-encastrement, fixation latérale, tube acier Ø 100.",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2909437_3d.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/2909437_3d.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "2911437"
+    ],
+    "URL": []
+}

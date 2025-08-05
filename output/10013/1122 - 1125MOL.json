@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1122 - 1125MOL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ressort pour 1125/1126",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1125 - 1126",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230008271"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ressort pour 1125/1126",
+            "StandardisedArticleDescription": "Ressort pour 1125/1126",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1122-1125MOL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1122-1125MOL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011250040"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "920ES",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille pour vis à 6 cannelures",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "16XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "(14R)",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "240",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "202",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230477381"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille pour vis à 6 cannelures",
+            "StandardisedArticleDescription": "Douille pour vis à 6 cannelures",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920ES.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920ES.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200616"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "SPG11 - S1203/8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support pour tournevis, en tôle",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230430904"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support pour tournevis, en tôle",
+            "StandardisedArticleDescription": "Support pour tournevis, en tôle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "SPG11-S1203_slash_8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/SPG11-S1203_slash_8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088880910"
+    ],
+    "URL": []
+}

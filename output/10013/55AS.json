@@ -1,0 +1,72 @@
+{
+    "ArtNo": "55AS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourches",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \n\"",
+            "Value": "1.7/16x1.5/8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "375",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "76,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A1 \nmm",
+            "Value": "85,6",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "13,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230022383"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourches",
+            "StandardisedArticleDescription": "Clé à fourches",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "55AS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/55AS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000550275"
+    ],
+    "URL": []
+}

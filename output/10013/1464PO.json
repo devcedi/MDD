@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1464PO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit permettant de tester la pression d'huile (compatible avec le 1464T et le 1464T/N)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809609027"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit permettant de tester la pression d'huile (compatible avec le 1464T et le 1464T/N)",
+            "StandardisedArticleDescription": "Kit permettant de tester la pression d'huile (compatible avec le 1464T et le 1464T/N)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1464PO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1464PO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014640270"
+    ],
+    "URL": []
+}

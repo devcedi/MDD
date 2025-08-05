@@ -1,0 +1,72 @@
+{
+    "ArtNo": "720LS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à chocs, série longue et fine",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "48,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "78",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "29",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230727585"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à chocs, série longue et fine",
+            "StandardisedArticleDescription": "Douille à chocs, série longue et fine",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720LS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720LS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200386"
+    ],
+    "URL": []
+}

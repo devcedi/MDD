@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9525WB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Casquette de baseball blanche avec visière incurvée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "Taglia unica",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809517865"
+    ],
+    "GenArts": [
+        {
+            "Description": "Casquette de baseball blanche avec visière incurvée",
+            "StandardisedArticleDescription": "Casquette de baseball blanche avec visière incurvée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9525WB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9525WB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095251032"
+    ],
+    "URL": []
+}

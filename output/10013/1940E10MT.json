@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1940E10/MT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Retainer Spring",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230786070"
+    ],
+    "GenArts": [
+        {
+            "Description": "Retainer Spring",
+            "StandardisedArticleDescription": "Retainer Spring",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1940E10_slash_MT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1940E10_slash_MT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019400112"
+    ],
+    "URL": []
+}

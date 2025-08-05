@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1290INOX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis pour vis à fente en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "SxAxL\nmm",
+            "Value": "1,2x6,5x150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "270",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "6.0",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BetaINOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230726427"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis pour vis à fente en acier inoxydable",
+            "StandardisedArticleDescription": "Tournevis pour vis à fente en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_inox.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_inox.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1290INOX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1290INOX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012900451"
+    ],
+    "URL": []
+}

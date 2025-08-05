@@ -1,0 +1,47 @@
+{
+    "ArtNo": "720LC/PM5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 douilles à chocs sur guide magnétique pour écrous de roue, avec inserts en polymère coloré",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809218625"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 douilles à chocs sur guide magnétique pour écrous de roue, avec inserts en polymère coloré",
+            "StandardisedArticleDescription": "Jeu de 5 douilles à chocs sur guide magnétique pour écrous de roue, avec inserts en polymère coloré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "720LC_slash_PM5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/720LC_slash_PM5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007200646"
+    ],
+    "URL": []
+}

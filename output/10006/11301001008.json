@@ -1,0 +1,72 @@
+{
+    "ArtNo": 11301001008,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "seaux ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Grandes lingettes résistantes",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Particulièrement adapté au nettoyage de grandes surfaces",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Formule efficace pour les salissures moyennes à fortes",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Application ",
+            "Value": "Lingettes imprégnées pour le nettoyage des mains sans utilisation d’eau. Convient aux salissures légères et moyennes issues du transport, des ateliers. Permet également un nettoyage efficace des outils et des surfaces lisses.",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Nettoyez vos mains avec une lingette jusqu’à l’élimination totale des salissures. Bien fermer l’emballage.",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602007951"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex100 4x100 wipes ",
+            "StandardisedArticleDescription": "Dreumex100 4x100 wipes ",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "D10001",
+            "Extension": "",
+            "Path": "/img/10006/D10001",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "11301001008"
+    ],
+    "URL": []
+}

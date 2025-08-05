@@ -1,0 +1,47 @@
+{
+    "ArtNo": "95/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 clés polygonales doubles droites (art. 95)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230024790"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 clés polygonales doubles droites (art. 95)",
+            "StandardisedArticleDescription": "Jeu de 13 clés polygonales doubles droites (art. 95)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "95_slash_S_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/95_slash_S_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000950179"
+    ],
+    "URL": []
+}

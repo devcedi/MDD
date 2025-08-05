@@ -1,0 +1,67 @@
+{
+    "ArtNo": "727PI/22",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille porte-embouts à chocs pour articles 727/ES22 et 727/ES22TX",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "54",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "70",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "22",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230352343"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille porte-embouts à chocs pour articles 727/ES22 et 727/ES22TX",
+            "StandardisedArticleDescription": "Douille porte-embouts à chocs pour articles 727/ES22 et 727/ES22TX",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "727PI_slash_22.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/727PI_slash_22.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007270022"
+    ],
+    "URL": []
+}

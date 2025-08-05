@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1690L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mètre pliant en bois de bouleau classe de précision III",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "17",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230547701"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mètre pliant en bois de bouleau classe de précision III",
+            "StandardisedArticleDescription": "Mètre pliant en bois de bouleau classe de précision III",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1690L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1690L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016900200"
+    ],
+    "URL": []
+}

@@ -1,0 +1,16 @@
+
+{
+      "COLS": {
+        "ArtNo": 1,
+        "BrandNo": 2,
+        "BrandName": 3,
+        "LogoBrand": 4,
+        "TradeNo": 5,
+        "EAN": 6,
+        "Description": 7,
+        "Picture": 8,
+        "Lien": 115
+    },
+    "ATTR_START": 15,
+    "ATTR_END": 114
+}

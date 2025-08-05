@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3110423GA",
+    "Attributs": [
+        {
+            "Attribute": "Hauteur",
+            "Value": 720,
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support complet articulé",
+            "StandardisedArticleDescription": "Support complet articulé",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3110423GA_3d.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/3110423GA_3d.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "3110423GA"
+    ],
+    "URL": []
+}

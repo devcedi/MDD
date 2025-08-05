@@ -1,0 +1,47 @@
+{
+    "ArtNo": "606MQ/50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à déclenchement avec cliquet réversible",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230191973"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à déclenchement avec cliquet réversible",
+            "StandardisedArticleDescription": "Clé dynamométrique à déclenchement avec cliquet réversible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "606MQ_slash_50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/606MQ_slash_50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006060705"
+    ],
+    "URL": []
+}

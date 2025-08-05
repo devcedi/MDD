@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1269PZ/S4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 tournevis pour vis Pozidriv®-Supadriv® (art. 1269PZ)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230611099"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 tournevis pour vis Pozidriv®-Supadriv® (art. 1269PZ)",
+            "StandardisedArticleDescription": "Jeu de 4 tournevis pour vis Pozidriv®-Supadriv® (art. 1269PZ)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1269PZ_slash_S4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1269PZ_slash_S4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012690304"
+    ],
+    "URL": []
+}

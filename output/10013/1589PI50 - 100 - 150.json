@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1589PI/50 - 100 - 150",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge pour vis hydraulique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "170",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "45",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230103549"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge pour vis hydraulique",
+            "StandardisedArticleDescription": "Rallonge pour vis hydraulique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1589PI_slash_50-100-150.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1589PI_slash_50-100-150.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015890015"
+    ],
+    "URL": []
+}

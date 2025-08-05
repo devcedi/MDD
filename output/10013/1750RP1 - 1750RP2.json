@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1750RP/1 - 1750RP/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Raccord plat pour 1750",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "22",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "M \nmm",
+            "Value": "10x1",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230100128"
+    ],
+    "GenArts": [
+        {
+            "Description": "Raccord plat pour 1750",
+            "StandardisedArticleDescription": "Raccord plat pour 1750",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1750RP_slash_1-1750RP_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1750RP_slash_1-1750RP_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017500120"
+    ],
+    "URL": []
+}

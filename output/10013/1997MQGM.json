@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1997MQ/GM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gants isolants en composites",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Gr.",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "350",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809640204"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gants isolants en composites",
+            "StandardisedArticleDescription": "Gants isolants en composites",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1997MQ_slash_GM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1997MQ_slash_GM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019970110"
+    ],
+    "URL": []
+}

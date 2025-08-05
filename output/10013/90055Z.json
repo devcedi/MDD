@@ -1,0 +1,67 @@
+{
+    "ArtNo": "900/55Z",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible, carré mâle 1/4\", mécanisme à 72 dents",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "126",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "25",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "23",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809127859"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible, carré mâle 1/4\", mécanisme à 72 dents",
+            "StandardisedArticleDescription": "Cliquet réversible, carré mâle 1/4\", mécanisme à 72 dents",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_55Z.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_55Z.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009000882"
+    ],
+    "URL": []
+}

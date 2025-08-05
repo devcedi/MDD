@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9521",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Parapluie en nylon T210 avec tige en aluminium 3 sections, noir, automatique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230671307"
+    ],
+    "GenArts": [
+        {
+            "Description": "Parapluie en nylon T210 avec tige en aluminium 3 sections, noir, automatique",
+            "StandardisedArticleDescription": "Parapluie en nylon T210 avec tige en aluminium 3 sections, noir, automatique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9521.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9521.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095210000"
+    ],
+    "URL": []
+}

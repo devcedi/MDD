@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3075MV",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 12 pans pour écrous moyeu roue MV AGUSTA",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "56",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "70,7",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "30",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230887401"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 12 pans pour écrous moyeu roue MV AGUSTA",
+            "StandardisedArticleDescription": "Douille 12 pans pour écrous moyeu roue MV AGUSTA",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3075MV.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3075MV.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030750156"
+    ],
+    "URL": []
+}

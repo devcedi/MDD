@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1624-FI",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cosse rapide femelle isolée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "HxS\nmm",
+            "Value": "6,3x0,8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm²",
+            "Value": "4-6",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "25",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629003927"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cosse rapide femelle isolée",
+            "StandardisedArticleDescription": "Cosse rapide femelle isolée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1624-FI.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1624-FI.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BM00392"
+    ],
+    "URL": []
+}

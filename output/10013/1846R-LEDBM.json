@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1846R-LED/BM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lampe à LED de rechange",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230802602"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lampe à LED de rechange",
+            "StandardisedArticleDescription": "Lampe à LED de rechange",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "27_avvolgitori.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/27_avvolgitori.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1846R-LED_slash_BM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1846R-LED_slash_BM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018460331"
+    ],
+    "URL": []
+}

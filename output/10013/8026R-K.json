@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8026R-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manille droite haute résistance, axe à œil, an acier allié, bride galvanisée à chaud",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ØD\nmm",
+            "Value": "19",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "ØD \nmm ( \" )",
+            "Value": "19",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "27",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "3250",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230815428"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manille droite haute résistance, axe à œil, an acier allié, bride galvanisée à chaud",
+            "StandardisedArticleDescription": "Manille droite haute résistance, axe à œil, an acier allié, bride galvanisée à chaud",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8026R-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8026R-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080269216"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "565-4R/VB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multiplicateur de couple pour le serrage à droite et à gauche rapport 27:1 avec système anti-remontrant, en coffret 565VV-B",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809332093"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multiplicateur de couple pour le serrage à droite et à gauche rapport 27:1 avec système anti-remontrant, en coffret 565VV-B",
+            "StandardisedArticleDescription": "Multiplicateur de couple pour le serrage à droite et à gauche rapport 27:1 avec système anti-remontrant, en coffret 565VV-B",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "565-4R_slash_VB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/565-4R_slash_VB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005650614"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1931CD6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Perceuse réversible en matériau composite",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "0,6",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230587769"
+    ],
+    "GenArts": [
+        {
+            "Description": "Perceuse réversible en matériau composite",
+            "StandardisedArticleDescription": "Perceuse réversible en matériau composite",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1931CD6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1931CD6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019310006"
+    ],
+    "URL": []
+}

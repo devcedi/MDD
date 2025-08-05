@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8274 confezioni speciali",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mousqueton AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø A x L \nmm",
+            "Value": "10x100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "ø C \nmm",
+            "Value": "15",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "4",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809456232"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mousqueton AISI 316",
+            "StandardisedArticleDescription": "Mousqueton AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8274confezionispeciali.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8274confezionispeciali.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082740710"
+    ],
+    "URL": []
+}

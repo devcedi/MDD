@@ -1,0 +1,37 @@
+{
+    "ArtNo": "MPFE0040M",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Fermeture cadenassable",
+            "StandardisedArticleDescription": "Fermeture cadenassable",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "MPFE0040M",
+            "Extension": "",
+            "Path": "/img/10001/MPFE0040M"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "MPFE0040M",
+            "Extension": "",
+            "Path": "/img/10001/MPFE0040M",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

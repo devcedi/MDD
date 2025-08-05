@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1714",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Miroir d'inspection en plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "155",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230046921"
+    ],
+    "GenArts": [
+        {
+            "Description": "Miroir d'inspection en plastique",
+            "StandardisedArticleDescription": "Miroir d'inspection en plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1714.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1714.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017140001"
+    ],
+    "URL": []
+}

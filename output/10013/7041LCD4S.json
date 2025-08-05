@@ -1,0 +1,47 @@
+{
+    "ArtNo": "7041LCD/4S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Masque LCD à obscurcissement automatique pour soudure à électrode ; MIG/MAG ; TIG et plasma. 4 capteurs avec filtre TRUE COLOR alimentation à cellules solaires et batteries au lithium pour une durée exceptionnelle du filtre LCD",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230936819"
+    ],
+    "GenArts": [
+        {
+            "Description": "Masque LCD à obscurcissement automatique pour soudure à électrode ; MIG/MAG ; TIG et plasma. 4 capteurs avec filtre TRUE COLOR alimentation à cellules solaires et batteries au lithium pour une durée exceptionnelle du filtre LCD",
+            "StandardisedArticleDescription": "Masque LCD à obscurcissement automatique pour soudure à électrode ; MIG/MAG ; TIG et plasma. 4 capteurs avec filtre TRUE COLOR alimentation à cellules solaires et batteries au lithium pour une durée exceptionnelle du filtre LCD",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7041LCD_slash_4S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7041LCD_slash_4S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "070410001"
+    ],
+    "URL": []
+}

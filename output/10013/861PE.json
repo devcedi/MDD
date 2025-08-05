@@ -1,0 +1,57 @@
+{
+    "ArtNo": "861PE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout pour visseuses pour vis 6 pans creux",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230150185"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout pour visseuses pour vis 6 pans creux",
+            "StandardisedArticleDescription": "Embout pour visseuses pour vis 6 pans creux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "861PE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/861PE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008610135"
+    ],
+    "URL": []
+}

@@ -1,0 +1,43 @@
+{
+    "ArtNo": "FPBTA0052S",
+    "Attributs": [
+        {
+            "Attribute": "Equipements montés",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Section basse complète avec fermeture standard 395 x ___ mm, millénium",
+            "StandardisedArticleDescription": "Section basse complète avec fermeture standard 395 x ___ mm, millénium",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FPBTA0052S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0052S"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FPBTA0052S",
+            "Extension": "",
+            "Path": "/img/10001/FPBTA0052S",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8406",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur œillets et crochet",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "20",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230904320"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur œillets et crochet",
+            "StandardisedArticleDescription": "Tendeur œillets et crochet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8406.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8406.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "084060220"
+    ],
+    "URL": []
+}

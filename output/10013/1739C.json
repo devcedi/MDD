@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1739C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à riveter à extenseur comprenant 5 embouts interchangeables",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "25",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "60",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "185",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L max \nmm",
+            "Value": "810",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809519500"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à riveter à extenseur comprenant 5 embouts interchangeables",
+            "StandardisedArticleDescription": "Pince à riveter à extenseur comprenant 5 embouts interchangeables",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1739C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1739C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017390152"
+    ],
+    "URL": []
+}

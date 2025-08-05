@@ -1,0 +1,57 @@
+{
+    "ArtNo": "417",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret béton en acier fraisé, avec plaquette en métal dur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "12L",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230144733"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret béton en acier fraisé, avec plaquette en métal dur",
+            "StandardisedArticleDescription": "Foret béton en acier fraisé, avec plaquette en métal dur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "417.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/417.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004170125"
+    ],
+    "URL": []
+}

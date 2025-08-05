@@ -1,0 +1,47 @@
+{
+    "ArtNo": "951QF/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support vide pour 951/SP6",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230038490"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support vide pour 951/SP6",
+            "StandardisedArticleDescription": "Support vide pour 951/SP6",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "951QF_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/951QF_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009510697"
+    ],
+    "URL": []
+}

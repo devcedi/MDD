@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2252",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Siège mobile d'atelier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230503318"
+    ],
+    "GenArts": [
+        {
+            "Description": "Siège mobile d'atelier",
+            "StandardisedArticleDescription": "Siège mobile d'atelier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2252.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2252.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022520002"
+    ],
+    "URL": []
+}

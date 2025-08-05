@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3050/CC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Béquille centrale à vis sous berceau pour Custom, Enduro, Cross, Scooter",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230952994"
+    ],
+    "GenArts": [
+        {
+            "Description": "Béquille centrale à vis sous berceau pour Custom, Enduro, Cross, Scooter",
+            "StandardisedArticleDescription": "Béquille centrale à vis sous berceau pour Custom, Enduro, Cross, Scooter",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3050_slash_CC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3050_slash_CC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030500012"
+    ],
+    "URL": []
+}

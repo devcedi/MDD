@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1599GR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de mâchoires et vis de rechange pour étau 1599GI",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "175",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809371801"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de mâchoires et vis de rechange pour étau 1599GI",
+            "StandardisedArticleDescription": "Paire de mâchoires et vis de rechange pour étau 1599GI",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1599GR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1599GR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015990975"
+    ],
+    "URL": []
+}

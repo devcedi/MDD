@@ -1,0 +1,45 @@
+{
+    "ArtNo": "99 VN/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ergot pour 99ST",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "120-180",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230110288"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ergot pour 99ST",
+            "StandardisedArticleDescription": "Ergot pour 99ST",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000990299"
+    ],
+    "URL": []
+}

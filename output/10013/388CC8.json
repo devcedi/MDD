@@ -1,0 +1,52 @@
+{
+    "ArtNo": "388C/C8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cintreuse arbalète avec 7 matrices en aluminium pour tubes fins, cuivre recuit et alliages légers en coffret plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "10-12-14-16 \n18-20-22",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230634296"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cintreuse arbalète avec 7 matrices en aluminium pour tubes fins, cuivre recuit et alliages légers en coffret plastique",
+            "StandardisedArticleDescription": "Cintreuse arbalète avec 7 matrices en aluminium pour tubes fins, cuivre recuit et alliages légers en coffret plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "388C_slash_C8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/388C_slash_C8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003880200"
+    ],
+    "URL": []
+}

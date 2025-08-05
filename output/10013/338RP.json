@@ -1,0 +1,52 @@
+{
+    "ArtNo": "338RP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Molette pour article 336 et 338 pour plastiques",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "21,9",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230026572"
+    ],
+    "GenArts": [
+        {
+            "Description": "Molette pour article 336 et 338 pour plastiques",
+            "StandardisedArticleDescription": "Molette pour article 336 et 338 pour plastiques",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "338RP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/338RP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003380025"
+    ],
+    "URL": []
+}

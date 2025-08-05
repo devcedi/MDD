@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DP37929/0103",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005209"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Attention, il existe un autre montage avec la référence 566-24-3-541\nVoir DP37929/0203 piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble |Attention, il existe un autre montage avec la référence 566-24-3-541\nVoir DP37929/0203 piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A187,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A187,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP37929/0103"
+    ],
+    "URL": []
+}

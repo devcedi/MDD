@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8028",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manille lyre, estampée à chaud, zinguée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "38",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "”",
+            "Value": "1.1/2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "4500",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B x C\nmm",
+            "Value": "152x124",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230390840"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manille lyre, estampée à chaud, zinguée",
+            "StandardisedArticleDescription": "Manille lyre, estampée à chaud, zinguée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8028.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8028.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080280138"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8134",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Élévateur magnétique permanent",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "1000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "168",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "168",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "​D \nmm",
+            "Value": "264",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809422527"
+    ],
+    "GenArts": [
+        {
+            "Description": "Élévateur magnétique permanent",
+            "StandardisedArticleDescription": "Élévateur magnétique permanent",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8134.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8134.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081340100"
+    ],
+    "URL": []
+}

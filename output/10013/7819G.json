@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7819G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon de travail multipoches robuste, confortable et pratique, avec poches amovibles flying pockets à la taille",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809463353"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon de travail multipoches robuste, confortable et pratique, avec poches amovibles flying pockets à la taille",
+            "StandardisedArticleDescription": "Pantalon de travail multipoches robuste, confortable et pratique, avec poches amovibles flying pockets à la taille",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7819G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7819G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078190006"
+    ],
+    "URL": []
+}

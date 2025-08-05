@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55C7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Servante mobile d'atelier à 7 tiroirs pour ameaublement atelier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230773445"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servante mobile d'atelier à 7 tiroirs pour ameaublement atelier",
+            "StandardisedArticleDescription": "Servante mobile d'atelier à 7 tiroirs pour ameaublement atelier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55C7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55C7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000201"
+    ],
+    "URL": []
+}

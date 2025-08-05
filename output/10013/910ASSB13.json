@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910AS/SB13",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 douilles 12 pans (art. 910AS) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230539188"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 douilles 12 pans (art. 910AS) sur support",
+            "StandardisedArticleDescription": "Jeu de 13 douilles 12 pans (art. 910AS) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910AS_slash_SB13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910AS_slash_SB13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100215"
+    ],
+    "URL": []
+}

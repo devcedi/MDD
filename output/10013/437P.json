@@ -1,0 +1,52 @@
+{
+    "ArtNo": "437P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de réparation filetage interne et externe, droite et gauche.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "230",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230959757"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de réparation filetage interne et externe, droite et gauche.",
+            "StandardisedArticleDescription": "Kit de réparation filetage interne et externe, droite et gauche.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "437P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/437P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004370003"
+    ],
+    "URL": []
+}

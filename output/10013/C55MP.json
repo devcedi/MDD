@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55MP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etagère métallique pour angle haut",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230932736"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etagère métallique pour angle haut",
+            "StandardisedArticleDescription": "Etagère métallique pour angle haut",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55MP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55MP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000374"
+    ],
+    "URL": []
+}

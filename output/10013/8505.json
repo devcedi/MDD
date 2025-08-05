@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8505",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur à deux œillets, zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "M30",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\n\"",
+            "Value": "1.3/16",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L min\nmm",
+            "Value": "465",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "3300",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230730912"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur à deux œillets, zingué",
+            "StandardisedArticleDescription": "Tendeur à deux œillets, zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8505.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8505.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085050130"
+    ],
+    "URL": []
+}

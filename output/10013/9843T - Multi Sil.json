@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9843T - Multi Sil",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multi Sil - Mastic silicone acétique transparent anti-moisissures",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "280",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809555379"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multi Sil - Mastic silicone acétique transparent anti-moisissures",
+            "StandardisedArticleDescription": "Multi Sil - Mastic silicone acétique transparent anti-moisissures",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9843T-MultiSil.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9843T-MultiSil.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098430028"
+    ],
+    "URL": []
+}

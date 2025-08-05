@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1550U/MRC-ABE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étriers spéciaux pour 1550U pour Mercedes Classe A-B-E",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230828114"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étriers spéciaux pour 1550U pour Mercedes Classe A-B-E",
+            "StandardisedArticleDescription": "Étriers spéciaux pour 1550U pour Mercedes Classe A-B-E",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1550U_slash_MRC-ABE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1550U_slash_MRC-ABE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015500031"
+    ],
+    "URL": []
+}

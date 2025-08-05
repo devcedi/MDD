@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1493AL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé pour filtres à huile",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "100,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nN",
+            "Value": "15",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\n",
+            "Value": "27",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\n",
+            "Value": "3/8”",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774350"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé pour filtres à huile",
+            "StandardisedArticleDescription": "Clé pour filtres à huile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1493AL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1493AL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014930350"
+    ],
+    "URL": []
+}

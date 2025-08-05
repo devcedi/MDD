@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7865B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Combinaison de travail légère",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "5XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "62",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809525372"
+    ],
+    "GenArts": [
+        {
+            "Description": "Combinaison de travail légère",
+            "StandardisedArticleDescription": "Combinaison de travail légère",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7865B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7865B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078650708"
+    ],
+    "URL": []
+}

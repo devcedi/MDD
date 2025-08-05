@@ -1,0 +1,47 @@
+{
+    "ArtNo": "6888GS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet de chaussure pour affichage C64",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809328485"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet de chaussure pour affichage C64",
+            "StandardisedArticleDescription": "Crochet de chaussure pour affichage C64",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "89.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/89.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "6888GS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/6888GS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "068880122"
+    ],
+    "URL": []
+}

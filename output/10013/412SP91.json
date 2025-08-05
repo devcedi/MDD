@@ -1,0 +1,47 @@
+{
+    "ArtNo": "412/SP91",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de forets taillés (art. 412) en coffret",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230167046"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de forets taillés (art. 412) en coffret",
+            "StandardisedArticleDescription": "Jeu de forets taillés (art. 412) en coffret",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "412_slash_SP91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/412_slash_SP91.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004120452"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920ME/C7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 douilles tournevis pour vis 6 pans creux (art. 910ME) en coffret",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230035147"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 douilles tournevis pour vis 6 pans creux (art. 910ME) en coffret",
+            "StandardisedArticleDescription": "Jeu de 7 douilles tournevis pour vis 6 pans creux (art. 910ME) en coffret",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920ME_slash_C7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920ME_slash_C7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200518"
+    ],
+    "URL": []
+}

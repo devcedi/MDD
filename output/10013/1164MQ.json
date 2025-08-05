@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1164MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à becs coudés plats longs",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "76",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "1,6",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "20",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "3,5",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "10",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230659756"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à becs coudés plats longs",
+            "StandardisedArticleDescription": "Pince à becs coudés plats longs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1164MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1164MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011640100"
+    ],
+    "URL": []
+}

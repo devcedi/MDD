@@ -1,0 +1,52 @@
+{
+    "ArtNo": "3099T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Housse de moto d'intérieur, en tissu extensible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Tg",
+            "Value": "XL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809174143"
+    ],
+    "GenArts": [
+        {
+            "Description": "Housse de moto d'intérieur, en tissu extensible",
+            "StandardisedArticleDescription": "Housse de moto d'intérieur, en tissu extensible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3099T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3099T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030990204"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1716A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pointe coudée ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "240",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "125",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "6",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230516011"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pointe coudée ",
+            "StandardisedArticleDescription": "Pointe coudée ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1716A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1716A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017160040"
+    ],
+    "URL": []
+}

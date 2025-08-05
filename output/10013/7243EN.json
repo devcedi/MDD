@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7243EN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure montante en cuir pigmenté hydrofuge, délaçage rapide",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "317",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230858067"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure montante en cuir pigmenté hydrofuge, délaçage rapide",
+            "StandardisedArticleDescription": "Chaussure montante en cuir pigmenté hydrofuge, délaçage rapide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7243EN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7243EN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072430848"
+    ],
+    "URL": []
+}

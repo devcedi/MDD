@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1674A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Equerre de menuisier, lame en acier talon en aluminium, double échelle millimétrique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "400",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "214",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230463681"
+    ],
+    "GenArts": [
+        {
+            "Description": "Equerre de menuisier, lame en acier talon en aluminium, double échelle millimétrique",
+            "StandardisedArticleDescription": "Equerre de menuisier, lame en acier talon en aluminium, double échelle millimétrique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1674A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1674A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016740140"
+    ],
+    "URL": []
+}

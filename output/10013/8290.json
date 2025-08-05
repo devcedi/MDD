@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8290",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pontet AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ø A \nmm",
+            "Value": "8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "23",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "ø C \nmm",
+            "Value": "5,2",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "51",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230637020"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pontet AISI 316",
+            "StandardisedArticleDescription": "Pontet AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8290.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8290.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082900208"
+    ],
+    "URL": []
+}

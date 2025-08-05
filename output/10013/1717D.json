@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1717D",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Grattoir droit plat à coupe frontale",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "23",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "240",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230138404"
+    ],
+    "GenArts": [
+        {
+            "Description": "Grattoir droit plat à coupe frontale",
+            "StandardisedArticleDescription": "Grattoir droit plat à coupe frontale",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1717D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1717D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017170320"
+    ],
+    "URL": []
+}

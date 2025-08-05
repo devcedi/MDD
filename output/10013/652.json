@@ -1,0 +1,67 @@
+{
+    "ArtNo": "652",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "74",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "LA\nmm",
+            "Value": "32",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "47,5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230590059"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale",
+            "StandardisedArticleDescription": "Clé polygonale",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "652.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/652.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006520032"
+    ],
+    "URL": []
+}

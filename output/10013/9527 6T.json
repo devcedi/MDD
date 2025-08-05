@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9527 6T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Set 6 tasses à café",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820583"
+    ],
+    "GenArts": [
+        {
+            "Description": "Set 6 tasses à café",
+            "StandardisedArticleDescription": "Set 6 tasses à café",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "95276T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/95276T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095270001"
+    ],
+    "URL": []
+}

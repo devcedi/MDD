@@ -1,0 +1,77 @@
+{
+    "ArtNo": "DP38175/0103",
+    "Attributs": [
+        {
+            "Attribute": "C304 - 304.1.440",
+            "Value": "C304 - 304.1.444",
+            "SortNo": 1
+        },
+        {
+            "Attribute": 9505,
+            "Value": "A 942 320 0121",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A 942 320 0321",
+            "Value": "A 942 320 2821",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A 942 320 4921",
+            "Value": "A 942 320 5121",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "1KF 21-1",
+            "Value": "1KF 21-21",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "1KF 21-3-232",
+            "Value": "1VSC 285-30 / 206781",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "D12T10",
+            "Value": "",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005162"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Avec butée piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble |Avec butée piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A191,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A191,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP38175/0103"
+    ],
+    "URL": []
+}

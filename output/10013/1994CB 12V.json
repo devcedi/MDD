@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1994CB 12V",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chargeur de batterie rapide, 12V, 110V-240V",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809447902"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chargeur de batterie rapide, 12V, 110V-240V",
+            "StandardisedArticleDescription": "Chargeur de batterie rapide, 12V, 110V-240V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1994CB12V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1994CB12V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019940123"
+    ],
+    "URL": []
+}

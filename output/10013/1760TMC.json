@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1760TMC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Caméra thermique à infrarouges Caméra thermique compacte pour le mesure de la température sans contact, préconisée pour applications dans les secteurs du bâtiment, de la mécanique, les installations électriques et de chauffage.",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230888569"
+    ],
+    "GenArts": [
+        {
+            "Description": "Caméra thermique à infrarouges Caméra thermique compacte pour le mesure de la température sans contact, préconisée pour applications dans les secteurs du bâtiment, de la mécanique, les installations électriques et de chauffage.",
+            "StandardisedArticleDescription": "Caméra thermique à infrarouges Caméra thermique compacte pour le mesure de la température sans contact, préconisée pour applications dans les secteurs du bâtiment, de la mécanique, les installations électriques et de chauffage.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760TMC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760TMC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600710"
+    ],
+    "URL": []
+}

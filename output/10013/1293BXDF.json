@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1293BX/DF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir 1293BX/DF, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230454627"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir 1293BX/DF, vide",
+            "StandardisedArticleDescription": "Présentoir 1293BX/DF, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1293BX_slash_DF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1293BX_slash_DF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012930756"
+    ],
+    "URL": []
+}

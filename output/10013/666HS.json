@@ -1,0 +1,87 @@
+{
+    "ArtNo": "666HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à déclenchement ZERO-RESET pour serrage à droite, avec système de retenue antichute H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Nm",
+            "Value": "60÷300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Kgfm",
+            "Value": "6÷30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "lbf.ft",
+            "Value": "50÷220",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "■",
+            "Value": "1/2",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "42",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "LC \nsystem",
+            "Value": "•",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "g",
+            "Value": "1270",
+            "SortNo": 9
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809439327"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à déclenchement ZERO-RESET pour serrage à droite, avec système de retenue antichute H-SAFE",
+            "StandardisedArticleDescription": "Clé dynamométrique à déclenchement ZERO-RESET pour serrage à droite, avec système de retenue antichute H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "666HS-ZR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/666HS-ZR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006664731"
+    ],
+    "URL": []
+}

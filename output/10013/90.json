@@ -1,0 +1,77 @@
+{
+    "ArtNo": "90",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale contre-coudée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "46x50",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "500",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "67,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "73,5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "47,3",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "S1 \nmm",
+            "Value": "22,0",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230023984"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale contre-coudée",
+            "StandardisedArticleDescription": "Clé polygonale contre-coudée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000900100"
+    ],
+    "URL": []
+}

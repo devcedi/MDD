@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498/4A-8A CO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Câble à œillets pour 1498/4A et 8A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230795348"
+    ],
+    "GenArts": [
+        {
+            "Description": "Câble à œillets pour 1498/4A et 8A",
+            "StandardisedArticleDescription": "Câble à œillets pour 1498/4A et 8A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498_slash_4A-8ACO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498_slash_4A-8ACO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980114"
+    ],
+    "URL": []
+}

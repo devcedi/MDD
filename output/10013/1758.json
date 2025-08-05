@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1758",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Entonnoir auto-ajustable",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873756"
+    ],
+    "GenArts": [
+        {
+            "Description": "Entonnoir auto-ajustable",
+            "StandardisedArticleDescription": "Entonnoir auto-ajustable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1758.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1758.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017580020"
+    ],
+    "URL": []
+}

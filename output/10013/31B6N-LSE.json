@@ -1,0 +1,47 @@
+{
+    "ArtNo": "31/B6N-LSE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Portefeuille d’outils enroulable en polyester durable, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809245690"
+    ],
+    "GenArts": [
+        {
+            "Description": "Portefeuille d’outils enroulable en polyester durable, vide",
+            "StandardisedArticleDescription": "Portefeuille d’outils enroulable en polyester durable, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "31_slash_B6N-LSE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/31_slash_B6N-LSE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "020020000"
+    ],
+    "URL": []
+}

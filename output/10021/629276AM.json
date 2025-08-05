@@ -1,0 +1,34 @@
+{
+    "ArtNo": "629276AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694012965"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servo d'embrayage Volvo",
+            "StandardisedArticleDescription": "Servo d'embrayage Volvo",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C28",
+            "Extension": "",
+            "Path": "/img/10021/=C28"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A28"
+    ],
+    "URL": []
+}

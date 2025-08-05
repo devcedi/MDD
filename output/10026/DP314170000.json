@@ -1,0 +1,57 @@
+{
+    "ArtNo": "DP31417/0000",
+    "Attributs": [
+        {
+            "Attribute": "1R 11-772",
+            "Value": "1DK 20A-51",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1TC 300-38 / 206925",
+            "Value": "M 060924",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D12B29",
+            "Value": "KR 915-51",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004530"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane",
+            "StandardisedArticleDescription": "Membrane",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A118,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A118,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP31417/0000"
+    ],
+    "URL": []
+}

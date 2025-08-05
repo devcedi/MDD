@@ -1,0 +1,67 @@
+{
+    "ArtNo": "395",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé articulée pour écrous de robinet",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "15÷32 mm \n5/8\"÷1\"1/4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "240",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "120",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "50",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086668"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé articulée pour écrous de robinet",
+            "StandardisedArticleDescription": "Clé articulée pour écrous de robinet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "395.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/395.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003950001"
+    ],
+    "URL": []
+}

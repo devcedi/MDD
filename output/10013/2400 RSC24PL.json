@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2400 RSC24/PL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plan de travail en bois ",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809187792"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plan de travail en bois ",
+            "StandardisedArticleDescription": "Plan de travail en bois ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2400RSC24_slash_PL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2400RSC24_slash_PL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024004901"
+    ],
+    "URL": []
+}

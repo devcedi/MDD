@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1914",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tuyau spiralé en polyuréthane 98 Shore, extensible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "DxD1 \nmm",
+            "Value": "5x8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø GAS \nBSP",
+            "Value": "1/4\"",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "500",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "250",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230690179"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tuyau spiralé en polyuréthane 98 Shore, extensible",
+            "StandardisedArticleDescription": "Tuyau spiralé en polyuréthane 98 Shore, extensible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1914.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1914.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019140060"
+    ],
+    "URL": []
+}

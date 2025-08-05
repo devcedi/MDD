@@ -1,0 +1,57 @@
+{
+    "ArtNo": "450AL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mandrin et foret pilote pour 450",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "32÷152",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "70",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230091150"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mandrin et foret pilote pour 450",
+            "StandardisedArticleDescription": "Mandrin et foret pilote pour 450",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "450AL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/450AL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004500215"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "960KC-M8/M9/M10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition d'outils pour le démontage des bougies de préchauffage cassées ou endommagées",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230739113"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition d'outils pour le démontage des bougies de préchauffage cassées ou endommagées",
+            "StandardisedArticleDescription": "Composition d'outils pour le démontage des bougies de préchauffage cassées ou endommagées",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960KC-M8_slash_M9_slash_M10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960KC-M8_slash_M9_slash_M10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600801"
+    ],
+    "URL": []
+}

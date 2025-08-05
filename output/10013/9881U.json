@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9881U",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Détergent industriel alcalin pour cuve à ultrasons",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331973"
+    ],
+    "GenArts": [
+        {
+            "Description": "Détergent industriel alcalin pour cuve à ultrasons",
+            "StandardisedArticleDescription": "Détergent industriel alcalin pour cuve à ultrasons",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9881U.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9881U.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098812010"
+    ],
+    "URL": []
+}

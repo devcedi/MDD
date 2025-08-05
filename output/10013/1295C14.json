@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1295/C14",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis à frapper avec 14 embouts et 1 douille porte-embouts",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230517551"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis à frapper avec 14 embouts et 1 douille porte-embouts",
+            "StandardisedArticleDescription": "Tournevis à frapper avec 14 embouts et 1 douille porte-embouts",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1295_slash_C14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1295_slash_C14.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012950108"
+    ],
+    "URL": []
+}

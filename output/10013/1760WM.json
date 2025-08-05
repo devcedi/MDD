@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1760WM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anémomètre numérique avec capteur à pales de ventilateur avec caoutchouc extérieur antidérapant et antichoc",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "170",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809382289"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anémomètre numérique avec capteur à pales de ventilateur avec caoutchouc extérieur antidérapant et antichoc",
+            "StandardisedArticleDescription": "Anémomètre numérique avec capteur à pales de ventilateur avec caoutchouc extérieur antidérapant et antichoc",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760WM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760WM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600800"
+    ],
+    "URL": []
+}

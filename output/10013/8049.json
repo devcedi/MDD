@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8049",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage mâle orientable double articulation, acier allié haute résistance",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M18",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "E \nmm",
+            "Value": "30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "40",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WLL \nkg",
+            "Value": "2000",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809565859"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage mâle orientable double articulation, acier allié haute résistance",
+            "StandardisedArticleDescription": "Anneau de levage mâle orientable double articulation, acier allié haute résistance",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8049.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8049.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080490118"
+    ],
+    "URL": []
+}

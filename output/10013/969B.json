@@ -1,0 +1,62 @@
+{
+    "ArtNo": "969B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douilles de serrage pour écrous de moyeux",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " ",
+            "Value": "49,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "76",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230667416"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douilles de serrage pour écrous de moyeux",
+            "StandardisedArticleDescription": "Douilles de serrage pour écrous de moyeux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "969B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/969B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009690136"
+    ],
+    "URL": []
+}

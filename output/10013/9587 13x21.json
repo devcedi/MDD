@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9587 13x21",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Carnet, 13x21 cm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\ncm",
+            "Value": "13",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\ncm",
+            "Value": "21",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820828"
+    ],
+    "GenArts": [
+        {
+            "Description": "Carnet, 13x21 cm",
+            "StandardisedArticleDescription": "Carnet, 13x21 cm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "958713x21.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/958713x21.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095870013"
+    ],
+    "URL": []
+}

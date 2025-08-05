@@ -1,0 +1,47 @@
+{
+    "ArtNo": "561/1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multiplicateur de couple pour serrages à droite et gauche rapport 5:1 avec deux jambes de force",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230850917"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multiplicateur de couple pour serrages à droite et gauche rapport 5:1 avec deux jambes de force",
+            "StandardisedArticleDescription": "Multiplicateur de couple pour serrages à droite et gauche rapport 5:1 avec deux jambes de force",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "561_slash_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/561_slash_1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005610010"
+    ],
+    "URL": []
+}

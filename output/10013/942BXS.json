@@ -1,0 +1,47 @@
+{
+    "ArtNo": "942BX/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 12 clés à douille emmanchées (art. 942BX)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230434803"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 12 clés à douille emmanchées (art. 942BX)",
+            "StandardisedArticleDescription": "Jeu de 12 clés à douille emmanchées (art. 942BX)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "942BX_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/942BX_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009420030"
+    ],
+    "URL": []
+}

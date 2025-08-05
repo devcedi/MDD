@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3023",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étai télescopique avec réglage par vis",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H\nmin-Max mm",
+            "Value": "1350÷2030",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "300",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809209050"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étai télescopique avec réglage par vis",
+            "StandardisedArticleDescription": "Étai télescopique avec réglage par vis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3023.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3023.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030230050"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "11246A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Disque à lamelles plat Zirconium Céramique avec support plastique. Gamme TOP LINE avec simple lamelle pour agressivité maximum et très longue durée de vie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "115",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P",
+            "Value": "60",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F\nmm",
+            "Value": "22,23",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230946474"
+    ],
+    "GenArts": [
+        {
+            "Description": "Disque à lamelles plat Zirconium Céramique avec support plastique. Gamme TOP LINE avec simple lamelle pour agressivité maximum et très longue durée de vie",
+            "StandardisedArticleDescription": "Disque à lamelles plat Zirconium Céramique avec support plastique. Gamme TOP LINE avec simple lamelle pour agressivité maximum et très longue durée de vie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11246A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11246A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "112460006"
+    ],
+    "URL": []
+}

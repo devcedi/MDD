@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1766",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ventouse double pour pare-brise",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " max \nkg",
+            "Value": "50",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230051284"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ventouse double pour pare-brise",
+            "StandardisedArticleDescription": "Ventouse double pour pare-brise",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1766.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1766.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017660001"
+    ],
+    "URL": []
+}

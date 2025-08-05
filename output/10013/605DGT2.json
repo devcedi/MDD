@@ -1,0 +1,47 @@
+{
+    "ArtNo": "605DGT/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique électronique pour un réglage de couple jusqu'à 20 Nm",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809507040"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique électronique pour un réglage de couple jusqu'à 20 Nm",
+            "StandardisedArticleDescription": "Clé dynamométrique électronique pour un réglage de couple jusqu'à 20 Nm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "605DGT_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/605DGT_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006050302"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8043",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage femelle en acier allié, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "M30",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "3,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F\nmm",
+            "Value": "60",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WLL\nkg",
+            "Value": "12000",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230789156"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage femelle en acier allié, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Anneau de levage femelle en acier allié, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8043.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8043.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080430230"
+    ],
+    "URL": []
+}

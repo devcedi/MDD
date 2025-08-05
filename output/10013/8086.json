@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8086",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de tête triple en acier allié, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "26500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "20",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "350",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "190",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230597812"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de tête triple en acier allié, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Anneau de tête triple en acier allié, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8086.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8086.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080860126"
+    ],
+    "URL": []
+}

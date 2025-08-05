@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1982/12V",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Visseuse à chocs réversible, 12V (corps de la machine fourni sans batterie)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809447841"
+    ],
+    "GenArts": [
+        {
+            "Description": "Visseuse à chocs réversible, 12V (corps de la machine fourni sans batterie)",
+            "StandardisedArticleDescription": "Visseuse à chocs réversible, 12V (corps de la machine fourni sans batterie)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1982_slash_12V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1982_slash_12V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019820113"
+    ],
+    "URL": []
+}

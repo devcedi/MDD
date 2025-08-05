@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8001TZ-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cage en tube pour tendeurs, galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n”",
+            "Value": "1",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "3060",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "255",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230814568"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cage en tube pour tendeurs, galvanisé",
+            "StandardisedArticleDescription": "Cage en tube pour tendeurs, galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8001TZ-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8001TZ-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080019524"
+    ],
+    "URL": []
+}

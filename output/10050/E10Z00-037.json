@@ -1,0 +1,67 @@
+{
+    "ArtNo": "E10Z00-037",
+    "Attributs": [
+        {
+            "Attribute": "Gamme produit",
+            "Value": "EVOTION",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Logo Département",
+            "Value": "037",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Longueur en mm",
+            "Value": 300,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Largeur en mm",
+            "Value": 200,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Conditionnement",
+            "Value": "par 50",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "FAAB FABRICAUTO",
+    "BrandNo": "10050",
+    "Documents": [],
+    "GTIN": [
+        "3661174044206"
+    ],
+    "GenArts": [
+        {
+            "Description": "EVOTION - Plaque aluminium SIV - Milieu de gamme",
+            "StandardisedArticleDescription": "EVOTION - Plaque aluminium SIV - Milieu de gamme",
+            "GenArtNo": -10050
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "wp_logo-ff.png",
+            "Extension": "PNG",
+            "Path": "/img/10050/wp_logo-ff.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "plaque_aluminium_evotion_carree_300x200_E10Z00-037.webp",
+            "Extension": "WEBP",
+            "Path": "/img/10050/plaque_aluminium_evotion_carree_300x200_E10Z00-037.webp",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "E10Z00-037"
+    ],
+    "URL": []
+}

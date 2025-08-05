@@ -1,0 +1,62 @@
+{
+    "ArtNo": "951MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé mâle 6 pans en T",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "200",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "105",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230954110"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé mâle 6 pans en T",
+            "StandardisedArticleDescription": "Clé mâle 6 pans en T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "951MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/951MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009510710"
+    ],
+    "URL": []
+}

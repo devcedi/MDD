@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1696B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Niveau avec semelle magnétique corps en profilé aluminium, surfaces anodisées 2 fioles incassables, précision: 1 mm/m",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "49",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "22",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086460"
+    ],
+    "GenArts": [
+        {
+            "Description": "Niveau avec semelle magnétique corps en profilé aluminium, surfaces anodisées 2 fioles incassables, précision: 1 mm/m",
+            "StandardisedArticleDescription": "Niveau avec semelle magnétique corps en profilé aluminium, surfaces anodisées 2 fioles incassables, précision: 1 mm/m",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1696B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1696B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016960206"
+    ],
+    "URL": []
+}

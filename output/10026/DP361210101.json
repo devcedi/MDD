@@ -1,0 +1,52 @@
+{
+    "ArtNo": "DP36121/0101",
+    "Attributs": [
+        {
+            "Attribute": "3 228 1043 00",
+            "Value": "3 229 0043 00",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "3 229 1043 00",
+            "Value": "YP 102619ILKW",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005544"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | ",
+            "StandardisedArticleDescription": "Diaphragme assemble | ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A163,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A163,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP36121/0101"
+    ],
+    "URL": []
+}

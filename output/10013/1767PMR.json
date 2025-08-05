@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1767PMR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bac de rangement magnétique rectangulaire",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230478562"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bac de rangement magnétique rectangulaire",
+            "StandardisedArticleDescription": "Bac de rangement magnétique rectangulaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1767PMR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1767PMR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017670010"
+    ],
+    "URL": []
+}

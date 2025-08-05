@@ -1,0 +1,52 @@
+{
+    "ArtNo": "DP3944/0000",
+    "Attributs": [
+        {
+            "Attribute": "A 946 320 0121",
+            "Value": "A 946 320 0221",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1KF 25-2-232",
+            "Value": "1KF 25-3-232",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004288"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane ",
+            "StandardisedArticleDescription": "Membrane ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A207,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A207,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP3944/0000"
+    ],
+    "URL": []
+}

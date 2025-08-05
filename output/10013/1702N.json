@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1702N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Burin large",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "70",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "SxH \nmm",
+            "Value": "13x23",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230389622"
+    ],
+    "GenArts": [
+        {
+            "Description": "Burin large",
+            "StandardisedArticleDescription": "Burin large",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1702N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1702N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017020007"
+    ],
+    "URL": []
+}

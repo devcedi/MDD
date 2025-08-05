@@ -1,0 +1,67 @@
+{
+    "ArtNo": "92BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Manche tubulaire pour 91BA, antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "92BA/3",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "760",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "91BA\nmm",
+            "Value": "46÷55",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "32",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230734422"
+    ],
+    "GenArts": [
+        {
+            "Description": "Manche tubulaire pour 91BA, antidéflagrante",
+            "StandardisedArticleDescription": "Manche tubulaire pour 91BA, antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "92BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/92BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000920830"
+    ],
+    "URL": []
+}

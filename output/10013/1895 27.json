@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1895 27",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cuve de lavage à ultrasons de 27 litres",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " Max",
+            "Value": "25",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230872698"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cuve de lavage à ultrasons de 27 litres",
+            "StandardisedArticleDescription": "Cuve de lavage à ultrasons de 27 litres",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "189527.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/189527.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018950270"
+    ],
+    "URL": []
+}

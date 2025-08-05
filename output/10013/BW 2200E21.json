@@ -1,0 +1,47 @@
+{
+    "ArtNo": "BW 2200E/21",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Caisse Métallique à outils 3 tiroirs comprenant 159 outils pour la maintenance générale",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWORKER",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809355948"
+    ],
+    "GenArts": [
+        {
+            "Description": "Caisse Métallique à outils 3 tiroirs comprenant 159 outils pour la maintenance générale",
+            "StandardisedArticleDescription": "Caisse Métallique à outils 3 tiroirs comprenant 159 outils pour la maintenance générale",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "BW-000.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW-000.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "BW2200E_slash_21.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW2200E_slash_21.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022006201"
+    ],
+    "URL": []
+}

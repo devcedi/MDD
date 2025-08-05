@@ -1,0 +1,57 @@
+{
+    "ArtNo": "641",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourche pour clés dynamométriques 604B/5 et 604B/10 entraînement 8 mm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "42",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230731964"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourche pour clés dynamométriques 604B/5 et 604B/10 entraînement 8 mm",
+            "StandardisedArticleDescription": "Clé à fourche pour clés dynamométriques 604B/5 et 604B/10 entraînement 8 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "641.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/641.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006410010"
+    ],
+    "URL": []
+}

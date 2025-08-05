@@ -1,0 +1,62 @@
+{
+    "ArtNo": "DP391304/0101",
+    "Attributs": [
+        {
+            "Attribute": 1774804,
+            "Value": 1903608,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 1944314,
+            "Value": 2198915,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 2357460,
+            "Value": 2357532,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 2808412,
+            "Value": "",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004974"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A200,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A200,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP391304/0101"
+    ],
+    "URL": []
+}

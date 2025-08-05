@@ -1,0 +1,45 @@
+{
+    "ArtNo": "RKC439",
+    "Attributs": [
+        {
+            "Attribute": "1E 26-1",
+            "Value": "S1 180-340 NS",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "B 116-1",
+            "Value": "",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966017932"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support supérieur gauche (X62) ",
+            "StandardisedArticleDescription": "Support supérieur gauche (X62) ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKC439"
+    ],
+    "URL": []
+}

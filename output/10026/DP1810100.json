@@ -1,0 +1,67 @@
+{
+    "ArtNo": "DP181/0100",
+    "Attributs": [
+        {
+            "Attribute": "D10B01",
+            "Value": 1075891,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 1076416,
+            "Value": 20374510,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 20456152,
+            "Value": 20531985,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 20582215,
+            "Value": 21961456,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 3171693,
+            "Value": 70321693,
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004646"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | ",
+            "StandardisedArticleDescription": "Diaphragme assemble | ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A105,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A105,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP181/0100"
+    ],
+    "URL": []
+}

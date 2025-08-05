@@ -1,0 +1,77 @@
+{
+    "ArtNo": "DP3817/0000",
+    "Attributs": [
+        {
+            "Attribute": "C304 - 304.1.441",
+            "Value": "C304 - 304.1.443",
+            "SortNo": 1
+        },
+        {
+            "Attribute": 9506,
+            "Value": "A 942 320 0221",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A 942 320 0421",
+            "Value": "A 942 320 2921",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A 942 320 5021",
+            "Value": "A 942 320 5221",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "1KF 21-2",
+            "Value": "1KF 21-22",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "1KF 21-4-232",
+            "Value": "1VSC 285-30 / 206783",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "D12T11",
+            "Value": "",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004356"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane ",
+            "StandardisedArticleDescription": "Membrane ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A190,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A190,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP3817/0000"
+    ],
+    "URL": []
+}

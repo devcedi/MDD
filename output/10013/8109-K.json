@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8109-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur à deux chapes en acier allié galvanizé à chaud",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ØxE\n”",
+            "Value": "1/2x9",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈ \nmm",
+            "Value": "M12x230",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "1000",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L min\nmm",
+            "Value": "368",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230816210"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur à deux chapes en acier allié galvanizé à chaud",
+            "StandardisedArticleDescription": "Tendeur à deux chapes en acier allié galvanizé à chaud",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8109-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8109-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081099012"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1479U/13",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Spatule d’extraction de clips pour carrossiers en acier inoxydable",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230364377"
+    ],
+    "GenArts": [
+        {
+            "Description": "Spatule d’extraction de clips pour carrossiers en acier inoxydable",
+            "StandardisedArticleDescription": "Spatule d’extraction de clips pour carrossiers en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1479U_slash_13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1479U_slash_13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014790010"
+    ],
+    "URL": []
+}

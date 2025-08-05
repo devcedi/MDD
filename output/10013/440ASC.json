@@ -1,0 +1,57 @@
+{
+    "ArtNo": "440ASC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Filière ronde, filetage UNC, pas gros, en acier au chrome",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "UNC",
+            "Value": "1\"x8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø x S\nmm",
+            "Value": "50,8 x 16",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230172118"
+    ],
+    "GenArts": [
+        {
+            "Description": "Filière ronde, filetage UNC, pas gros, en acier au chrome",
+            "StandardisedArticleDescription": "Filière ronde, filetage UNC, pas gros, en acier au chrome",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "440ASC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/440ASC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004400230"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "3099E",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Housse de moto d'extérieur, résistante à l'eau et à la poussière",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "L",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809174105"
+    ],
+    "GenArts": [
+        {
+            "Description": "Housse de moto d'extérieur, résistante à l'eau et à la poussière",
+            "StandardisedArticleDescription": "Housse de moto d'extérieur, résistante à l'eau et à la poussière",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3099E.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3099E.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030990103"
+    ],
+    "URL": []
+}

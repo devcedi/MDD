@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8188CG/25",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Arrimage extérieur, 2 crochets et boutonnières, 400 kg, boucle à rochet ruban en polyester haute ténacité (PES)",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nm",
+            "Value": "5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "480",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L2 \nmm",
+            "Value": "170",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "STF\ndaN",
+            "Value": "120",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230641973"
+    ],
+    "GenArts": [
+        {
+            "Description": "Arrimage extérieur, 2 crochets et boutonnières, 400 kg, boucle à rochet ruban en polyester haute ténacité (PES)",
+            "StandardisedArticleDescription": "Arrimage extérieur, 2 crochets et boutonnières, 400 kg, boucle à rochet ruban en polyester haute ténacité (PES)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8188CG_slash_25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8188CG_slash_25.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081880450"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8148F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Câble métallique en acier galvanisé gainé en croix avec crochet haute résistance",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \n t",
+            "Value": "3,2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "øF",
+            "Value": "16",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809519470"
+    ],
+    "GenArts": [
+        {
+            "Description": "Câble métallique en acier galvanisé gainé en croix avec crochet haute résistance",
+            "StandardisedArticleDescription": "Câble métallique en acier galvanisé gainé en croix avec crochet haute résistance",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8148F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8148F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081480553"
+    ],
+    "URL": []
+}

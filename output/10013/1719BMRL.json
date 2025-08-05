@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1719BM/RL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Râpe lime plate manche en matériau plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \n\"",
+            "Value": "8",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230541136"
+    ],
+    "GenArts": [
+        {
+            "Description": "Râpe lime plate manche en matériau plastique",
+            "StandardisedArticleDescription": "Râpe lime plate manche en matériau plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1719BM_slash_RL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1719BM_slash_RL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017190360"
+    ],
+    "URL": []
+}

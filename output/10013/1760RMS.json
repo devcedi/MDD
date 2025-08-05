@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1760/RMS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multimètre digital industriel précis et solide, dans étui protecteur comoulé de 6 mm, avec caoutchouc externe antiglisse et antichoc",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230562049"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multimètre digital industriel précis et solide, dans étui protecteur comoulé de 6 mm, avec caoutchouc externe antiglisse et antichoc",
+            "StandardisedArticleDescription": "Multimètre digital industriel précis et solide, dans étui protecteur comoulé de 6 mm, avec caoutchouc externe antiglisse et antichoc",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760_slash_RMS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760_slash_RMS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600020"
+    ],
+    "URL": []
+}

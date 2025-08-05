@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1098PL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tenaille type russe, branches gainées PVC",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \n~",
+            "Value": "280",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "18",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230104805"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tenaille type russe, branches gainées PVC",
+            "StandardisedArticleDescription": "Tenaille type russe, branches gainées PVC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1098PL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1098PL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010980380"
+    ],
+    "URL": []
+}

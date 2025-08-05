@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C58MP-1M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etagère pour établis d'une longueur de 2,1m modulables C58BC",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809639222"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etagère pour établis d'une longueur de 2,1m modulables C58BC",
+            "StandardisedArticleDescription": "Etagère pour établis d'une longueur de 2,1m modulables C58BC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C58MP-1M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C58MP-1M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "058000841"
+    ],
+    "URL": []
+}

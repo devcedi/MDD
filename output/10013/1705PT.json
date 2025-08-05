@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1705PT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poudre à tracer",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "250",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230428772"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poudre à tracer",
+            "StandardisedArticleDescription": "Poudre à tracer",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1705PT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1705PT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017050025"
+    ],
+    "URL": []
+}

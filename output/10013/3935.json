@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3935",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Indicateur d’usure de la chaîne",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "120",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "48",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "32",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "1,9",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882505"
+    ],
+    "GenArts": [
+        {
+            "Description": "Indicateur d’usure de la chaîne",
+            "StandardisedArticleDescription": "Indicateur d’usure de la chaîne",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3935.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3935.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039350010"
+    ],
+    "URL": []
+}

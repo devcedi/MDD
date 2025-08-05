@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1260/S6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 tournevis pour vis à fente (art. 1260)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230610993"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 tournevis pour vis à fente (art. 1260)",
+            "StandardisedArticleDescription": "Jeu de 6 tournevis pour vis à fente (art. 1260)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1260_slash_S6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1260_slash_S6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012600306"
+    ],
+    "URL": []
+}

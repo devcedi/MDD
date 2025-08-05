@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKC329",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966026910"
+    ],
+    "GenArts": [
+        {
+            "Description": "vis pour DP34004/0103+DP32618 ",
+            "StandardisedArticleDescription": "vis pour DP34004/0103+DP32618 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKC329"
+    ],
+    "URL": []
+}

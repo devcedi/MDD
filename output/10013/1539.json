@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1539",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tire-tôles à inertie",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230139029"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tire-tôles à inertie",
+            "StandardisedArticleDescription": "Tire-tôles à inertie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1539.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1539.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015390001"
+    ],
+    "URL": []
+}

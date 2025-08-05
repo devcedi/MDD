@@ -1,0 +1,57 @@
+{
+    "ArtNo": "DP34580/0102",
+    "Attributs": [
+        {
+            "Attribute": "1R 13-738",
+            "Value": "1DK 28F-4",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1T19 E4 / 206779",
+            "Value": 5010239213,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 5010294307,
+            "Value": "D13B40",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005797"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Gamme T - séries Medium / FM / FH Medium piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |Gamme T - séries Medium / FM / FH Medium piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A144,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A144,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34580/0102"
+    ],
+    "URL": []
+}

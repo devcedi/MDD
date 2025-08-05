@@ -1,0 +1,47 @@
+{
+    "ArtNo": "971/C8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit d'intervention pour valves de roues pilotées TPMS",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230779270"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit d'intervention pour valves de roues pilotées TPMS",
+            "StandardisedArticleDescription": "Kit d'intervention pour valves de roues pilotées TPMS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "971_slash_C8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/971_slash_C8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009710108"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "8050 D49÷D53",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit cran de sécurité et pièces de rechange pour crochets de levage",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230876986"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit cran de sécurité et pièces de rechange pour crochets de levage",
+            "StandardisedArticleDescription": "Kit cran de sécurité et pièces de rechange pour crochets de levage",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8050D49D52.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8050D49D52.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080500852"
+    ],
+    "URL": []
+}

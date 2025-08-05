@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9599CB-WN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Vélo de ville gris Atala® avec cadre aluminium, levier de vitesses Shimano® 6 vitesses, freins V-Brake®, jantes aluminium 28\"",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809510156"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vélo de ville gris Atala® avec cadre aluminium, levier de vitesses Shimano® 6 vitesses, freins V-Brake®, jantes aluminium 28\"",
+            "StandardisedArticleDescription": "Vélo de ville gris Atala® avec cadre aluminium, levier de vitesses Shimano® 6 vitesses, freins V-Brake®, jantes aluminium 28\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9599CB-WN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9599CB-WN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095990024"
+    ],
+    "URL": []
+}

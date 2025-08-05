@@ -1,0 +1,52 @@
+{
+    "ArtNo": "35PMR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Protecteur pour burin",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020334"
+    ],
+    "GenArts": [
+        {
+            "Description": "Protecteur pour burin",
+            "StandardisedArticleDescription": "Protecteur pour burin",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "35PMR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/35PMR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000350026"
+    ],
+    "URL": []
+}

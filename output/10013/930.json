@@ -1,0 +1,77 @@
+{
+    "ArtNo": "930",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé en tube droite 12 pans gros effort",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "30x32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "40,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "43,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Ø2 \nmm",
+            "Value": "23,0",
+            "SortNo": 6
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "32,0",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230036731"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé en tube droite 12 pans gros effort",
+            "StandardisedArticleDescription": "Clé en tube droite 12 pans gros effort",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "930.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/930.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009300056"
+    ],
+    "URL": []
+}

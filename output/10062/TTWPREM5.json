@@ -1,0 +1,62 @@
+{
+    "ArtNo": "TTWPREM5",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Tip Top Wheel nettoyant rénovateur alu acide 5L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Particulièrement efficace sur les dépôts de plaquettes de frein ainsi que les jantes oxydées. Exempt d'acide fluorhydrique.",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Nettoie et rénove en profondeur les jantes alliages très oxydées ainsi que les enjoliveurs.",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Pulvériser dilué à 10% de produit seulement. Formule très concentrée.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101018315"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "TTWPREM5.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/TTWPREM5.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "TTWPREM5"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "NT25",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Nettoyant universel parfumé 25L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Puissant, parfumé, pour toutes surfaces  ",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101012887"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "NT25.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/NT25.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "NT25"
+    ],
+    "URL": []
+}

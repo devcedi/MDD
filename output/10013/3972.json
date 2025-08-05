@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3972",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé extracteur pour mouvement central",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "252",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "78",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "4",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882666"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé extracteur pour mouvement central",
+            "StandardisedArticleDescription": "Clé extracteur pour mouvement central",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3972.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3972.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039720010"
+    ],
+    "URL": []
+}

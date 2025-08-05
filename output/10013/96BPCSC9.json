@@ -1,0 +1,47 @@
+{
+    "ArtNo": "96BPC/SC9",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support vide pour 96LC/SP8, 96L/SP8, 96BPC/SP9,  96N/SP9, 96/SP9, 96BP/SP9",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230634050"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support vide pour 96LC/SP8, 96L/SP8, 96BPC/SP9,  96N/SP9, 96/SP9, 96BP/SP9",
+            "StandardisedArticleDescription": "Support vide pour 96LC/SP8, 96L/SP8, 96BPC/SP9,  96N/SP9, 96/SP9, 96BP/SP9",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96BPC_slash_SC9.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96BPC_slash_SC9.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000960984"
+    ],
+    "URL": []
+}

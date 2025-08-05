@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1833XS/1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Torche d'inspection LED en aluminium anodisé renforcé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "92",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809127347"
+    ],
+    "GenArts": [
+        {
+            "Description": "Torche d'inspection LED en aluminium anodisé renforcé",
+            "StandardisedArticleDescription": "Torche d'inspection LED en aluminium anodisé renforcé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_torce.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_torce.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1833XS_slash_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1833XS_slash_1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018330000"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C55/PL-1,024",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plan de travail d'1 mètre pour extension sur ameublement atelier RSC55",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC55",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230932590"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plan de travail d'1 mètre pour extension sur ameublement atelier RSC55",
+            "StandardisedArticleDescription": "Plan de travail d'1 mètre pour extension sur ameublement atelier RSC55",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C55_slash_PL-1024.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C55_slash_PL-1024.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "055000131"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1559V/8T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Vis hydraulique pour extracteur de rotules P.L. 1559/36 et 1559/45",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Nm\n",
+            "Value": "80000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "t",
+            "Value": "8",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230574073"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vis hydraulique pour extracteur de rotules P.L. 1559/36 et 1559/45",
+            "StandardisedArticleDescription": "Vis hydraulique pour extracteur de rotules P.L. 1559/36 et 1559/45",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1559V_slash_8T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1559V_slash_8T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015590145"
+    ],
+    "URL": []
+}

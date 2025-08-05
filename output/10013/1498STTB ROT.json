@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498ST/TB ROT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rechange papier pour imprimantes 1498ST/TB",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230804187"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rechange papier pour imprimantes 1498ST/TB",
+            "StandardisedArticleDescription": "Rechange papier pour imprimantes 1498ST/TB",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498ST_slash_TBROT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498ST_slash_TBROT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980411"
+    ],
+    "URL": []
+}

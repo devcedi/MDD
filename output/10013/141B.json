@@ -1,0 +1,47 @@
+{
+    "ArtNo": "141/B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Trousse de 9 clés mixtes à cliquet, série droite",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230959542"
+    ],
+    "GenArts": [
+        {
+            "Description": "Trousse de 9 clés mixtes à cliquet, série droite",
+            "StandardisedArticleDescription": "Trousse de 9 clés mixtes à cliquet, série droite",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "141_slash_B_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/141_slash_B_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001410069"
+    ],
+    "URL": []
+}

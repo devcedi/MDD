@@ -1,0 +1,52 @@
+{
+    "ArtNo": "C88NR/1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir mural Robur, vide",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1 m",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809433868"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir mural Robur, vide",
+            "StandardisedArticleDescription": "Présentoir mural Robur, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "89.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/89.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C88NR_slash_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C88NR_slash_1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088000031"
+    ],
+    "URL": []
+}

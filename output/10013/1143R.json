@@ -1,0 +1,40 @@
+{
+    "ArtNo": "1143R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lames pour 1143",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230158518"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lames pour 1143",
+            "StandardisedArticleDescription": "Lames pour 1143",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011430011"
+    ],
+    "URL": []
+}

@@ -1,0 +1,82 @@
+{
+    "ArtNo": "8147S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chariot à pousser pour palans manuels",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL\n t",
+            "Value": "2,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L min\nmm",
+            "Value": "66",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L max\nmm",
+            "Value": "220",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "øF\nmm",
+            "Value": "40",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "E\nmm",
+            "Value": "47",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "B\nmm",
+            "Value": "226",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "C\nmm",
+            "Value": "310",
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809236926"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chariot à pousser pour palans manuels",
+            "StandardisedArticleDescription": "Chariot à pousser pour palans manuels",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8147S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8147S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081470020"
+    ],
+    "URL": []
+}

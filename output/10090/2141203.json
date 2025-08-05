@@ -1,0 +1,57 @@
+{
+    "ArtNo": "2141203",
+    "Attributs": [
+        {
+            "Attribute": "Longeur",
+            "Value": 163,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Largeur",
+            "Value": 108,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Numéro de clé",
+            "Value": 706,
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serrure à palette à clé en acier époxy noir",
+            "StandardisedArticleDescription": "Serrure à palette à clé en acier époxy noir",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2143203.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/2143203.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "2141203"
+    ],
+    "URL": []
+}

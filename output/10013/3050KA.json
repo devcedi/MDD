@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3050/KA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit d'élargissement pour élévateur 3050/600",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "107,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B\nmm",
+            "Value": "2100",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230953090"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit d'élargissement pour élévateur 3050/600",
+            "StandardisedArticleDescription": "Kit d'élargissement pour élévateur 3050/600",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3050_slash_KA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3050_slash_KA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030500223"
+    ],
+    "URL": []
+}

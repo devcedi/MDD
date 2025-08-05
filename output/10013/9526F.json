@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9526F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mini-réfrigérateur noir, d'une capacité de 63 litres et de classe énergétique F.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "474",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "450",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H  \nmm",
+            "Value": "640",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809526638"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mini-réfrigérateur noir, d'une capacité de 63 litres et de classe énergétique F.",
+            "StandardisedArticleDescription": "Mini-réfrigérateur noir, d'une capacité de 63 litres et de classe énergétique F.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9526F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9526F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095260005"
+    ],
+    "URL": []
+}

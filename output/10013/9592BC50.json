@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9592B/C50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lot de 50 stylos",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230816852"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lot de 50 stylos",
+            "StandardisedArticleDescription": "Lot de 50 stylos",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9592B_slash_C50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9592B_slash_C50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095920050"
+    ],
+    "URL": []
+}

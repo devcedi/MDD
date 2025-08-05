@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7907G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gilet de travail Nouveau design - Confort amélioré",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809136431"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gilet de travail Nouveau design - Confort amélioré",
+            "StandardisedArticleDescription": "Gilet de travail Nouveau design - Confort amélioré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7907G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7907G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "079070807"
+    ],
+    "URL": []
+}

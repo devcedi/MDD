@@ -1,0 +1,47 @@
+{
+    "ArtNo": "728B/C10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique comprenant 10 douilles à chocs 12 pans",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809501963"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique comprenant 10 douilles à chocs 12 pans",
+            "StandardisedArticleDescription": "Coffret métallique comprenant 10 douilles à chocs 12 pans",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "728B_slash_C10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/728B_slash_C10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007280930"
+    ],
+    "URL": []
+}

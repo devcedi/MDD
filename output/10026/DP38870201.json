@@ -1,0 +1,47 @@
+{
+    "ArtNo": "DP3887/0201",
+    "Attributs": [
+        {
+            "Attribute": 22047992,
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005025"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Montage sans butée, existe avec butée DP 3887/0101 piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |Montage sans butée, existe avec butée DP 3887/0101 piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A198,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A198,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP3887/0201"
+    ],
+    "URL": []
+}

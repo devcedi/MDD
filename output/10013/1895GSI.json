@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1895GSI",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Générateur de commande pour injecteurs électroniques (essence et GPL)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809612720"
+    ],
+    "GenArts": [
+        {
+            "Description": "Générateur de commande pour injecteurs électroniques (essence et GPL)",
+            "StandardisedArticleDescription": "Générateur de commande pour injecteurs électroniques (essence et GPL)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1895GSI.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1895GSI.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018950810"
+    ],
+    "URL": []
+}

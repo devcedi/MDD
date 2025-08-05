@@ -1,0 +1,62 @@
+{
+    "ArtNo": "blue1000",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Blue cleaner savon degraissant carrosserie 1000L",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Concentré, puissant et parfumé ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Carrosserie, moteur, chassis ",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Pulvériser à environ 5% à l’aide de la pompe de lavage ou d’un pulvérisateur.  Rincer à haute pression.",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101007869"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "blue1000.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/blue1000.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "blue1000"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1148A/R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de mors pour 1148A",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230387802"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de mors pour 1148A",
+            "StandardisedArticleDescription": "Paire de mors pour 1148A",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1148A_slash_R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1148A_slash_R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011480102"
+    ],
+    "URL": []
+}

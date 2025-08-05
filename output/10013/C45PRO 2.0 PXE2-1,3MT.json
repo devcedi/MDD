@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C45PRO 2.0 PXE/2-1,3MT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plan de travail pour C45PRO 2.0, en MDF revêtu d'acier inoxydable, 1360x615 mm",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaC45PRO",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809617589"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plan de travail pour C45PRO 2.0, en MDF revêtu d'acier inoxydable, 1360x615 mm",
+            "StandardisedArticleDescription": "Plan de travail pour C45PRO 2.0, en MDF revêtu d'acier inoxydable, 1360x615 mm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_C45PRO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_C45PRO.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C45PRO2_dot_0PXE_slash_2-13MT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C45PRO2_dot_0PXE_slash_2-13MT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "045002133"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1464BP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret de connecteurs permettant de tester les basses pressions (compatible avec le 1464T et le 1464T/N)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809608990"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret de connecteurs permettant de tester les basses pressions (compatible avec le 1464T et le 1464T/N)",
+            "StandardisedArticleDescription": "Coffret de connecteurs permettant de tester les basses pressions (compatible avec le 1464T et le 1464T/N)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1464BP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1464BP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014640200"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1498/PR35B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chargeur de batterie professionnel 6/12/24/36/48V",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P \nmm",
+            "Value": "245",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "435",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809629896"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chargeur de batterie professionnel 6/12/24/36/48V",
+            "StandardisedArticleDescription": "Chargeur de batterie professionnel 6/12/24/36/48V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498_slash_PR35B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498_slash_PR35B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980734"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3074O",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé pour bouchons de fourche Ohlins Electroniques",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "70,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "50,5",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809474076"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé pour bouchons de fourche Ohlins Electroniques",
+            "StandardisedArticleDescription": "Clé pour bouchons de fourche Ohlins Electroniques",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3074O.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3074O.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030740001"
+    ],
+    "URL": []
+}

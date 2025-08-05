@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1472B/RNLT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à double tête, spécialement conçue pour les colliers de serrage d'aspiration installés sur les moteurs Renault",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809195971"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à double tête, spécialement conçue pour les colliers de serrage d'aspiration installés sur les moteurs Renault",
+            "StandardisedArticleDescription": "Douille à double tête, spécialement conçue pour les colliers de serrage d'aspiration installés sur les moteurs Renault",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1472B_slash_RNLT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1472B_slash_RNLT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014720250"
+    ],
+    "URL": []
+}

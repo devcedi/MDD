@@ -1,0 +1,67 @@
+{
+    "ArtNo": "11260",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Roue à lamelles sur tige",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "15",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "h \nmm",
+            "Value": "15",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "3",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "P",
+            "Value": "60",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230946573"
+    ],
+    "GenArts": [
+        {
+            "Description": "Roue à lamelles sur tige",
+            "StandardisedArticleDescription": "Roue à lamelles sur tige",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11260.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11260.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "112600015"
+    ],
+    "URL": []
+}

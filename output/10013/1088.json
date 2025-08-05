@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1088",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince coupante frontale à faible effort de coupe branches gainées avec double couche de PVC antidérapant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "11",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "2,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A  \nmm",
+            "Value": "36,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "13,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230435176"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince coupante frontale à faible effort de coupe branches gainées avec double couche de PVC antidérapant",
+            "StandardisedArticleDescription": "Pince coupante frontale à faible effort de coupe branches gainées avec double couche de PVC antidérapant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1088.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1088.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010880010"
+    ],
+    "URL": []
+}

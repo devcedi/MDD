@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1293BP/S7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 clés mâles emmanchées à tête sphérique pour vis 6 pans (art. 1293BP)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230547732"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 clés mâles emmanchées à tête sphérique pour vis 6 pans (art. 1293BP)",
+            "StandardisedArticleDescription": "Jeu de 7 clés mâles emmanchées à tête sphérique pour vis 6 pans (art. 1293BP)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1293BP_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1293BP_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012930558"
+    ],
+    "URL": []
+}

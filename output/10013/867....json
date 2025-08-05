@@ -1,0 +1,67 @@
+{
+    "ArtNo": "867/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille porte-embouts pour 867",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2\"",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "38",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "22",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230363561"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille porte-embouts pour 867",
+            "StandardisedArticleDescription": "Douille porte-embouts pour 867",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "867_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/867_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008670601"
+    ],
+    "URL": []
+}

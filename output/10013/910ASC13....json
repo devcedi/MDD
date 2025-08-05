@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910AS/C13...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "13 douilles 12 pans et 5 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230106526"
+    ],
+    "GenArts": [
+        {
+            "Description": "13 douilles 12 pans et 5 accessoires",
+            "StandardisedArticleDescription": "13 douilles 12 pans et 5 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910AS_slash_C13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910AS_slash_C13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100925"
+    ],
+    "URL": []
+}

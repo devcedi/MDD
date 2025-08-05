@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3071A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Levier de pneu manuel pour motos cross et enduro",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "570",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "400",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "P\nmm",
+            "Value": "850",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "440",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809240152"
+    ],
+    "GenArts": [
+        {
+            "Description": "Levier de pneu manuel pour motos cross et enduro",
+            "StandardisedArticleDescription": "Levier de pneu manuel pour motos cross et enduro",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3071A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3071A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030710000"
+    ],
+    "URL": []
+}

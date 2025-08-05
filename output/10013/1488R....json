@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1488R...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaîne de rechange",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1488/L",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "520",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230525594"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaîne de rechange",
+            "StandardisedArticleDescription": "Chaîne de rechange",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1488R_dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1488R_dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014880150"
+    ],
+    "URL": []
+}

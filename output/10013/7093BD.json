@@ -1,0 +1,47 @@
+{
+    "ArtNo": "7093BD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lunettes de protection avec verres en polycarbonate foncé",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230725123"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lunettes de protection avec verres en polycarbonate foncé",
+            "StandardisedArticleDescription": "Lunettes de protection avec verres en polycarbonate foncé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7093BD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7093BD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "070930019"
+    ],
+    "URL": []
+}

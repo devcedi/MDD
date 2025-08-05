@@ -1,0 +1,47 @@
+{
+    "ArtNo": "399R/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de rechange pour 399 composé de deux mâchoires inférieures et une supérieure",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230928463"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de rechange pour 399 composé de deux mâchoires inférieures et une supérieure",
+            "StandardisedArticleDescription": "Kit de rechange pour 399 composé de deux mâchoires inférieures et une supérieure",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "399R_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/399R_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003990110"
+    ],
+    "URL": []
+}

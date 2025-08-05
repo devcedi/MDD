@@ -1,0 +1,47 @@
+{
+    "ArtNo": "BW 2047E/C108",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret plastique thermoformé comprenant 108 outils pour la maintenance générale",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWORKER",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809334363"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret plastique thermoformé comprenant 108 outils pour la maintenance générale",
+            "StandardisedArticleDescription": "Coffret plastique thermoformé comprenant 108 outils pour la maintenance générale",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "BW-000.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW-000.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "BW2047E_slash_C108.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/BW2047E_slash_C108.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "020476008"
+    ],
+    "URL": []
+}

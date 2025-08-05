@@ -1,0 +1,67 @@
+{
+    "ArtNo": "601CA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rapporteur numérique pour serrages couple et angulaires",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2\"",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2\"",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Nm",
+            "Value": "40÷200",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "0,1",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230822099"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rapporteur numérique pour serrages couple et angulaires",
+            "StandardisedArticleDescription": "Rapporteur numérique pour serrages couple et angulaires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "601CA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/601CA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006010120"
+    ],
+    "URL": []
+}

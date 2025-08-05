@@ -1,0 +1,47 @@
+{
+    "ArtNo": "CB52",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chariot pour la maintenance des boîtes de vitesses et transmissions avec récupérateur d'huile",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230871493"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chariot pour la maintenance des boîtes de vitesses et transmissions avec récupérateur d'huile",
+            "StandardisedArticleDescription": "Chariot pour la maintenance des boîtes de vitesses et transmissions avec récupérateur d'huile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "CB52.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/CB52.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "052000201"
+    ],
+    "URL": []
+}

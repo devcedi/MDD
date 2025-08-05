@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3984/6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé extracteur pour roues libres à 4 embouts",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "19,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "36",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "21",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882789"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé extracteur pour roues libres à 4 embouts",
+            "StandardisedArticleDescription": "Clé extracteur pour roues libres à 4 embouts",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3984_slash_6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3984_slash_6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039840060"
+    ],
+    "URL": []
+}

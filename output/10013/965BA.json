@@ -1,0 +1,67 @@
+{
+    "ArtNo": "965BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé de serrage simple antidéflagrante pour soupapes de sûreté",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "70",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A1 \nmm",
+            "Value": "85",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "18,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230697468"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé de serrage simple antidéflagrante pour soupapes de sûreté",
+            "StandardisedArticleDescription": "Clé de serrage simple antidéflagrante pour soupapes de sûreté",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "965BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/965BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009650870"
+    ],
+    "URL": []
+}

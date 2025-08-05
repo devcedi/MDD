@@ -1,0 +1,57 @@
+{
+    "ArtNo": "187",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé ouvrable articulée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "16x17",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "235",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230739984"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé ouvrable articulée",
+            "StandardisedArticleDescription": "Clé ouvrable articulée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "187.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/187.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001870016"
+    ],
+    "URL": []
+}

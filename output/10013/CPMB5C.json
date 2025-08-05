@@ -1,0 +1,47 @@
+{
+    "ArtNo": "CPMB/5C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bacs de rangement pour établi avec 5 tiroirs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809503592"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bacs de rangement pour établi avec 5 tiroirs",
+            "StandardisedArticleDescription": "Bacs de rangement pour établi avec 5 tiroirs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC55.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC55.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "CPMB_slash_5C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/CPMB_slash_5C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "088880445"
+    ],
+    "URL": []
+}

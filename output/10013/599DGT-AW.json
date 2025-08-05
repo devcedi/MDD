@@ -1,0 +1,47 @@
+{
+    "ArtNo": "599DGT-AW",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique électronique, comprenant la lecture couple/angle avec transmission de données sans fil",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809507019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique électronique, comprenant la lecture couple/angle avec transmission de données sans fil",
+            "StandardisedArticleDescription": "Clé dynamométrique électronique, comprenant la lecture couple/angle avec transmission de données sans fil",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "599DGT-AW.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/599DGT-AW.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005990734"
+    ],
+    "URL": []
+}

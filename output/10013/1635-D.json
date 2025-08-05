@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1635-D",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bornes multiples en polypropylène, barrettes 12 pôles",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "25",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "35,2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "228",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "33,5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629920408"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bornes multiples en polypropylène, barrettes 12 pôles",
+            "StandardisedArticleDescription": "Bornes multiples en polypropylène, barrettes 12 pôles",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1635-D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1635-D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BM9204"
+    ],
+    "URL": []
+}

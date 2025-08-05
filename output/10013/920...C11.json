@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920.../C11",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "11 douilles et 2 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230106618"
+    ],
+    "GenArts": [
+        {
+            "Description": "11 douilles et 2 accessoires",
+            "StandardisedArticleDescription": "11 douilles et 2 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920A_slash_C11_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920A_slash_C11_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200922"
+    ],
+    "URL": []
+}

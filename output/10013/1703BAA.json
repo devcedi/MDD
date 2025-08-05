@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1703BA/A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Hache antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "340",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "145",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "82",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\ng",
+            "Value": "980",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230751658"
+    ],
+    "GenArts": [
+        {
+            "Description": "Hache antidéflagrante",
+            "StandardisedArticleDescription": "Hache antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1703BA_slash_A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1703BA_slash_A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017030082"
+    ],
+    "URL": []
+}

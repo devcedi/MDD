@@ -1,0 +1,47 @@
+{
+    "ArtNo": "668RGC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à attachement à déclanchement, mono-couple, utilisable pour serrage droite, précision de serrage : ± 4% (s'utilise avec les articles 680/40 - 682)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809149547"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à attachement à déclanchement, mono-couple, utilisable pour serrage droite, précision de serrage : ± 4% (s'utilise avec les articles 680/40 - 682)",
+            "StandardisedArticleDescription": "Clé dynamométrique à attachement à déclanchement, mono-couple, utilisable pour serrage droite, précision de serrage : ± 4% (s'utilise avec les articles 680/40 - 682)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "668RGC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/668RGC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006680420"
+    ],
+    "URL": []
+}

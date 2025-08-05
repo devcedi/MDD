@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9588M",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plateau thermoformé souple avec 1 stylo et 2 bloque-notes",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820835"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plateau thermoformé souple avec 1 stylo et 2 bloque-notes",
+            "StandardisedArticleDescription": "Plateau thermoformé souple avec 1 stylo et 2 bloque-notes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9588M.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9588M.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095880011"
+    ],
+    "URL": []
+}

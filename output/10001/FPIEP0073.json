@@ -1,0 +1,37 @@
+{
+    "ArtNo": "FPIEP0073",
+    "Attributs": [],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Support de roulette basse renforcé",
+            "StandardisedArticleDescription": "Support de roulette basse renforcé",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FPIEP0073",
+            "Extension": "",
+            "Path": "/img/10001/FPIEP0073"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FPIEP0073",
+            "Extension": "",
+            "Path": "/img/10001/FPIEP0073",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

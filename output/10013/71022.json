@@ -1,0 +1,67 @@
+{
+    "ArtNo": "710/22",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge carrés mâle et femelle 3/8\", phosphatée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "22",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3/8",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809433011"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge carrés mâle et femelle 3/8\", phosphatée",
+            "StandardisedArticleDescription": "Rallonge carrés mâle et femelle 3/8\", phosphatée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "710_slash_22.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/710_slash_22.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007100825"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "DP141/0100",
+    "Attributs": [
+        {
+            "Attribute": 9377007,
+            "Value": 16010,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "YP0737.STG2",
+            "Value": "D14B48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "US 07337.ST2",
+            "Value": "YP 07337ST2F",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004707"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble ",
+            "StandardisedArticleDescription": "Diaphragme assemble ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A89,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A89,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP141/0100"
+    ],
+    "URL": []
+}

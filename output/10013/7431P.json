@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7431P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Deux paires de chaussettes sneaker avec inserts en texture respirante Une paire couleur noir/orange et une paire couleur noir/gris.",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "L",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "43-46",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230968322"
+    ],
+    "GenArts": [
+        {
+            "Description": "Deux paires de chaussettes sneaker avec inserts en texture respirante Une paire couleur noir/orange et une paire couleur noir/gris.",
+            "StandardisedArticleDescription": "Deux paires de chaussettes sneaker avec inserts en texture respirante Une paire couleur noir/orange et une paire couleur noir/gris.",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7431P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7431P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "074310104"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2400 RSC24/PD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Porte document ",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809217833"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte document ",
+            "StandardisedArticleDescription": "Porte document ",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2400RSC24_slash_PD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2400RSC24_slash_PD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024004908"
+    ],
+    "URL": []
+}

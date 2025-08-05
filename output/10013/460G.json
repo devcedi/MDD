@@ -1,0 +1,52 @@
+{
+    "ArtNo": "460G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mandrin pour scies trépan 460",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "460",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809168777"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mandrin pour scies trépan 460",
+            "StandardisedArticleDescription": "Mandrin pour scies trépan 460",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "460G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/460G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004600246"
+    ],
+    "URL": []
+}

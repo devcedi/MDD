@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3033S 3T/R2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Roue avant de secours pour cric 3033E/3T",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809209074"
+    ],
+    "GenArts": [
+        {
+            "Description": "Roue avant de secours pour cric 3033E/3T",
+            "StandardisedArticleDescription": "Roue avant de secours pour cric 3033E/3T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3033S3T_slash_R2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3033S3T_slash_R2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030330532"
+    ],
+    "URL": []
+}

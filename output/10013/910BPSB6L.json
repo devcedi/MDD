@@ -1,0 +1,47 @@
+{
+    "ArtNo": "910BP/SB6L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 douille tournevis à tête sphérique pour vis 6 pans creux",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230950563"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 douille tournevis à tête sphérique pour vis 6 pans creux",
+            "StandardisedArticleDescription": "Jeu de 6 douille tournevis à tête sphérique pour vis 6 pans creux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910BP_slash_SB6L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910BP_slash_SB6L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100596"
+    ],
+    "URL": []
+}

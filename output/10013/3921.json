@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3921",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil pour l’alignement du dérailleur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "440",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "115",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "165",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882451"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil pour l’alignement du dérailleur",
+            "StandardisedArticleDescription": "Outil pour l’alignement du dérailleur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3921.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3921.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039210010"
+    ],
+    "URL": []
+}

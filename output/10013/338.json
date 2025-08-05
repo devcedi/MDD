@@ -1,0 +1,57 @@
+{
+    "ArtNo": "338",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-tubes à avance télescopique rapide pour cuivre, alliages légers et plastiques",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm - \"",
+            "Value": "6÷67  \n1/4\"÷2\"5/8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "290",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230026558"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-tubes à avance télescopique rapide pour cuivre, alliages légers et plastiques",
+            "StandardisedArticleDescription": "Coupe-tubes à avance télescopique rapide pour cuivre, alliages légers et plastiques",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "338.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/338.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003380001"
+    ],
+    "URL": []
+}

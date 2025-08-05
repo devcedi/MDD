@@ -1,0 +1,26 @@
+{
+    "ArtNo": "324305",
+    "Attributs": [],
+    "BrandName": "Belton",
+    "BrandNo": "10049",
+    "Documents": [],
+    "GTIN": [
+        "4015962838826"
+    ],
+    "GenArts": [
+        {
+            "Description": "RAL 5010 BLEU G.SAT 400ML",
+            "StandardisedArticleDescription": "RAL 5010 BLEU G.SAT 400ML",
+            "GenArtNo": -10049
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

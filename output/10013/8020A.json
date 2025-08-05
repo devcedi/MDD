@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8020A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cosse-cœur type léger, zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "1,5",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "30",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230184760"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cosse-cœur type léger, zingué",
+            "StandardisedArticleDescription": "Cosse-cœur type léger, zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8020A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8020A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080200710"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "8130",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaîne antivol en acier allié, cimentée et normalisée, galvanisée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "10",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1500",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820989"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaîne antivol en acier allié, cimentée et normalisée, galvanisée",
+            "StandardisedArticleDescription": "Chaîne antivol en acier allié, cimentée et normalisée, galvanisée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8130.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8130.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081300105"
+    ],
+    "URL": []
+}

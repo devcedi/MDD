@@ -1,0 +1,82 @@
+{
+    "ArtNo": "2905917",
+    "Attributs": [
+        {
+            "Attribute": "D (kN)",
+            "Value": 180,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Convoi ED (t) maxi",
+            "Value": 72,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Remorque ED (t maxi)",
+            "Value": 36,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Dc (kN)",
+            "Value": 125,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S (kg)",
+            "Value": 1000,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "V (kN)",
+            "Value": 90,
+            "SortNo": 6
+        },
+        {
+            "Attribute": "Convoi EC (t) maxi",
+            "Value": 51,
+            "SortNo": 7
+        },
+        {
+            "Attribute": "Remorque EC (t maxi)",
+            "Value": 26,
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tête de flèche BNA tournant à platine",
+            "StandardisedArticleDescription": "Tête de flèche BNA tournant à platine",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2905917_3D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/2905917_3D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "2905917"
+    ],
+    "URL": []
+}

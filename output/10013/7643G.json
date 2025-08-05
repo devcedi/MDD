@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7643G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sweatshirt anthracite/gris clair avec fermeture zippée courte, 80% coton, 20% polyester, 280 g/m2",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809627304"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sweatshirt anthracite/gris clair avec fermeture zippée courte, 80% coton, 20% polyester, 280 g/m2",
+            "StandardisedArticleDescription": "Sweatshirt anthracite/gris clair avec fermeture zippée courte, 80% coton, 20% polyester, 280 g/m2",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7643G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7643G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076430006"
+    ],
+    "URL": []
+}

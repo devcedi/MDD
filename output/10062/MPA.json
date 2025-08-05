@@ -1,0 +1,62 @@
+{
+    "ArtNo": "MPA",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Marche pied aluminium avec pieds rabatables et bande antidérapante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation ",
+            "Value": "Idéal pour le travail en hauteur, le pavillon des véhicules, les 4x4, les fourgons, etc. Pieds rabattables pour le transport. Revêtement antidérapant. ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Dimensions",
+            "Value": "L 1000 mm x l 300 mm x H 480 mm.",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Charge maximale",
+            "Value": "150 kg",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101071631"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "mpa.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/mpa.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "MPA"
+    ],
+    "URL": []
+}

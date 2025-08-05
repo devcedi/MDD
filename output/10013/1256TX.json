@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1256TX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout 4 mm pour vis Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T15",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "27",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230698908"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout 4 mm pour vis Torx®",
+            "StandardisedArticleDescription": "Embout 4 mm pour vis Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1256TX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1256TX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012560049"
+    ],
+    "URL": []
+}

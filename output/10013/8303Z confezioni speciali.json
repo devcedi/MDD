@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8303Z confezioni speciali",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet pour chevilles filetage à droite zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "​C \nmm",
+            "Value": "16,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "​",
+            "Value": "10",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809456539"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet pour chevilles filetage à droite zingué",
+            "StandardisedArticleDescription": "Crochet pour chevilles filetage à droite zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8303Zconfezionispeciali.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8303Zconfezionispeciali.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "083030712"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "610/5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à déclenchement avec cliquet réversible Utilisable pour serrage droit avec 5 valeurs préréglées Précision de serrage : ± 4%",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230956398"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à déclenchement avec cliquet réversible Utilisable pour serrage droit avec 5 valeurs préréglées Précision de serrage : ± 4%",
+            "StandardisedArticleDescription": "Clé dynamométrique à déclenchement avec cliquet réversible Utilisable pour serrage droit avec 5 valeurs préréglées Précision de serrage : ± 4%",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "610_slash_5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/610_slash_5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006100025"
+    ],
+    "URL": []
+}

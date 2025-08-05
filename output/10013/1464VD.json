@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1464VD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit pour contrôle dépression/vide pour 1464T",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230956220"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit pour contrôle dépression/vide pour 1464T",
+            "StandardisedArticleDescription": "Kit pour contrôle dépression/vide pour 1464T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1464VD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1464VD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014640570"
+    ],
+    "URL": []
+}

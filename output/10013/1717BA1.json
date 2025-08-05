@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1717BA/1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Grattoir tranchant antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "220",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "22",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "28",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "\ng",
+            "Value": "730",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230428550"
+    ],
+    "GenArts": [
+        {
+            "Description": "Grattoir tranchant antidéflagrant",
+            "StandardisedArticleDescription": "Grattoir tranchant antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1717BA_slash_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1717BA_slash_1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017170805"
+    ],
+    "URL": []
+}

@@ -1,0 +1,34 @@
+{
+    "ArtNo": "DB00601",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966022134"
+    ],
+    "GenArts": [
+        {
+            "Description": "Soufflet |Ecrous M 10 six pans embase  ZB ",
+            "StandardisedArticleDescription": "Soufflet |Ecrous M 10 six pans embase  ZB ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DB00601"
+    ],
+    "URL": []
+}

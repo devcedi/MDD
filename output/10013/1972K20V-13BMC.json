@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1972/K20V-13BMC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret perceuse à percussion Brushless 20V",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809450957"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret perceuse à percussion Brushless 20V",
+            "StandardisedArticleDescription": "Coffret perceuse à percussion Brushless 20V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1972_slash_K20V-13BMC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1972_slash_K20V-13BMC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019720020"
+    ],
+    "URL": []
+}

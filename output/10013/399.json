@@ -1,0 +1,67 @@
+{
+    "ArtNo": "399",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Etau pour tubes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø",
+            "Value": "10÷89 mm \n1/8÷3\"",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L min \nmm",
+            "Value": "290",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "198",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "260",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230086699"
+    ],
+    "GenArts": [
+        {
+            "Description": "Etau pour tubes",
+            "StandardisedArticleDescription": "Etau pour tubes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "399.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/399.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003990010"
+    ],
+    "URL": []
+}

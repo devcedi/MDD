@@ -1,0 +1,67 @@
+{
+    "ArtNo": "728/21",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge carrés mâle et femelle 3/4\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "175",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "44",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "3/4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230029870"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge carrés mâle et femelle 3/4\"",
+            "StandardisedArticleDescription": "Rallonge carrés mâle et femelle 3/4\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "728_slash_21.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/728_slash_21.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007280815"
+    ],
+    "URL": []
+}

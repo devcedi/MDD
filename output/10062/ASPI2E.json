@@ -1,0 +1,62 @@
+{
+    "ArtNo": "ASPI2E",
+    "Attributs": [
+        {
+            "Attribute": "Produit",
+            "Value": "Aspirateur bi moteur - Flexible 4 mètres",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Puissance",
+            "Value": "2400 W",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Dépression",
+            "Value": "200 mbar",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Capacité réservoir",
+            "Value": "77 L",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "CARPOLISH ",
+    "BrandNo": "10062",
+    "Documents": [],
+    "GTIN": [
+        "1010101040125"
+    ],
+    "GenArts": [
+        {
+            "Description": null,
+            "StandardisedArticleDescription": null,
+            "GenArtNo": -10062
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Carpolish",
+            "Extension": "",
+            "Path": "/img/10062/Carpolish"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "aspi2e.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/aspi2e.png",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "ASPI2E"
+    ],
+    "URL": []
+}

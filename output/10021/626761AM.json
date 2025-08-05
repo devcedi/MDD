@@ -1,0 +1,34 @@
+{
+    "ArtNo": "626761AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694012668"
+    ],
+    "GenArts": [
+        {
+            "Description": "Maître cylindre DAF",
+            "StandardisedArticleDescription": "Maître cylindre DAF",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C43",
+            "Extension": "",
+            "Path": "/img/10021/=C43"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A43"
+    ],
+    "URL": []
+}

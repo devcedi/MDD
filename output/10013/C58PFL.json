@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C58PFL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Panneau latéral perforé pour établis modulables C58BC",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809600079"
+    ],
+    "GenArts": [
+        {
+            "Description": "Panneau latéral perforé pour établis modulables C58BC",
+            "StandardisedArticleDescription": "Panneau latéral perforé pour établis modulables C58BC",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C58PFL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C58PFL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "058000696"
+    ],
+    "URL": []
+}

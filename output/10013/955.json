@@ -1,0 +1,62 @@
+{
+    "ArtNo": "955",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à bougies en tube",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm - \"",
+            "Value": "16 \n5/8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "21",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "86",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230478661"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à bougies en tube",
+            "StandardisedArticleDescription": "Clé à bougies en tube",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "955.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/955.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009550016"
+    ],
+    "URL": []
+}

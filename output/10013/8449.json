@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8449",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Vis à œil pour chevilles",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "M12",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230904986"
+    ],
+    "GenArts": [
+        {
+            "Description": "Vis à œil pour chevilles",
+            "StandardisedArticleDescription": "Vis à œil pour chevilles",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8449.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8449.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "084490212"
+    ],
+    "URL": []
+}

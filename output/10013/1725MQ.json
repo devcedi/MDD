@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1725MQ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mini-scie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "260",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "85",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230103136"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mini-scie",
+            "StandardisedArticleDescription": "Mini-scie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1725MQ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1725MQ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017250030"
+    ],
+    "URL": []
+}

@@ -1,0 +1,57 @@
+{
+    "ArtNo": "3025N/PF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince de levage de fûts",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "550÷640",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "70",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809504827"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince de levage de fûts",
+            "StandardisedArticleDescription": "Pince de levage de fûts",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3025N_slash_PF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3025N_slash_PF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030250111"
+    ],
+    "URL": []
+}

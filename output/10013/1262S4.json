@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1262/S4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 tournevis pour vis Phillips® (art. 1262)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230611013"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 tournevis pour vis Phillips® (art. 1262)",
+            "StandardisedArticleDescription": "Jeu de 4 tournevis pour vis Phillips® (art. 1262)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1262_slash_S4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1262_slash_S4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012620304"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "621",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Accessoire porte-embouts pour clés dynamométriques avec entraînement rectangulaire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "14x18",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "5/16",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "52,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "LA \nmm",
+            "Value": "32,5",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "20,5",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230817958"
+    ],
+    "GenArts": [
+        {
+            "Description": "Accessoire porte-embouts pour clés dynamométriques avec entraînement rectangulaire",
+            "StandardisedArticleDescription": "Accessoire porte-embouts pour clés dynamométriques avec entraînement rectangulaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "621.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/621.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006210110"
+    ],
+    "URL": []
+}

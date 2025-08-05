@@ -1,0 +1,47 @@
+{
+    "ArtNo": "142SN/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 clés mixtes à cliquet articulé (art. 142SN)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230667706"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 clés mixtes à cliquet articulé (art. 142SN)",
+            "StandardisedArticleDescription": "Jeu de 13 clés mixtes à cliquet articulé (art. 142SN)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "142SN_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/142SN_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "001420263"
+    ],
+    "URL": []
+}

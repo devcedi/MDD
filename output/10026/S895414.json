@@ -1,0 +1,97 @@
+{
+    "ArtNo": "S895414",
+    "Attributs": [
+        {
+            "Attribute": "D290/B - 290.0.390",
+            "Value": 8012,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 9009,
+            "Value": 4840001,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 4840005,
+            "Value": 4890001,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 5001098,
+            "Value": 4714025,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 4722525,
+            "Value": 4738008,
+            "SortNo": 5
+        },
+        {
+            "Attribute": 6657150,
+            "Value": 8188526,
+            "SortNo": 6
+        },
+        {
+            "Attribute": 178623,
+            "Value": 325993,
+            "SortNo": 7
+        },
+        {
+            "Attribute": "1E 21-6",
+            "Value": "1S 270-23C / 97619",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "1S 285-22 / 88786",
+            "Value": 700176,
+            "SortNo": 9
+        },
+        {
+            "Attribute": "D11S04",
+            "Value": "SP 1217",
+            "SortNo": 10
+        },
+        {
+            "Attribute": "B 113",
+            "Value": "",
+            "SortNo": 11
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966014832"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coussin de cabine ",
+            "StandardisedArticleDescription": "Coussin de cabine ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A280,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A280,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "S895414"
+    ],
+    "URL": []
+}

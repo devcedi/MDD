@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2250-O",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tabouret à roulettes réglable en hauteur",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230841045"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tabouret à roulettes réglable en hauteur",
+            "StandardisedArticleDescription": "Tabouret à roulettes réglable en hauteur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2250-O.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2250-O.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022500011"
+    ],
+    "URL": []
+}

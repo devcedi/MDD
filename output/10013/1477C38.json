@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1477/C38",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret comprenant 1 clé à cliquet pivotante, avec douilles courtes pour galets tendeurs",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L",
+            "Value": "500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1",
+            "Value": "75",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H",
+            "Value": "24",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809561455"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret comprenant 1 clé à cliquet pivotante, avec douilles courtes pour galets tendeurs",
+            "StandardisedArticleDescription": "Coffret comprenant 1 clé à cliquet pivotante, avec douilles courtes pour galets tendeurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1477_slash_C38.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1477_slash_C38.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014770338"
+    ],
+    "URL": []
+}

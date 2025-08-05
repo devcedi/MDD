@@ -1,0 +1,43 @@
+{
+    "ArtNo": "FMPEQ0778Z",
+    "Attributs": [
+        {
+            "Attribute": "Ressort avec tambour monté",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Ensemble ressort 4,5 x 737 passager, zingué",
+            "StandardisedArticleDescription": "Ensemble ressort 4,5 x 737 passager, zingué",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FMPEQ0778Z",
+            "Extension": "",
+            "Path": "/img/10001/FMPEQ0778Z"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FMPEQ0778Z",
+            "Extension": "",
+            "Path": "/img/10001/FMPEQ0778Z",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

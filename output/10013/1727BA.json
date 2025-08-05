@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1727BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Monture de scie à métaux avec lame antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "300",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "700",
+            "Value": "700",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230494616"
+    ],
+    "GenArts": [
+        {
+            "Description": "Monture de scie à métaux avec lame antidéflagrante",
+            "StandardisedArticleDescription": "Monture de scie à métaux avec lame antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1727BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1727BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017270801"
+    ],
+    "URL": []
+}

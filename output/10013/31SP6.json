@@ -1,0 +1,47 @@
+{
+    "ArtNo": "31/SP6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support vide pour jeu de chasse-goupilles (art. 31/SP6)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020150"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support vide pour jeu de chasse-goupilles (art. 31/SP6)",
+            "StandardisedArticleDescription": "Support vide pour jeu de chasse-goupilles (art. 31/SP6)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "31_serie_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/31_serie_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000310031"
+    ],
+    "URL": []
+}

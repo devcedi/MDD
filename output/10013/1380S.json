@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1380S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Massette avec collerette de protection, manche en bois",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "1500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "45",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "260",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "110",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "",
+            "Value": "1380S/MR1500",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230178783"
+    ],
+    "GenArts": [
+        {
+            "Description": "Massette avec collerette de protection, manche en bois",
+            "StandardisedArticleDescription": "Massette avec collerette de protection, manche en bois",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1380S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1380S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013800415"
+    ],
+    "URL": []
+}

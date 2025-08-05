@@ -1,0 +1,122 @@
+{
+    "ArtNo": "DP1960/0100",
+    "Attributs": [
+        {
+            "Attribute": "UJB 0207-001",
+            "Value": "D278/G - 278.4.421",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1R 12-130",
+            "Value": "1R 12-719",
+            "SortNo": 2
+        },
+        {
+            "Attribute": 1359,
+            "Value": 1528,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 2727,
+            "Value": "B 2066",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "HA 100 001",
+            "Value": 90557027,
+            "SortNo": 5
+        },
+        {
+            "Attribute": 90557033,
+            "Value": 90557037,
+            "SortNo": 6
+        },
+        {
+            "Attribute": 90557054,
+            "Value": 90557075,
+            "SortNo": 7
+        },
+        {
+            "Attribute": "1DK 21A-2",
+            "Value": "1DK 23K9082",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "1DK 23K9361",
+            "Value": "1T 323-32 / 97306",
+            "SortNo": 9
+        },
+        {
+            "Attribute": 21208039,
+            "Value": 21215761,
+            "SortNo": 10
+        },
+        {
+            "Attribute": 21215762,
+            "Value": 21226046,
+            "SortNo": 11
+        },
+        {
+            "Attribute": "K S1 204-421 NS",
+            "Value": "M 001472",
+            "SortNo": 12
+        },
+        {
+            "Attribute": "D12B19",
+            "Value": "D12B33",
+            "SortNo": 13
+        },
+        {
+            "Attribute": "K 506-22 SU",
+            "Value": "KR 506-28",
+            "SortNo": 14
+        },
+        {
+            "Attribute": "US 09361 F",
+            "Value": "US 35864 F",
+            "SortNo": 15
+        },
+        {
+            "Attribute": "US 97306",
+            "Value": "",
+            "SortNo": 16
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004592"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Existe en complet DP1960/0103 ",
+            "StandardisedArticleDescription": "Diaphragme assemble |Existe en complet DP1960/0103 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A113,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A113,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP1960/0100"
+    ],
+    "URL": []
+}

@@ -1,0 +1,34 @@
+{
+    "ArtNo": "629300AM",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694012989"
+    ],
+    "GenArts": [
+        {
+            "Description": "Servo d'embrayage Renault ",
+            "StandardisedArticleDescription": "Servo d'embrayage Renault ",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "=C24",
+            "Extension": "",
+            "Path": "/img/10021/=C24"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "=A24"
+    ],
+    "URL": []
+}

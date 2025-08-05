@@ -1,0 +1,47 @@
+{
+    "ArtNo": "DP36122/0403",
+    "Attributs": [
+        {
+            "Attribute": "YP 102919VKW",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005483"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Actros MP 4 - 2 Entrée d'Air piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble |Actros MP 4 - 2 Entrée d'Air piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A168,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A168,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP36122/0403"
+    ],
+    "URL": []
+}

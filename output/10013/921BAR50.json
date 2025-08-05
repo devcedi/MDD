@@ -1,0 +1,52 @@
+{
+    "ArtNo": "921BA/R50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Set de rechange antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2\"",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230803821"
+    ],
+    "GenArts": [
+        {
+            "Description": "Set de rechange antidéflagrant",
+            "StandardisedArticleDescription": "Set de rechange antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "921BA_slash_R50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/921BA_slash_R50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009210851"
+    ],
+    "URL": []
+}

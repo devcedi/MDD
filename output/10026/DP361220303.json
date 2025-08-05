@@ -1,0 +1,67 @@
+{
+    "ArtNo": "DP36122/0303",
+    "Attributs": [
+        {
+            "Attribute": "1D 28A-10",
+            "Value": "1T19 E1 / 205456",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "2918V",
+            "Value": "3 229 0027 00",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "3 229 2127 00",
+            "Value": "3 229 2227 00",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "41B35001",
+            "Value": "D13B25",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "KR 621-18",
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005490"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Actros MP 4 - 1 Entrée d'Air piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble |Actros MP 4 - 1 Entrée d'Air piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A167,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A167,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP36122/0303"
+    ],
+    "URL": []
+}

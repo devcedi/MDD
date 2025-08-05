@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8016FR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serre-câble en acier avec corps moulé a froid galvanisés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \n\"",
+            "Value": "5/16",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "N x T",
+            "Value": "5x210",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Nm",
+            "Value": "4,24",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230529943"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serre-câble en acier avec corps moulé a froid galvanisés",
+            "StandardisedArticleDescription": "Serre-câble en acier avec corps moulé a froid galvanisés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8016FR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8016FR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080160258"
+    ],
+    "URL": []
+}

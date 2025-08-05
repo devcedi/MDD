@@ -1,0 +1,47 @@
+{
+    "ArtNo": "583",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tournevis dynamométrique à débrayage Utilisable pour serrage droite Précision de serrage : ±6%",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230619910"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tournevis dynamométrique à débrayage Utilisable pour serrage droite Précision de serrage : ±6%",
+            "StandardisedArticleDescription": "Tournevis dynamométrique à débrayage Utilisable pour serrage droite Précision de serrage : ±6%",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "583.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/583.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "005830060"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1893/134A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poste automatique de recharge des climatiseurs à gaz R134a",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230928340"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poste automatique de recharge des climatiseurs à gaz R134a",
+            "StandardisedArticleDescription": "Poste automatique de recharge des climatiseurs à gaz R134a",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1893_slash_134A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1893_slash_134A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018930001"
+    ],
+    "URL": []
+}

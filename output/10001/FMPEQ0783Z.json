@@ -1,0 +1,43 @@
+{
+    "ArtNo": "FMPEQ0783Z",
+    "Attributs": [
+        {
+            "Attribute": "Equilibreur complet et assemblé",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Equilibreur complet 4,5 x 737, long 2210 mm, zingué",
+            "StandardisedArticleDescription": "Equilibreur complet 4,5 x 737, long 2210 mm, zingué",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "FMPEQ0783Z",
+            "Extension": "",
+            "Path": "/img/10001/FMPEQ0783Z"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "FMPEQ0783Z",
+            "Extension": "",
+            "Path": "/img/10001/FMPEQ0783Z",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

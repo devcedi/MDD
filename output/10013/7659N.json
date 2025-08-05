@@ -1,0 +1,52 @@
+{
+    "ArtNo": "7659N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Veste en Softshell avec capuche et manches détachables",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809165486"
+    ],
+    "GenArts": [
+        {
+            "Description": "Veste en Softshell avec capuche et manches détachables",
+            "StandardisedArticleDescription": "Veste en Softshell avec capuche et manches détachables",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7659N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7659N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "076590006"
+    ],
+    "URL": []
+}

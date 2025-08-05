@@ -1,0 +1,57 @@
+{
+    "ArtNo": "867PE/L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout avec entraînement hexagonal de 10 mm pour vis 6 pans creux série longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "75",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230375106"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout avec entraînement hexagonal de 10 mm pour vis 6 pans creux série longue",
+            "StandardisedArticleDescription": "Embout avec entraînement hexagonal de 10 mm pour vis 6 pans creux série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "867PE_slash_L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/867PE_slash_L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008670162"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1467/RK1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit tuyau pour 1467",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230536965"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit tuyau pour 1467",
+            "StandardisedArticleDescription": "Kit tuyau pour 1467",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1467_slash_RK1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1467_slash_RK1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014670501"
+    ],
+    "URL": []
+}

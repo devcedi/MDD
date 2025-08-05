@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1755C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Burettes plastique avec embouts rigides inclinés",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "cc",
+            "Value": "500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "110",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "74",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809532172"
+    ],
+    "GenArts": [
+        {
+            "Description": "Burettes plastique avec embouts rigides inclinés",
+            "StandardisedArticleDescription": "Burettes plastique avec embouts rigides inclinés",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1755C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1755C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017550150"
+    ],
+    "URL": []
+}

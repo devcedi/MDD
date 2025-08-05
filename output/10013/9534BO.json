@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9534BO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Polo à deux boutons, en jersey de coton, 200 g/m2, bleu avec inserts gris",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809328850"
+    ],
+    "GenArts": [
+        {
+            "Description": "Polo à deux boutons, en jersey de coton, 200 g/m2, bleu avec inserts gris",
+            "StandardisedArticleDescription": "Polo à deux boutons, en jersey de coton, 200 g/m2, bleu avec inserts gris",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9534BO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9534BO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095340075"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "972/C4BMW",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret de démontage d'écrous antivol BMW et Mini",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809195674"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret de démontage d'écrous antivol BMW et Mini",
+            "StandardisedArticleDescription": "Coffret de démontage d'écrous antivol BMW et Mini",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "972_slash_C4BMW.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/972_slash_C4BMW.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009720004"
+    ],
+    "URL": []
+}

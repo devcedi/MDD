@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1462/KI",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition d'outils pour extraction injecteurs Diesel Common Rail",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230804859"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition d'outils pour extraction injecteurs Diesel Common Rail",
+            "StandardisedArticleDescription": "Composition d'outils pour extraction injecteurs Diesel Common Rail",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1462_slash_KI.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1462_slash_KI.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014620235"
+    ],
+    "URL": []
+}

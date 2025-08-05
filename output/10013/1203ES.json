@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1203E/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de tournevis Evox",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaEVOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809133904"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de tournevis Evox",
+            "StandardisedArticleDescription": "Jeu de tournevis Evox",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1203E_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1203E_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012031021"
+    ],
+    "URL": []
+}

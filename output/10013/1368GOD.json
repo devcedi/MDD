@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1368G/OD",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Agrafes ondulées droites pour 1368",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230780184"
+    ],
+    "GenArts": [
+        {
+            "Description": "Agrafes ondulées droites pour 1368",
+            "StandardisedArticleDescription": "Agrafes ondulées droites pour 1368",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1368G_slash_OD.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1368G_slash_OD.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013680100"
+    ],
+    "URL": []
+}

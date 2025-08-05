@@ -1,0 +1,43 @@
+{
+    "ArtNo": "MPEP0802",
+    "Attributs": [
+        {
+            "Attribute": "Tige Inox longue et roulement renforcé",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Roulette FIT XTREM Inox tige longue (bleu)",
+            "StandardisedArticleDescription": "Roulette FIT XTREM Inox tige longue (bleu)",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "MPEP0802",
+            "Extension": "",
+            "Path": "/img/10001/MPEP0802"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "MPEP0802",
+            "Extension": "",
+            "Path": "/img/10001/MPEP0802",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

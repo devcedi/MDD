@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1169GBM/D2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Assortiment de 1 pince universelle, et 1 cutter, poignée bimatière, avec finition industrielle",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809595467"
+    ],
+    "GenArts": [
+        {
+            "Description": "Assortiment de 1 pince universelle, et 1 cutter, poignée bimatière, avec finition industrielle",
+            "StandardisedArticleDescription": "Assortiment de 1 pince universelle, et 1 cutter, poignée bimatière, avec finition industrielle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1169GBM_slash_D2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1169GBM_slash_D2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011690272"
+    ],
+    "URL": []
+}

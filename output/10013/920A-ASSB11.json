@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920A-AS/SB11",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 11 douilles 6 pans (art.920A/AS) sur support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230538754"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 11 douilles 6 pans (art.920A/AS) sur support",
+            "StandardisedArticleDescription": "Jeu de 11 douilles 6 pans (art.920A/AS) sur support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920A-AS_slash_SB11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920A-AS_slash_SB11.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200295"
+    ],
+    "URL": []
+}

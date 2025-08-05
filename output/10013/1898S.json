@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1898/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pompe manuelle à pression avec réservoir de 5 litres",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "415",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "5",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809418643"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pompe manuelle à pression avec réservoir de 5 litres",
+            "StandardisedArticleDescription": "Pompe manuelle à pression avec réservoir de 5 litres",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1898_slash_S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1898_slash_S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018980932"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "9541BIKE",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sac à dos en polyester Oxford, dimensions 41x24x16 cm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\ncm",
+            "Value": "24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S\ncm",
+            "Value": "16",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H\ncm",
+            "Value": "41",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820668"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sac à dos en polyester Oxford, dimensions 41x24x16 cm",
+            "StandardisedArticleDescription": "Sac à dos en polyester Oxford, dimensions 41x24x16 cm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9541BIKE.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9541BIKE.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095410021"
+    ],
+    "URL": []
+}

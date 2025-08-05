@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9726 - Copper Grease",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Graisse au cuivre",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "400",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331294"
+    ],
+    "GenArts": [
+        {
+            "Description": "Graisse au cuivre",
+            "StandardisedArticleDescription": "Graisse au cuivre",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9726-CopperGrease.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9726-CopperGrease.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "097262040"
+    ],
+    "URL": []
+}

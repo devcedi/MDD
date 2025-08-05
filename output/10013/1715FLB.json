@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1715FL/B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Miroir d'inspection flexible rectangulaire avec lampe",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "553",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "53",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "90",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230466514"
+    ],
+    "GenArts": [
+        {
+            "Description": "Miroir d'inspection flexible rectangulaire avec lampe",
+            "StandardisedArticleDescription": "Miroir d'inspection flexible rectangulaire avec lampe",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1715FL_slash_B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1715FL_slash_B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017150115"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8008TZN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur à deux tiges à souder, cage en tube DIN 1478, embouts noirs, corps galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "M36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n\"",
+            "Value": "1.3/8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "6500",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230865102"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur à deux tiges à souder, cage en tube DIN 1478, embouts noirs, corps galvanisé",
+            "StandardisedArticleDescription": "Tendeur à deux tiges à souder, cage en tube DIN 1478, embouts noirs, corps galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8008TZN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8008TZN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080080536"
+    ],
+    "URL": []
+}

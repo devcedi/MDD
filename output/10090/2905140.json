@@ -1,0 +1,82 @@
+{
+    "ArtNo": "2905140",
+    "Attributs": [
+        {
+            "Attribute": "D (kN)",
+            "Value": 190,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Dc (kN)",
+            "Value": 135,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "S (kg)",
+            "Value": 1000,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "V (kN)",
+            "Value": 72.5,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Convoi ED (t) maxi",
+            "Value": 76,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Remorque ED (t maxi)",
+            "Value": 38,
+            "SortNo": 6
+        },
+        {
+            "Attribute": "Convoi EC (t) maxi",
+            "Value": 52,
+            "SortNo": 7
+        },
+        {
+            "Attribute": "Remorque EC (t maxi)",
+            "Value": 26,
+            "SortNo": 8
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "EUROTRACT - Crochet d'attelage DIN asservi tournant",
+            "StandardisedArticleDescription": "EUROTRACT - Crochet d'attelage DIN asservi tournant",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2905140_3d.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/2905140_3d.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "2905140"
+    ],
+    "URL": []
+}

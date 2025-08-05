@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1610-B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cosse pré-isolée à œillet",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm²",
+            "Value": "4-6",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "34,5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BMGroup",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8013629003378"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cosse pré-isolée à œillet",
+            "StandardisedArticleDescription": "Cosse pré-isolée à œillet",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "25.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/25.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1610-B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1610-B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "BM00337"
+    ],
+    "URL": []
+}

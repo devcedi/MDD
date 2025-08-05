@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1184BM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince coupante diagonale de précision à becs arrondis, coupe à ras, branches gainées confort bi-matières",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "130",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "12,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Cu \nmm",
+            "Value": "1,25",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "6",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230513331"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince coupante diagonale de précision à becs arrondis, coupe à ras, branches gainées confort bi-matières",
+            "StandardisedArticleDescription": "Pince coupante diagonale de précision à becs arrondis, coupe à ras, branches gainées confort bi-matières",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "14.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/14.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1184BM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1184BM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011840102"
+    ],
+    "URL": []
+}

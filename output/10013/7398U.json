@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7398U",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Semelle intérieure anatomique en TPR GEL avec effet amortissant prononcé, support de la voûte plantaire et coussinet dans la zone du talon",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "41 - 46",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "7 - 11",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230833477"
+    ],
+    "GenArts": [
+        {
+            "Description": "Semelle intérieure anatomique en TPR GEL avec effet amortissant prononcé, support de la voûte plantaire et coussinet dans la zone du talon",
+            "StandardisedArticleDescription": "Semelle intérieure anatomique en TPR GEL avec effet amortissant prononcé, support de la voûte plantaire et coussinet dans la zone du talon",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7398U.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7398U.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073980063"
+    ],
+    "URL": []
+}

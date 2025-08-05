@@ -1,0 +1,67 @@
+{
+    "ArtNo": "900/55",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible carré mâle 1/4\" avec mécanisme à 48 dents",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "127",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "25",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "29",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809542607"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible carré mâle 1/4\" avec mécanisme à 48 dents",
+            "StandardisedArticleDescription": "Cliquet réversible carré mâle 1/4\" avec mécanisme à 48 dents",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "900_slash_55N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/900_slash_55N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009001155"
+    ],
+    "URL": []
+}

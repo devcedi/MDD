@@ -1,0 +1,72 @@
+{
+    "ArtNo": "DP3942/0101",
+    "Attributs": [
+        {
+            "Attribute": "C299/A - 299.1.460",
+            "Value": 9520,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A 942 320 3121",
+            "Value": "A 942 320 3221",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A 974 320 0217",
+            "Value": "A 974 320 0417",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A 974 328 0001",
+            "Value": "A 974 328 0101",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "1KF 24-2-232",
+            "Value": "1KF 24-29",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "1VSC 300-26 / 206786",
+            "Value": "D13T02",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004882"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A206,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A206,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP3942/0101"
+    ],
+    "URL": []
+}

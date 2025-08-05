@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1883NC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Niplex mâle-mâle 1/2 pour unir art. 1882 et 1883",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230720111"
+    ],
+    "GenArts": [
+        {
+            "Description": "Niplex mâle-mâle 1/2 pour unir art. 1882 et 1883",
+            "StandardisedArticleDescription": "Niplex mâle-mâle 1/2 pour unir art. 1882 et 1883",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1883NC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1883NC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018830135"
+    ],
+    "URL": []
+}

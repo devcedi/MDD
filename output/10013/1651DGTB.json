@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1651DGTB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pied à coulisse numérique précision au 1/100e",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A Max\nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "400",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B\nmm",
+            "Value": "60",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "G\nmm",
+            "Value": "0,01-0,0005",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "HxS\nmm",
+            "Value": "16x3",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809328218"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pied à coulisse numérique précision au 1/100e",
+            "StandardisedArticleDescription": "Pied à coulisse numérique précision au 1/100e",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1651DGTB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1651DGTB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016510213"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1707A/1 - 2 - 3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jauges à rayons, lames concaves et convexes en acier",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "R \nmm",
+            "Value": "15,5÷25",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "85",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "n",
+            "Value": "30",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230179599"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jauges à rayons, lames concaves et convexes en acier",
+            "StandardisedArticleDescription": "Jauges à rayons, lames concaves et convexes en acier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1707A_slash_1-2-3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1707A_slash_1-2-3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017070025"
+    ],
+    "URL": []
+}

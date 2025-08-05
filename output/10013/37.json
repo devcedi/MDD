@@ -1,0 +1,67 @@
+{
+    "ArtNo": "37",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bédane nervuré",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "55",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "22",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230020372"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bédane nervuré",
+            "StandardisedArticleDescription": "Bédane nervuré",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "37.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/37.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000370002"
+    ],
+    "URL": []
+}

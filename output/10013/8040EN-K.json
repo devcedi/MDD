@@ -1,0 +1,52 @@
+{
+    "ArtNo": "8040EN-K",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage mâle, DIN 580:1972 noir",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "M10",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230848969"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage mâle, DIN 580:1972 noir",
+            "StandardisedArticleDescription": "Anneau de levage mâle, DIN 580:1972 noir",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8040EN-K.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8040EN-K.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080409510"
+    ],
+    "URL": []
+}

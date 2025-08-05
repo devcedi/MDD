@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1471M/C22",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil pneumatique pour positionner les pistons des freins à disque, avec tourne à gauche et tourne à droite et accessoires en coffret plastique",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230659008"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil pneumatique pour positionner les pistons des freins à disque, avec tourne à gauche et tourne à droite et accessoires en coffret plastique",
+            "StandardisedArticleDescription": "Outil pneumatique pour positionner les pistons des freins à disque, avec tourne à gauche et tourne à droite et accessoires en coffret plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1471M_slash_C22.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1471M_slash_C22.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014710101"
+    ],
+    "URL": []
+}

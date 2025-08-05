@@ -1,0 +1,57 @@
+{
+    "ArtNo": "442",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Filière ronde, pas gros, en acier HSS",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "M",
+            "Value": "20x2,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "ØxS \nmm",
+            "Value": "45x18",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230172309"
+    ],
+    "GenArts": [
+        {
+            "Description": "Filière ronde, pas gros, en acier HSS",
+            "StandardisedArticleDescription": "Filière ronde, pas gros, en acier HSS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "442.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/442.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004420020"
+    ],
+    "URL": []
+}

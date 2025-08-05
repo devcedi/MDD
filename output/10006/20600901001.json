@@ -1,0 +1,62 @@
+{
+    "ArtNo": 20600901001,
+    "Attributs": [
+        {
+            "Attribute": "Conditionnement ",
+            "Value": "tube ",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Utilisation",
+            "Value": "Lingette gommante très résistante",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Avantages",
+            "Value": "Formule puissante sans solvant pour salissures moyennes à fortes",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Description",
+            "Value": "Réactivable à l’eau. Facile à déchirer",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "DREUMEX",
+    "BrandNo": "10006",
+    "Documents": [],
+    "GTIN": [
+        "8712602005087"
+    ],
+    "GenArts": [
+        {
+            "Description": "Dreumex Power Wipes Ultra 6x90 wipes ",
+            "StandardisedArticleDescription": "Dreumex Power Wipes Ultra 6x90 wipes ",
+            "GenArtNo": -10006
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "DREUMEXlogo",
+            "Extension": "",
+            "Path": "/img/10006/DREUMEXlogo"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "UPW01",
+            "Extension": "",
+            "Path": "/img/10006/UPW01",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "20600901001"
+    ],
+    "URL": []
+}

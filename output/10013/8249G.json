@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8249G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet pour chevilles AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "M8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "E \nmm",
+            "Value": "57",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "ø F \nmm",
+            "Value": "14,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "95",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776057"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet pour chevilles AISI 316",
+            "StandardisedArticleDescription": "Crochet pour chevilles AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8249G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8249G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082490308"
+    ],
+    "URL": []
+}

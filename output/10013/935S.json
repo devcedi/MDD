@@ -1,0 +1,47 @@
+{
+    "ArtNo": "935/S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 clés en tube droites 6 pans, série légère (art. 935)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230547305"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 clés en tube droites 6 pans, série légère (art. 935)",
+            "StandardisedArticleDescription": "Jeu de 13 clés en tube droites 6 pans, série légère (art. 935)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "935_slash_S_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/935_slash_S_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009350183"
+    ],
+    "URL": []
+}

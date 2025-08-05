@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DB0829",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955003113"
+    ],
+    "GenArts": [
+        {
+            "Description": "Soufflet |Soufflet nu : DB0820 Couple de serrage : 20 à 28 Nm Entrée d'air M12 x 1,5 ",
+            "StandardisedArticleDescription": "Soufflet |Soufflet nu : DB0820 Couple de serrage : 20 à 28 Nm Entrée d'air M12 x 1,5 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A20,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A20,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DB0829"
+    ],
+    "URL": []
+}

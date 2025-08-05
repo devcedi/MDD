@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9561V",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Drapeau en voile 4x0,75 m avec tige en métal chromé socle en particules de ciment 50 cm",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmt",
+            "Value": "0,75",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "H\nmt",
+            "Value": "4",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230820743"
+    ],
+    "GenArts": [
+        {
+            "Description": "Drapeau en voile 4x0,75 m avec tige en métal chromé socle en particules de ciment 50 cm",
+            "StandardisedArticleDescription": "Drapeau en voile 4x0,75 m avec tige en métal chromé socle en particules de ciment 50 cm",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9561V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9561V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095610001"
+    ],
+    "URL": []
+}

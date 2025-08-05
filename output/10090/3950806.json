@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3950806",
+    "Attributs": [
+        {
+            "Attribute": "Longeur",
+            "Value": 230,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Largeur",
+            "Value": 117.5,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Profondeur",
+            "Value": 94,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Matière",
+            "Value": "Acier",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Finition",
+            "Value": "Galvanisé\nAxe zingué",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "S.ROLL H1 Butoir acier galvanisé",
+            "StandardisedArticleDescription": "S.ROLL H1 Butoir acier galvanisé",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3950806_3D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/3950806_3D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "3950806"
+    ],
+    "URL": []
+}

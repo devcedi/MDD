@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1464APB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de contrôle du système essence haute pression des moteurs FSI, à utiliser avec 1464T et 1464T/N",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230841076"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de contrôle du système essence haute pression des moteurs FSI, à utiliser avec 1464T et 1464T/N",
+            "StandardisedArticleDescription": "Kit de contrôle du système essence haute pression des moteurs FSI, à utiliser avec 1464T et 1464T/N",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1464APB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1464APB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014640500"
+    ],
+    "URL": []
+}

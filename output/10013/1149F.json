@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1149F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince à dénuder frontale autoréglable, avec dispositif de coupe",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "175",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm²",
+            "Value": "0,2 ÷ 6\n",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "19",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "0-2.8",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230510972"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince à dénuder frontale autoréglable, avec dispositif de coupe",
+            "StandardisedArticleDescription": "Pince à dénuder frontale autoréglable, avec dispositif de coupe",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1149F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1149F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011490010"
+    ],
+    "URL": []
+}

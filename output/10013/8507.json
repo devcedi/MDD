@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8507",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tendeur à deux crochets, zingué",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "M24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "≈\n”",
+            "Value": "1\"",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L min\nmm",
+            "Value": "472",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL\nkg",
+            "Value": "640",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230396026"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tendeur à deux crochets, zingué",
+            "StandardisedArticleDescription": "Tendeur à deux crochets, zingué",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8507.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8507.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085070124"
+    ],
+    "URL": []
+}

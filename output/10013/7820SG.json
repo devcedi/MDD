@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7820SG",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pantalon de travail léger, stretch et multipoches",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3XL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "IT",
+            "Value": "58",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809627519"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pantalon de travail léger, stretch et multipoches",
+            "StandardisedArticleDescription": "Pantalon de travail léger, stretch et multipoches",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "21ww.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/21ww.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7820SG.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7820SG.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "078200106"
+    ],
+    "URL": []
+}

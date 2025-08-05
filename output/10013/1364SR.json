@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1364SR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Distributeur roulant pour rouleaux de papier de masquage",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1530",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "520",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1080",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "960",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809472874"
+    ],
+    "GenArts": [
+        {
+            "Description": "Distributeur roulant pour rouleaux de papier de masquage",
+            "StandardisedArticleDescription": "Distributeur roulant pour rouleaux de papier de masquage",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1364SR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1364SR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013640005"
+    ],
+    "URL": []
+}

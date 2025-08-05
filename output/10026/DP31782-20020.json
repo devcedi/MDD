@@ -1,0 +1,57 @@
+{
+    "ArtNo": "DP31782-2/0020",
+    "Attributs": [
+        {
+            "Attribute": "1DK 20B-1",
+            "Value": 14892,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 750999,
+            "Value": "D12B22",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "US 06285",
+            "Value": "YP 06285F",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004523"
+    ],
+    "GenArts": [
+        {
+            "Description": "Membrane |Attention existe 2 hauteurs Voir aussi DP31782/0020 ",
+            "StandardisedArticleDescription": "Membrane |Attention existe 2 hauteurs Voir aussi DP31782/0020 ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A120,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A120,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP31782-2/0020"
+    ],
+    "URL": []
+}

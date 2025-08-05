@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9589A/36",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paquet de 36 rouleaux de ruban adhésif pour emballage, logo Beta, havane",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230552804"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paquet de 36 rouleaux de ruban adhésif pour emballage, logo Beta, havane",
+            "StandardisedArticleDescription": "Paquet de 36 rouleaux de ruban adhésif pour emballage, logo Beta, havane",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9589A_slash_36.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9589A_slash_36.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095890035"
+    ],
+    "URL": []
+}

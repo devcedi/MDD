@@ -1,0 +1,47 @@
+{
+    "ArtNo": "8600 R/225",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 64 accessoires GRADE 8 avec crochets sans panneau",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230931302"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 64 accessoires GRADE 8 avec crochets sans panneau",
+            "StandardisedArticleDescription": "Composition de 64 accessoires GRADE 8 avec crochets sans panneau",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8600R_slash_225.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8600R_slash_225.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "086000225"
+    ],
+    "URL": []
+}

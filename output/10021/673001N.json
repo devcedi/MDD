@@ -1,0 +1,34 @@
+{
+    "ArtNo": "673001N",
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694013580"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tube 6x1 noir PA12 Din 74324",
+            "StandardisedArticleDescription": "Tube 6x1 noir PA12 Din 74324",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "673001N"
+    ],
+    "URL": []
+}

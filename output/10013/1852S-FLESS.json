@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1852S-FLESS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Serpentin flexible",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L mm",
+            "Value": "750",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809206615"
+    ],
+    "GenArts": [
+        {
+            "Description": "Serpentin flexible",
+            "StandardisedArticleDescription": "Serpentin flexible",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1852S-FLESS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1852S-FLESS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018520519"
+    ],
+    "URL": []
+}

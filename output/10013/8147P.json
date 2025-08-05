@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8147P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince d'ancrage pour palans manuels",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL\nt",
+            "Value": "5,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A min\nmm",
+            "Value": "85",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A max\nmm",
+            "Value": "280",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "M\nmm",
+            "Value": "42,5",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809405209"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince d'ancrage pour palans manuels",
+            "StandardisedArticleDescription": "Pince d'ancrage pour palans manuels",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8147P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8147P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081470250"
+    ],
+    "URL": []
+}

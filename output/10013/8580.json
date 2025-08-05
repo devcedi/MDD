@@ -1,0 +1,50 @@
+{
+    "ArtNo": "8580",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Moschettoni per connessioni generiche zincati",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "DxL \nmm",
+            "Value": "10x89",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "WFL \nKg",
+            "Value": "220",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230191768"
+    ],
+    "GenArts": [
+        {
+            "Description": "Moschettoni per connessioni generiche zincati",
+            "StandardisedArticleDescription": "Moschettoni per connessioni generiche zincati",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085800010"
+    ],
+    "URL": []
+}

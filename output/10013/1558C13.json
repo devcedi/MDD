@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1558/C13",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Outil pour circlips de moyeux intérieurs et extérieurs avec actionnement à vis",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nØ mm",
+            "Value": "5,5÷77 ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nØ mm",
+            "Value": "5,5÷77",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809116501"
+    ],
+    "GenArts": [
+        {
+            "Description": "Outil pour circlips de moyeux intérieurs et extérieurs avec actionnement à vis",
+            "StandardisedArticleDescription": "Outil pour circlips de moyeux intérieurs et extérieurs avec actionnement à vis",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1558_slash_C13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1558_slash_C13.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015580200"
+    ],
+    "URL": []
+}

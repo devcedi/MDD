@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1759HD/TRUCK",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret de testeur de pression de liquide de refroidissement des poids-lourds",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774190"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret de testeur de pression de liquide de refroidissement des poids-lourds",
+            "StandardisedArticleDescription": "Coffret de testeur de pression de liquide de refroidissement des poids-lourds",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1759HD_slash_TRUCK.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1759HD_slash_TRUCK.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017590065"
+    ],
+    "URL": []
+}

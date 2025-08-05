@@ -1,0 +1,47 @@
+{
+    "ArtNo": "710/C10",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "10 douilles à chocs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230028613"
+    ],
+    "GenArts": [
+        {
+            "Description": "10 douilles à chocs",
+            "StandardisedArticleDescription": "10 douilles à chocs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "710_slash_C10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/710_slash_C10.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007100910"
+    ],
+    "URL": []
+}

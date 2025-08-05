@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1895/RC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Panier pour cuves à ultrasons 1895",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "450",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "250",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "150",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809131467"
+    ],
+    "GenArts": [
+        {
+            "Description": "Panier pour cuves à ultrasons 1895",
+            "StandardisedArticleDescription": "Panier pour cuves à ultrasons 1895",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1895_slash_RC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1895_slash_RC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018950527"
+    ],
+    "URL": []
+}

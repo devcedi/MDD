@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1207E/TX-D",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 7 tournevis pour vis Torx®",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaEVOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809134574"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 7 tournevis pour vis Torx®",
+            "StandardisedArticleDescription": "Jeu de 7 tournevis pour vis Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1207E_slash_TX-D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1207E_slash_TX-D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012071213"
+    ],
+    "URL": []
+}

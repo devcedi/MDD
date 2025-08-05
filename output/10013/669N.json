@@ -1,0 +1,47 @@
+{
+    "ArtNo": "669N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé dynamométrique à attachement à déclenchement, embout rectangulaire utilisable pur serrage droite ou gauche Précision de serrage :± 3%",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230782157"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé dynamométrique à attachement à déclenchement, embout rectangulaire utilisable pur serrage droite ou gauche Précision de serrage :± 3%",
+            "StandardisedArticleDescription": "Clé dynamométrique à attachement à déclenchement, embout rectangulaire utilisable pur serrage droite ou gauche Précision de serrage :± 3%",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "669N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/669N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006690240"
+    ],
+    "URL": []
+}

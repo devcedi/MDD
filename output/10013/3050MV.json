@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3050/MV",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étau de roue autobloquant mécanique à vis pour élévateur 3050/600",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L2\nmm",
+            "Value": "",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L3\nmm",
+            "Value": "",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "L4\nmm",
+            "Value": "",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809138374"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étau de roue autobloquant mécanique à vis pour élévateur 3050/600",
+            "StandardisedArticleDescription": "Étau de roue autobloquant mécanique à vis pour élévateur 3050/600",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_moto.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_moto.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3050_slash_MV.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3050_slash_MV.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030500034"
+    ],
+    "URL": []
+}

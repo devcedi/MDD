@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1946C4,8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Riveteuse avec aspiration automatique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "1,5",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230729701"
+    ],
+    "GenArts": [
+        {
+            "Description": "Riveteuse avec aspiration automatique",
+            "StandardisedArticleDescription": "Riveteuse avec aspiration automatique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1946C48.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1946C48.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019460006"
+    ],
+    "URL": []
+}

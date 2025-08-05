@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7340G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure RENEGADE en tissu mesh ultra-respirant avec laçage traditionnel",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "321",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809577364"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure RENEGADE en tissu mesh ultra-respirant avec laçage traditionnel",
+            "StandardisedArticleDescription": "Chaussure RENEGADE en tissu mesh ultra-respirant avec laçage traditionnel",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7340G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7340G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073400648"
+    ],
+    "URL": []
+}

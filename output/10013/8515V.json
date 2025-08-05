@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8515V",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Raidisseurs peint",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "24,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "100",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230190761"
+    ],
+    "GenArts": [
+        {
+            "Description": "Raidisseurs peint",
+            "StandardisedArticleDescription": "Raidisseurs peint",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8515V.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8515V.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "085150103"
+    ],
+    "URL": []
+}

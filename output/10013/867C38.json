@@ -1,0 +1,47 @@
+{
+    "ArtNo": "867/C38",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffret métallique avec plateau en mousse compacte comprenant 38 embouts avec entraînement hexagonal de 10 mm et 1 porte-embouts à cardan",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230841120"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffret métallique avec plateau en mousse compacte comprenant 38 embouts avec entraînement hexagonal de 10 mm et 1 porte-embouts à cardan",
+            "StandardisedArticleDescription": "Coffret métallique avec plateau en mousse compacte comprenant 38 embouts avec entraînement hexagonal de 10 mm et 1 porte-embouts à cardan",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "867_slash_C38.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/867_slash_C38.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008670938"
+    ],
+    "URL": []
+}

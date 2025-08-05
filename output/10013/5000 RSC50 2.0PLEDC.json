@@ -1,0 +1,47 @@
+{
+    "ArtNo": "5000 RSC50 2.0/PLEDC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Profilé en aluminium avec ruban LED, pour combinaisons d'ameublement d'atelier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaRSC50",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809620541"
+    ],
+    "GenArts": [
+        {
+            "Description": "Profilé en aluminium avec ruban LED, pour combinaisons d'ameublement d'atelier",
+            "StandardisedArticleDescription": "Profilé en aluminium avec ruban LED, pour combinaisons d'ameublement d'atelier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_RSC50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_RSC50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "5000RSC502_dot_0_slash_PLEDC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/5000RSC502_dot_0_slash_PLEDC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "050001712"
+    ],
+    "URL": []
+}

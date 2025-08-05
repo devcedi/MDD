@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1200MS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Magnétiseur/démagnétiseur",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaEVOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230477343"
+    ],
+    "GenArts": [
+        {
+            "Description": "Magnétiseur/démagnétiseur",
+            "StandardisedArticleDescription": "Magnétiseur/démagnétiseur",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1200MS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1200MS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012000000"
+    ],
+    "URL": []
+}

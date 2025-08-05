@@ -1,0 +1,72 @@
+{
+    "ArtNo": "DP34582/0101",
+    "Attributs": [
+        {
+            "Attribute": "1R 13-753",
+            "Value": "1DK 28F-5",
+            "SortNo": 1
+        },
+        {
+            "Attribute": 5010557355,
+            "Value": 5010600328,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 7421978494,
+            "Value": 7422025556,
+            "SortNo": 3
+        },
+        {
+            "Attribute": 20722412,
+            "Value": 20726768,
+            "SortNo": 4
+        },
+        {
+            "Attribute": 21978494,
+            "Value": 21978504,
+            "SortNo": 5
+        },
+        {
+            "Attribute": 25372795,
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005780"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble |Gamme T - séries Low / FM / FH Low piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble |Gamme T - séries Low / FM / FH Low piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A145,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A145,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34582/0101"
+    ],
+    "URL": []
+}

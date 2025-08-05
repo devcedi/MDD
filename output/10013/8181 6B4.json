@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8181 6/B4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sac comprenant 4 sangles à cliquet 8181, d'une longueur de 6 m en polyester haute ténacité (PES) et crochets simples",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L2 \nmm",
+            "Value": "5600",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "400",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nm",
+            "Value": "6",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "STF \ndaN",
+            "Value": "180",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809558493"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sac comprenant 4 sangles à cliquet 8181, d'une longueur de 6 m en polyester haute ténacité (PES) et crochets simples",
+            "StandardisedArticleDescription": "Sac comprenant 4 sangles à cliquet 8181, d'une longueur de 6 m en polyester haute ténacité (PES) et crochets simples",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "81816_slash_B4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/81816_slash_B4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081810916"
+    ],
+    "URL": []
+}

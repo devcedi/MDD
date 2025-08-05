@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C45PRO 2.0 PML",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Meuble haut mural long pour combinaison d'ameublement d'atelier C45PRO 2.0",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaC45PRO",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809415260"
+    ],
+    "GenArts": [
+        {
+            "Description": "Meuble haut mural long pour combinaison d'ameublement d'atelier C45PRO 2.0",
+            "StandardisedArticleDescription": "Meuble haut mural long pour combinaison d'ameublement d'atelier C45PRO 2.0",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01_C45PRO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01_C45PRO.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C45PRO2_dot_0PML.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C45PRO2_dot_0PML.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "045000303"
+    ],
+    "URL": []
+}

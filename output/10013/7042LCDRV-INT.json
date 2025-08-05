@@ -1,0 +1,40 @@
+{
+    "ArtNo": "7042LCD/RV-INT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Écran intérieur pour 7042LCD, 7043",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaWELDING",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230801421"
+    ],
+    "GenArts": [
+        {
+            "Description": "Écran intérieur pour 7042LCD, 7043",
+            "StandardisedArticleDescription": "Écran intérieur pour 7042LCD, 7043",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "28.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/28.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "070420102"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1755P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Burettes en plastique pour huile",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "cc",
+            "Value": "80",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "35",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "45",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809644530"
+    ],
+    "GenArts": [
+        {
+            "Description": "Burettes en plastique pour huile",
+            "StandardisedArticleDescription": "Burettes en plastique pour huile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1755P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1755P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017550080"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1483KV-PT/S7",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu d'embouts à cinq pointes",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230805481"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu d'embouts à cinq pointes",
+            "StandardisedArticleDescription": "Jeu d'embouts à cinq pointes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1483KV-PT_slash_S7.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1483KV-PT_slash_S7.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014830117"
+    ],
+    "URL": []
+}

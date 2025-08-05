@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9572LB",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Beta-March, 100% coton, 200 g/m2 orange, avec inserts noirs",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXL",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809328928"
+    ],
+    "GenArts": [
+        {
+            "Description": "Beta-March, 100% coton, 200 g/m2 orange, avec inserts noirs",
+            "StandardisedArticleDescription": "Beta-March, 100% coton, 200 g/m2 orange, avec inserts noirs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9572LB.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9572LB.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095720805"
+    ],
+    "URL": []
+}

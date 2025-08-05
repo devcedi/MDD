@@ -1,0 +1,67 @@
+{
+    "ArtNo": "3973/4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille extracteur pour mouvement central à 20 encoches avec pivot central, nickelée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "31,5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "55",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "30",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "24",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230882710"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille extracteur pour mouvement central à 20 encoches avec pivot central, nickelée",
+            "StandardisedArticleDescription": "Douille extracteur pour mouvement central à 20 encoches avec pivot central, nickelée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3973_slash_4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3973_slash_4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039730040"
+    ],
+    "URL": []
+}

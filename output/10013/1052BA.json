@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1052BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau universelle à mâchoires concaves, antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "225",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "62,0",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A1 max\nmm",
+            "Value": "40,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "9,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230837383"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau universelle à mâchoires concaves, antidéflagrante",
+            "StandardisedArticleDescription": "Pince-étau universelle à mâchoires concaves, antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1052BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1052BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010520824"
+    ],
+    "URL": []
+}

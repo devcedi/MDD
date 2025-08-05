@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1298RTX/S8",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 8 tournevis pour vis Tamper Resistant Torx® (art. 1298RTX)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230436012"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 8 tournevis pour vis Tamper Resistant Torx® (art. 1298RTX)",
+            "StandardisedArticleDescription": "Jeu de 8 tournevis pour vis Tamper Resistant Torx® (art. 1298RTX)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1298RTX_slash_S8.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1298RTX_slash_S8.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012980308"
+    ],
+    "URL": []
+}

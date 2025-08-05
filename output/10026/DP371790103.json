@@ -1,0 +1,77 @@
+{
+    "ArtNo": "DP37179/0103",
+    "Attributs": [
+        {
+            "Attribute": "1R 11-751",
+            "Value": "1DK 22E-9",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "1T 300-37 / 204677",
+            "Value": "1T 300-37 / 206340",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "2618V",
+            "Value": "3 229 0029 00",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "3 229 2129 00",
+            "Value": "3 229 2229 00",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "3 229 2429 00",
+            "Value": 1723277,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D11B35",
+            "Value": "D12B14",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "KR 725-28",
+            "Value": "YP 06367TKW",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005308"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | piston composite",
+            "StandardisedArticleDescription": "Diaphragme assemble | piston composite",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A182,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A182,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP37179/0103"
+    ],
+    "URL": []
+}

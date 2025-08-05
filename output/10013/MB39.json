@@ -1,0 +1,47 @@
+{
+    "ArtNo": "MB39",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Module mousse MB39, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809594187"
+    ],
+    "GenArts": [
+        {
+            "Description": "Module mousse MB39, vide",
+            "StandardisedArticleDescription": "Module mousse MB39, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "MB39.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/MB39.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024524229"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1654",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pied à coulisse, précision au 1/50e",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A max \nmm",
+            "Value": "300",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "410",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "100",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "G \nmm",
+            "Value": "0,02",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "HxS \nmm",
+            "Value": "20x4",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230085005"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pied à coulisse, précision au 1/50e",
+            "StandardisedArticleDescription": "Pied à coulisse, précision au 1/50e",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1654.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1654.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016540030"
+    ],
+    "URL": []
+}

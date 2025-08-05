@@ -1,0 +1,47 @@
+{
+    "ArtNo": "T99",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Plateau thermoformé T99, vide",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230873466"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plateau thermoformé T99, vide",
+            "StandardisedArticleDescription": "Plateau thermoformé T99, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "T99.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/T99.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024249908"
+    ],
+    "URL": []
+}

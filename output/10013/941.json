@@ -1,0 +1,87 @@
+{
+    "ArtNo": "941",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à douilles à poignée en T haute performance",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "13x13",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "255",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "124",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "55",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "10,5",
+            "SortNo": 6
+        },
+        {
+            "Attribute": "A2\nmm",
+            "Value": "23,5",
+            "SortNo": 7
+        },
+        {
+            "Attribute": "A3\nmm",
+            "Value": "10,5",
+            "SortNo": 8
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "18,5",
+            "SortNo": 9
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230735719"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à douilles à poignée en T haute performance",
+            "StandardisedArticleDescription": "Clé à douilles à poignée en T haute performance",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "941.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/941.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009410113"
+    ],
+    "URL": []
+}

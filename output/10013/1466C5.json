@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1466/C5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 clés pour la purge des freins",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230839851"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 clés pour la purge des freins",
+            "StandardisedArticleDescription": "Jeu de 5 clés pour la purge des freins",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1466_slash_C5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1466_slash_C5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014660100"
+    ],
+    "URL": []
+}

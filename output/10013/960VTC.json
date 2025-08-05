@@ -1,0 +1,52 @@
+{
+    "ArtNo": "960VTC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Instrument de contrôle des fuites des cylindres sur moteurs à essence",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "3÷6,5",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809418438"
+    ],
+    "GenArts": [
+        {
+            "Description": "Instrument de contrôle des fuites des cylindres sur moteurs à essence",
+            "StandardisedArticleDescription": "Instrument de contrôle des fuites des cylindres sur moteurs à essence",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960VTC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960VTC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600261"
+    ],
+    "URL": []
+}

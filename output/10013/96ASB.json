@@ -1,0 +1,47 @@
+{
+    "ArtNo": "96AS/B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 11 clés mâles 6 pans coudées (art. 96AS) en trousse",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230620206"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 11 clés mâles 6 pans coudées (art. 96AS) en trousse",
+            "StandardisedArticleDescription": "Jeu de 11 clés mâles 6 pans coudées (art. 96AS) en trousse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "96AS_slash_B11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/96AS_slash_B11.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000960749"
+    ],
+    "URL": []
+}

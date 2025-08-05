@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9563G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Fauteuil de bureau pour visiteurs",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230883571"
+    ],
+    "GenArts": [
+        {
+            "Description": "Fauteuil de bureau pour visiteurs",
+            "StandardisedArticleDescription": "Fauteuil de bureau pour visiteurs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9563G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9563G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095630050"
+    ],
+    "URL": []
+}

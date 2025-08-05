@@ -1,0 +1,72 @@
+{
+    "ArtNo": "95FTX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé double droite pour écrous TORX®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "E20xE24",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "224",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "24,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "28,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "12,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230096162"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé double droite pour écrous TORX®",
+            "StandardisedArticleDescription": "Clé double droite pour écrous TORX®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "95FTX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/95FTX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000950320"
+    ],
+    "URL": []
+}

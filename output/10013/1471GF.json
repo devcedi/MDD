@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1471GF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Paire de crochets modelables pour le soutien de la pince frein",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "  \nMax kg",
+            "Value": "5 ",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809116020"
+    ],
+    "GenArts": [
+        {
+            "Description": "Paire de crochets modelables pour le soutien de la pince frein",
+            "StandardisedArticleDescription": "Paire de crochets modelables pour le soutien de la pince frein",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1471GF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1471GF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014710310"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "425",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Foret conique étagé en acier HSS",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "100",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "40÷50",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "1",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "D\nmm",
+            "Value": "13",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230170435"
+    ],
+    "GenArts": [
+        {
+            "Description": "Foret conique étagé en acier HSS",
+            "StandardisedArticleDescription": "Foret conique étagé en acier HSS",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "08.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/08.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "425.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/425.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "004250029"
+    ],
+    "URL": []
+}

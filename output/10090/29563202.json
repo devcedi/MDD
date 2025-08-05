@@ -1,0 +1,107 @@
+{
+    "ArtNo": "29563202",
+    "Attributs": [
+        {
+            "Attribute": "D (kN)",
+            "Value": 200,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Convoi ED (t) maxi",
+            "Value": 103,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Remorque ED (t maxi)",
+            "Value": 50,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Dc (kN)",
+            "Value": 160,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S (kg)",
+            "Value": 1000,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "V (kN)",
+            "Value": 140,
+            "SortNo": 6
+        },
+        {
+            "Attribute": "Convoi EC (t) maxi",
+            "Value": 96,
+            "SortNo": 7
+        },
+        {
+            "Attribute": "Remorque EC (t maxi)",
+            "Value": 40,
+            "SortNo": 8
+        },
+        {
+            "Attribute": "Rattrapage de jeu",
+            "Value": "Oléopneumatique",
+            "SortNo": 9
+        },
+        {
+            "Attribute": "Epaisseur traverse ",
+            "Value": "16 - 36",
+            "SortNo": 10
+        },
+        {
+            "Attribute": "Øvisserie /classe",
+            "Value": "M20",
+            "SortNo": 11
+        },
+        {
+            "Attribute": "Type",
+            "Value": "G150",
+            "SortNo": 12
+        },
+        {
+            "Attribute": "Application",
+            "Value": "KONEXO EVO - Le crochet BNA manuel POMMIER entrée de gamme, compact, facilitant les implantations sur les véhicules de transport de marchandises. Le graisseur accessible sur le côté du crochet facilite l’entretien. Pour plus de sécurité, un témoin mécanique de sécurité indique la position du crochet (ouvert/fermé).",
+            "SortNo": 13
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet d'attelage BNA KONEXO EVO manuel ",
+            "StandardisedArticleDescription": "Crochet d'attelage BNA KONEXO EVO manuel ",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "29563203_3d.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/29563203_3d.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "29563202"
+    ],
+    "URL": []
+}

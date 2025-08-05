@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1392R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout en nylon pour 1392",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "60",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230716411"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout en nylon pour 1392",
+            "StandardisedArticleDescription": "Embout en nylon pour 1392",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1392R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1392R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013920260"
+    ],
+    "URL": []
+}

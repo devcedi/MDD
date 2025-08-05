@@ -1,0 +1,62 @@
+{
+    "ArtNo": "11248A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Disque à lamelles plat Céramique avec support fibre de verre. Gamme TOP LINE avec simple lamelle pour un rendement maximal",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "115",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P",
+            "Value": "60",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "F\nmm",
+            "Value": "22,23",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "BetaABRASIVES",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230946511"
+    ],
+    "GenArts": [
+        {
+            "Description": "Disque à lamelles plat Céramique avec support fibre de verre. Gamme TOP LINE avec simple lamelle pour un rendement maximal",
+            "StandardisedArticleDescription": "Disque à lamelles plat Céramique avec support fibre de verre. Gamme TOP LINE avec simple lamelle pour un rendement maximal",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "26.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/26.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "11248A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11248A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "112480006"
+    ],
+    "URL": []
+}

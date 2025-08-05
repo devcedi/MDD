@@ -1,0 +1,57 @@
+{
+    "ArtNo": "860TX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout coloré pour visseuses pour vis Torx®",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T40",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "25",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230632841"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout coloré pour visseuses pour vis Torx®",
+            "StandardisedArticleDescription": "Embout coloré pour visseuses pour vis Torx®",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "860TX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/860TX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008600750"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "728B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille à chocs 12 pans, carré femelle 3/4\", série normale, phosphatée",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "46",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "67",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "63",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "44",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "23",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809438627"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille à chocs 12 pans, carré femelle 3/4\", série normale, phosphatée",
+            "StandardisedArticleDescription": "Douille à chocs 12 pans, carré femelle 3/4\", série normale, phosphatée",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "728B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/728B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "007280146"
+    ],
+    "URL": []
+}

@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKC438",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966017925"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support supérieur droit (X62) ",
+            "StandardisedArticleDescription": "Support supérieur droit (X62) ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKC438"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8383C",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étrier fileté carré pour agriculture galvanisé à chaud",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "120",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "M10",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "175",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "8,55",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230615592"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étrier fileté carré pour agriculture galvanisé à chaud",
+            "StandardisedArticleDescription": "Étrier fileté carré pour agriculture galvanisé à chaud",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8383C.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8383C.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "083830120"
+    ],
+    "URL": []
+}

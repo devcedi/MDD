@@ -1,0 +1,47 @@
+{
+    "ArtNo": "2499PC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Support de rouleau de papier",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230047843"
+    ],
+    "GenArts": [
+        {
+            "Description": "Support de rouleau de papier",
+            "StandardisedArticleDescription": "Support de rouleau de papier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "2499PC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/2499PC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "024990090"
+    ],
+    "URL": []
+}

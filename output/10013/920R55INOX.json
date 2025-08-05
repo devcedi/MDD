@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920/R55INOX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mécanisme rotatif pour cliquets inox",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaINOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230847566"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mécanisme rotatif pour cliquets inox",
+            "StandardisedArticleDescription": "Mécanisme rotatif pour cliquets inox",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_inox.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_inox.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920_slash_R55INOX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920_slash_R55INOX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009203879"
+    ],
+    "URL": []
+}

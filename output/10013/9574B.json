@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9574B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Gants de travail, avec poignet élastiqué, pouce et index renforcés, en cuir synthétique permettant l'utilisation de dispositifs à écran tactile",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "XXL",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "TG.",
+            "Value": "12",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230534206"
+    ],
+    "GenArts": [
+        {
+            "Description": "Gants de travail, avec poignet élastiqué, pouce et index renforcés, en cuir synthétique permettant l'utilisation de dispositifs à écran tactile",
+            "StandardisedArticleDescription": "Gants de travail, avec poignet élastiqué, pouce et index renforcés, en cuir synthétique permettant l'utilisation de dispositifs à écran tactile",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9574B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9574B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095740105"
+    ],
+    "URL": []
+}

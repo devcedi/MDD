@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR981009",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "ETRIER DE FREIN REN WAB",
+            "StandardisedArticleDescription": "ETRIER DE FREIN REN WAB",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR981009"
+    ],
+    "URL": []
+}

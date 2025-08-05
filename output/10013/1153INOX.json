@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1153INOX",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince universelle réglable \"mécanicien\", en acier inoxydable",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "150",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "26",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "24",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A1\nmm",
+            "Value": "9,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "9,2",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "BetaINOX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230872551"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince universelle réglable \"mécanicien\", en acier inoxydable",
+            "StandardisedArticleDescription": "Pince universelle réglable \"mécanicien\", en acier inoxydable",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11_inox.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11_inox.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1153INOX.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1153INOX.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011530315"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1716P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Grattoir pour joints",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "125",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "6",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230516028"
+    ],
+    "GenArts": [
+        {
+            "Description": "Grattoir pour joints",
+            "StandardisedArticleDescription": "Grattoir pour joints",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1716P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1716P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017160020"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "6600 M/326",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Composition de 155 outils, avec crochets sans panneau",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetamaX",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230624587"
+    ],
+    "GenArts": [
+        {
+            "Description": "Composition de 155 outils, avec crochets sans panneau",
+            "StandardisedArticleDescription": "Composition de 155 outils, avec crochets sans panneau",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "90.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "6600M_slash_326.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/6600M_slash_326.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "066000326"
+    ],
+    "URL": []
+}

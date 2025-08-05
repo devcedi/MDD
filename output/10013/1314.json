@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1314",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tas à tête ronde convexe et plate \"diabolo\"",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "760",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230043517"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tas à tête ronde convexe et plate \"diabolo\"",
+            "StandardisedArticleDescription": "Tas à tête ronde convexe et plate \"diabolo\"",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1314.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1314.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013140001"
+    ],
+    "URL": []
+}

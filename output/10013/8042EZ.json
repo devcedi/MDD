@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8042EZ",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau de levage femelle galvanisé",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "M48F",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "3",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "WLL\nkg",
+            "Value": "8600",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "F\nmm",
+            "Value": "90",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230545127"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau de levage femelle galvanisé",
+            "StandardisedArticleDescription": "Anneau de levage femelle galvanisé",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8042EZ.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8042EZ.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080420449"
+    ],
+    "URL": []
+}

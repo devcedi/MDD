@@ -1,0 +1,62 @@
+{
+    "ArtNo": "7213G",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chaussure basse en croûte de velours aérée avec inserts en tissu mesh hautement respirant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "48",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "13",
+            "SortNo": 3
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "315",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809347134"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chaussure basse en croûte de velours aérée avec inserts en tissu mesh hautement respirant",
+            "StandardisedArticleDescription": "Chaussure basse en croûte de velours aérée avec inserts en tissu mesh hautement respirant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7213G.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7213G.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "072130148"
+    ],
+    "URL": []
+}

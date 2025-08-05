@@ -1,0 +1,57 @@
+{
+    "ArtNo": "9831L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Bloquant-Basse résistance",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Confezione",
+            "Value": "flacone",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Formato \nmL",
+            "Value": "250",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331843"
+    ],
+    "GenArts": [
+        {
+            "Description": "Bloquant-Basse résistance",
+            "StandardisedArticleDescription": "Bloquant-Basse résistance",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9831L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9831L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098312025"
+    ],
+    "URL": []
+}

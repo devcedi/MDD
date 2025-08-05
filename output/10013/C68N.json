@@ -1,0 +1,52 @@
+{
+    "ArtNo": "C68N",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Présentoir mural Beta, vide",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "10 m",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "SHOPinShop",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809433820"
+    ],
+    "GenArts": [
+        {
+            "Description": "Présentoir mural Beta, vide",
+            "StandardisedArticleDescription": "Présentoir mural Beta, vide",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "89.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/89.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C68N.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C68N.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "068000040"
+    ],
+    "URL": []
+}

@@ -1,0 +1,77 @@
+{
+    "ArtNo": "S895403",
+    "Attributs": [
+        {
+            "Attribute": 81436010097,
+            "Value": 81436010100,
+            "SortNo": 1
+        },
+        {
+            "Attribute": 81436010102,
+            "Value": 81436010105,
+            "SortNo": 2
+        },
+        {
+            "Attribute": 81436010126,
+            "Value": 81436010138,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L5820005",
+            "Value": "1F 21C-5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "1F 21C-6",
+            "Value": "D12S05",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B 154",
+            "Value": "TE771107Y",
+            "SortNo": 6
+        },
+        {
+            "Attribute": 1159842,
+            "Value": "",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966014795"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coussin de cabine ",
+            "StandardisedArticleDescription": "Coussin de cabine ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A278,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A278,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "S895403"
+    ],
+    "URL": []
+}

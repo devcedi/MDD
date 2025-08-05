@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1264/S5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 tournevis pour vis à lame fraisée pour vis à fente (art. 1264)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BetaGRIP",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230611020"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 tournevis pour vis à lame fraisée pour vis à fente (art. 1264)",
+            "StandardisedArticleDescription": "Jeu de 5 tournevis pour vis à lame fraisée pour vis à fente (art. 1264)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1264_slash_S5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1264_slash_S5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "012640305"
+    ],
+    "URL": []
+}

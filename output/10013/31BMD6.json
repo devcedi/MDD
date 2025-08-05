@@ -1,0 +1,47 @@
+{
+    "ArtNo": "31BM/D6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 6 chasse-goupilles gainés confort",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230571058"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 6 chasse-goupilles gainés confort",
+            "StandardisedArticleDescription": "Jeu de 6 chasse-goupilles gainés confort",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "07.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/07.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "31BM_slash_D6.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/31BM_slash_D6.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000310420"
+    ],
+    "URL": []
+}

@@ -1,0 +1,72 @@
+{
+    "ArtNo": "8242",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Anneau femelle AISI 316",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "M12",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "55",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "ø C \nmm",
+            "Value": "30",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "WFL \nkg",
+            "Value": "340",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "D \nmm",
+            "Value": "33",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230636368"
+    ],
+    "GenArts": [
+        {
+            "Description": "Anneau femelle AISI 316",
+            "StandardisedArticleDescription": "Anneau femelle AISI 316",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8242.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8242.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "082420212"
+    ],
+    "URL": []
+}

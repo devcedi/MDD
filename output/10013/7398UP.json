@@ -1,0 +1,57 @@
+{
+    "ArtNo": "7398UP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Semelles anatomique en TPE GEL parfumé aux agrumes, avec support de la voûte plantaire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "EU",
+            "Value": "41 - 46",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "UK",
+            "Value": "7 - 11",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809204284"
+    ],
+    "GenArts": [
+        {
+            "Description": "Semelles anatomique en TPE GEL parfumé aux agrumes, avec support de la voûte plantaire",
+            "StandardisedArticleDescription": "Semelles anatomique en TPE GEL parfumé aux agrumes, avec support de la voûte plantaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "19.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/19.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "7398UP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/7398UP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "073980081"
+    ],
+    "URL": []
+}

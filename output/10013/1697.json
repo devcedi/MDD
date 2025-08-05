@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1697",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Niveau laser croisé, 30 mètres, poutre verte, avec base magnétique et support mural, en coffret",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "H\nmm",
+            "Value": "82",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "57",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "S\nmm",
+            "Value": "89,5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809209142"
+    ],
+    "GenArts": [
+        {
+            "Description": "Niveau laser croisé, 30 mètres, poutre verte, avec base magnétique et support mural, en coffret",
+            "StandardisedArticleDescription": "Niveau laser croisé, 30 mètres, poutre verte, avec base magnétique et support mural, en coffret",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1697.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1697.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016970030"
+    ],
+    "URL": []
+}

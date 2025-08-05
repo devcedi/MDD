@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1760DGT/2",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Multimètre numérique automobile portable avec oscilloscope à 2 canaux et générateur d'onde",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809126814"
+    ],
+    "GenArts": [
+        {
+            "Description": "Multimètre numérique automobile portable avec oscilloscope à 2 canaux et générateur d'onde",
+            "StandardisedArticleDescription": "Multimètre numérique automobile portable avec oscilloscope à 2 canaux et générateur d'onde",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760DGT_slash_2.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760DGT_slash_2.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600008"
+    ],
+    "URL": []
+}

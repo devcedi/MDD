@@ -1,0 +1,26 @@
+{
+    "ArtNo": "FR020016",
+    "Attributs": [],
+    "BrandName": "CEDILOG",
+    "BrandNo": "10000",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "DISQUE DE FREIN SANS CATAPHORESE",
+            "StandardisedArticleDescription": "DISQUE DE FREIN SANS CATAPHORESE",
+            "GenArtNo": -10000
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "FR020016"
+    ],
+    "URL": []
+}

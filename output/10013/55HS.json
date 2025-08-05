@@ -1,0 +1,72 @@
+{
+    "ArtNo": "55HS",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourches H-SAFE",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "34x36",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "325",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "68,4",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A1 \nmm",
+            "Value": "76,1",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "11,0",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta H-SAFE",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230859316"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourches H-SAFE",
+            "StandardisedArticleDescription": "Clé à fourches H-SAFE",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12HS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "55HS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/55HS.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000554117"
+    ],
+    "URL": []
+}

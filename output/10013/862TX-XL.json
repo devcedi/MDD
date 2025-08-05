@@ -1,0 +1,57 @@
+{
+    "ArtNo": "862TX-XL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Embout pour visseuses pour vis Torx®, série longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "T40",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "100",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230884011"
+    ],
+    "GenArts": [
+        {
+            "Description": "Embout pour visseuses pour vis Torx®, série longue",
+            "StandardisedArticleDescription": "Embout pour visseuses pour vis Torx®, série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "862TX-XL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/862TX-XL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008620690"
+    ],
+    "URL": []
+}

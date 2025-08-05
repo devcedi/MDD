@@ -1,0 +1,47 @@
+{
+    "ArtNo": "C22B",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coffre porte-outils, en tôle",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230532615"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coffre porte-outils, en tôle",
+            "StandardisedArticleDescription": "Coffre porte-outils, en tôle",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "01.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/01.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "C22B.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/C22B.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "022000170"
+    ],
+    "URL": []
+}

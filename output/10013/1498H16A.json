@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1498H/16A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chargeur de batterie électronique multifonction 12-24V",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "298",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "P \nmm",
+            "Value": "152",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "H \nmm",
+            "Value": "88",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809526997"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chargeur de batterie électronique multifonction 12-24V",
+            "StandardisedArticleDescription": "Chargeur de batterie électronique multifonction 12-24V",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498H_slash_16A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498H_slash_16A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980216"
+    ],
+    "URL": []
+}

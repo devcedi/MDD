@@ -1,0 +1,62 @@
+{
+    "ArtNo": "3912TP/A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Prise d’adaptateur pour fourches à essieu traversant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "39",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø\nmm",
+            "Value": "30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "5",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809330525"
+    ],
+    "GenArts": [
+        {
+            "Description": "Prise d’adaptateur pour fourches à essieu traversant",
+            "StandardisedArticleDescription": "Prise d’adaptateur pour fourches à essieu traversant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16_bici.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16_bici.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3912TP_slash_A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3912TP_slash_A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "039120052"
+    ],
+    "URL": []
+}

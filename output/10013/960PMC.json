@@ -1,0 +1,52 @@
+{
+    "ArtNo": "960PMC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pompe à tarer les injecteurs Diesel",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Bar max.",
+            "Value": "600",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230101828"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pompe à tarer les injecteurs Diesel",
+            "StandardisedArticleDescription": "Pompe à tarer les injecteurs Diesel",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "960PMC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/960PMC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009600200"
+    ],
+    "URL": []
+}

@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1784",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Ciseaux gros effort",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "300",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230056487"
+    ],
+    "GenArts": [
+        {
+            "Description": "Ciseaux gros effort",
+            "StandardisedArticleDescription": "Ciseaux gros effort",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1784.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1784.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017840030"
+    ],
+    "URL": []
+}

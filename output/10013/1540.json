@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1540",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Masse à inertie",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "390",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "M10",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "1544",
+            "Value": "0÷7",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230045801"
+    ],
+    "GenArts": [
+        {
+            "Description": "Masse à inertie",
+            "StandardisedArticleDescription": "Masse à inertie",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1540.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1540.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015400001"
+    ],
+    "URL": []
+}

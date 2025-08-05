@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1460F",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince pour joints d'étanchéité de soupapes",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230478760"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince pour joints d'étanchéité de soupapes",
+            "StandardisedArticleDescription": "Pince pour joints d'étanchéité de soupapes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1460F.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1460F.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014600010"
+    ],
+    "URL": []
+}

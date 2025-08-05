@@ -1,0 +1,34 @@
+{
+    "ArtNo": "RKC290",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666966017093"
+    ],
+    "GenArts": [
+        {
+            "Description": "Raccord en Té 3 x 6/4 encliquetable laiton nickelé  ",
+            "StandardisedArticleDescription": "Raccord en Té 3 x 6/4 encliquetable laiton nickelé  ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "RKC290"
+    ],
+    "URL": []
+}

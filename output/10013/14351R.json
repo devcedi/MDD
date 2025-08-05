@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1435/1R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Molette pour 1435/1",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230084909"
+    ],
+    "GenArts": [
+        {
+            "Description": "Molette pour 1435/1",
+            "StandardisedArticleDescription": "Molette pour 1435/1",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1435_slash_1R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1435_slash_1R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014350011"
+    ],
+    "URL": []
+}

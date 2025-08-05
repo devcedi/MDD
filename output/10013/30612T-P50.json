@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3061/2T-P50",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Rallonge de 50 mm pour 3061/2T",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230776781"
+    ],
+    "GenArts": [
+        {
+            "Description": "Rallonge de 50 mm pour 3061/2T",
+            "StandardisedArticleDescription": "Rallonge de 50 mm pour 3061/2T",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3061_slash_2T-P50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3061_slash_2T-P50.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030610021"
+    ],
+    "URL": []
+}

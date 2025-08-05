@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1719BMA...B5",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 5 limes demi-douces, avec manche, en étui",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\n\"",
+            "Value": "10",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809150048"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 5 limes demi-douces, avec manche, en étui",
+            "StandardisedArticleDescription": "Jeu de 5 limes demi-douces, avec manche, en étui",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1719BMA_dot__dot__dot_B5.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1719BMA_dot__dot__dot_B5.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017190298"
+    ],
+    "URL": []
+}

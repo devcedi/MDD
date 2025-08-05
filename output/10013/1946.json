@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1946",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Riveteuse",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nkg",
+            "Value": "1,5",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230100890"
+    ],
+    "GenArts": [
+        {
+            "Description": "Riveteuse",
+            "StandardisedArticleDescription": "Riveteuse",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1946.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1946.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019460001"
+    ],
+    "URL": []
+}

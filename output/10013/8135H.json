@@ -1,0 +1,67 @@
+{
+    "ArtNo": "8135H",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pinces de levage horizontales pour surfaces planes, dureté maximale 30HRC/300HB",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "WLL \n t",
+            "Value": "3,0",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "​A \nmm",
+            "Value": "45",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "​E \nmm",
+            "Value": "30",
+            "SortNo": 4
+        },
+        {
+            "Attribute": " \nkg",
+            "Value": "6,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809555720"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pinces de levage horizontales pour surfaces planes, dureté maximale 30HRC/300HB",
+            "StandardisedArticleDescription": "Pinces de levage horizontales pour surfaces planes, dureté maximale 30HRC/300HB",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8135H.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8135H.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "081350330"
+    ],
+    "URL": []
+}

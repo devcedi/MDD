@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9755 - Welding Spray",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Spray anti-adhérent soudure",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "ml",
+            "Value": "400",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809218533"
+    ],
+    "GenArts": [
+        {
+            "Description": "Spray anti-adhérent soudure",
+            "StandardisedArticleDescription": "Spray anti-adhérent soudure",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9755-WeldingSpray.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9755-WeldingSpray.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "097551040"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "8065SC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Crochet à touret pivotant sous charge en acier au carbone, traitement thermique d'amélioration",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "7500",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "82",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "53",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Robur",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230726953"
+    ],
+    "GenArts": [
+        {
+            "Description": "Crochet à touret pivotant sous charge en acier au carbone, traitement thermique d'amélioration",
+            "StandardisedArticleDescription": "Crochet à touret pivotant sous charge en acier au carbone, traitement thermique d'amélioration",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "18.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "8065SC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/8065SC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "080650175"
+    ],
+    "URL": []
+}

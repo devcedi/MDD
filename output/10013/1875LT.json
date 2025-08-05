@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1875LT",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Nettoyeur pour moquettes et tissus d'ameublement à injection et extraction",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809421599"
+    ],
+    "GenArts": [
+        {
+            "Description": "Nettoyeur pour moquettes et tissus d'ameublement à injection et extraction",
+            "StandardisedArticleDescription": "Nettoyeur pour moquettes et tissus d'ameublement à injection et extraction",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1875LT.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1875LT.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018750000"
+    ],
+    "URL": []
+}

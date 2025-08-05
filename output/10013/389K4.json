@@ -1,0 +1,57 @@
+{
+    "ArtNo": "389/K4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit de ressorts de cintrage de tuyaux pour tuyaux en cuivre à usage externe",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø\n\"",
+            "Value": "1/4-3/8-1/2-5/8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "290",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809238104"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit de ressorts de cintrage de tuyaux pour tuyaux en cuivre à usage externe",
+            "StandardisedArticleDescription": "Kit de ressorts de cintrage de tuyaux pour tuyaux en cuivre à usage externe",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "389_slash_K4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/389_slash_K4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003890001"
+    ],
+    "URL": []
+}

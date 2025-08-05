@@ -1,0 +1,41 @@
+{
+    "ArtNo": "DB14210",
+    "Attributs": [],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955001362"
+    ],
+    "GenArts": [
+        {
+            "Description": "Soufflet |Soufflet nu : DB1420  Couple de serrage : 20 à 28 Nm Entrée d'air : 1/2 Ga ",
+            "StandardisedArticleDescription": "Soufflet |Soufflet nu : DB1420  Couple de serrage : 20 à 28 Nm Entrée d'air : 1/2 Ga ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A34,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A34,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DB14210"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1498LT/12-SF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Étrier de fixation mural pour booster de démarrage 1498LT/12",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230844633"
+    ],
+    "GenArts": [
+        {
+            "Description": "Étrier de fixation mural pour booster de démarrage 1498LT/12",
+            "StandardisedArticleDescription": "Étrier de fixation mural pour booster de démarrage 1498LT/12",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1498LT_slash_12-SF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1498LT_slash_12-SF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "014980013"
+    ],
+    "URL": []
+}

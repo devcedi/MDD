@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1125",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cisaille chantourneuse démultipliée coupe droite et à droite",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \n~",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "35",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Inox \nS mm",
+            "Value": "1",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "46",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "31",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230536033"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cisaille chantourneuse démultipliée coupe droite et à droite",
+            "StandardisedArticleDescription": "Cisaille chantourneuse démultipliée coupe droite et à droite",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1125.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1125.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011250020"
+    ],
+    "URL": []
+}

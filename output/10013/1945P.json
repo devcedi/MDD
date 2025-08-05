@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1945P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Aiguilleur micropin/minibrad sans tête",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "0,87",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230886466"
+    ],
+    "GenArts": [
+        {
+            "Description": "Aiguilleur micropin/minibrad sans tête",
+            "StandardisedArticleDescription": "Aiguilleur micropin/minibrad sans tête",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1945P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1945P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019450100"
+    ],
+    "URL": []
+}

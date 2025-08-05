@@ -1,0 +1,47 @@
+{
+    "ArtNo": "97TTX/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 11 clés mâles pour vis Torx® avec support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230050256"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 11 clés mâles pour vis Torx® avec support",
+            "StandardisedArticleDescription": "Jeu de 11 clés mâles pour vis Torx® avec support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "97TTX_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/97TTX_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000970840"
+    ],
+    "URL": []
+}

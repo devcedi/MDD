@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1330",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Palette double col de cygne à tables larges",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "2125",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230043562"
+    ],
+    "GenArts": [
+        {
+            "Description": "Palette double col de cygne à tables larges",
+            "StandardisedArticleDescription": "Palette double col de cygne à tables larges",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1330.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1330.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "013300001"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1873-30/5S",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "5 sacs en papier verticaux pour 1873",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230774473"
+    ],
+    "GenArts": [
+        {
+            "Description": "5 sacs en papier verticaux pour 1873",
+            "StandardisedArticleDescription": "5 sacs en papier verticaux pour 1873",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1873-30_slash_5S.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1873-30_slash_5S.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018730031"
+    ],
+    "URL": []
+}

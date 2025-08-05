@@ -1,0 +1,62 @@
+{
+    "ArtNo": "892",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Porte-douille pour visseuses",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/4\n",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "75",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230757698"
+    ],
+    "GenArts": [
+        {
+            "Description": "Porte-douille pour visseuses",
+            "StandardisedArticleDescription": "Porte-douille pour visseuses",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "05.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/05.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "892.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/892.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "008920007"
+    ],
+    "URL": []
+}

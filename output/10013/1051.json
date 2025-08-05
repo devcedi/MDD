@@ -1,0 +1,77 @@
+{
+    "ArtNo": "1051",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince-étau à becs longs",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "255",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A  \nmm",
+            "Value": "75",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A1 max \nmm",
+            "Value": "70",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A2 max \nmm",
+            "Value": "50",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A3 max \nmm",
+            "Value": "80",
+            "SortNo": 6
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "770",
+            "SortNo": 7
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230039695"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince-étau à becs longs",
+            "StandardisedArticleDescription": "Pince-étau à becs longs",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1051.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1051.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010510025"
+    ],
+    "URL": []
+}

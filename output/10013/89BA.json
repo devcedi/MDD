@@ -1,0 +1,72 @@
+{
+    "ArtNo": "89BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé polygonale contre-coudée antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "32",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "420",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "49,5",
+            "Value": "49,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "18,0",
+            "SortNo": 5
+        },
+        {
+            "Attribute": " \ng",
+            "Value": "750",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230494562"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé polygonale contre-coudée antidéflagrante",
+            "StandardisedArticleDescription": "Clé polygonale contre-coudée antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "89BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/89BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000890832"
+    ],
+    "URL": []
+}

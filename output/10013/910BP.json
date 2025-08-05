@@ -1,0 +1,62 @@
+{
+    "ArtNo": "910BP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille tournevis à tête sphérique pour vis 6 pans creux",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "mm",
+            "Value": "10L",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "132",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "l1\nmm",
+            "Value": "102",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230846934"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille tournevis à tête sphérique pour vis 6 pans creux",
+            "StandardisedArticleDescription": "Douille tournevis à tête sphérique pour vis 6 pans creux",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910BP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910BP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100590"
+    ],
+    "URL": []
+}

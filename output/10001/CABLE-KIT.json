@@ -1,0 +1,43 @@
+{
+    "ArtNo": "CABLE-KIT",
+    "Attributs": [
+        {
+            "Attribute": "Câbles Inox",
+            "Value": "",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "FIT",
+    "BrandNo": "10001",
+    "Documents": [],
+    "GTIN": [],
+    "GenArts": [
+        {
+            "Description": "Ensemble câble Inox chauffeur et passager",
+            "StandardisedArticleDescription": "Ensemble câble Inox chauffeur et passager",
+            "GenArtNo": -10001
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "CABLE-KIT",
+            "Extension": "",
+            "Path": "/img/10001/CABLE-KIT"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "CABLE-KIT",
+            "Extension": "",
+            "Path": "/img/10001/CABLE-KIT",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [],
+    "URL": []
+}

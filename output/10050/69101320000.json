@@ -1,0 +1,67 @@
+{
+    "ArtNo": 69101320000,
+    "Attributs": [
+        {
+            "Attribute": "Gamme produit",
+            "Value": "Autres plaques",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Logo Département",
+            "Value": "-",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Longueur en mm",
+            "Value": 210,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Largeur en mm",
+            "Value": 130,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Conditionnement",
+            "Value": "par 10",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "FAAB FABRICAUTO",
+    "BrandNo": "10050",
+    "Documents": [],
+    "GTIN": [
+        "3661174071011"
+    ],
+    "GenArts": [
+        {
+            "Description": "Plaque aluminium blanche sans logos",
+            "StandardisedArticleDescription": "Plaque aluminium blanche sans logos",
+            "GenArtNo": -10050
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "wp_logo-ff.png",
+            "Extension": "PNG",
+            "Path": "/img/10050/wp_logo-ff.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "Non disponible",
+            "Extension": "",
+            "Path": "/img/10050/Non disponible",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "69101320000"
+    ],
+    "URL": []
+}

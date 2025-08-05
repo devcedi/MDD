@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1947",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pistolet à silicone",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "\nkg",
+            "Value": "1,1",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230729725"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pistolet à silicone",
+            "StandardisedArticleDescription": "Pistolet à silicone",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "17.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/17.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1947.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1947.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019470001"
+    ],
+    "URL": []
+}

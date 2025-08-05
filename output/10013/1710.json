@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1710",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Casse-écrous hydraulique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A min \nmm",
+            "Value": "7(M4)",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A max \nmm",
+            "Value": "22(M14)",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "50",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "B \nmm",
+            "Value": "19",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230046877"
+    ],
+    "GenArts": [
+        {
+            "Description": "Casse-écrous hydraulique",
+            "StandardisedArticleDescription": "Casse-écrous hydraulique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1710.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1710.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017100001"
+    ],
+    "URL": []
+}

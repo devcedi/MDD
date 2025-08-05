@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3006 R/RGF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Roue pivotante avec frein de rechange pour élévateur hydraulique pour le montage/démontage des roues 3006",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809148717"
+    ],
+    "GenArts": [
+        {
+            "Description": "Roue pivotante avec frein de rechange pour élévateur hydraulique pour le montage/démontage des roues 3006",
+            "StandardisedArticleDescription": "Roue pivotante avec frein de rechange pour élévateur hydraulique pour le montage/démontage des roues 3006",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3006R_slash_RGF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3006R_slash_RGF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030060501"
+    ],
+    "URL": []
+}

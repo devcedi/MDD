@@ -1,0 +1,57 @@
+{
+    "ArtNo": "330",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-tubes pour tubes acier",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm - \"",
+            "Value": "60÷115  \n2”÷ 4” ",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "585",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230026473"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-tubes pour tubes acier",
+            "StandardisedArticleDescription": "Coupe-tubes pour tubes acier",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "330.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/330.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003300004"
+    ],
+    "URL": []
+}

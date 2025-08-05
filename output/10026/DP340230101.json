@@ -1,0 +1,47 @@
+{
+    "ArtNo": "DP34023/0101",
+    "Attributs": [
+        {
+            "Attribute": "20757840",
+            "Value": "7482087441",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955005988"
+    ],
+    "GenArts": [
+        {
+            "Description": "Diaphragme assemble | kit de fixation DAKIT005 | piston acier",
+            "StandardisedArticleDescription": "Diaphragme assemble | kit de fixation DAKIT005 | piston acier",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A348,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A348,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP34023/0101"
+    ],
+    "URL": []
+}

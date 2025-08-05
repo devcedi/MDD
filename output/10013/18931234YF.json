@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1893/1234YF",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poste automatique de recharge des climatiseurs à gaz R1234yf",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230928357"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poste automatique de recharge des climatiseurs à gaz R1234yf",
+            "StandardisedArticleDescription": "Poste automatique de recharge des climatiseurs à gaz R1234yf",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1893_slash_1234YF.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1893_slash_1234YF.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018930012"
+    ],
+    "URL": []
+}

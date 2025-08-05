@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1133RL",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Lames pour 1133",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230581019"
+    ],
+    "GenArts": [
+        {
+            "Description": "Lames pour 1133",
+            "StandardisedArticleDescription": "Lames pour 1133",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "15.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/15.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1133RL.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1133RL.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011330011"
+    ],
+    "URL": []
+}

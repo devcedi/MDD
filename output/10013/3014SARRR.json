@@ -1,0 +1,47 @@
+{
+    "ArtNo": "3014SAR/RR",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "4 roues pour chevalet de support moteur 3014SAR",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230734125"
+    ],
+    "GenArts": [
+        {
+            "Description": "4 roues pour chevalet de support moteur 3014SAR",
+            "StandardisedArticleDescription": "4 roues pour chevalet de support moteur 3014SAR",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "3014SAR_slash_RR.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/3014SAR_slash_RR.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "030140370"
+    ],
+    "URL": []
+}

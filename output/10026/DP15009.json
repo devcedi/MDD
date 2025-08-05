@@ -1,0 +1,72 @@
+{
+    "ArtNo": "DP15009",
+    "Attributs": [
+        {
+            "Attribute": 15599,
+            "Value": "Y11003102",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "2B 12R-3",
+            "Value": "2B 12R-5",
+            "SortNo": 2
+        },
+        {
+            "Attribute": 1618,
+            "Value": 4229100501,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "4 229 1004 00",
+            "Value": "4 229 1005 00",
+            "SortNo": 4
+        },
+        {
+            "Attribute": 1319761,
+            "Value": 1387289,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S 09208",
+            "Value": "",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Pneumatis",
+    "BrandNo": "10026",
+    "Documents": [],
+    "GTIN": [
+        "3666955004684"
+    ],
+    "GenArts": [
+        {
+            "Description": "Soufflet ",
+            "StandardisedArticleDescription": "Soufflet ",
+            "GenArtNo": -10026
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "PNEUMATIS.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/PNEUMATIS.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "=IFERROR(VLOOKUP(A93,photos,2,FALSE),\"\")",
+            "Extension": "",
+            "Path": "/img/10026/=IFERROR(VLOOKUP(A93,photos,2,FALSE),\"\")",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "DP15009"
+    ],
+    "URL": []
+}

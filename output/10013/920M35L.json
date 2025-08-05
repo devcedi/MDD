@@ -1,0 +1,57 @@
+{
+    "ArtNo": "920M/35L",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Poignée articulée carré mâle 1/2” avec manche métallique, série longue",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230353074"
+    ],
+    "GenArts": [
+        {
+            "Description": "Poignée articulée carré mâle 1/2” avec manche métallique, série longue",
+            "StandardisedArticleDescription": "Poignée articulée carré mâle 1/2” avec manche métallique, série longue",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920M_slash_35L.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920M_slash_35L.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200843"
+    ],
+    "URL": []
+}

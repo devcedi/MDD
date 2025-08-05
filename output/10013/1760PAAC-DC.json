@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1760PA/AC-DC",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince ampèremétrique et multimètre digital",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230610405"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince ampèremétrique et multimètre digital",
+            "StandardisedArticleDescription": "Pince ampèremétrique et multimètre digital",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1760PA_slash_AC-DC.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1760PA_slash_AC-DC.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017600000"
+    ],
+    "URL": []
+}

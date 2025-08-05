@@ -1,0 +1,47 @@
+{
+    "ArtNo": "920AS/C17X",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "17 douilles 12 pans et 5 accessoires",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230106663"
+    ],
+    "GenArts": [
+        {
+            "Description": "17 douilles 12 pans et 5 accessoires",
+            "StandardisedArticleDescription": "17 douilles 12 pans et 5 accessoires",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "920AS_slash_C17X.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/920AS_slash_C17X.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009200942"
+    ],
+    "URL": []
+}

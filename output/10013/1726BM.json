@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1726BM",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Monture de scie à métaux avec système de tension de la lame à déclenchement",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "400",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L1 \nmm",
+            "Value": "300",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230515090"
+    ],
+    "GenArts": [
+        {
+            "Description": "Monture de scie à métaux avec système de tension de la lame à déclenchement",
+            "StandardisedArticleDescription": "Monture de scie à métaux avec système de tension de la lame à déclenchement",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1726BM.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1726BM.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017260050"
+    ],
+    "URL": []
+}

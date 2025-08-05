@@ -1,0 +1,72 @@
+{
+    "ArtNo": "1518U/...",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteurs universels à trois griffes",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "A\nmin÷Max\nmm",
+            "Value": "70÷235",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L\nmm",
+            "Value": "200",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L1\nmm",
+            "Value": "321",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "\nmm",
+            "Value": "27",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A1\nmin÷Max\nmm",
+            "Value": "170÷335",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809201603"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteurs universels à trois griffes",
+            "StandardisedArticleDescription": "Extracteurs universels à trois griffes",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "09.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/09.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1518U_slash__dot__dot__dot_.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1518U_slash__dot__dot__dot_.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015180504"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1877P",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Récupérateur à roues d’huile usée avec réservoir en polyéthylène",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1030-1630",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "900",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "40",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809472904"
+    ],
+    "GenArts": [
+        {
+            "Description": "Récupérateur à roues d’huile usée avec réservoir en polyéthylène",
+            "StandardisedArticleDescription": "Récupérateur à roues d’huile usée avec réservoir en polyéthylène",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1877P.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1877P.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018770180"
+    ],
+    "URL": []
+}

@@ -1,0 +1,62 @@
+{
+    "ArtNo": "1750M3",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Mini pistolet graisseur, avec 3 buses",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "cc",
+            "Value": "85",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "42",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "160",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809211589"
+    ],
+    "GenArts": [
+        {
+            "Description": "Mini pistolet graisseur, avec 3 buses",
+            "StandardisedArticleDescription": "Mini pistolet graisseur, avec 3 buses",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1750M3.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1750M3.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017500003"
+    ],
+    "URL": []
+}

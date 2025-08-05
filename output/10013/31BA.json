@@ -1,0 +1,57 @@
+{
+    "ArtNo": "31BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Chasse-goupilles antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "8",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "120",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230645124"
+    ],
+    "GenArts": [
+        {
+            "Description": "Chasse-goupilles antidéflagrant",
+            "StandardisedArticleDescription": "Chasse-goupilles antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "31BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/31BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000310858"
+    ],
+    "URL": []
+}

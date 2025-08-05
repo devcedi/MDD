@@ -1,0 +1,34 @@
+{
+    "ArtNo": 90110016,
+    "Attributs": [],
+    "BrandName": "Kongsberg Automotive",
+    "BrandNo": "10021",
+    "Documents": [],
+    "GTIN": [
+        "3700694015614"
+    ],
+    "GenArts": [
+        {
+            "Description": "ABC New Line union male M16X1,5 - T 10X1",
+            "StandardisedArticleDescription": "ABC New Line union male M16X1,5 - T 10X1",
+            "GenArtNo": -10021
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "Raufoss ",
+            "Extension": "",
+            "Path": "/img/10021/Raufoss "
+        }
+    ],
+    "Pictures": [],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "90110016"
+    ],
+    "URL": []
+}

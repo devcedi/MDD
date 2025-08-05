@@ -1,0 +1,67 @@
+{
+    "ArtNo": "58BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé à fourches à frapper antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "110",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "513",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "238,0",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "",
+            "Value": "45,0",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230832173"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé à fourches à frapper antidéflagrante",
+            "StandardisedArticleDescription": "Clé à fourches à frapper antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "58BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/58BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000580901"
+    ],
+    "URL": []
+}

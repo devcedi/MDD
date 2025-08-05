@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1104",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coupe-câbles gros effort pour câbles flexibles en acier branches en matière plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "600",
+            "SortNo": 2
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "16",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230648088"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coupe-câbles gros effort pour câbles flexibles en acier branches en matière plastique",
+            "StandardisedArticleDescription": "Coupe-câbles gros effort pour câbles flexibles en acier branches en matière plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1104.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1104.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "011040006"
+    ],
+    "URL": []
+}

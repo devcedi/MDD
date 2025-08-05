@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1895 6",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cuve de lavage à ultrasons de 6 litres",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " Max",
+            "Value": "5,5",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230841373"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cuve de lavage à ultrasons de 6 litres",
+            "StandardisedArticleDescription": "Cuve de lavage à ultrasons de 6 litres",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "18956.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/18956.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "018950060"
+    ],
+    "URL": []
+}

@@ -1,0 +1,47 @@
+{
+    "ArtNo": "90/SP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 13 clés polygonales contre-coudées (art. 90) avec support",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230024059"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 13 clés polygonales contre-coudées (art. 90) avec support",
+            "StandardisedArticleDescription": "Jeu de 13 clés polygonales contre-coudées (art. 90) avec support",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "02.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/02.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "90_slash_SP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/90_slash_SP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000900174"
+    ],
+    "URL": []
+}

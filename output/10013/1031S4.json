@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1031/S4",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Jeu de 4 pinces pour circlips",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230152271"
+    ],
+    "GenArts": [
+        {
+            "Description": "Jeu de 4 pinces pour circlips",
+            "StandardisedArticleDescription": "Jeu de 4 pinces pour circlips",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "06.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/06.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1031_slash_S4.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1031_slash_S4.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "010310000"
+    ],
+    "URL": []
+}

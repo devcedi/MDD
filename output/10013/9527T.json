@@ -1,0 +1,47 @@
+{
+    "ArtNo": "9527T",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Tasse en céramique noire avec logo BETA gravé au laser",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "BETACollection",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809616223"
+    ],
+    "GenArts": [
+        {
+            "Description": "Tasse en céramique noire avec logo BETA gravé au laser",
+            "StandardisedArticleDescription": "Tasse en céramique noire avec logo BETA gravé au laser",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "91.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/91.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9527T.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9527T.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "095270030"
+    ],
+    "URL": []
+}

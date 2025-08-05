@@ -1,0 +1,57 @@
+{
+    "ArtNo": "1719BM/RP",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Râpe plate avec poignée ergonomique en plastique",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "200",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "L \n\"",
+            "Value": "8",
+            "SortNo": 3
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809542171"
+    ],
+    "GenArts": [
+        {
+            "Description": "Râpe plate avec poignée ergonomique en plastique",
+            "StandardisedArticleDescription": "Râpe plate avec poignée ergonomique en plastique",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "11.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/11.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1719BM_slash_RP.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1719BM_slash_RP.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "017190352"
+    ],
+    "URL": []
+}

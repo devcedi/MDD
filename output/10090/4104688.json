@@ -1,0 +1,67 @@
+{
+    "ArtNo": "4104688",
+    "Attributs": [
+        {
+            "Attribute": "Débit d’air",
+            "Value": "80 m3 / h à 50 km/h\n168 m3 / h à 100 km/h",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Øinterne",
+            "Value": 140,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 120,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Øexterne",
+            "Value": 240,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Matière",
+            "Value": "ABS",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "POMMIER",
+    "BrandNo": "10090",
+    "Documents": [],
+    "GTIN": [
+        "Pas de code EAN"
+    ],
+    "GenArts": [
+        {
+            "Description": "Aérateur mécanique léger en ABS",
+            "StandardisedArticleDescription": "Aérateur mécanique léger en ABS",
+            "GenArtNo": -10090
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "POMMIER.png",
+            "Extension": "PNG",
+            "Path": "/img/10090/POMMIER.png"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "4104688_3D.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10090/4104688_3D.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "4104688"
+    ],
+    "URL": []
+}

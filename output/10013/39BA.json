@@ -1,0 +1,62 @@
+{
+    "ArtNo": "39BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Coin plat antidéflagrant",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "40",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "1100",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230696027"
+    ],
+    "GenArts": [
+        {
+            "Description": "Coin plat antidéflagrant",
+            "StandardisedArticleDescription": "Coin plat antidéflagrant",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "39BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/39BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "000390803"
+    ],
+    "URL": []
+}

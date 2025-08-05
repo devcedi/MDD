@@ -1,0 +1,72 @@
+{
+    "ArtNo": "910AS/SN",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Douille 12 pans à cardan",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \n\"",
+            "Value": "3/4",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmm",
+            "Value": "25,8",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "56,5",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø1 \nmm",
+            "Value": "19",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "15,8",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230193366"
+    ],
+    "GenArts": [
+        {
+            "Description": "Douille 12 pans à cardan",
+            "StandardisedArticleDescription": "Douille 12 pans à cardan",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "03.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/03.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "910AS_slash_SN.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/910AS_slash_SN.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009100266"
+    ],
+    "URL": []
+}

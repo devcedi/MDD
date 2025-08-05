@@ -1,0 +1,47 @@
+{
+    "ArtNo": "1972/K12V-COMBO",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Kit 12V perceuse visseuse ultra compacte + clé à chocs a percussion 1/4\" HEX (12V)",
+            "SortNo": 1
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809447667"
+    ],
+    "GenArts": [
+        {
+            "Description": "Kit 12V perceuse visseuse ultra compacte + clé à chocs a percussion 1/4\" HEX (12V)",
+            "StandardisedArticleDescription": "Kit 12V perceuse visseuse ultra compacte + clé à chocs a percussion 1/4\" HEX (12V)",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "50.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/50.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1972_slash_K12V-COMBO.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1972_slash_K12V-COMBO.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "019720010"
+    ],
+    "URL": []
+}

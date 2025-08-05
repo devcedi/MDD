@@ -1,0 +1,52 @@
+{
+    "ArtNo": "383R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Sangle pour 383",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "27",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230160450"
+    ],
+    "GenArts": [
+        {
+            "Description": "Sangle pour 383",
+            "StandardisedArticleDescription": "Sangle pour 383",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "383R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/383R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003830015"
+    ],
+    "URL": []
+}

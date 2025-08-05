@@ -1,0 +1,52 @@
+{
+    "ArtNo": "1662DGT/A",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Comparateur à affichage digital précision au 1/100e",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "C \nmm",
+            "Value": "0-12,5",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230839257"
+    ],
+    "GenArts": [
+        {
+            "Description": "Comparateur à affichage digital précision au 1/100e",
+            "StandardisedArticleDescription": "Comparateur à affichage digital précision au 1/100e",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "10.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/10.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1662DGT_slash_A.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1662DGT_slash_A.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "016620311"
+    ],
+    "URL": []
+}

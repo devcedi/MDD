@@ -1,0 +1,72 @@
+{
+    "ArtNo": "375",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Clé serre-tubes modèle suédois, tête inclinée à 45°",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "550",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Ø \nmax \"",
+            "Value": "2\" gas",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø \nmax mm",
+            "Value": "60",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "30",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "S \nmm",
+            "Value": "15",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230352237"
+    ],
+    "GenArts": [
+        {
+            "Description": "Clé serre-tubes modèle suédois, tête inclinée à 45°",
+            "StandardisedArticleDescription": "Clé serre-tubes modèle suédois, tête inclinée à 45°",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "13.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/13.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "375.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/375.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "003750055"
+    ],
+    "URL": []
+}

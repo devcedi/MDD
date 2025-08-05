@@ -1,0 +1,72 @@
+{
+    "ArtNo": "615",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Cliquet réversible pour clés dynamométriques avec entraînement rectangulaire",
+            "SortNo": 1
+        },
+        {
+            "Attribute": " \nmm",
+            "Value": "14x18",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "1/2",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "70",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "LA\nmm",
+            "Value": "39,8",
+            "SortNo": 5
+        },
+        {
+            "Attribute": "A\nmm",
+            "Value": "40\n",
+            "SortNo": 6
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230592459"
+    ],
+    "GenArts": [
+        {
+            "Description": "Cliquet réversible pour clés dynamométriques avec entraînement rectangulaire",
+            "StandardisedArticleDescription": "Cliquet réversible pour clés dynamométriques avec entraînement rectangulaire",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "04.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/04.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "615.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/615.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "006150120"
+    ],
+    "URL": []
+}

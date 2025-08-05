@@ -1,0 +1,52 @@
+{
+    "ArtNo": "9882R",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Liquide détachant sélectif de rouille",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Lt",
+            "Value": "1",
+            "SortNo": 2
+        }
+    ],
+    "BrandName": "BetaCHEMICALS",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8054809331980"
+    ],
+    "GenArts": [
+        {
+            "Description": "Liquide détachant sélectif de rouille",
+            "StandardisedArticleDescription": "Liquide détachant sélectif de rouille",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "30.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/30.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "9882R.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/9882R.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "098822010"
+    ],
+    "URL": []
+}

@@ -1,0 +1,67 @@
+{
+    "ArtNo": "1566/GO1",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Extracteur pour joints homocinétiques",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "L \nmm",
+            "Value": "250",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "A \nmm",
+            "Value": "115",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Ø1\nmm",
+            "Value": "29",
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Ø2\nmm",
+            "Value": "36",
+            "SortNo": 5
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230816906"
+    ],
+    "GenArts": [
+        {
+            "Description": "Extracteur pour joints homocinétiques",
+            "StandardisedArticleDescription": "Extracteur pour joints homocinétiques",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "16.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/16.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "1566_slash_GO1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/1566_slash_GO1.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "015660052"
+    ],
+    "URL": []
+}

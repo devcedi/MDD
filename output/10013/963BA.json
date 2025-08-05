@@ -1,0 +1,62 @@
+{
+    "ArtNo": "963BA",
+    "Attributs": [
+        {
+            "Attribute": "Description",
+            "Value": "Pince levier à broche et palette, antidéflagrante",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "",
+            "Value": "1000",
+            "SortNo": 2
+        },
+        {
+            "Attribute": "",
+            "Value": "30",
+            "SortNo": 3
+        },
+        {
+            "Attribute": "",
+            "Value": "28",
+            "SortNo": 4
+        }
+    ],
+    "BrandName": "Beta",
+    "BrandNo": "10013",
+    "Documents": [],
+    "GTIN": [
+        "8014230679419"
+    ],
+    "GenArts": [
+        {
+            "Description": "Pince levier à broche et palette, antidéflagrante",
+            "StandardisedArticleDescription": "Pince levier à broche et palette, antidéflagrante",
+            "GenArtNo": -10013
+        }
+    ],
+    "HasPartList": false,
+    "HasTextInfo": false,
+    "LogoBrand": [
+        {
+            "Name": "12.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/12.jpg"
+        }
+    ],
+    "Pictures": [
+        {
+            "Name": "963BA.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10013/963BA.jpg",
+            "SortNo": 1
+        }
+    ],
+    "Replaced_by": [],
+    "Replaces": [],
+    "Status": "",
+    "TradeNo": [
+        "009630805"
+    ],
+    "URL": []
+}
