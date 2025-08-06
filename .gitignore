@@ -1,0 +1,12 @@
+# Ignore tout le contenu du dossier output/
+output/
+
+# Ignore tous les fichiers ou dossiers nommés env
+env
+/env/
+**/env/
+**/env/**
+
+# Ignore tous les fichiers .json
+*.json
+**/*.json
