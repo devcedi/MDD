@@ -2,8 +2,8 @@
     "ArtNo": "RE7348",
     "Attributs": [
         {
-            "Attribute": "1DF 16 A-1",
-            "Value": "",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 1
         }
     ],
@@ -31,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A223,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A223,photos,2,FALSE),\"\")",
+            "Name": "RE7348_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/RE7348_1.jpg",
             "SortNo": 1
         }
     ],

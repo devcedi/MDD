@@ -1,20 +1,35 @@
 {
-    "ArtNo": "DP3782/0020",
+    "ArtNo": "DP37820020",
     "Attributs": [
         {
-            "Attribute": 9377008,
-            "Value": 15323,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "D14B47",
-            "Value": "US 04028C ",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
             "SortNo": 2
         },
         {
-            "Attribute": "US 04028F",
-            "Value": "YP 4028N2-F",
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
             "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 210,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 412,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -41,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A184,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A184,photos,2,FALSE),\"\")",
+            "Name": "DP37820020_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP37820020_1.jpg",
             "SortNo": 1
         }
     ],

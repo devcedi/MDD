@@ -1,30 +1,20 @@
 {
-    "ArtNo": "DP156/0103",
+    "ArtNo": "DP1560103",
     "Attributs": [
         {
-            "Attribute": "W01 M58 8613",
-            "Value": "C293/A - 293.0.411",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1R 11-703",
-            "Value": "1DK 21K",
+            "Attribute": "Hauteur du piston",
+            "Value": 145,
             "SortNo": 2
         },
         {
-            "Attribute": "1TC 300-30 / 205536",
-            "Value": 13769,
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "D11U31",
-            "Value": "KR 732-01",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "UR 732-01T",
-            "Value": "",
-            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A97,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A97,photos,2,FALSE),\"\")",
+            "Name": "DP1560103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1560103_1.jpg",
             "SortNo": 1
         }
     ],

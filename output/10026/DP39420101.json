@@ -1,35 +1,20 @@
 {
-    "ArtNo": "DP3942/0101",
+    "ArtNo": "DP39420101",
     "Attributs": [
         {
-            "Attribute": "C299/A - 299.1.460",
-            "Value": 9520,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "A 942 320 3121",
-            "Value": "A 942 320 3221",
+            "Attribute": "Hauteur du piston",
+            "Value": 214,
             "SortNo": 2
         },
         {
-            "Attribute": "A 974 320 0217",
-            "Value": "A 974 320 0417",
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "A 974 328 0001",
-            "Value": "A 974 328 0101",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "1KF 24-2-232",
-            "Value": "1KF 24-29",
-            "SortNo": 5
-        },
-        {
-            "Attribute": "1VSC 300-26 / 206786",
-            "Value": "D13T02",
-            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -56,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A206,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A206,photos,2,FALSE),\"\")",
+            "Name": "DP39420101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP39420101_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,35 +1,20 @@
 {
-    "ArtNo": "DP34007/0202",
+    "ArtNo": "DP340070202",
     "Attributs": [
         {
-            "Attribute": "W01 M58 8667",
-            "Value": "C292 - 292.2.532",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1R 14-712",
-            "Value": "1R 14-748",
+            "Attribute": "Hauteur du piston",
+            "Value": 168.5,
             "SortNo": 2
         },
         {
-            "Attribute": "1DK 32-2",
-            "Value": "1TC 360-45 / 205171",
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "1TC 360-45 / 206357",
-            "Value": 750496,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 751549,
-            "Value": "FAG 041-0118",
-            "SortNo": 5
-        },
-        {
-            "Attribute": "D14B41",
-            "Value": "",
-            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -56,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A133,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A133,photos,2,FALSE),\"\")",
+            "Name": "DP340070202_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP340070202_1.jpg",
             "SortNo": 1
         }
     ],

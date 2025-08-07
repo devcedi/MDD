@@ -1,6 +1,17 @@
 {
-    "ArtNo": "DP157/0605",
-    "Attributs": [],
+    "ArtNo": "DP1570605",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A319,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A319,photos,2,FALSE),\"\")",
+            "Name": "DP1570605_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1570605_1.jpg",
             "SortNo": 1
         }
     ],

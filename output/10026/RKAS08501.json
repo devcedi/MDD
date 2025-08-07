@@ -1,14 +1,14 @@
 {
-    "ArtNo": "RKAS085/01",
+    "ArtNo": "RKAS08501",
     "Attributs": [
         {
-            "Attribute": 500042583,
-            "Value": "1E 19-1",
+            "Attribute": "Catégorie produit",
+            "Value": "Kit de châssis, amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "1TS 270-23 / 206686",
-            "Value": "",
+            "Attribute": "Application",
+            "Value": "VUL",
             "SortNo": 2
         }
     ],

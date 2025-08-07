@@ -1,40 +1,35 @@
 {
-    "ArtNo": "DP3817/0000",
+    "ArtNo": "DP38170000",
     "Attributs": [
         {
-            "Attribute": "C304 - 304.1.441",
-            "Value": "C304 - 304.1.443",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 9506,
-            "Value": "A 942 320 0221",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
             "SortNo": 2
         },
         {
-            "Attribute": "A 942 320 0421",
-            "Value": "A 942 320 2921",
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 100.8,
             "SortNo": 3
         },
         {
-            "Attribute": "A 942 320 5021",
-            "Value": "A 942 320 5221",
+            "Attribute": "Diamètre extérieur",
+            "Value": 220,
             "SortNo": 4
         },
         {
-            "Attribute": "1KF 21-2",
-            "Value": "1KF 21-22",
+            "Attribute": "Hauteur",
+            "Value": 312,
             "SortNo": 5
         },
         {
-            "Attribute": "1KF 21-4-232",
-            "Value": "1VSC 285-30 / 206783",
+            "Attribute": "Application",
+            "Value": "Bus",
             "SortNo": 6
-        },
-        {
-            "Attribute": "D12T11",
-            "Value": "",
-            "SortNo": 7
         }
     ],
     "BrandName": "Pneumatis",
@@ -61,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A190,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A190,photos,2,FALSE),\"\")",
+            "Name": "DP38170000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP38170000_1.jpg",
             "SortNo": 1
         }
     ],

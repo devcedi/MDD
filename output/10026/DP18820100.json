@@ -1,115 +1,20 @@
 {
-    "ArtNo": "DP1882/0100",
+    "ArtNo": "DP18820100",
     "Attributs": [
         {
-            "Attribute": "4.771.170.000",
-            "Value": "4.771.441.000",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "A.000.327.0101",
-            "Value": "A.307.328.0001",
+            "Attribute": "Hauteur du piston",
+            "Value": 130,
             "SortNo": 2
         },
         {
-            "Attribute": "A.327.328.0001",
-            "Value": "1R1A 390-295",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "W01 095 0118",
-            "Value": "D276/B - 276.0.390",
-            "SortNo": 4
-        },
-        {
-            "Attribute": 8017,
-            "Value": 536905265,
-            "SortNo": 5
-        },
-        {
-            "Attribute": "0.305G 10303",
-            "Value": 4771110000,
-            "SortNo": 6
-        },
-        {
-            "Attribute": 4771143000,
-            "Value": 4771170000,
-            "SortNo": 7
-        },
-        {
-            "Attribute": 4771441000,
-            "Value": 81436010017,
-            "SortNo": 8
-        },
-        {
-            "Attribute": "A 000 327 0101",
-            "Value": 199196,
-            "SortNo": 9
-        },
-        {
-            "Attribute": "A 000 320 0321",
-            "Value": "A 307 327 0001",
-            "SortNo": 10
-        },
-        {
-            "Attribute": "A 307 327 0101",
-            "Value": "A 307 328 0001",
-            "SortNo": 11
-        },
-        {
-            "Attribute": "A 327 327 0001",
-            "Value": "A 327 327 0101",
-            "SortNo": 12
-        },
-        {
-            "Attribute": "A 327 328 0001",
-            "Value": "A 364 327 7001",
-            "SortNo": 13
-        },
-        {
-            "Attribute": "A 613 327 0001",
-            "Value": "1001 103 00",
-            "SortNo": 14
-        },
-        {
-            "Attribute": "1001 122 54",
-            "Value": "1E 21",
-            "SortNo": 15
-        },
-        {
-            "Attribute": "1S 285-24 / 92574",
-            "Value": "S1 132 NS",
-            "SortNo": 16
-        },
-        {
-            "Attribute": "D11S01",
-            "Value": "BL 121",
-            "SortNo": 17
-        },
-        {
-            "Attribute": 624319420,
-            "Value": 624319610,
-            "SortNo": 18
-        },
-        {
-            "Attribute": 1134445,
-            "Value": 1199873,
-            "SortNo": 19
-        },
-        {
-            "Attribute": 1199893,
-            "Value": 1622111,
-            "SortNo": 20
-        },
-        {
-            "Attribute": "YP 0644N-W",
-            "Value": "Catégorie produit",
-            "SortNo": 21
-        },
-        {
-            "Attribute": "Ressort pneumatique, soulèvement d'essieu",
-            "Value": "",
-            "SortNo": 22
         }
     ],
     "BrandName": "Pneumatis",
@@ -136,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A108,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A108,photos,2,FALSE),\"\")",
+            "Name": "DP18820100_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP18820100_1.jpg",
             "SortNo": 1
         }
     ],

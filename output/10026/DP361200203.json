@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP36120/0203",
+    "ArtNo": "DP361200203",
     "Attributs": [
         {
-            "Attribute": "1DK 22E-11",
-            "Value": "1T 300-37 / 206585",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "2619V",
-            "Value": "2918VP01",
+            "Attribute": "Hauteur du piston",
+            "Value": 160,
             "SortNo": 2
         },
         {
-            "Attribute": "3 229 0033 00",
-            "Value": 1723281,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "D11B41",
-            "Value": "YP 08612W",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A162,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A162,photos,2,FALSE),\"\")",
+            "Name": "DP361200203_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP361200203_1.jpg",
             "SortNo": 1
         }
     ],

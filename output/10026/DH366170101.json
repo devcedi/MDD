@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DH36617/0101",
-    "Attributs": [],
+    "ArtNo": "DH366170101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 140,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A63,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A63,photos,2,FALSE),\"\")",
+            "Name": "DH366170101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DH366170101_1.jpg",
             "SortNo": 1
         }
     ],

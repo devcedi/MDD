@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP34022/0103",
-    "Attributs": [],
+    "ArtNo": "DP340220103",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 141.5,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A347,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A347,photos,2,FALSE),\"\")",
+            "Name": "DP340220103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP340220103_1.jpg",
             "SortNo": 1
         }
     ],

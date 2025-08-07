@@ -1,6 +1,17 @@
 {
     "ArtNo": "DB00601",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],

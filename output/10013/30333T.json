@@ -1,22 +1,14 @@
 {
-    "ArtNo": "3033/3T",
-    "Attributs": [
-        {
-            "Attribute": "Description",
-            "Value": "Cric hydraulique 3 t version longue",
-            "SortNo": 1
-        }
-    ],
-    "BrandName": "Beta",
+    "ArtNo": "30333T",
+    "Attributs": [],
+    "BrandName": "BETA",
     "BrandNo": "10013",
     "Documents": [],
-    "GTIN": [
-        "8014230752860"
-    ],
+    "GTIN": [],
     "GenArts": [
         {
-            "Description": "Cric hydraulique 3 t version longue",
-            "StandardisedArticleDescription": "Cric hydraulique 3 t version longue",
+            "Description": "CRIC ROULEUR HYDRAULIQUE 3T",
+            "StandardisedArticleDescription": "CRIC ROULEUR HYDRAULIQUE 3T",
             "GenArtNo": -10013
         }
     ],
@@ -24,24 +16,17 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "16.jpg",
+            "Name": "BETA.jpg",
             "Extension": "JPG",
-            "Path": "/img/10013/16.jpg"
+            "Path": "/img/10013/BETA.jpg"
         }
     ],
-    "Pictures": [
-        {
-            "Name": "3033_slash_3T.jpg",
-            "Extension": "JPG",
-            "Path": "/img/10013/3033_slash_3T.jpg",
-            "SortNo": 1
-        }
-    ],
+    "Pictures": [],
     "Replaced_by": [],
     "Replaces": [],
     "Status": "",
     "TradeNo": [
-        "030330030"
+        "3033 3T"
     ],
     "URL": []
 }

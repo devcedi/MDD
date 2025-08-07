@@ -1,5 +1,5 @@
 {
-    "ArtNo": 99999041043,
+    "ArtNo": "99999041043",
     "Attributs": [
         {
             "Attribute": "Conditionnement ",
@@ -24,9 +24,9 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "DREUMEXlogo",
-            "Extension": "",
-            "Path": "/img/10006/DREUMEXlogo"
+            "Name": "DREUMEX.JPG",
+            "Extension": "JPG",
+            "Path": "/img/10006/DREUMEX.JPG"
         }
     ],
     "Pictures": [],

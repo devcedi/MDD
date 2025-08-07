@@ -1,35 +1,20 @@
 {
-    "ArtNo": "DH39720/0101",
+    "ArtNo": "DH397200101",
     "Attributs": [
         {
-            "Attribute": "1R 14-122",
-            "Value": "1R 14-706",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 11804,
-            "Value": "1DK 28B-7",
+            "Attribute": "Hauteur du piston",
+            "Value": 229,
             "SortNo": 2
         },
         {
-            "Attribute": "1T19 E2 / 204371",
-            "Value": "1T19 E2 / 93762",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": 112060,
-            "Value": "D13B12",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "D13B18",
-            "Value": "K 622-23",
-            "SortNo": 5
-        },
-        {
-            "Attribute": 128147102,
-            "Value": 1006553,
-            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -56,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A81,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A81,photos,2,FALSE),\"\")",
+            "Name": "DH397200101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DH397200101_1.jpg",
             "SortNo": 1
         }
     ],

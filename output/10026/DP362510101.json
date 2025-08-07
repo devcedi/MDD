@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP36251/0101",
-    "Attributs": [],
+    "ArtNo": "DP362510101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 116,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A171,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A171,photos,2,FALSE),\"\")",
+            "Name": "DP362510101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP362510101_1.jpg",
             "SortNo": 1
         }
     ],

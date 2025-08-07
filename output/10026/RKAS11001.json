@@ -1,14 +1,14 @@
 {
-    "ArtNo": "RKAS110/01",
+    "ArtNo": "RKAS11001",
     "Attributs": [
         {
-            "Attribute": 500041359,
-            "Value": 500042582,
+            "Attribute": "Catégorie produit",
+            "Value": "Kit de châssis, amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "1E 19-3",
-            "Value": "1TS 270-23 / 206685",
+            "Attribute": "Application",
+            "Value": "VUL",
             "SortNo": 2
         }
     ],
@@ -36,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A235,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A235,photos,2,FALSE),\"\")",
+            "Name": "RKAS11001_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/RKAS11001_1.jpg",
             "SortNo": 1
         }
     ],

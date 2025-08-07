@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP34028/0101",
+    "ArtNo": "DP340280101",
     "Attributs": [
         {
-            "Attribute": "C292/A - 292.0.461",
-            "Value": "1R 14-701",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1DK 32K",
-            "Value": "1TC 360-40 / 205537",
+            "Attribute": "Hauteur du piston",
+            "Value": 178,
             "SortNo": 2
         },
         {
-            "Attribute": 750570,
-            "Value": "D14U37",
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "UR 838-01T",
-            "Value": "",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A135,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A135,photos,2,FALSE),\"\")",
+            "Name": "DP340280101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP340280101_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,25 +1,35 @@
 {
-    "ArtNo": "DP3916/0020",
+    "ArtNo": "DP39160020",
     "Attributs": [
         {
-            "Attribute": "A 942 320 0117",
-            "Value": "A 942 320 4321",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "A 942 327 0001",
-            "Value": "1KF 24-1-232",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
             "SortNo": 2
         },
         {
-            "Attribute": "1KF 24-21",
-            "Value": "1VSC 300-26 / 206785",
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
             "SortNo": 3
         },
         {
-            "Attribute": "D13T01",
-            "Value": "",
+            "Attribute": "Diamètre extérieur",
+            "Value": 240,
             "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 460,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A205,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A205,photos,2,FALSE),\"\")",
+            "Name": "DP39160020_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP39160020_1.jpg",
             "SortNo": 1
         }
     ],

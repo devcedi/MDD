@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP1813/0101",
+    "ArtNo": "DP18130101",
     "Attributs": [
         {
-            "Attribute": 1076418,
-            "Value": 20374511,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 20456156,
-            "Value": 20531987,
+            "Attribute": "Hauteur du piston",
+            "Value": 178,
             "SortNo": 2
         },
         {
-            "Attribute": 20582214,
-            "Value": 21961451,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": 3171695,
-            "Value": 70321695,
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A106,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A106,photos,2,FALSE),\"\")",
+            "Name": "DP18130101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP18130101_1.jpg",
             "SortNo": 1
         }
     ],

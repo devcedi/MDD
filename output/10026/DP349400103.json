@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP34940/0103",
-    "Attributs": [],
+    "ArtNo": "DP349400103",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 146,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A157,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A157,photos,2,FALSE),\"\")",
+            "Name": "DP349400103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP349400103_1.jpg",
             "SortNo": 1
         }
     ],

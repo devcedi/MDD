@@ -2,13 +2,13 @@
     "ArtNo": "S895404",
     "Attributs": [
         {
-            "Attribute": "1R 14-738",
-            "Value": "1R 14-781",
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "1DK 32L-1",
-            "Value": 17199,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
         }
     ],
@@ -36,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A279,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A279,photos,2,FALSE),\"\")",
+            "Name": "S895404_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S895404_1.jpg",
             "SortNo": 1
         }
     ],

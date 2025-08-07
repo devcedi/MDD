@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP154/0101",
+    "ArtNo": "DP1540101",
     "Attributs": [
         {
-            "Attribute": "2B 9-269",
-            "Value": 15670,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "20 107 016 01",
-            "Value": "A 946 328 1601",
+            "Attribute": "Hauteur du piston",
+            "Value": 121.5,
             "SortNo": 2
         },
         {
-            "Attribute": "2B 12R-A-10",
-            "Value": 21221356,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "S 09280",
-            "Value": "US 07394 F",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A94,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A94,photos,2,FALSE),\"\")",
+            "Name": "DP150101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP150101_1.jpg",
             "SortNo": 1
         }
     ],

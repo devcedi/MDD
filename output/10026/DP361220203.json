@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP36122/0203",
+    "ArtNo": "DP361220203",
     "Attributs": [
         {
-            "Attribute": "A 946 328 1901",
-            "Value": "1D 28A-13",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1DK 28A-13",
-            "Value": "D14B55",
+            "Attribute": "Hauteur du piston",
+            "Value": 160,
             "SortNo": 2
         },
         {
-            "Attribute": "US 07337RC",
-            "Value": "US 07337RG",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "YP 07337ST2RF",
-            "Value": "",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A166,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A166,photos,2,FALSE),\"\")",
+            "Name": "DP361220203_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP361220203_1.jpg",
             "SortNo": 1
         }
     ],

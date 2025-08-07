@@ -1,14 +1,14 @@
 {
-    "ArtNo": "RKAS107/01",
+    "ArtNo": "RKAS10701",
     "Attributs": [
         {
-            "Attribute": 500041358,
-            "Value": 500042581,
+            "Attribute": "Catégorie produit",
+            "Value": "Kit de châssis, amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "1E 19-4",
-            "Value": "1TS 270-23 / 206684",
+            "Attribute": "Application",
+            "Value": "VUL",
             "SortNo": 2
         }
     ],
@@ -36,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A234,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A234,photos,2,FALSE),\"\")",
+            "Name": "RKAS10701_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/RKAS10701_1.jpg",
             "SortNo": 1
         }
     ],

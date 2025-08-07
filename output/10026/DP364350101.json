@@ -1,30 +1,20 @@
 {
-    "ArtNo": "DP36435/0101",
+    "ArtNo": "DP364350101",
     "Attributs": [
         {
-            "Attribute": "1R 12-328",
-            "Value": "1DK 22E-8",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1T 300-37 / 203715",
-            "Value": "3 229 0007 02",
+            "Attribute": "Hauteur du piston",
+            "Value": 150,
             "SortNo": 2
         },
         {
-            "Attribute": "E5 composite",
-            "Value": 1723273,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "D11B34",
-            "Value": "D12B13",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "K 505-27 SM",
-            "Value": "",
-            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A177,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A177,photos,2,FALSE),\"\")",
+            "Name": "DP364350101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP364350101_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,10 +1,35 @@
 {
-    "ArtNo": "DP3946/0000",
+    "ArtNo": "DP39460000",
     "Attributs": [
         {
-            "Attribute": "1DF 16B-1",
-            "Value": "",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 230,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 435,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A208,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A208,photos,2,FALSE),\"\")",
+            "Name": "DP39460000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP39460000_1.jpg",
             "SortNo": 1
         }
     ],

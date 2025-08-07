@@ -1,15 +1,35 @@
 {
-    "ArtNo": "DP31924/0020",
+    "ArtNo": "DP319240020",
     "Attributs": [
         {
-            "Attribute": "1T 323-40 / 202302",
-            "Value": "M 001782",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "D12B01",
-            "Value": "KR 509-25",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 150.8,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 150.8,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 230,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 360,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A122,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A122,photos,2,FALSE),\"\")",
+            "Name": "DP319240020_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP319240020_1.jpg",
             "SortNo": 1
         }
     ],

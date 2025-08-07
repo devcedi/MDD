@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DH391318/0101",
-    "Attributs": [],
+    "ArtNo": "DH3913180101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 180,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A78,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A78,photos,2,FALSE),\"\")",
+            "Name": "DH3913180101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DH3913180101_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP36290/0303",
-    "Attributs": [],
+    "ArtNo": "DP362900303",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 120.5,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A175,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A175,photos,2,FALSE),\"\")",
+            "Name": "DP36290303_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP36290303_1.jpg",
             "SortNo": 1
         }
     ],

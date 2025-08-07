@@ -1,9 +1,9 @@
 {
-    "ArtNo": "DP1884/0100",
+    "ArtNo": "DP18840100",
     "Attributs": [
         {
-            "Attribute": "S 12350",
-            "Value": "",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         }
     ],
@@ -31,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A110,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A110,photos,2,FALSE),\"\")",
+            "Name": "DP18840100_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP18840100_1.jpg",
             "SortNo": 1
         }
     ],

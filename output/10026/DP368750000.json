@@ -1,6 +1,37 @@
 {
-    "ArtNo": "DP36875/0000",
-    "Attributs": [],
+    "ArtNo": "DP368750000",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 138.8,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 138.8,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 192,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 395,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 6
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A179,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A179,photos,2,FALSE),\"\")",
+            "Name": "DP368750000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP368750000_1.jpg",
             "SortNo": 1
         }
     ],

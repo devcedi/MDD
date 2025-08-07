@@ -1,5 +1,5 @@
 {
-    "ArtNo": 680226,
+    "ArtNo": "680226",
     "Attributs": [],
     "BrandName": "AUTO K",
     "BrandNo": "10049",
@@ -16,7 +16,13 @@
     ],
     "HasPartList": false,
     "HasTextInfo": false,
-    "LogoBrand": [],
+    "LogoBrand": [
+        {
+            "Name": "AUTOK.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10049/AUTOK.jpg"
+        }
+    ],
     "Pictures": [],
     "Replaced_by": [],
     "Replaces": [],

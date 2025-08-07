@@ -1,15 +1,20 @@
 {
-    "ArtNo": "DP30082/0101",
+    "ArtNo": "DP300820101",
     "Attributs": [
         {
-            "Attribute": "1DK 23K-54",
-            "Value": "M 001472",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "D12B16",
-            "Value": "",
+            "Attribute": "Hauteur du piston",
+            "Value": 145,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A115,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A115,photos,2,FALSE),\"\")",
+            "Name": "DP300820101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP300820101_1.jpg",
             "SortNo": 1
         }
     ],

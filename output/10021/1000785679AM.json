@@ -1,6 +1,12 @@
 {
     "ArtNo": "1000785679AM",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Constructeur",
+            "Value": 1784480,
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Kongsberg Automotive",
     "BrandNo": "10021",
     "Documents": [],
@@ -18,9 +24,9 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "=C25",
-            "Extension": "",
-            "Path": "/img/10021/=C25"
+            "Name": "KONGSBERG.png",
+            "Extension": "PNG",
+            "Path": "/img/10021/KONGSBERG.png"
         }
     ],
     "Pictures": [],

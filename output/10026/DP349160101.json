@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP34916/0101",
+    "ArtNo": "DP349160101",
     "Attributs": [
         {
-            "Attribute": 17089,
-            "Value": 17685,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "D14B49",
-            "Value": "US 04031",
+            "Attribute": "Hauteur du piston",
+            "Value": 131,
             "SortNo": 2
         },
         {
-            "Attribute": "US 04031F",
-            "Value": "YP 4031N-F",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "YP 4031N-G",
-            "Value": "",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A154,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A154,photos,2,FALSE),\"\")",
+            "Name": "DP34910101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP34910101_1.jpg",
             "SortNo": 1
         }
     ],

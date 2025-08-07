@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP1882/0101",
-    "Attributs": [],
+    "ArtNo": "DP18820101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 130,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A328,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A328,photos,2,FALSE),\"\")",
+            "Name": "DP18820101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP18820101_1.jpg",
             "SortNo": 1
         }
     ],

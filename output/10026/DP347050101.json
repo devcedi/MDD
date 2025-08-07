@@ -1,35 +1,20 @@
 {
-    "ArtNo": "DP34705/0101",
+    "ArtNo": "DP347050101",
     "Attributs": [
         {
-            "Attribute": "W01 M58 9881",
-            "Value": "C282/H - 282.1.600",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "D287/H - 287.1.606",
-            "Value": "1R 14-753",
+            "Attribute": "Hauteur du piston",
+            "Value": 130,
             "SortNo": 2
         },
         {
-            "Attribute": "1D 28H-16",
-            "Value": "1T19 E93 / 206201",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": 1379392,
-            "Value": 1440294,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 1510195,
-            "Value": 1543691,
-            "SortNo": 5
-        },
-        {
-            "Attribute": "D14B42",
-            "Value": "KR 625-16",
-            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -56,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A146,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A146,photos,2,FALSE),\"\")",
+            "Name": "DP347050101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP347050101_1.jpg",
             "SortNo": 1
         }
     ],

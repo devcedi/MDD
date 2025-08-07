@@ -1,10 +1,20 @@
 {
-    "ArtNo": "DP32922/0101",
+    "ArtNo": "DP329220101",
     "Attributs": [
         {
-            "Attribute": 21215891,
-            "Value": 21226039,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 180,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A125,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A125,photos,2,FALSE),\"\")",
+            "Name": "DP329220101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP329220101_1.jpg",
             "SortNo": 1
         }
     ],

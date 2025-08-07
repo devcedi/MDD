@@ -1,5 +1,5 @@
 {
-    "ArtNo": 10428001012,
+    "ArtNo": "10428001012",
     "Attributs": [
         {
             "Attribute": "Conditionnement ",
@@ -39,16 +39,16 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "DREUMEXlogo",
-            "Extension": "",
-            "Path": "/img/10006/DREUMEXlogo"
+            "Name": "DREUMEX.JPG",
+            "Extension": "JPG",
+            "Path": "/img/10006/DREUMEX.JPG"
         }
     ],
     "Pictures": [
         {
-            "Name": "Spécial01",
-            "Extension": "",
-            "Path": "/img/10006/Spécial01",
+            "Name": "Spécial01.png",
+            "Extension": "PNG",
+            "Path": "/img/10006/Spécial01.png",
             "SortNo": 1
         }
     ],

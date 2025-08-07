@@ -1,30 +1,35 @@
 {
-    "ArtNo": "DP31415/0020",
+    "ArtNo": "DP314150020",
     "Attributs": [
         {
-            "Attribute": "1R 11-106",
-            "Value": "1R 11-882",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1DK 21A-3",
-            "Value": "1DK 21A-31",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 150.8,
             "SortNo": 2
         },
         {
-            "Attribute": "1TC 300-38 / 205598",
-            "Value": 21222442,
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
             "SortNo": 3
         },
         {
-            "Attribute": "D12B17",
-            "Value": "KR 913-57",
+            "Attribute": "Diamètre extérieur",
+            "Value": 225,
             "SortNo": 4
         },
         {
-            "Attribute": "US 08840",
-            "Value": "USO 7074 F",
+            "Attribute": "Hauteur",
+            "Value": 322,
             "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A117,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A117,photos,2,FALSE),\"\")",
+            "Name": "DP314150020_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP314150020_1.jpg",
             "SortNo": 1
         }
     ],

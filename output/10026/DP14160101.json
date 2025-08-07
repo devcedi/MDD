@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP1416/0101",
-    "Attributs": [],
+    "ArtNo": "DP14160101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 164,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A314,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A314,photos,2,FALSE),\"\")",
+            "Name": "DP14160101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP14160101_1.jpg",
             "SortNo": 1
         }
     ],

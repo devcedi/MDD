@@ -1,14 +1,14 @@
 {
-    "ArtNo": "RKAS121/01",
+    "ArtNo": "RKAS12101",
     "Attributs": [
         {
-            "Attribute": 1371342,
-            "Value": 1375396,
+            "Attribute": "Catégorie produit",
+            "Value": "Kit de châssis, amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "YP 06318 SF",
-            "Value": "",
+            "Attribute": "Application",
+            "Value": "VUL",
             "SortNo": 2
         }
     ],

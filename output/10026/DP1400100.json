@@ -1,6 +1,17 @@
 {
-    "ArtNo": "DP140/0100",
-    "Attributs": [],
+    "ArtNo": "DP1400100",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A88,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A88,photos,2,FALSE),\"\")",
+            "Name": "DP1400100_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1400100_1.jpg",
             "SortNo": 1
         }
     ],

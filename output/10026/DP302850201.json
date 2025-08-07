@@ -1,40 +1,20 @@
 {
-    "ArtNo": "DP30285/0201",
+    "ArtNo": "DP302850201",
     "Attributs": [
         {
-            "Attribute": "1R 11-111",
-            "Value": "30 105 014 01",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 505818196,
-            "Value": 550025979,
+            "Attribute": "Hauteur du piston",
+            "Value": 178,
             "SortNo": 2
         },
         {
-            "Attribute": "A 946 328 1401",
-            "Value": "1DK 21A-4",
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "1DK 21A-8",
-            "Value": "1T 300-40 / 207463",
-            "SortNo": 4
-        },
-        {
-            "Attribute": 21221307,
-            "Value": "D12B18",
-            "SortNo": 5
-        },
-        {
-            "Attribute": "KR 915-54",
-            "Value": "US 07364F",
-            "SortNo": 6
-        },
-        {
-            "Attribute": "US 87 EURO F",
-            "Value": "YP 07634F",
-            "SortNo": 7
         }
     ],
     "BrandName": "Pneumatis",
@@ -61,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A116,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A116,photos,2,FALSE),\"\")",
+            "Name": "DP30280201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP30280201_1.jpg",
             "SortNo": 1
         }
     ],

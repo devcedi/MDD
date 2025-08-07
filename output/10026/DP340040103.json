@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP34004/0103",
+    "ArtNo": "DP340040103",
     "Attributs": [
         {
-            "Attribute": "C292 - 292.0.531",
-            "Value": "1R 14-708",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1DK 32",
-            "Value": "1TC 360-45 / 204530",
+            "Attribute": "Hauteur du piston",
+            "Value": 140,
             "SortNo": 2
         },
         {
-            "Attribute": "S1 251-530 NS",
-            "Value": 750228,
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "D14U36",
-            "Value": "KR 836-01T",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A131,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A131,photos,2,FALSE),\"\")",
+            "Name": "DP340040103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP340040103_1.jpg",
             "SortNo": 1
         }
     ],

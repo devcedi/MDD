@@ -31,11 +31,15 @@ def CreateMDD(strName,strExelPath):
 
     wb = load_workbook(strExelPath)
     ws = wb.active
+    # Regex pour supprimer les caractères interdits (équivalent de la version C#)
+    pattern = r'[ <>:"/\\|?*\x00-\x1F]'
 
-    for i, row in enumerate(ws.iter_rows(min_row=2), start=2):  # commence à la ligne 2
+    for i, row in enumerate(ws.iter_rows(min_row=2), start=2):
         artno = row[COLS["ArtNo"]-1].value
         if artno is None:
             break  # Arrêter la boucle principale si la cellule ArtNo est vide (fin des données)
+
+        artno = re.sub(pattern, "", str(artno)) if artno else ""
         brandno = row[COLS["BrandNo"]-1].value
         brandname = row[COLS["BrandName"]-1].value
         logobrand_value = row[COLS["LogoBrand"]-1].value

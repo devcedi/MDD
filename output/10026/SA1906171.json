@@ -1,6 +1,17 @@
 {
-    "ArtNo": "SA190617/1",
-    "Attributs": [],
+    "ArtNo": "SA1906171",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A286,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A286,photos,2,FALSE),\"\")",
+            "Name": "SA1906171_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/SA1906171_1.jpg",
             "SortNo": 1
         }
     ],

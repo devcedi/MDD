@@ -1,5 +1,5 @@
 {
-    "ArtNo": 11301001008,
+    "ArtNo": "11301001008",
     "Attributs": [
         {
             "Attribute": "Conditionnement ",
@@ -49,16 +49,16 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "DREUMEXlogo",
-            "Extension": "",
-            "Path": "/img/10006/DREUMEXlogo"
+            "Name": "DREUMEX.JPG",
+            "Extension": "JPG",
+            "Path": "/img/10006/DREUMEX.JPG"
         }
     ],
     "Pictures": [
         {
-            "Name": "D10001",
-            "Extension": "",
-            "Path": "/img/10006/D10001",
+            "Name": "D10001.png",
+            "Extension": "PNG",
+            "Path": "/img/10006/D10001.png",
             "SortNo": 1
         }
     ],

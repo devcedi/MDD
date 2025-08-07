@@ -1,19 +1,19 @@
 {
-    "ArtNo": "DP34580/0102",
+    "ArtNo": "DP345800102",
     "Attributs": [
         {
-            "Attribute": "1R 13-738",
-            "Value": "1DK 28F-4",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1T19 E4 / 206779",
-            "Value": 5010239213,
+            "Attribute": "Hauteur du piston",
+            "Value": 160,
             "SortNo": 2
         },
         {
-            "Attribute": 5010294307,
-            "Value": "D13B40",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
         }
     ],
@@ -41,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A144,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A144,photos,2,FALSE),\"\")",
+            "Name": "DP345800102_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP345800102_1.jpg",
             "SortNo": 1
         }
     ],

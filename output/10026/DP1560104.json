@@ -1,40 +1,20 @@
 {
-    "ArtNo": "DP156/0104",
+    "ArtNo": "DP1560104",
     "Attributs": [
         {
-            "Attribute": "05.429.42.17.1",
-            "Value": "05.429.42.19.1",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "05.429.43.21.0",
-            "Value": "30 K Complet Acier",
+            "Attribute": "Hauteur du piston",
+            "Value": 145,
             "SortNo": 2
         },
         {
-            "Attribute": "940MB+pist",
-            "Value": "940MBP30",
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "W01 M58 8585",
-            "Value": "1R 11-712",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "1R 11-763",
-            "Value": "1DK 21 K-2",
-            "SortNo": 5
-        },
-        {
-            "Attribute": 17331,
-            "Value": 751084,
-            "SortNo": 6
-        },
-        {
-            "Attribute": "D11B31",
-            "Value": "D11B39",
-            "SortNo": 7
         }
     ],
     "BrandName": "Pneumatis",
@@ -61,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A98,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A98,photos,2,FALSE),\"\")",
+            "Name": "DP1560104_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1560104_1.jpg",
             "SortNo": 1
         }
     ],

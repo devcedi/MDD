@@ -1,6 +1,12 @@
 {
-    "ArtNo": "SP500/PGKT022",
-    "Attributs": [],
+    "ArtNo": "SP500PGKT022",
+    "Attributs": [
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A293,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A293,photos,2,FALSE),\"\")",
+            "Name": "SP500PGKT022_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/SP500PGKT022_1.jpg",
             "SortNo": 1
         }
     ],

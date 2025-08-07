@@ -1,6 +1,17 @@
 {
     "ArtNo": "DB12213",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A301,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A301,photos,2,FALSE),\"\")",
+            "Name": "DB12213_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DB12213_1.jpg",
             "SortNo": 1
         }
     ],

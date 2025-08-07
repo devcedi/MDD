@@ -1,10 +1,20 @@
 {
-    "ArtNo": "DH3887/0304",
+    "ArtNo": "DH38870304",
     "Attributs": [
         {
-            "Attribute": 20580705,
-            "Value": 21961472,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 137,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A71,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A71,photos,2,FALSE),\"\")",
+            "Name": "DH38870304_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DH38870304_1.jpg",
             "SortNo": 1
         }
     ],

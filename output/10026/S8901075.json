@@ -1,6 +1,17 @@
 {
     "ArtNo": "S8901075",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A253,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A253,photos,2,FALSE),\"\")",
+            "Name": "S8901075_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S8901075_1.jpg",
             "SortNo": 1
         }
     ],

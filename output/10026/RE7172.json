@@ -1,6 +1,12 @@
 {
     "ArtNo": "RE7172",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A222,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A222,photos,2,FALSE),\"\")",
+            "Name": "RE7172_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/RE7172_1.jpg",
             "SortNo": 1
         }
     ],

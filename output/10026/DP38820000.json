@@ -1,6 +1,37 @@
 {
-    "ArtNo": "DP3882/0000",
-    "Attributs": [],
+    "ArtNo": "DP38820000",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 120.8,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 210,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 465,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 6
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A196,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A196,photos,2,FALSE),\"\")",
+            "Name": "DP38820000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP38820000_1.jpg",
             "SortNo": 1
         }
     ],

@@ -9,7 +9,7 @@
         "EAN": 6,
         "Description": 7,
         "Picture": 8,
-        "Lien": 115
+        "Lien": 115 
     },
     "ATTR_START": 15,
     "ATTR_END": 114

@@ -1,6 +1,17 @@
 {
-    "ArtNo": "RKAS002/04",
-    "Attributs": [],
+    "ArtNo": "RKAS00204",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Kit de châssis, amortisseur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "VUL",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -23,14 +34,7 @@
             "Path": "/img/10026/PNEUMATIS.jpg"
         }
     ],
-    "Pictures": [
-        {
-            "Name": "=IFERROR(VLOOKUP(A228,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A228,photos,2,FALSE),\"\")",
-            "SortNo": 1
-        }
-    ],
+    "Pictures": [],
     "Replaced_by": [],
     "Replaces": [],
     "Status": "",

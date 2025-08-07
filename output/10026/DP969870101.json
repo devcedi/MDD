@@ -1,6 +1,12 @@
 {
-    "ArtNo": "DP96987/0101",
-    "Attributs": [],
+    "ArtNo": "DP969870101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A215,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A215,photos,2,FALSE),\"\")",
+            "Name": "DP969870101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP969870101_1.jpg",
             "SortNo": 1
         }
     ],

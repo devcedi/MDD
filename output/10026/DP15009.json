@@ -2,34 +2,24 @@
     "ArtNo": "DP15009",
     "Attributs": [
         {
-            "Attribute": 15599,
-            "Value": "Y11003102",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "2B 12R-3",
-            "Value": "2B 12R-5",
+            "Attribute": "Diamètre extérieur",
+            "Value": 250,
             "SortNo": 2
         },
         {
-            "Attribute": 1618,
-            "Value": 4229100501,
+            "Attribute": "Hauteur",
+            "Value": 100,
             "SortNo": 3
         },
         {
-            "Attribute": "4 229 1004 00",
-            "Value": "4 229 1005 00",
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 4
-        },
-        {
-            "Attribute": 1319761,
-            "Value": 1387289,
-            "SortNo": 5
-        },
-        {
-            "Attribute": "S 09208",
-            "Value": "",
-            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -56,9 +46,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A93,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A93,photos,2,FALSE),\"\")",
+            "Name": "DP15009_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP15009_1.jpg",
             "SortNo": 1
         }
     ],

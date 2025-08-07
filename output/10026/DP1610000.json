@@ -1,20 +1,35 @@
 {
-    "ArtNo": "DP161/0000",
+    "ArtNo": "DP1610000",
     "Attributs": [
         {
-            "Attribute": "1R 11-700",
-            "Value": "1DK 21 / 30",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1TC 300-36 / 204466",
-            "Value": "S1 235-517 NS",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 150.8,
             "SortNo": 2
         },
         {
-            "Attribute": 15514,
-            "Value": "D11U30",
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 150.8,
             "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 240,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 391,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd ; Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -41,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A101,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A101,photos,2,FALSE),\"\")",
+            "Name": "DP1610000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1610000_1.jpg",
             "SortNo": 1
         }
     ],

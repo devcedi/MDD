@@ -1,6 +1,17 @@
 {
-    "ArtNo": "RKAS172/01",
-    "Attributs": [],
+    "ArtNo": "RKAS17201",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Kit de châssis, amortisseur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "VUL",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A238,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A238,photos,2,FALSE),\"\")",
+            "Name": "RKAS17201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/RKAS17201_1.jpg",
             "SortNo": 1
         }
     ],

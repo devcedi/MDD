@@ -1,6 +1,17 @@
 {
-    "ArtNo": "RKAS019/01",
-    "Attributs": [],
+    "ArtNo": "RKAS01901",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Kit de châssis, amortisseur",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "VUL",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],

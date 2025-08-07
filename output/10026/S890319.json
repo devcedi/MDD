@@ -2,13 +2,13 @@
     "ArtNo": "S890319",
     "Attributs": [
         {
-            "Attribute": "1R 12-711",
-            "Value": "1DF 25-13",
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "D13B31",
-            "Value": "KR 721-03",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
         }
     ],
@@ -36,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A262,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A262,photos,2,FALSE),\"\")",
+            "Name": "S890319_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S890319_1.jpg",
             "SortNo": 1
         }
     ],

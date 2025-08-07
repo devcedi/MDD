@@ -1,10 +1,20 @@
 {
-    "ArtNo": "DP391303/0101",
+    "ArtNo": "DP3913030101",
     "Attributs": [
         {
-            "Attribute": 7422047993,
-            "Value": "",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 208,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A199,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A199,photos,2,FALSE),\"\")",
+            "Name": "DP3913030101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP3913030101_1.jpg",
             "SortNo": 1
         }
     ],

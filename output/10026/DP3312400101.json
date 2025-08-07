@@ -1,15 +1,20 @@
 {
-    "ArtNo": "DP331240/0101",
+    "ArtNo": "DP3312400101",
     "Attributs": [
         {
-            "Attribute": 20531988,
-            "Value": 20582212,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 21961447,
-            "Value": "",
+            "Attribute": "Hauteur du piston",
+            "Value": 140,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A130,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A130,photos,2,FALSE),\"\")",
+            "Name": "DP3312400101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP3312400101_1.jpg",
             "SortNo": 1
         }
     ],

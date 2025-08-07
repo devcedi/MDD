@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DH36751/0201",
-    "Attributs": [],
+    "ArtNo": "DH367510201",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 165,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A66,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A66,photos,2,FALSE),\"\")",
+            "Name": "DH367510201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DH367510201_1.jpg",
             "SortNo": 1
         }
     ],

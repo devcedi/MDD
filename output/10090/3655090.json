@@ -20,9 +20,7 @@
     "BrandName": "POMMIER",
     "BrandNo": "10090",
     "Documents": [],
-    "GTIN": [
-        "Pas de code EAN"
-    ],
+    "GTIN": [],
     "GenArts": [
         {
             "Description": "Rail horizontal acier.",

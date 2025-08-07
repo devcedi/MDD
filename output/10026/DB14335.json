@@ -1,6 +1,12 @@
 {
     "ArtNo": "DB14335",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A40,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A40,photos,2,FALSE),\"\")",
+            "Name": "DB14335_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DB14335_1.jpg",
             "SortNo": 1
         }
     ],

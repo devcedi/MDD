@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP34757/0101",
-    "Attributs": [],
+    "ArtNo": "DP347570101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 155,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A150,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A150,photos,2,FALSE),\"\")",
+            "Name": "DP347570101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP347570101_1.jpg",
             "SortNo": 1
         }
     ],

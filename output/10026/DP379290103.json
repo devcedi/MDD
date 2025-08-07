@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP37929/0103",
-    "Attributs": [],
+    "ArtNo": "DP379290103",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 176,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A187,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A187,photos,2,FALSE),\"\")",
+            "Name": "DP379290103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP379290103_1.jpg",
             "SortNo": 1
         }
     ],

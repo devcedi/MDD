@@ -1,30 +1,20 @@
 {
-    "ArtNo": "DP1884/0201",
+    "ArtNo": "DP18840201",
     "Attributs": [
         {
-            "Attribute": 5010239252,
-            "Value": "5010 294 252 B",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 5010305438,
-            "Value": 5010488071,
+            "Attribute": "Hauteur du piston",
+            "Value": 130,
             "SortNo": 2
         },
         {
-            "Attribute": 5010488701,
-            "Value": 5010600570,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": 7421978506,
-            "Value": 20758818,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 21978510,
-            "Value": "",
-            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A111,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A111,photos,2,FALSE),\"\")",
+            "Name": "DP18840201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP18840201_1.jpg",
             "SortNo": 1
         }
     ],

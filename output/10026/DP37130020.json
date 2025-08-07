@@ -1,6 +1,37 @@
 {
-    "ArtNo": "DP3713/0020",
-    "Attributs": [],
+    "ArtNo": "DP37130020",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 240,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 492,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 6
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A181,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A181,photos,2,FALSE),\"\")",
+            "Name": "DP37130020_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP37130020_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,6 +1,12 @@
 {
-    "ArtNo": "SP700/PGLT013",
-    "Attributs": [],
+    "ArtNo": "SP700PGLT013",
+    "Attributs": [
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A298,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A298,photos,2,FALSE),\"\")",
+            "Name": "SP700PGLT013_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/SP700PGLT013_1.jpg",
             "SortNo": 1
         }
     ],

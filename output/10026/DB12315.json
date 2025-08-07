@@ -1,6 +1,17 @@
 {
     "ArtNo": "DB12315",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 330,
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A30,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A30,photos,2,FALSE),\"\")",
+            "Name": "DB12315_1.png",
+            "Extension": "PNG",
+            "Path": "/img/10026/DB12315_1.png",
             "SortNo": 1
         }
     ],

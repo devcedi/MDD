@@ -1,10 +1,20 @@
 {
-    "ArtNo": "DP159/0101",
+    "ArtNo": "DP1590101",
     "Attributs": [
         {
-            "Attribute": "1DK 21K-4",
-            "Value": "",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 188,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A100,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A100,photos,2,FALSE),\"\")",
+            "Name": "DP1590101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1590101_1.jpg",
             "SortNo": 1
         }
     ],

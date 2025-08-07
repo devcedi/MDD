@@ -1,19 +1,19 @@
 {
-    "ArtNo": "DP331238/0101",
+    "ArtNo": "DP3312380101",
     "Attributs": [
         {
-            "Attribute": 1075890,
-            "Value": 20375226,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 20375227,
-            "Value": 20531984,
+            "Attribute": "Hauteur du piston",
+            "Value": 109,
             "SortNo": 2
         },
         {
-            "Attribute": 21961374,
-            "Value": "",
+            "Attribute": "Application",
+            "Value": "Bus",
             "SortNo": 3
         }
     ],
@@ -41,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A128,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A128,photos,2,FALSE),\"\")",
+            "Name": "DP3312380101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP3312380101_1.jpg",
             "SortNo": 1
         }
     ],

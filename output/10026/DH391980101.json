@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DH39198/0101",
-    "Attributs": [],
+    "ArtNo": "DH391980101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 185,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A79,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A79,photos,2,FALSE),\"\")",
+            "Name": "DH391980101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DH391980101_1.jpg",
             "SortNo": 1
         }
     ],

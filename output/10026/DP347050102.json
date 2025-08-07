@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP34705/0102",
+    "ArtNo": "DP347050102",
     "Attributs": [
         {
-            "Attribute": 7421978500,
-            "Value": 7422190563,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "H 2 501 122",
-            "Value": 20757541,
+            "Attribute": "Hauteur du piston",
+            "Value": 130,
             "SortNo": 2
         },
         {
-            "Attribute": 21978500,
-            "Value": 22025613,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": 22190563,
-            "Value": "",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A147,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A147,photos,2,FALSE),\"\")",
+            "Name": "DP347050102_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP347050102_1.jpg",
             "SortNo": 1
         }
     ],

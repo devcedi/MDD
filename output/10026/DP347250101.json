@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP34725/0101",
-    "Attributs": [],
+    "ArtNo": "DP347250101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 130,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A149,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A149,photos,2,FALSE),\"\")",
+            "Name": "DP347250101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP347250101_1.jpg",
             "SortNo": 1
         }
     ],

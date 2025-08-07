@@ -1,20 +1,35 @@
 {
-    "ArtNo": "DP31782-2/0020",
+    "ArtNo": "DP31782-20020",
     "Attributs": [
         {
-            "Attribute": "1DK 20B-1",
-            "Value": 14892,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 750999,
-            "Value": "D12B22",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 150.8,
             "SortNo": 2
         },
         {
-            "Attribute": "US 06285",
-            "Value": "YP 06285F",
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
             "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 230,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 416,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -41,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A120,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A120,photos,2,FALSE),\"\")",
+            "Name": "DP3178220020_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP3178220020_1.jpg",
             "SortNo": 1
         }
     ],

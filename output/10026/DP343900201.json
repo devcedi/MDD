@@ -1,19 +1,19 @@
 {
-    "ArtNo": "DP34390/0201",
+    "ArtNo": "DP343900201",
     "Attributs": [
         {
-            "Attribute": 81436006036,
-            "Value": 81436006056,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 81436006079,
-            "Value": 81436016036,
+            "Attribute": "Hauteur du piston",
+            "Value": 155,
             "SortNo": 2
         },
         {
-            "Attribute": "1DF 16-2",
-            "Value": "1TS 260-28 / 206788",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
         }
     ],
@@ -41,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A139,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A139,photos,2,FALSE),\"\")",
+            "Name": "DP343900201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP343900201_1.jpg",
             "SortNo": 1
         }
     ],

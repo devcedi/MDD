@@ -1,5 +1,5 @@
 {
-    "ArtNo": 99999051025,
+    "ArtNo": "99999051025",
     "Attributs": [
         {
             "Attribute": "Conditionnement ",
@@ -44,16 +44,16 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "DREUMEXlogo",
-            "Extension": "",
-            "Path": "/img/10006/DREUMEXlogo"
+            "Name": "DREUMEX.JPG",
+            "Extension": "JPG",
+            "Path": "/img/10006/DREUMEX.JPG"
         }
     ],
     "Pictures": [
         {
-            "Name": "O2C02",
-            "Extension": "",
-            "Path": "/img/10006/O2C02",
+            "Name": "O2C02.png",
+            "Extension": "PNG",
+            "Path": "/img/10006/O2C02.png",
             "SortNo": 1
         }
     ],

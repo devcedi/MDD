@@ -1,6 +1,12 @@
 {
     "ArtNo": "SP100000",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Application",
+            "Value": "Siege",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A288,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A288,photos,2,FALSE),\"\")",
+            "Name": "SP100000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/SP100000_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,95 +1,20 @@
 {
-    "ArtNo": "DP34023/0103",
+    "ArtNo": "DP340230103",
     "Attributs": [
         {
-            "Attribute": "4.771.427.000",
-            "Value": "4.771.440.000",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1R1C 390-310",
-            "Value": "W01 095 0021",
+            "Attribute": "Hauteur du piston",
+            "Value": 180,
             "SortNo": 2
         },
         {
-            "Attribute": "D297 - 297.0.390",
-            "Value": 8018,
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": 536905265,
-            "Value": 4746733,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 41822247,
-            "Value": 93197594,
-            "SortNo": 5
-        },
-        {
-            "Attribute": 4731012000,
-            "Value": 4731031000,
-            "SortNo": 6
-        },
-        {
-            "Attribute": 4771427000,
-            "Value": 4771440000,
-            "SortNo": 7
-        },
-        {
-            "Attribute": 2498667,
-            "Value": 90831120114,
-            "SortNo": 8
-        },
-        {
-            "Attribute": 90831120144,
-            "Value": "A 410 327 0001",
-            "SortNo": 9
-        },
-        {
-            "Attribute": "A 613 327 0201",
-            "Value": "1001 122 50",
-            "SortNo": 10
-        },
-        {
-            "Attribute": "AA 10 - 01 001",
-            "Value": "1E 25",
-            "SortNo": 11
-        },
-        {
-            "Attribute": "1S 310-28 / 91016",
-            "Value": 5001829866,
-            "SortNo": 12
-        },
-        {
-            "Attribute": 5010393477,
-            "Value": "S1 152 NS",
-            "SortNo": 13
-        },
-        {
-            "Attribute": 750208,
-            "Value": "D12S02",
-            "SortNo": 14
-        },
-        {
-            "Attribute": "B 114",
-            "Value": 624319670,
-            "SortNo": 15
-        },
-        {
-            "Attribute": 624319690,
-            "Value": 1137882,
-            "SortNo": 16
-        },
-        {
-            "Attribute": 1137888,
-            "Value": 3195253,
-            "SortNo": 17
-        },
-        {
-            "Attribute": "YP 0661N-W",
-            "Value": "",
-            "SortNo": 18
         }
     ],
     "BrandName": "Pneumatis",
@@ -116,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A126,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A126,photos,2,FALSE),\"\")",
+            "Name": "DP340230103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP340230103_1.jpg",
             "SortNo": 1
         }
     ],

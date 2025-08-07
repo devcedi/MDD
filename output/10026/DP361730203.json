@@ -1,10 +1,15 @@
 {
-    "ArtNo": "DP36173/0203",
+    "ArtNo": "DP361730203",
     "Attributs": [
         {
-            "Attribute": "3 229 0036 00",
-            "Value": "",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 2
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A169,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A169,photos,2,FALSE),\"\")",
+            "Name": "DP361730203_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP361730203_1.jpg",
             "SortNo": 1
         }
     ],

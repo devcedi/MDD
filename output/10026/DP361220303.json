@@ -1,30 +1,20 @@
 {
-    "ArtNo": "DP36122/0303",
+    "ArtNo": "DP361220303",
     "Attributs": [
         {
-            "Attribute": "1D 28A-10",
-            "Value": "1T19 E1 / 205456",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "2918V",
-            "Value": "3 229 0027 00",
+            "Attribute": "Hauteur du piston",
+            "Value": 160,
             "SortNo": 2
         },
         {
-            "Attribute": "3 229 2127 00",
-            "Value": "3 229 2227 00",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "41B35001",
-            "Value": "D13B25",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "KR 621-18",
-            "Value": "",
-            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A167,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A167,photos,2,FALSE),\"\")",
+            "Name": "DP361220303_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP361220303_1.jpg",
             "SortNo": 1
         }
     ],

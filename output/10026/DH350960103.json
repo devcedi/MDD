@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DH35096/0103",
-    "Attributs": [],
+    "ArtNo": "DH350960103",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 126,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd ; Remorques",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -23,14 +39,7 @@
             "Path": "/img/10026/PNEUMATIS.jpg"
         }
     ],
-    "Pictures": [
-        {
-            "Name": "=IFERROR(VLOOKUP(A58,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A58,photos,2,FALSE),\"\")",
-            "SortNo": 1
-        }
-    ],
+    "Pictures": [],
     "Replaced_by": [],
     "Replaces": [],
     "Status": "",

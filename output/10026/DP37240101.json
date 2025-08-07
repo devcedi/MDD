@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP3724/0101",
+    "ArtNo": "DP37240101",
     "Attributs": [
         {
-            "Attribute": "1D 28B-10",
-            "Value": "1T19 E2 / 204676",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "2923V",
-            "Value": "3 229 0031 00",
+            "Attribute": "Hauteur du piston",
+            "Value": 192,
             "SortNo": 2
         },
         {
-            "Attribute": 751082,
-            "Value": "D13B26",
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": "KR 622-18",
-            "Value": "",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A183,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A183,photos,2,FALSE),\"\")",
+            "Name": "DP37240101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP37240101_1.jpg",
             "SortNo": 1
         }
     ],

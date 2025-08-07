@@ -34,9 +34,9 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "Carpolish",
-            "Extension": "",
-            "Path": "/img/10062/Carpolish"
+            "Name": "CARPOLISH.png",
+            "Extension": "PNG",
+            "Path": "/img/10062/CARPOLISH.png"
         }
     ],
     "Pictures": [

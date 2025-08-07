@@ -1,15 +1,20 @@
 {
-    "ArtNo": "DP37929/0203",
+    "ArtNo": "DP379290203",
     "Attributs": [
         {
-            "Attribute": "A 942 320 0557",
-            "Value": "A 942 320 1421",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "A 942 320 2321",
-            "Value": "A 942 320 6921",
+            "Attribute": "Hauteur du piston",
+            "Value": 176,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A188,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A188,photos,2,FALSE),\"\")",
+            "Name": "DP379290203_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP379290203_1.jpg",
             "SortNo": 1
         }
     ],

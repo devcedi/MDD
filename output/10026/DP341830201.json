@@ -1,45 +1,20 @@
 {
-    "ArtNo": "DP34183/0201",
+    "ArtNo": "DP341830201",
     "Attributs": [
         {
-            "Attribute": "1T 66F-7.0",
-            "Value": "W01 M58 8666",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1T 66F-7.0",
-            "Value": "W01 M58 8666",
+            "Attribute": "Hauteur du piston",
+            "Value": 165,
             "SortNo": 2
         },
         {
-            "Attribute": "C292/A - 292.2.462",
-            "Value": "C292/A - 292.2.462",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "1R 14-757",
-            "Value": "1R 14-757",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "1DK 32K-2",
-            "Value": "1DK 32K-2",
-            "SortNo": 5
-        },
-        {
-            "Attribute": 750491,
-            "Value": 751356,
-            "SortNo": 6
-        },
-        {
-            "Attribute": 750491,
-            "Value": 751356,
-            "SortNo": 7
-        },
-        {
-            "Attribute": "D14B44",
-            "Value": "D14B44",
-            "SortNo": 8
         }
     ],
     "BrandName": "Pneumatis",
@@ -66,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A137,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A137,photos,2,FALSE),\"\")",
+            "Name": "DP341830201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP341830201_1.jpg",
             "SortNo": 1
         }
     ],

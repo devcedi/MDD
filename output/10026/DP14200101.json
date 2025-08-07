@@ -1,115 +1,20 @@
 {
-    "ArtNo": "DP1420/0101",
+    "ArtNo": "DP14200101",
     "Attributs": [
         {
-            "Attribute": "W01 M58 6339",
-            "Value": "W01 M58 6364",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "W01 M58 7345",
-            "Value": "D277 - 277.4.500",
+            "Attribute": "Hauteur du piston",
+            "Value": 110,
             "SortNo": 2
         },
         {
-            "Attribute": "1R 14-061",
-            "Value": "1R 14-705",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "1R 14-710",
-            "Value": "1R 14-721",
-            "SortNo": 4
-        },
-        {
-            "Attribute": 505859,
-            "Value": 785170,
-            "SortNo": 5
-        },
-        {
-            "Attribute": "A 06030610",
-            "Value": "Y111000967",
-            "SortNo": 6
-        },
-        {
-            "Attribute": 4731030000,
-            "Value": 4731033000,
-            "SortNo": 7
-        },
-        {
-            "Attribute": 22282,
-            "Value": 175005,
-            "SortNo": 8
-        },
-        {
-            "Attribute": "1D 28B-2",
-            "Value": "1D 28C-26",
-            "SortNo": 9
-        },
-        {
-            "Attribute": "1T19 E2 / 87408",
-            "Value": 21215633,
-            "SortNo": 10
-        },
-        {
-            "Attribute": 5000790692,
-            "Value": 5001004903,
-            "SortNo": 11
-        },
-        {
-            "Attribute": 5010130925,
-            "Value": "8403 / 102",
-            "SortNo": 12
-        },
-        {
-            "Attribute": "2 229 0003 00",
-            "Value": "3 229 0003 00",
-            "SortNo": 13
-        },
-        {
-            "Attribute": "3 229 0011 01",
-            "Value": "3 229 0018 00",
-            "SortNo": 14
-        },
-        {
-            "Attribute": "H 2 500 009",
-            "Value": "D13B02",
-            "SortNo": 15
-        },
-        {
-            "Attribute": "D13B19",
-            "Value": "KR 622-26",
-            "SortNo": 16
-        },
-        {
-            "Attribute": 91687700000,
-            "Value": "0036158 E",
-            "SortNo": 17
-        },
-        {
-            "Attribute": "65022347Y",
-            "Value": 65023482,
-            "SortNo": 18
-        },
-        {
-            "Attribute": "ST 225 675",
-            "Value": 128147122,
-            "SortNo": 19
-        },
-        {
-            "Attribute": 644285,
-            "Value": "US 07345 F",
-            "SortNo": 20
-        },
-        {
-            "Attribute": "US 87408 F",
-            "Value": "Catégorie produit",
-            "SortNo": 21
-        },
-        {
-            "Attribute": "Ressort pneumatique, soulèvement d'essieu",
-            "Value": "",
-            "SortNo": 22
         }
     ],
     "BrandName": "Pneumatis",
@@ -136,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A91,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A91,photos,2,FALSE),\"\")",
+            "Name": "DP14200101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP14200101_1.jpg",
             "SortNo": 1
         }
     ],

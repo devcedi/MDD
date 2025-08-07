@@ -1,6 +1,12 @@
 {
     "ArtNo": "RKC438",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Application",
+            "Value": "VUL",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],

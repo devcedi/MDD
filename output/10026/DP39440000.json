@@ -1,15 +1,35 @@
 {
-    "ArtNo": "DP3944/0000",
+    "ArtNo": "DP39440000",
     "Attributs": [
         {
-            "Attribute": "A 946 320 0121",
-            "Value": "A 946 320 0221",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1KF 25-2-232",
-            "Value": "1KF 25-3-232",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 216,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 390,
+            "SortNo": 5
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd ; Bus",
+            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A207,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A207,photos,2,FALSE),\"\")",
+            "Name": "DP39440000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP39440000_1.jpg",
             "SortNo": 1
         }
     ],

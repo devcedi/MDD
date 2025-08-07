@@ -1,15 +1,20 @@
 {
-    "ArtNo": "DP36286/0103",
+    "ArtNo": "DP362860103",
     "Attributs": [
         {
-            "Attribute": "1T19 E2L / 206333",
-            "Value": "2926V",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "3 229 0030 00",
-            "Value": "D14B52",
+            "Attribute": "Hauteur du piston",
+            "Value": 192,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Remorque",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A172,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A172,photos,2,FALSE),\"\")",
+            "Name": "DP362860103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP362860103_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,6 +1,27 @@
 {
     "ArtNo": "625375AM",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "SCANIA",
+            "Value": 1935608,
+            "SortNo": 1
+        },
+        {
+            "Attribute": "PACCAR",
+            "Value": 1506464,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "RENAULT",
+            "Value": 5021170437,
+            "SortNo": 3
+        },
+        {
+            "Attribute": " EVOBUS",
+            "Value": "A0002952818 , A0002540047  ",
+            "SortNo": 4
+        }
+    ],
     "BrandName": "Kongsberg Automotive",
     "BrandNo": "10021",
     "Documents": [],
@@ -18,9 +39,9 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "=C41",
-            "Extension": "",
-            "Path": "/img/10021/=C41"
+            "Name": "KONGSBERG.png",
+            "Extension": "PNG",
+            "Path": "/img/10021/KONGSBERG.png"
         }
     ],
     "Pictures": [],

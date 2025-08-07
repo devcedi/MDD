@@ -2,19 +2,14 @@
     "ArtNo": "S8901047",
     "Attributs": [
         {
-            "Attribute": "1E 21D",
-            "Value": 5000787632,
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": 5000954176,
-            "Value": "B 124",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
-        },
-        {
-            "Attribute": 21102227,
-            "Value": "",
-            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -41,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A252,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A252,photos,2,FALSE),\"\")",
+            "Name": "S8901047_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S8901047_1.jpg",
             "SortNo": 1
         }
     ],

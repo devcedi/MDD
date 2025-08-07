@@ -2,39 +2,14 @@
     "ArtNo": "S890618",
     "Attributs": [
         {
-            "Attribute": 97108363,
-            "Value": 81436010066,
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": 81436010068,
-            "Value": 81436010069,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
-        },
-        {
-            "Attribute": 81436010106,
-            "Value": 81436010108,
-            "SortNo": 3
-        },
-        {
-            "Attribute": "A 658 328 0001",
-            "Value": "1F 20A",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "1S 270-25C / 97608",
-            "Value": 5000301452,
-            "SortNo": 5
-        },
-        {
-            "Attribute": 5010294385,
-            "Value": 5010488757,
-            "SortNo": 6
-        },
-        {
-            "Attribute": "D12S06",
-            "Value": "BL 249",
-            "SortNo": 7
         }
     ],
     "BrandName": "Pneumatis",
@@ -61,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A269,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A269,photos,2,FALSE),\"\")",
+            "Name": "S890618_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S890618_1.jpg",
             "SortNo": 1
         }
     ],

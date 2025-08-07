@@ -1,20 +1,15 @@
 {
-    "ArtNo": "DP36122/0101",
+    "ArtNo": "DP361220101",
     "Attributs": [
         {
-            "Attribute": 515022140,
-            "Value": "1DK 22E-14",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1T 300-37 / 207722",
-            "Value": "2626V",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
-        },
-        {
-            "Attribute": "3 229 0039 00",
-            "Value": "YP 207722W",
-            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -41,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A165,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A165,photos,2,FALSE),\"\")",
+            "Name": "DP361220101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP361220101_1.jpg",
             "SortNo": 1
         }
     ],

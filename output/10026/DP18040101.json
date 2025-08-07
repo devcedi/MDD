@@ -1,19 +1,19 @@
 {
-    "ArtNo": "DP1804/0101",
+    "ArtNo": "DP18040101",
     "Attributs": [
         {
-            "Attribute": "1R 11-743",
-            "Value": "1DK 21-2",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1TC 300-36 / 206356",
-            "Value": 15502,
+            "Attribute": "Hauteur du piston",
+            "Value": 150,
             "SortNo": 2
         },
         {
-            "Attribute": 17109,
-            "Value": "D11B33",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
         }
     ],
@@ -41,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A103,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A103,photos,2,FALSE),\"\")",
+            "Name": "DP18040101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP18040101_1.jpg",
             "SortNo": 1
         }
     ],

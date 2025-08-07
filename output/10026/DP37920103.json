@@ -1,15 +1,20 @@
 {
-    "ArtNo": "DP3792/0103",
+    "ArtNo": "DP37920103",
     "Attributs": [
         {
-            "Attribute": "1D 28F-7",
-            "Value": 21222239,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "D14B51",
-            "Value": "",
+            "Attribute": "Hauteur du piston",
+            "Value": 121.5,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A185,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A185,photos,2,FALSE),\"\")",
+            "Name": "DP37920103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP37920103_1.jpg",
             "SortNo": 1
         }
     ],

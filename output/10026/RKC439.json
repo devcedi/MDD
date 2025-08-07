@@ -2,14 +2,9 @@
     "ArtNo": "RKC439",
     "Attributs": [
         {
-            "Attribute": "1E 26-1",
-            "Value": "S1 180-340 NS",
+            "Attribute": "Application",
+            "Value": "VUL",
             "SortNo": 1
-        },
-        {
-            "Attribute": "B 116-1",
-            "Value": "",
-            "SortNo": 2
         }
     ],
     "BrandName": "Pneumatis",

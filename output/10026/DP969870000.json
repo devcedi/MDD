@@ -1,10 +1,30 @@
 {
-    "ArtNo": "DP96987/0000",
+    "ArtNo": "DP969870000",
     "Attributs": [
         {
-            "Attribute": 2617887,
-            "Value": "",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 101,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 222,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 353,
+            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +51,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A214,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A214,photos,2,FALSE),\"\")",
+            "Name": "DP969870000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP969870000_1.jpg",
             "SortNo": 1
         }
     ],

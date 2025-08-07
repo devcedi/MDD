@@ -1,60 +1,35 @@
 {
-    "ArtNo": "DP144/0020",
+    "ArtNo": "DP1440020",
     "Attributs": [
         {
-            "Attribute": "W01 M58 7887",
-            "Value": "T291/2 - 291.2.200",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "2B 9-223",
-            "Value": "2B 9-2250",
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
             "SortNo": 2
         },
         {
-            "Attribute": 15603,
-            "Value": 550016169,
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
             "SortNo": 3
         },
         {
-            "Attribute": 5231,
-            "Value": 5236,
+            "Attribute": "Diamètre extérieur",
+            "Value": 210,
             "SortNo": 4
         },
         {
-            "Attribute": 5266,
-            "Value": 528919,
+            "Attribute": "Hauteur",
+            "Value": 395,
             "SortNo": 5
         },
         {
-            "Attribute": "2B 12R",
-            "Value": "20-206797",
+            "Attribute": "Application",
+            "Value": "Bus",
             "SortNo": 6
-        },
-        {
-            "Attribute": 21221395,
-            "Value": 21222663,
-            "SortNo": 7
-        },
-        {
-            "Attribute": 16793,
-            "Value": "S 09201NB",
-            "SortNo": 8
-        },
-        {
-            "Attribute": "KF 216",
-            "Value": "KF 218-6910",
-            "SortNo": 9
-        },
-        {
-            "Attribute": 21074519,
-            "Value": 365461,
-            "SortNo": 10
-        },
-        {
-            "Attribute": 6882797,
-            "Value": "US 06910 F",
-            "SortNo": 11
         }
     ],
     "BrandName": "Pneumatis",
@@ -81,9 +56,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A92,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A92,photos,2,FALSE),\"\")",
+            "Name": "DP1440020_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1440020_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,10 +1,20 @@
 {
-    "ArtNo": "DP59053/0103",
+    "ArtNo": "DP590530103",
     "Attributs": [
         {
-            "Attribute": 22025612,
-            "Value": 25379286,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 124,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd ; Remorques",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A211,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A211,photos,2,FALSE),\"\")",
+            "Name": "DP590530103_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP590530103_1.jpg",
             "SortNo": 1
         }
     ],

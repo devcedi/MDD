@@ -2,29 +2,14 @@
     "ArtNo": "S890755",
     "Attributs": [
         {
-            "Attribute": "1R 13-805",
-            "Value": "1D 28C-12",
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "1D 28H-13",
-            "Value": 21221349,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
-        },
-        {
-            "Attribute": "3 229 0024 00",
-            "Value": "H 25 000 361",
-            "SortNo": 3
-        },
-        {
-            "Attribute": "D13B03",
-            "Value": "D13B21",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "US 07380 F",
-            "Value": "YP 07380F",
-            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A271,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A271,photos,2,FALSE),\"\")",
+            "Name": "S890755_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S890755_1.jpg",
             "SortNo": 1
         }
     ],

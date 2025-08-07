@@ -1,100 +1,10 @@
 {
-    "ArtNo": "DP13330/4",
+    "ArtNo": "DP133304",
     "Attributs": [
         {
-            "Attribute": "W01 M58 7337",
-            "Value": "W01 M58 8775",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
-        },
-        {
-            "Attribute": "D277/B - 277.4.420",
-            "Value": "1R 14-059",
-            "SortNo": 2
-        },
-        {
-            "Attribute": "1R 14-716",
-            "Value": 15635,
-            "SortNo": 3
-        },
-        {
-            "Attribute": 506243,
-            "Value": 785168,
-            "SortNo": 4
-        },
-        {
-            "Attribute": "A 06030620",
-            "Value": 211586,
-            "SortNo": 5
-        },
-        {
-            "Attribute": "1D 28A-2",
-            "Value": "1D 28G",
-            "SortNo": 6
-        },
-        {
-            "Attribute": "1D 28G26",
-            "Value": "1T19 E1 / 87413/1",
-            "SortNo": 7
-        },
-        {
-            "Attribute": 12108082,
-            "Value": 17204516,
-            "SortNo": 8
-        },
-        {
-            "Attribute": 21208082,
-            "Value": 21215632,
-            "SortNo": 9
-        },
-        {
-            "Attribute": 5000452939,
-            "Value": 5001859781,
-            "SortNo": 10
-        },
-        {
-            "Attribute": 9212050,
-            "Value": "2 228 0002 00",
-            "SortNo": 11
-        },
-        {
-            "Attribute": "2 229 0002 00",
-            "Value": "H 2 500 008",
-            "SortNo": 12
-        },
-        {
-            "Attribute": "H 2 509 999",
-            "Value": "K S1 251-430 NS",
-            "SortNo": 13
-        },
-        {
-            "Attribute": "D13B01",
-            "Value": "D13B20",
-            "SortNo": 14
-        },
-        {
-            "Attribute": "KR 621-26",
-            "Value": "6504646G",
-            "SortNo": 15
-        },
-        {
-            "Attribute": "HB 10 315",
-            "Value": 1080707,
-            "SortNo": 16
-        },
-        {
-            "Attribute": "US 00622",
-            "Value": "US 00687",
-            "SortNo": 17
-        },
-        {
-            "Attribute": "US 07337F",
-            "Value": "US 874 131F",
-            "SortNo": 18
-        },
-        {
-            "Attribute": "US 87413P",
-            "Value": "",
-            "SortNo": 19
         }
     ],
     "BrandName": "Pneumatis",
@@ -121,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A87,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A87,photos,2,FALSE),\"\")",
+            "Name": "DP133304_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP133304_1.jpg",
             "SortNo": 1
         }
     ],

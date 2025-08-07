@@ -1,5 +1,5 @@
 {
-    "ArtNo": 2600960,
+    "ArtNo": "2600960",
     "Attributs": [],
     "BrandName": "Kongsberg Automotive",
     "BrandNo": "10021",
@@ -18,9 +18,9 @@
     "HasTextInfo": false,
     "LogoBrand": [
         {
-            "Name": "Raufoss ",
-            "Extension": "",
-            "Path": "/img/10021/Raufoss "
+            "Name": "KONGSBERG.png",
+            "Extension": "PNG",
+            "Path": "/img/10021/KONGSBERG.png"
         }
     ],
     "Pictures": [],

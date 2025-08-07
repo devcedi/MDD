@@ -1,6 +1,12 @@
 {
     "ArtNo": "DAKIT009",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 1
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],

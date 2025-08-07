@@ -1,6 +1,17 @@
 {
     "ArtNo": "DDA06151",
-    "Attributs": [],
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Application",
+            "Value": "VUL",
+            "SortNo": 2
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A47,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A47,photos,2,FALSE),\"\")",
+            "Name": "DDA06151_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DDA06151_1.jpg",
             "SortNo": 1
         }
     ],

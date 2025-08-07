@@ -1,10 +1,30 @@
 {
-    "ArtNo": "DP885/0000",
+    "ArtNo": "DP8850000",
     "Attributs": [
         {
-            "Attribute": 1932592,
-            "Value": 2617884,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
+        },
+        {
+            "Attribute": "Diamètre supérieur intérieur",
+            "Value": 130.8,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Diamètre inférieur intérieur",
+            "Value": 130.8,
+            "SortNo": 3
+        },
+        {
+            "Attribute": "Diamètre extérieur",
+            "Value": 230,
+            "SortNo": 4
+        },
+        {
+            "Attribute": "Hauteur",
+            "Value": 445,
+            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -31,9 +51,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A213,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A213,photos,2,FALSE),\"\")",
+            "Name": "DP8850000_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP8850000_1.jpg",
             "SortNo": 1
         }
     ],

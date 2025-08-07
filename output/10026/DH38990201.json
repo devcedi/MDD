@@ -1,15 +1,20 @@
 {
-    "ArtNo": "DH3899/0201",
+    "ArtNo": "DH38990201",
     "Attributs": [
         {
-            "Attribute": "W01 M58 8679",
-            "Value": "C295/D1 - 295.1.460",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1R 11-843",
-            "Value": "",
+            "Attribute": "Hauteur du piston",
+            "Value": 194,
             "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Poids lourd",
+            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -36,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A75,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A75,photos,2,FALSE),\"\")",
+            "Name": "DH38990201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DH38990201_1.jpg",
             "SortNo": 1
         }
     ],

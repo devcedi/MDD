@@ -1,6 +1,22 @@
 {
-    "ArtNo": "DP155-20/0101",
-    "Attributs": [],
+    "ArtNo": "DP155-200101",
+    "Attributs": [
+        {
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
+            "SortNo": 1
+        },
+        {
+            "Attribute": "Hauteur du piston",
+            "Value": 80.5,
+            "SortNo": 2
+        },
+        {
+            "Attribute": "Application",
+            "Value": "Camping car",
+            "SortNo": 3
+        }
+    ],
     "BrandName": "Pneumatis",
     "BrandNo": "10026",
     "Documents": [],
@@ -25,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A95,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A95,photos,2,FALSE),\"\")",
+            "Name": "DP155200101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP155200101_1.jpg",
             "SortNo": 1
         }
     ],

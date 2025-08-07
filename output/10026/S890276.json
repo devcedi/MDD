@@ -2,19 +2,14 @@
     "ArtNo": "S890276",
     "Attributs": [
         {
-            "Attribute": "C302 - 302.1.375",
-            "Value": "1R 12-712",
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "1DF 25-11",
-            "Value": "D13B32",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
-        },
-        {
-            "Attribute": "KR 721-06",
-            "Value": "YP 0836MK1W",
-            "SortNo": 3
         }
     ],
     "BrandName": "Pneumatis",
@@ -41,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A261,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A261,photos,2,FALSE),\"\")",
+            "Name": "S890276_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S890276_1.jpg",
             "SortNo": 1
         }
     ],

@@ -1,35 +1,20 @@
 {
-    "ArtNo": "DP34582/0101",
+    "ArtNo": "DP345820101",
     "Attributs": [
         {
-            "Attribute": "1R 13-753",
-            "Value": "1DK 28F-5",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 5010557355,
-            "Value": 5010600328,
+            "Attribute": "Hauteur du piston",
+            "Value": 140,
             "SortNo": 2
         },
         {
-            "Attribute": 7421978494,
-            "Value": 7422025556,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": 20722412,
-            "Value": 20726768,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 21978494,
-            "Value": 21978504,
-            "SortNo": 5
-        },
-        {
-            "Attribute": 25372795,
-            "Value": "",
-            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -56,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A145,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A145,photos,2,FALSE),\"\")",
+            "Name": "DP345820101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP345820101_1.jpg",
             "SortNo": 1
         }
     ],

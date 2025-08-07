@@ -1,35 +1,20 @@
 {
-    "ArtNo": "DP34007/0301",
+    "ArtNo": "DP340070301",
     "Attributs": [
         {
-            "Attribute": "1R 14-727",
-            "Value": "1D 28B-9",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1T19 E2BR / 97764",
-            "Value": 1107674,
+            "Attribute": "Hauteur du piston",
+            "Value": 167,
             "SortNo": 2
         },
         {
-            "Attribute": 1314906,
-            "Value": 255293,
+            "Attribute": "Application",
+            "Value": "Remorque",
             "SortNo": 3
-        },
-        {
-            "Attribute": 255295,
-            "Value": 298568,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 325748,
-            "Value": "D13B10",
-            "SortNo": 5
-        },
-        {
-            "Attribute": "D13B22",
-            "Value": "KR 622-01",
-            "SortNo": 6
         }
     ],
     "BrandName": "Pneumatis",
@@ -56,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A134,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A134,photos,2,FALSE),\"\")",
+            "Name": "DP340070301_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP340070301_1.jpg",
             "SortNo": 1
         }
     ],

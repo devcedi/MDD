@@ -2,13 +2,13 @@
     "ArtNo": "S890045",
     "Attributs": [
         {
-            "Attribute": "1R 14-756",
-            "Value": "1R 14-814",
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": "D14B43",
-            "Value": "",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
         }
     ],
@@ -36,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A249,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A249,photos,2,FALSE),\"\")",
+            "Name": "S890045_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S890045_1.jpg",
             "SortNo": 1
         }
     ],

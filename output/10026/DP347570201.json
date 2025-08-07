@@ -1,19 +1,19 @@
 {
-    "ArtNo": "DP34757/0201",
+    "ArtNo": "DP347570201",
     "Attributs": [
         {
-            "Attribute": "1DK 25-1",
-            "Value": "1DK 25-8747",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "H 2 500 915",
-            "Value": "D13B42",
+            "Attribute": "Hauteur du piston",
+            "Value": 155,
             "SortNo": 2
         },
         {
-            "Attribute": "YP 08747W",
-            "Value": "",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
         }
     ],
@@ -41,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A151,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A151,photos,2,FALSE),\"\")",
+            "Name": "DP347570201_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP347570201_1.jpg",
             "SortNo": 1
         }
     ],

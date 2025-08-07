@@ -1,14 +1,14 @@
 {
-    "ArtNo": "DP36121/0101",
+    "ArtNo": "DP361210101",
     "Attributs": [
         {
-            "Attribute": "3 228 1043 00",
-            "Value": "3 229 0043 00",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "3 229 1043 00",
-            "Value": "YP 102619ILKW",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
         }
     ],
@@ -36,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A163,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A163,photos,2,FALSE),\"\")",
+            "Name": "DP361210101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP361210101_1.jpg",
             "SortNo": 1
         }
     ],

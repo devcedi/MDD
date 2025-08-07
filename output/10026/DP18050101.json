@@ -1,25 +1,20 @@
 {
-    "ArtNo": "DP1805/0101",
+    "ArtNo": "DP18050101",
     "Attributs": [
         {
-            "Attribute": "1T17 J-11.8",
-            "Value": "W01 M58 8072",
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1T17 J-11.8",
-            "Value": "W01 M58 8072",
+            "Attribute": "Hauteur du piston",
+            "Value": 120,
             "SortNo": 2
         },
         {
-            "Attribute": "C293 - 293.1.514",
-            "Value": "C293 - 293.1.514",
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": "1DK 21-4",
-            "Value": "1DK 21-4",
-            "SortNo": 4
         }
     ],
     "BrandName": "Pneumatis",
@@ -46,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A104,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A104,photos,2,FALSE),\"\")",
+            "Name": "DP18050101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP18050101_1.jpg",
             "SortNo": 1
         }
     ],

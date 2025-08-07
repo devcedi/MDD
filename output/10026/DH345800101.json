@@ -1,14 +1,14 @@
 {
-    "ArtNo": "DH34580/0101",
+    "ArtNo": "DH345800101",
     "Attributs": [
         {
-            "Attribute": 500042576,
-            "Value": 500042591,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": "1S 323-36C / 204065",
-            "Value": "1S 323-36C / 207313",
+            "Attribute": "Hauteur du piston",
+            "Value": 190,
             "SortNo": 2
         }
     ],
@@ -34,14 +34,7 @@
             "Path": "/img/10026/PNEUMATIS.jpg"
         }
     ],
-    "Pictures": [
-        {
-            "Name": "=IFERROR(VLOOKUP(A55,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A55,photos,2,FALSE),\"\")",
-            "SortNo": 1
-        }
-    ],
+    "Pictures": [],
     "Replaced_by": [],
     "Replaces": [],
     "Status": "",

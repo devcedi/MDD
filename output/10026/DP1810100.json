@@ -1,30 +1,10 @@
 {
-    "ArtNo": "DP181/0100",
+    "ArtNo": "DP1810100",
     "Attributs": [
         {
-            "Attribute": "D10B01",
-            "Value": 1075891,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
-        },
-        {
-            "Attribute": 1076416,
-            "Value": 20374510,
-            "SortNo": 2
-        },
-        {
-            "Attribute": 20456152,
-            "Value": 20531985,
-            "SortNo": 3
-        },
-        {
-            "Attribute": 20582215,
-            "Value": 21961456,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 3171693,
-            "Value": 70321693,
-            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +31,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A105,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A105,photos,2,FALSE),\"\")",
+            "Name": "DP1810100_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP1810100_1.jpg",
             "SortNo": 1
         }
     ],

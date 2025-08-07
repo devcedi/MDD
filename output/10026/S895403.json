@@ -2,39 +2,14 @@
     "ArtNo": "S895403",
     "Attributs": [
         {
-            "Attribute": 81436010097,
-            "Value": 81436010100,
+            "Attribute": "Catégorie produit",
+            "Value": "Amortisseur",
             "SortNo": 1
         },
         {
-            "Attribute": 81436010102,
-            "Value": 81436010105,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 2
-        },
-        {
-            "Attribute": 81436010126,
-            "Value": 81436010138,
-            "SortNo": 3
-        },
-        {
-            "Attribute": "L5820005",
-            "Value": "1F 21C-5",
-            "SortNo": 4
-        },
-        {
-            "Attribute": "1F 21C-6",
-            "Value": "D12S05",
-            "SortNo": 5
-        },
-        {
-            "Attribute": "B 154",
-            "Value": "TE771107Y",
-            "SortNo": 6
-        },
-        {
-            "Attribute": 1159842,
-            "Value": "",
-            "SortNo": 7
         }
     ],
     "BrandName": "Pneumatis",
@@ -61,9 +36,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A278,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A278,photos,2,FALSE),\"\")",
+            "Name": "S895403_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/S895403_1.jpg",
             "SortNo": 1
         }
     ],

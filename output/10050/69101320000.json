@@ -1,5 +1,5 @@
 {
-    "ArtNo": 69101320000,
+    "ArtNo": "69101320000",
     "Attributs": [
         {
             "Attribute": "Gamme produit",
@@ -51,9 +51,9 @@
     ],
     "Pictures": [
         {
-            "Name": "Non disponible",
+            "Name": "https://www.faabfabricauto.com/communication/phototheque/Non disponible",
             "Extension": "",
-            "Path": "/img/10050/Non disponible",
+            "Path": "/img/10050/https://www.faabfabricauto.com/communication/phototheque/Non disponible",
             "SortNo": 1
         }
     ],

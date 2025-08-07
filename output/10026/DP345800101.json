@@ -1,30 +1,20 @@
 {
-    "ArtNo": "DP34580/0101",
+    "ArtNo": "DP345800101",
     "Attributs": [
         {
-            "Attribute": "1T19 E3 / 207771",
-            "Value": 5010305464,
+            "Attribute": "Catégorie produit",
+            "Value": "Ressort pneumatique, soulèvement d'essieu",
             "SortNo": 1
         },
         {
-            "Attribute": 5010557356,
-            "Value": 5010600439,
+            "Attribute": "Hauteur du piston",
+            "Value": 190,
             "SortNo": 2
         },
         {
-            "Attribute": 7421978495,
-            "Value": 7422190560,
+            "Attribute": "Application",
+            "Value": "Poids lourd",
             "SortNo": 3
-        },
-        {
-            "Attribute": 20726769,
-            "Value": 21978502,
-            "SortNo": 4
-        },
-        {
-            "Attribute": 22190560,
-            "Value": 25364097,
-            "SortNo": 5
         }
     ],
     "BrandName": "Pneumatis",
@@ -51,9 +41,9 @@
     ],
     "Pictures": [
         {
-            "Name": "=IFERROR(VLOOKUP(A143,photos,2,FALSE),\"\")",
-            "Extension": "",
-            "Path": "/img/10026/=IFERROR(VLOOKUP(A143,photos,2,FALSE),\"\")",
+            "Name": "DP345800101_1.jpg",
+            "Extension": "JPG",
+            "Path": "/img/10026/DP345800101_1.jpg",
             "SortNo": 1
         }
     ],
