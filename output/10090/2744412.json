@@ -34,14 +34,14 @@
         {
             "Name": "POMMIER.png",
             "Extension": "PNG",
-            "Path": "/img/10090/POMMIER.png"
+            "Path": "10090/POMMIER.png"
         }
     ],
     "Pictures": [
         {
             "Name": "27_44410.jpg",
             "Extension": "JPG",
-            "Path": "/img/10090/27_44410.jpg",
+            "Path": "10090/27_44410.jpg",
             "SortNo": 1
         }
     ],

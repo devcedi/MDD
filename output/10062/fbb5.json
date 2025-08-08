@@ -41,14 +41,14 @@
         {
             "Name": "CARPOLISH.png",
             "Extension": "PNG",
-            "Path": "/img/10062/CARPOLISH.png"
+            "Path": "10062/CARPOLISH.png"
         }
     ],
     "Pictures": [
         {
             "Name": "FBB5",
             "Extension": "",
-            "Path": "/img/10062/FBB5",
+            "Path": "10062/FBB5",
             "SortNo": 1
         }
     ],

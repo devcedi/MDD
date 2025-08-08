@@ -24,14 +24,14 @@
         {
             "Name": "FIT.JPG",
             "Extension": "JPG",
-            "Path": "/img/10001/FIT.JPG"
+            "Path": "10001/FIT.JPG"
         }
     ],
     "Pictures": [
         {
             "Name": "FPBTA0052S",
             "Extension": "",
-            "Path": "/img/10001/FPBTA0052S",
+            "Path": "10001/FPBTA0052S",
             "SortNo": 1
         }
     ],

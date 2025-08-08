@@ -44,14 +44,14 @@
         {
             "Name": "POMMIER.png",
             "Extension": "PNG",
-            "Path": "/img/10090/POMMIER.png"
+            "Path": "10090/POMMIER.png"
         }
     ],
     "Pictures": [
         {
             "Name": "2905019_022_023_024_027_3D.jpg",
             "Extension": "JPG",
-            "Path": "/img/10090/2905019_022_023_024_027_3D.jpg",
+            "Path": "10090/2905019_022_023_024_027_3D.jpg",
             "SortNo": 1
         }
     ],

@@ -31,14 +31,14 @@
         {
             "Name": "PNEUMATIS.jpg",
             "Extension": "JPG",
-            "Path": "/img/10026/PNEUMATIS.jpg"
+            "Path": "10026/PNEUMATIS.jpg"
         }
     ],
     "Pictures": [
         {
             "Name": "DB12315_1.png",
             "Extension": "PNG",
-            "Path": "/img/10026/DB12315_1.png",
+            "Path": "10026/DB12315_1.png",
             "SortNo": 1
         }
     ],

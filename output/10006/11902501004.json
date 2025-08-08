@@ -36,14 +36,14 @@
         {
             "Name": "DREUMEX.JPG",
             "Extension": "JPG",
-            "Path": "/img/10006/DREUMEX.JPG"
+            "Path": "10006/DREUMEX.JPG"
         }
     ],
     "Pictures": [
         {
             "Name": "N&C01",
             "Extension": "",
-            "Path": "/img/10006/N&C01",
+            "Path": "10006/N&C01",
             "SortNo": 1
         }
     ],

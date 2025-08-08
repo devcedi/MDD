@@ -31,14 +31,14 @@
         {
             "Name": "CARPOLISH.png",
             "Extension": "PNG",
-            "Path": "/img/10062/CARPOLISH.png"
+            "Path": "10062/CARPOLISH.png"
         }
     ],
     "Pictures": [
         {
             "Name": "TCPLW1000.png",
             "Extension": "PNG",
-            "Path": "/img/10062/TCPLW1000.png",
+            "Path": "10062/TCPLW1000.png",
             "SortNo": 1
         }
     ],

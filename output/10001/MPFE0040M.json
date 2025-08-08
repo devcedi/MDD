@@ -18,14 +18,14 @@
         {
             "Name": "FIT.JPG",
             "Extension": "JPG",
-            "Path": "/img/10001/FIT.JPG"
+            "Path": "10001/FIT.JPG"
         }
     ],
     "Pictures": [
         {
             "Name": "MPFE0040M",
             "Extension": "",
-            "Path": "/img/10001/MPFE0040M",
+            "Path": "10001/MPFE0040M",
             "SortNo": 1
         }
     ],

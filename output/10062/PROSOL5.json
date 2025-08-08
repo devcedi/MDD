@@ -31,14 +31,14 @@
         {
             "Name": "CARPOLISH.png",
             "Extension": "PNG",
-            "Path": "/img/10062/CARPOLISH.png"
+            "Path": "10062/CARPOLISH.png"
         }
     ],
     "Pictures": [
         {
             "Name": "PROSOL5.png",
             "Extension": "PNG",
-            "Path": "/img/10062/PROSOL5.png",
+            "Path": "10062/PROSOL5.png",
             "SortNo": 1
         }
     ],

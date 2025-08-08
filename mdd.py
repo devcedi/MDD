@@ -72,12 +72,12 @@ def CreateMDD(strName,strExelPath):
             "LogoBrand": [{
                 "Name": logobrand_value,
                 "Extension": get_extension(logobrand_value),
-                "Path": f"/img/{brandno}/{logobrand_value}"
+                "Path": f"{brandno}/{logobrand_value}"
             }] if logobrand_value else [],
             "Pictures": [{
                 "Name": picture,
                 "Extension": get_extension(picture),
-                "Path": f"/img/{brandno}/{picture}",
+                "Path": f"{brandno}/{picture}",
                 "SortNo": 1
             }] if picture else [],
             "Replaced_by": [],

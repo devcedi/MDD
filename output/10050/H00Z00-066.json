@@ -46,14 +46,14 @@
         {
             "Name": "wp_logo-ff.png",
             "Extension": "PNG",
-            "Path": "/img/10050/wp_logo-ff.png"
+            "Path": "10050/wp_logo-ff.png"
         }
     ],
     "Pictures": [
         {
             "Name": "https://www.faabfabricauto.com/communication/phototheque/plaque_plastique_l30_longue_520x110_H00Z00-066.webp",
             "Extension": "WEBP",
-            "Path": "/img/10050/https://www.faabfabricauto.com/communication/phototheque/plaque_plastique_l30_longue_520x110_H00Z00-066.webp",
+            "Path": "10050/https://www.faabfabricauto.com/communication/phototheque/plaque_plastique_l30_longue_520x110_H00Z00-066.webp",
             "SortNo": 1
         }
     ],

@@ -36,14 +36,14 @@
         {
             "Name": "CARPOLISH.png",
             "Extension": "PNG",
-            "Path": "/img/10062/CARPOLISH.png"
+            "Path": "10062/CARPOLISH.png"
         }
     ],
     "Pictures": [
         {
             "Name": "PU7Alcalin.png",
             "Extension": "PNG",
-            "Path": "/img/10062/PU7Alcalin.png",
+            "Path": "10062/PU7Alcalin.png",
             "SortNo": 1
         }
     ],

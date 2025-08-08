@@ -36,14 +36,14 @@
         {
             "Name": "CARPOLISH.png",
             "Extension": "PNG",
-            "Path": "/img/10062/CARPOLISH.png"
+            "Path": "10062/CARPOLISH.png"
         }
     ],
     "Pictures": [
         {
             "Name": "JASAPREM5.png",
             "Extension": "PNG",
-            "Path": "/img/10062/JASAPREM5.png",
+            "Path": "10062/JASAPREM5.png",
             "SortNo": 1
         }
     ],
